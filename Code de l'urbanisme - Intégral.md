@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2004-03-30
+Version Consolidée au 2004-04-22
 ## Contenu: 
   - [Partie législative (art. L110 à L600-4-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -2147,7 +2147,13 @@ l'urbanisation de zones naturelles ou agricoles et les extensions urbaines à la
 collectifs et à l'utilisation préalable de terrains situés en zone urbanisée et desservis par les équipements.
 
 Les schémas de cohérence territoriale prennent en compte les programmes d'équipement de l'Etat, des collectivités locales et
-des établissements et services publics. Ils doivent être compatibles avec les chartes des parcs naturels régionaux.
+des établissements et services publics. Ils doivent être compatibles avec les chartes des parcs naturels régionaux. Ils
+doivent également être compatibles avec les orientations fondamentales d'une gestion équilibrée de la ressource en eau et les
+objectifs de qualité et de quantité des eaux définis par les schémas directeurs d'aménagement et de gestion des eaux en
+application de l'article L. 212-1 du code de l'environnement ainsi qu'avec les objectifs de protection définis par les
+schémas d'aménagement et de gestion des eaux en application de l'article L. 212-3 du même code. Lorsqu'un de ces documents
+est approuvé après l'approbation d'un schéma de cohérence territoriale, ce dernier doit, si nécessaire, être rendu compatible
+dans un délai de trois ans.
 
 Lorsque le périmètre d'un schéma de cohérence territoriale recouvre en tout ou partie celui d'un pays ayant fait l'objet
 d'une publication par arrêté préfectoral, le projet d'aménagement et de développement durable du schéma de cohérence
@@ -2163,6 +2169,10 @@ territoriale et les schémas de secteur. Il en est de même pour les autorisatio
 loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 _Cite_:
 
@@ -2198,11 +2208,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-590 du 2 juillet 2003 - art. 97 () JORF 3 juillet 2003
-
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+  - Loi n°2004-338 du 21 avril 2004 - art. 7 () JORF 22 avril 2004
 
 
 ###### Article L122-2
@@ -3212,11 +3218,14 @@ constructions avoisinantes.
 
 Le plan local d'urbanisme doit, s'il y a lieu, être compatible avec les dispositions du schéma de cohérence territoriale, du
 schéma de secteur, du schéma de mise en valeur de la mer et de la charte du parc naturel régional, ainsi que du plan de
-déplacements urbains et du programme local de l'habitat.
+déplacements urbains et du programme local de l'habitat. Il doit également être compatible avec les orientations
+fondamentales d'une gestion équilibrée de la ressource en eau et les objectifs de qualité et de quantité des eaux définis par
+les schémas directeurs d'aménagement et de gestion des eaux en application de l'article L. 212-1 du code de l'environnement
+ainsi qu'avec les objectifs de protection définis par les schémas d'aménagement et de gestion des eaux en application de
+l'article L. 212-3 du même code.
 
-Lorsqu'un de ces documents est approuvé après l'approbation d'un plan local d'urbanisme, les dispositions du plan local
-d'urbanisme sont applicables jusqu'à la révision de ce document, qui doit être achevée avant le terme d'un délai de trois
-ans.
+Lorsqu'un de ces documents est approuvé après l'approbation d'un plan local d'urbanisme, ce dernier doit, si nécessaire, être
+rendu compatible dans un délai de trois ans.
 
 **Liens relatifs à cet article**
 
@@ -3301,12 +3310,12 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2224-10 (M)
   - Code de l'urbanisme - art. L121-1 (M)
   - Code de l'urbanisme - art. L123-4 (M)
+  - Code de l'environnement - art. L212-1 (M)
+  - Code de l'environnement - art. L212-3 (M)
 
 _Modifié par_:
 
-  - Loi n°2003-590 du 2 juillet 2003 - art. 12 () JORF 3 juillet 2003
-  - Loi n°2003-590 du 2 juillet 2003 - art. 14 () JORF 3 juillet 2003
-  - Loi n°2003-590 du 2 juillet 2003 - art. 17 () JORF 3 juillet 2003
+  - Loi n°2004-338 2004-04-21 art. 7 2°, 3° JORF 22 avril 2004
 
 _Nouveaux textes_:
 
@@ -4456,14 +4465,22 @@ tenues à la disposition du public.
 
 Elles doivent être compatibles, s'il y a lieu, avec les dispositions du schéma de cohérence territoriale, du schéma de
 secteur, du schéma de mise en valeur de la mer, de la charte du parc naturel régional, ainsi que du plan de déplacements
-urbains et du programme local de l'habitat.
+urbains et du programme local de l'habitat. Elles doivent également, s'il y a lieu, être compatibles avec les orientations
+fondamentales d'une gestion équilibrée de la ressource en eau et les objectifs de qualité et de quantité des eaux définis par
+les schémas directeurs d'aménagement et de gestion des eaux en application de l'article L. 212-1 du code de l'environnement
+ainsi qu'avec les objectifs de protection définis par les schémas d'aménagement et de gestion des eaux en application de
+l'article L. 212-3 du même code. Lorsqu'un de ces documents est approuvé après l'approbation d'une carte communale, cette
+dernière doit, si nécessaire, être rendue compatible dans un délai de trois ans.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2003-590 du 2 juillet 2003 - art. 34 () JORF 3 juillet 2003
-  - Loi n°2003-590 du 2 juillet 2003 - art. 66 () JORF 3 juillet 2003
+  - Loi n°2004-338 2004-04-21 art. 7 4° JORF 22 avril 2004
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 _Cité par_:
 
@@ -4483,6 +4500,8 @@ _Cite_:
 
   - Code de l'urbanisme - art. L110 (M)
   - Code de l'urbanisme - art. L121-1 (M)
+  - Code de l'environnement - art. L212-1 (M)
+  - Code de l'environnement - art. L212-3 (M)
 
 **Liens**:
 
@@ -4491,10 +4510,6 @@ _Cite_:
   - TXT_ASSOCIE: Code de l'urbanisme - art. L123-8 (M)
   - TXT_ASSOCIE: Code de l'urbanisme - art. L123-9 (M)
   - TXT_ASSOCIE: Code de l'urbanisme - art. L125-1 (M)
-
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L124-3

@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1973-11-23
+Version Consolidée au 1973-12-01
 ## Contenu: 
   - [Partie législative (art. L122-1 à L550-1)](#1)
     - [Règles générales d'aménagement et d'urbanisme (art. L122-1 à L122-3)](#2)
@@ -299,7 +299,7 @@ Version Consolidée au 1973-11-23
             - [Présentation de la demande (art. R421-1 à R421-10)](#296)
             - [Instruction de la demande - Régime général. (art. R421-11 à R421-21)](#297)
             - [Instruction de la demande - Dispositions applicables sur le territoire des communes disposant d'une organisation technique suffisante. (art. R421-22 à R421-31)](#298)
-            - [Décision. (art. R421-32 à R421-37)](#299)
+            - [Décision. (art. R421-32 à R421-38)](#299)
             - [Dispositions diverses (art. R421-39 à R421-43)](#300)
             - [Dispositions transitoires. (art. R421-45 à R421-46)](#301)
           - [Dispositions particulières à certains immeubles (art. R*421-52 à R421-50)](#302)
@@ -26506,6 +26506,66 @@ _Cité par_:
 _Anciens textes_:
 
   - Décret n°70-446 1970-05-26 ART. 25
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+
+###### Article R421-38
+
+Le permis de construire est périmé si les constructions ne sont pas entreprises dans le délai d'un an à compter de [*point de
+départ*] la notification visée à l'article R. 421-34 ou de la délivrance tacite du permis de construire. Il en est de même si
+les travaux sont interrompus pendant un délai supérieur à une année.
+
+Le délai de validité du permis de construire est suspendu, le cas échéant, pendant la durée du sursis à exécution de la
+décision portant octroi dudit permis, ordonné par décision juridictionnelle ou administrative, ainsi que, en cas d'annulation
+du permis de construire prononcée par jugement du tribunal administratif frappé d'appel, jusqu'à la décision rendue par le
+Conseil d'Etat.
+
+Il peut être prorogé pour une nouvelle année, sur demande de son bénéficiaire adressée à l'autorité administrative deux mois
+au moins avant l'expiration du délai de validité, si les prescriptions d'urbanisme et les servitudes administratives de tous
+ordres auxquelles est soumis le projet n'ont pas évolué de façon défavorable à son égard.
+
+La demande de prorogation, formulée par lettre en double exemplaire, est adressée simultanément au maire et au directeur
+départemental de l'équipement dans les conditions fixées à l'article R. 421-9 ou, lorsqu'il est fait application de l'article
+R. 421-22, au maire, dans les conditions fixées à l'article R. 421-10 (1er alinéa). La prorogation [*tacite*] est acquise au
+bénéficiaire du permis de construire si aucune décision ne lui a été adressée dans le délai de deux mois suivant la date de
+l'avis de réception postal ou de la décharge, soit du directeur départemental de l'équipement, soit, en cas d'application de
+l'article R. 421-22, du maire. La prorogation prend effet à la date de la décision de prorogation ou à l'expiration du délai
+de deux mois.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. R*421-32 (Ab)
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. R*421-42 (Ab)
+  - Code de l'urbanisme - art. R*443-7-6 (Ab)
+  - Code de l'urbanisme - art. R313-32 (Ab)
+  - Code de l'urbanisme - art. R421-18 (M)
+  - Code de l'urbanisme - art. R421-46 (Ab)
+  - Code de l'urbanisme - art. R442-11 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-10 (M)
+  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-22 (M)
+  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-9 (M)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R421-10 (M)
+  - Code de l'urbanisme - art. R421-22 (M)
+  - Code de l'urbanisme - art. R421-34 (M)
+  - Code de l'urbanisme - art. R421-9 (M)
+
+_Anciens textes_:
+
+  - Décret n°70-446 1970-05-26 ART. 26
 
 _Codifié par_:
 

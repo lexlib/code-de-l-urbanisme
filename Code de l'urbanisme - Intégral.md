@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1993-03-28
+Version Consolidée au 1993-10-29
 ## Contenu: 
   - [Partie législative (art. L110 à L550-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -45069,7 +45069,8 @@ moins de 40 mètres cubes de volume ;
 7. Les terrasses dont la hauteur au-dessus du sol n'excède pas 0,60 mètre ;
 
 8. Les poteaux, pylônes, candélabres ou éoliennes d'une hauteur inférieure ou égale à 12 mètres au-dessus du sol, ainsi que
-les antennes d'émission ou de réception de signaux radio-électriques dont aucune dimension n'excède 4 mètres ;
+les antennes d'émission ou de réception de signaux radio-électriques dont aucune dimension n'excède 4 mètres et, dans le cas
+où l'antenne comporte un réflecteur, lorsque aucune dimension de ce dernier n'excède un mètre;
 
 9. Sans préjudice du régime propre aux clôtures, les murs d'une hauteur inférieure à 2 mètres ;
 
@@ -45078,9 +45079,17 @@ dépasse pas 1,50 mètre au-dessus du sol.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Décret n°77-190 du 3 mars 1977 - art. 1 (V)
+  - Code de l'urbanisme - art. L421-1 (M)
+
+_Modifié par_:
+
+  - Décret n°93-1195 du 22 octobre 1993 - art. 1 () JORF 29 octobre 1993
+
 _Cité par_:
 
-  - Décret n°85-1373 du 24 décembre 1985 - art. 8 (V)
   - Décret n°2018-1054 du 29 novembre 2018 - art. 23
   - Code de justice administrative - art. R311-4 (V)
   - Code de l'environnement - art. R341-10 (M)
@@ -45092,16 +45101,8 @@ _Cité par_:
   - Code de l'urbanisme - art. R*421-41 (Ab)
   - Code de l'urbanisme - art. R*441-11 (Ab)
   - Code de l'urbanisme - art. R421-43 (T)
+  - Décret n°85-1373 du 24 décembre 1985 - art. 8 (V)
   - Décret n°88-1124 du 15 décembre 1988 - art. 2 (Ab)
-
-_Modifié par_:
-
-  - Décret n°86-72 1986-01-15 art. 2 JORF 16 janvier 1986
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L421-1 (M)
-  - Décret n°77-190 du 3 mars 1977 - art. 1 (V)
 
 _Nouveaux textes_:
 

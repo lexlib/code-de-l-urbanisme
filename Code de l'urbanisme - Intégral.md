@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2001-01-14
+Version Consolidée au 2001-01-18
 ## Contenu: 
   - [Partie législative (art. L110 à L600-4-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -14191,7 +14191,10 @@ instituée dans les secteurs d'aménagement définis à l'article L. 332-9 ;
 contributions telles qu'elles sont définies aux 2° et 3° dudit article ne peuvent porter sur les équipements publics donnant
 lieu à la participation instituée dans les secteurs d'aménagement définis à l'article L. 332-9 ;
 
-3° La réalisation des équipements propres mentionnées à l'article L. 332-15.
+3° La réalisation des équipements propres mentionnées à l'article L. 332-15 ;
+
+4° Le versement de la redevance d'archéologie préventive prévue à l'article 9 de la loi n° 2001-44 du 17 janvier 2001
+relative à l'archéologie préventive.
 
 **Liens relatifs à cet article**
 
@@ -14222,10 +14225,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
+  - Loi n°2001-44 du 17 janvier 2001 - art. 11 () JORF 18 janvier 2001
 
 _Cite_:
 
+  - Loi n°2001-44 du 17 janvier 2001 - art. 9 (M)
   - CGI 1585 A
   - Code de l'urbanisme - art. L332-9 (M)
 
@@ -15533,6 +15537,9 @@ départements et des régions.
 
 Les actes transmis sont accompagnés des dossiers et des pièces d'instruction ayant servi à leur délivrance.
 
+Lorsque a été prescrite la réalisation de fouilles archéologiques préventives, le permis de construire indique que les
+travaux de construction ne peuvent être entrepris avant l'achèvement de ces fouilles.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -15540,14 +15547,14 @@ _Cite_:
   - Loi n°82-213 1982-03-02 art. 2 par. I, par. II
   - Code de l'urbanisme - art. L421-2-1 (M)
 
-_Créé par_:
-
-  - Loi n°83-8 du 7 janvier 1983 - art. 63 () JORF 9 janvier 1983
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°83-851 1983-09-23
   - SPEC_APPLI: Code de l'urbanisme - art. L421-2-7 (M)
+
+_Modifié par_:
+
+  - Loi n°2001-44 du 17 janvier 2001 - art. 11 () JORF 18 janvier 2001
 
 _Cité par_:
 
@@ -18083,9 +18090,11 @@ assermentés. Les procès-verbaux dressés par ces agents font foi jusqu'à preu
 
 Les infractions visées à l'article L. 480-4 peuvent être constatées par les agents commissionnés à cet effet par le ministre
 chargé des monuments historiques et des sites, et assermentés, lorsqu'elles affectent des immeubles compris dans un secteur
-sauvegardé ou soumis aux dispositions de la loi du 31 décembre 1913 sur les monuments historiques ou de la loi du 2 mai 1930
-relative aux sites et qu'elles consistent, soit dans le défaut de permis de construire, soit dans la non-conformité de la
-construction ou des travaux au permis de construire accordé.
+sauvegardé ou soumis aux dispositions législatives du code du patrimoine relatives aux monuments historiques ou aux
+dispositions législatives du code de l'environnement relatives aux sites et qu'elles consistent, soit dans le défaut de
+permis de construire, soit dans la non-conformité de la construction ou des travaux au permis de construire accordé. Il en
+est de même des infractions aux prescriptions établies en application de l'article 2 de la loi n° 2001-44 du 17 janvier 2001
+relative à l'archéologie préventive.
 
 Lorsque l'autorité administrative et, au cas où il est compétent pour délivrer les autorisations, le maire ou le président de
 l'établissement public de coopération intercommunale compétent ont connaissance d'une infraction de la nature de celles que
@@ -18093,7 +18102,7 @@ prévoient les articles L. 160-1 et L. 480-4, ils sont tenus d'en faire dresser 
 
 Copie du procès-verbal constatant une infraction est transmise sans délai au ministère public.
 
-Toute association agréée de protection de l'environnement en application des dispositions de l'article  L.252-1 du code rural
+Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 252-1 du code rural
 peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction à l'alinéa 1er du
 présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de défendre.
 
@@ -18145,7 +18154,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°95-101 du 2 février 1995 - art. 7 () JORF 3 février 1995
+  - Loi n°2001-44 du 17 janvier 2001 - art. 11 () JORF 18 janvier 2001
+
+_Cite_:
+
+  - Loi n°2001-44 du 17 janvier 2001 - art. 2 (M)
+  - Code de l'urbanisme - art. L480-4 (M)
+  - Code rural L252-1
+  - Loi n°1913-12-31
+  - Loi n°1930-05-02
 
 **Liens**:
 

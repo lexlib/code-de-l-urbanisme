@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1998-10-13
+Version Consolidée au 1998-12-30
 ## Contenu: 
   - [Partie législative (art. L110 à L600-5)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -54374,7 +54374,7 @@ d'enseignement ou de bureaux ;
 5. Lorsqu'elles portent sur l'utilisation de bureaux et de leurs annexes de toute nature achevés à la date du 31 décembre
 1994 ou dont la déclaration d'ouverture de chantier prévue à l'article R. 421-40 a été déposée en mairie au plus tard à cette
 même date. La présente disposition n'est applicable qu'aux opérations d'utilisation pour lesquelles les actes juridiques dont
-l'utilisation dépend sont définitivement passés au plus tard le 31 décembre 1998.
+l'utilisation dépend sont définitivement passés au plus tard le 31 décembre 1999.
 
 6. Lorsqu'elles portent sur des locaux d'internat à usage scolaire ou sur des résidences universitaires.
 
@@ -54395,7 +54395,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°95-690 du 9 mai 1995 - art. 5 () JORF 11 mai 1995
+  - Décret n°98-1248 du 28 décembre 1998 - art. 1 () JORF 30 décembre 1998
 
 _Cité par_:
 

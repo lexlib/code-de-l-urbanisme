@@ -1,7 +1,7 @@
 # Code de l'urbanisme  
-Version Consolidée au 2000-12-28
+Version Consolidée au 2001-01-01
 ## Contenu: 
-  - [Partie législative (art. L110 à L600-5)](#1)
+  - [Partie législative (art. L110 à L600-4)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
       - [Titre Ier : Règles générales d'utilisation du sol. (art. L110 à L112-6)](#3)
         - [Chapitre Ier : Règles générales de l'urbanisme. (art. L111-1 à L111-11)](#4)
@@ -94,7 +94,7 @@ Version Consolidée au 2000-12-28
       - [Titre III : Implantation hors de la région parisienne de certaines activités (art. L530-1 à L530-4)](#91)
       - [Titre IV : Construction ou aménagement des immeubles à usage industriel en vue de leur revente (art. L540-1 à L540-3)](#92)
       - [Titre V : Sanctions (art. L550-1)](#93)
-    - [Livre VI : Dispositions relatives au contentieux de l'urbanisme (art. L600-1 à L600-5)](#94)
+    - [Livre VI : Dispositions relatives au contentieux de l'urbanisme (art. L600-1 à L600-4)](#94)
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*111-1 à R*620-1)](#95)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. R*111-1 à R*160-33)](#96)
       - [Titre Ier : Règles générales d'utilisation du sol (art. R*111-1 à R*112-2)](#97)
@@ -16063,14 +16063,13 @@ _Codifié par_:
 
 ###### Article L421-9
 
-L'Etat, la commune ou l'établissement public de coopération intercommunale lorsqu'il ou elle défère à un tribunal
-administratif une décision relative à un permis de construire et assortit son recours d'une demande de sursis à exécution,
-peut demander qu'il soit fait application des dispositions prévues aux troisième, quatrième et cinquième alinéas de l'article
-3 de la loi n° 82-213 du 2 mars 1982 modifiée relative aux droits et libertés des communes, des départements et des régions.
+L'Etat, la commune ou l'établissement public de coopération intercommunale, lorsqu'ils défèrent à un tribunal administratif
+une décision relative à un permis de construire et assortissent leur recours d'une demande de suspension, peuvent demander
+qu'il soit fait application des dispositions prévues aux troisième et quatrième alinéas de l'article L. 2131-6 du code
+général des collectivités territoriales.
 
 Lorsqu'une personne autre que celles mentionnées à l'alinéa précédent défère une décision relative à un permis de construire
-et assortit son recours d'une demande de sursis à exécution, le tribunal administratif doit statuer sur la demande de sursis
-à exécution dans un délai d'un mois.
+et assortit son recours d'une demande de suspension, le juge des référés statue sur cette demande dans un délai d'un mois.
 
 **Liens relatifs à cet article**
 
@@ -16089,13 +16088,17 @@ _Cité par_:
   - Code de l'urbanisme - art. L460-2 (Ab)
   - Code des tribunaux administratifs et des cours adm - art. L24 (Ab)
 
-_Cite_:
-
-  - Loi n°82-213 1982-03-02 art. 3
-
 _Modifié par_:
 
-  - Loi n°83-663 du 22 juillet 1983 - art. 108 () JORF 23 juillet 1983
+  - Loi n°2000-597 du 30 juin 2000 - art. 15 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2131-6 (M)
 
 _Codifié par_:
 
@@ -19500,43 +19503,6 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-###### Article L600-3
-
-En cas de déféré du préfet ou de recours contentieux à l'encontre d'un document d'urbanisme ou d'une décision relative à
-l'occupation ou l'utilisation du sol régie par le présent code, le préfet ou l'auteur du recours est tenu, à peine
-d'irrecevabilité, de notifier son recours à l'auteur de la décision et, s'il y a lieu, au titulaire de l'autorisation. Cette
-notification doit également être effectuée dans les mêmes conditions en cas de demande tendant à l'annulation ou à la
-réformation d'une décision juridictionnelle concernant un document d'urbanisme ou une décision relative à l'occupation ou
-l'utilisation du sol. L'auteur d'un recours administratif est également tenu de le notifier à peine d'irrecevabilité du
-recours contentieux qu'il pourrait intenter ultérieurement en cas de rejet du recours administratif.
-
-La notification prévue au précédent alinéa doit intervenir par lettre recommandée avec accusé de réception, dans un délai de
-quinze jours francs à compter du dépôt du déféré ou du recours.
-
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°94-112 du 9 février 1994 - art. 3 () JORF 10 février 1994
-
-_Abrogé par_:
-
-  - Ordonnance 2000-387 2000-05-04 art. 4 2° JORF 7 mai 2000 en vigueur le 1er janvier 2001
-
-_Cité par_:
-
-  - Rapport - art. 4 (V)
-  - Code de l'urbanisme - art. L760-1 (VT)
-  - Code de l'urbanisme - art. R*600-1 (M)
-  - Code de l'urbanisme - art. R*600-2 (Ab)
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
 ###### Article L600-4
 
 Dans toutes les instances en matière d'urbanisme, la décision juridictionnelle octroyant le sursis à exécution indique le ou
@@ -19555,34 +19521,6 @@ _Créé par_:
 _Cité par_:
 
   - Code de l'urbanisme - art. L760-1 (VT)
-
-
-###### Article L600-5
-
-Dans toutes les instances en matière d'urbanisme, les présidents de tribunal administratif, les présidents de cour
-administrative d'appel, le vice-président du tribunal administratif de Paris et les présidents de formation de jugement des
-tribunaux administratifs et des cours administratives d'appel peuvent, par ordonnance prise au terme d'une procédure
-contradictoire, octroyer ou refuser le sursis à exécution d'une décision.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°94-112 du 9 février 1994 - art. 3 () JORF 10 février 1994
-
-_Abrogé par_:
-
-  - Loi n°2000-597 2000-06-30 art. 24 2° JORF 1er juillet 2000 en vigueur le 1er janvier 2001
-
-_Cité par_:
-
-  - Loi n°2000-597 du 30 juin 2000 - art. 24 (V)
-  - Code de l'urbanisme - art. L760-1 (M)
-  - Code des tribunaux administratifs et des cours adm - art. L25 (Ab)
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat<a id=95></a>
@@ -54394,14 +54332,26 @@ _Codifié par_:
 
 ###### Article R*600-1
 
-Les dispositions de l'article L. 600-3 s'appliquent aux déférés du préfet et aux recours contentieux enregistrés à compter du
-1er octobre 1994. Elles s'appliquent aux recours administratifs parvenus à leur destinataire à compter de cette même date.
+En cas de déféré du préfet ou de recours contentieux à l'encontre d'un document d'urbanisme ou d'une décision relative à
+l'occupation ou l'utilisation du sol régie par le présent code, le préfet ou l'auteur du recours est tenu, à peine
+d'irrecevabilité, de notifier son recours à l'auteur de la décision et, s'il y a lieu, au titulaire de l'autorisation. Cette
+notification doit également être effectuée dans les mêmes conditions en cas de demande tendant à l'annulation ou à la
+réformation d'une décision juridictionnelle concernant un document d'urbanisme ou une décision relative à l'occupation ou
+l'utilisation du sol. L'auteur d'un recours administratif est également tenu de le notifier à peine d'irrecevabilité du
+recours contentieux qu'il pourrait intenter ultérieurement en cas de rejet du recours administratif.
+
+La notification prévue au précédent alinéa doit intervenir par lettre recommandée avec accusé de réception, dans un délai de
+quinze jours francs à compter du dépôt du déféré ou du recours.
+
+La notification du recours à l'auteur de la décision et, s'il y a lieu, au titulaire de l'autorisation est réputée accomplie
+à la date d'envoi de la lettre recommandée avec accusé de réception. Cette date est établie par le certificat de dépôt de la
+lettre recommandée auprès des services postaux.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-701 du 16 août 1994 - art. 1 () JORF 18 août 1994
+  - Décret n°2000-389 du 4 mai 2000 - art. 4 () JORF 7 mai 2000 en vigueur le 1er janvier 2001
 
 **Liens**:
 
@@ -54412,39 +54362,6 @@ _Cité par_:
   - Code de l'urbanisme - art. A424-17 (V)
   - Code de l'urbanisme - art. R*424-15 (V)
   - Code de l'urbanisme - art. R*760-1 (Ab)
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L600-3 (Ab)
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*600-2
-
-La notification du recours à l'auteur de la décision et, s'il y a lieu, au titulaire de l'autorisation est réputée accomplie
-à la date d'envoi de la lettre recommandée avec accusé de réception. Cette date est établie par le certificat de dépôt de la
-lettre recommandée auprès des services postaux.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°94-701 du 16 août 1994 - art. 1 () JORF 18 août 1994
-
-_Abrogé par_:
-
-  - Décret n°2000-389 du 4 mai 2000 - art. 4 () JORF 7 mai 2000 en vigueur le 1er janvier 2001
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. A424-17 (V)
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L600-3 (Ab)
 
 _Codifié par_:
 

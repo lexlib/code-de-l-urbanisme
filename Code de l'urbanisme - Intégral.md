@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1977-09-01
+Version Consolidée au 1977-09-28
 ## Contenu: 
   - [Partie législative (art. L122-1 à L550-1)](#1)
     - [Règles générales d'aménagement et d'urbanisme (art. L122-1 à L122-3)](#2)
@@ -505,7 +505,7 @@ Version Consolidée au 1977-09-01
         - [CHAPITRE Ier : ZONES D'INTERVENTION FONCIERE. (art. A211-1 à A211-2)](#502)
         - [Chapitre  II : Zones d'aménagement différé (art. A212-1 à A212-5)](#503)
         - [CHAPITRE III : PERIMETRES PROVISOIRES DES ZONES  D'AMENAGEMENT DIFFERE. (art. A213-1)](#504)
-    - [Livre  III : Aménagement foncier (art. A311-1 à A335-7)](#505)
+    - [Livre  III : Aménagement foncier (art. A311-1 à A335-6)](#505)
       - [Titre Ier : Opérations d'aménagement (art. A311-1 à A317-10)](#506)
         - [CHAPITRE I : Zones d'aménagement concerté (art. A311-1 à A311-22)](#507)
           - [Section 1 : Création des zones d'aménagement concerté. (art. A311-1 à A311-2)](#508)
@@ -522,9 +522,9 @@ Version Consolidée au 1977-09-01
       - [Titre  II : Organismes d'exécution (art. A321-1)](#519)
         - [Chapitre Ier : Sociétés d'économie mixte, établissements publics et autres organismes d'aménagement (art. A321-1)](#520)
           - [Section 1 : Aménagement d'agglomérations nouvelles, de zones d'habitation ou de zones industrielles (art. A321-1)](#521)
-      - [Titre  III : Dispositions financières (art. A331-1 à A335-7)](#522)
+      - [Titre  III : Dispositions financières (art. A331-1 à A335-6)](#522)
         - [CHAPITRE I : Fonds national d'aménagement foncier et d'urbanisme (art. A331-1 à A331-8)](#523)
-        - [CHAPITRE V : Aide à la création et à l'aménagement d'espaces verts. (art. A335-1 à A335-7)](#524)
+        - [CHAPITRE V : Aide à la création et à l'aménagement d'espaces verts. (art. A335-1 à A335-6)](#524)
     - [REGLES RELATIVES A L'ACTE DE CONSTRUIRE ET A DIVERS MODES  D'UTILISATION DU SOL (art. A430-3 à A440-9)](#525)
       - [PERMIS DE DEMOLIR (art. A430-3)](#526)
         - [REGIME GENERAL (art. A430-3)](#527)
@@ -40160,223 +40160,6 @@ _Cité par_:
   - Code de l'urbanisme - art. A317-8 (Ab)
 
 
-###### Article A317-3
-
-Sous réserve des dispositions ci-après, chaque acompte est calculé en appliquant le taux de la subvention, tel qu'il résulte
-de la décision d'attribution, au montant de chaque tranche de travaux dont l'exécution est justifiée, majoré du montant des
-honoraires correspondants dus au technicien.
-
-Toutefois, si le montant cumulé du marché et des honoraires en découlant pour le technicien s'élève à une somme supérieure à
-celle par rapport à laquelle a été fixée la subvention dans la décision prévue à l'article A. 317-1, le montant de la dépense
-justifiée à prendre en considération pour le calcul de l'acompte, est réduit dans la proportion existant entre ces deux
-sommes.
-
-Dans le cas où le montant des dépenses justifiées se trouve majoré du fait de l'application d'une clause de révision de prix
-insérée dans le marché, la somme à retenir pour le calcul de l'acompte est celle qui aurait été retenue si la révision de
-prix n'avait pas été effectuée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code de l'urbanisme - art. A317-1 (Ab)
-
-_Cite_:
-
-  - Code de l'urbanisme - art. A317-1 (Ab)
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. A317-8 (Ab)
-
-
-###### Article A317-4
-
-En vue d'obtenir des paiements, les associations syndicales ou comités syndicaux adressent au préfet :
-
-I - A l'appui des demandes d'acompte :
-
-A - Un état des travaux effectués dressé par le directeur départemental de l'équipement indiquant, d'une part, le montant des
-travaux effectués, d'autre part, le montant des honoraires correspondants dus au technicien ;
-
-B - Pour le premier acompte seulement, un certificat établi en double exemplaire par le receveur de l'association syndicale
-et visé par le directeur départemental de l'équipement faisant connaître :
-
-1. Le montant de la subvention ainsi que, le cas échéant, le montant des ressources propres affectées aux travaux par
-l'association syndicale ;
-
-2. Le montant du marché ou de l'adjudication et le montant des honoraires en découlant pour le technicien.
-
-II - A l'appui des demandes de paiement pour solde :
-
-A - En communication, les décomptes, mémoires et factures des entrepreneurs ou fournisseurs ;
-
-B - Le procès-verbal de réception provisoire des travaux ;
-
-C - Le décompte général détaillé des travaux exécutés, visé par le directeur départemental de l'équipement ;
-
-D - Un état, visé par le directeur départemental de l'équipement, des honoraires dus au technicien d'exécution et de
-surveillance des travaux ;
-
-E - Le devis estimatif de la dépense et le programme des travaux qui ont servi de base pour le calcul de la subvention ;
-
-F - Un état récapitulatif des paiements auxquels a donné lieu l'exécution des travaux, dressé et certifié par le receveur de
-l'association syndicale et appuyé de la référence aux mandats de payements correspondants ;
-
-G - Un certificat du receveur constatant qu'il a été intégralement fait emploi, conformément à leur destination spéciale, des
-sommes que l'association syndicale a consacrées sur ses propres ressources à l'exécution des travaux et des subventions
-autres que celles de l'Etat qui ont pu être accordées pour l'aménagement du lotissement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. A317-7 (Ab)
-  - Code de l'urbanisme - art. A317-8 (Ab)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code de l'urbanisme - art. A317-7 (Ab)
-  - TXT_ASSOCIE: Code de l'urbanisme - art. A317-8 (Ab)
-
-
-###### Article A317-5
-
-Le directeur départemental de l'équipement établit en double exemplaire :
-
-A - En ce qui concerne les demandes d'acompte, un certificat attestant que les travaux entrent parmi ceux pour lesquels la
-subvention a été accordée ;
-
-B - En ce qui concerne les demandes de paiement pour solde, un certificat visant le procès-verbal de réception provisoire et
-indiquant que les travaux en cause sont terminés. Ce certificat mentionne le montant total des travaux ainsi que des
-honoraires dus au technicien. Il fait connaître si les travaux ont été exécutés dans des conditions satisfaisantes en
-conformité du devis estimatif et du programme des travaux.
-
-Un exemplaire de chacun de ces certificats est destiné au préfet et l'autre au ministre chargé de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. A317-7 (Ab)
-  - Code de l'urbanisme - art. A317-8 (Ab)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code de l'urbanisme - art. A317-7 (Ab)
-  - TXT_ASSOCIE: Code de l'urbanisme - art. A317-8 (Ab)
-
-
-###### Article A317-6
-
-Les mandats de paiement des subventions ou des acomptes sur subvention sont émis par le préfet au nom des associations
-syndicales bénéficiaires et encaissés par les receveurs desdites associations.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. A317-8 (Ab)
-
-
-###### Article A317-7
-
-Les mandats sont présentés au visa du trésorier-payeur général assignataire, appuyés :
-
-I - Lorsqu'il s'agit du paiement du premier acompte :
-
-A - D'une ampliation de la décision portant octroi de la subvention ;
-
-B - Des documents visés aux alinéas A et B du paragraphe I de l'article A. 317-4 ;
-
-C - Du certificat visé à l'article A. 317-5, alinéa A ;
-
-II - Lorsqu'il s'agit des acomptes ultérieurs :
-
-A - D'un état sommaire rappelant :
-
-1. La date de la décision d'attribution de la subvention ; le montant respectif du devis estimatif et de l'état de prévision
-des honoraires dus au technicien ; le taux de la subvention ; le montant des marchés et le montant des honoraires en
-découlant pour le technicien ;
-
-2. Le montant des acomptes antérieurement versés et la référence aux mandats de paiement correspondants.
-
-B - De l'état visé à l'alinéa A du paragraphe I de l'article A. 317-4 ;
-
-C - Du certificat visé à l'article A. 317-5, alinéa A, ci-dessus.
-
-III - Lorsqu'il s'agit du paiement pour solde :
-
-A - De l'état sommaire visé au paragraphe II-A qui précéde ;
-
-B - Du certificat visé à l'article A. 317-5, alinéa B.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-_Cite_:
-
-  - Code de l'urbanisme - art. A317-4 (Ab)
-  - Code de l'urbanisme - art. A317-5 (Ab)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code de l'urbanisme - art. A317-4 (Ab)
-  - TXT_ASSOCIE: Code de l'urbanisme - art. A317-5 (Ab)
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. A317-8 (Ab)
-
-
-###### Article A317-8
-
-Les demandes adressées au préfet pour le versement des prêts consentis aux associations syndicales par les caisses
-départementales d'avances doivent être accompagnées des documents énumérées aux articles A. 317-4 et A. 317-5.
-
-Les dispositions des articles A. 317-2, A. 317-3, A. 317-6 et A. 317-7 relatives au paiement des subventions de l'Etat sont
-applicables au paiement des prêts.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-_Cite_:
-
-  - Code de l'urbanisme - art. A317-2 (Ab)
-  - Code de l'urbanisme - art. A317-3 (Ab)
-  - Code de l'urbanisme - art. A317-4 (Ab)
-  - Code de l'urbanisme - art. A317-5 (Ab)
-  - Code de l'urbanisme - art. A317-6 (Ab)
-  - Code de l'urbanisme - art. A317-7 (Ab)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code de l'urbanisme - art. A317-4 (Ab)
-  - TXT_ASSOCIE: Code de l'urbanisme - art. A317-5 (Ab)
-
-
 ###### Article A317-9
 
 Les honoraires versés au technicien chargé, par les associations syndicales d'aménagement des lotissements défectueux,
@@ -40691,10 +40474,14 @@ _Codifié par_:
 
 ###### Article A335-3
 
-La subvention est accordée par décision du préfet de région après avis de la commission administrative régionale et de
-l'établissement public régional.
+La décision attributive de subvention est établie par le préfet, conformément à la décision d'utilisation du préfet de
+région.
 
 **Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
 
 _Codifié par_:
 
@@ -40750,45 +40537,14 @@ _Codifié par_:
 
 ###### Article A335-6
 
-Les mandats sont présentés au visa du trésorier-payeur général, appuyés :
-
-I - Si la subvention est afférente à l'acquisition des terrains :
-
-D'une ampliation de la décision portant octroi de la subvention ;
-
-Des justifications prévues au premier alinéa de l'article A. 335-4.
-
-II - Si la subvention concerne les divers travaux d'aménagement de l'espace vert :
-
-A - Lorsqu'il s'agit du premier acompte :
-
-1. D'une ampliation de la décision portant octroi de la subvention ;
-
-2. D'un certificat du directeur départemental de l'équipement attestant que les travaux entrent parmi ceux pour lesquels la
-subvention est accordée.
-
-B - Lorsqu'il s'agit du paiement des acomptes ultérieurs :
-
-1. D'un certificat établi ou vérifié par le directeur départemental de l'équipement, mentionnant l'état d'avancement des
-travaux par rapport à la réalisation totale de l'opération sous forme d'une fraction exprimée en pourcentage ou en millièmes.
-
-Ce certificat peut être établi ou vérifié par le service technique de la collectivité ou du groupement de collectivités au
-bénéfice de qui la subvention est accordée.
-
-2. De l'état visé au paragraphe 1. ci-dessus.
-
-C - Lorsqu'il s'agit du paiement pour solde :
-
-a) De l'état sommaire visé au paragraphe B (1.) qui précède ;
-
-b) D'un certificat du directeur départemental de l'équipement visant le procès-verbal de réception provisoire et indiquant
-que les opérations subventionnées sont terminées.
+Les dispositions des articles A. 335-1 à A. 335-5 ne peuvent être modifiées que par arrêté du ministre chargé de l'urbanisme
+et du ministre de l'économie et des finances.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Arrêté 1977-09-09 28 SEPTEMBRE 1977
+  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
 
 _Codifié par_:
 
@@ -40796,22 +40552,11 @@ _Codifié par_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. A335-4 (Ab)
+  - CODE DE L'URBANISME A335-1 à A335-5
 
 **Liens**:
 
   - TXT_ASSOCIE: Code de l'urbanisme - art. A335-4 (Ab)
-
-
-###### Article A335-7
-
-Les dispositions des articles A. 335-1 à A. 335-6 ne peuvent être modifiées que par arrêté du ministre chargé de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
 ## REGLES RELATIVES A L'ACTE DE CONSTRUIRE ET A DIVERS MODES  D'UTILISATION DU SOL<a id=525></a>

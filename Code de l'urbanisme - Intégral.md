@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1997-02-13
+Version Consolidée au 1997-03-01
 ## Contenu: 
   - [Partie législative (art. L110 à L600-5)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -5151,10 +5151,10 @@ _Modifié par_:
 
 ###### Article L144-6
 
-Il est créé un conseil des sites de la Corse, qui se substitue au collège régional du patrimoine et des sites prévu à
-l'article 69 de la loi n° 83-8 du 7 janvier 1983 précitée, à la commission spécialisée des unités touristiques nouvelles
-prévue par l'article 7 de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la montagne et à
-la commission départementale des sites prévue par les articles L. 146-4, L. 146-6 et L. 146-7.
+Il est créé un conseil des sites de la Corse, qui se substitue à la commission régionale du patrimoine et des sites prévue à
+l'article 1er de la loi n° 97-179 du 28 février 1997, à la commission spécialisée des unités touristiques nouvelles prévue
+par l'article 7 de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la montagne et à la
+commission départementale des sites prévue par les articles L. 146-4, L. 146-6 et L. 146-7.
 
 Le conseil des sites de Corse exerce les attributions des organismes susmentionnés.
 
@@ -5162,31 +5162,41 @@ La composition du conseil des sites de Corse, qui comporte des représentants de
 départements de Corse, est fixée par décret après avis de l'Assemblée de Corse et des conseils généraux des départements de
 Corse.
 
+**Nota:**
+
+Loi 2002-92 2002-01-22 art. 13 I : Les articles L. 144-1 à L. 144-6 du code de l'urbanisme sont abrogés. Toutefois, le schéma
+d'aménagement de la Corse et le plan de développement applicables à la date de publication de la présente loi restent en
+vigueur jusqu'à l'approbation du plan d'aménagement et de développement durable de Corse.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 _Cite_:
 
-  - Loi n°83-8 1983-01-07 art. 69
   - Loi n°85-30 1985-01-09 art. 7
   - Code de l'urbanisme - art. L146-4 (M)
   - Code de l'urbanisme - art. L146-6 (M)
   - Code de l'urbanisme - art. L146-7 (M)
+  - Loi n°97-179 du 28 février 1997 - art. 1 (M)
 
 _Cité par_:
 
   - Code de l'urbanisme - art. L144-3 (Ab)
 
-_Créé par_:
+_Codifié par_:
 
-  - Loi n°91-428 1991-05-14 art. 59 JORF 14 mai 1991
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 **Liens**:
 
   - SPEC_APPLI: Loi n°91-428 1991-05-14 art. 87 JORF 14 mai 1991
+
+_Modifié par_:
+
+  - Loi n°97-179 du 28 février 1997 - art. 5 () JORF 1er mars 1997
+
+_Abrogé par_:
+
+  - Loi n°2002-92 du 22 janvier 2002 - art. 13 () JORF 23 janvier 2002
 
 
 #### CHAPITRE V : Dispositions particulières aux zones de montagne.<a id=19></a>
@@ -10433,11 +10443,24 @@ sursis à statuer dans les conditions et délai prévus à l'article L. 111-8.
 
 L'autorisation énonce les prescriptions auxquelles le propriétaire doit se conformer.
 
+En cas de désaccord entre l'architecte des Bâtiments de France et le maire ou l'autorité compétente pour délivrer
+l'autorisation sur la compatibilité des travaux avec le plan de sauvegarde et de mise en valeur ou sur les prescriptions
+imposées au propriétaire, le représentant de l'Etat dans la région émet, après consultation de la commission régionale du
+patrimoine et des sites, un avis qui se substitue à celui de l'architecte des Bâtiments de France.
+
+Le ministre chargé de la culture peut évoquer tout dossier dont l'architecte des Bâtiments de France ou le représentant de
+l'Etat dans la région est saisi en application du présent article. L'autorisation ne peut alors être délivrée qu'avec son
+accord.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°62-903 1962-08-04 ART. 2
+  - Loi n°62-903 1962-08-04 art. 2
+
+_Modifié par_:
+
+  - Loi n°97-179 du 28 février 1997 - art. 3 () JORF 1er mars 1997
 
 _Cité par_:
 
@@ -10476,7 +10499,7 @@ _Cite_:
 
 _Codifié par_:
 
-  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L313-3

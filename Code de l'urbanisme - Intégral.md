@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1992-07-23
+Version Consolidée au 1992-08-26
 ## Contenu: 
   - [Partie législative (art. L110 à L550-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -55845,7 +55845,7 @@ problèmes d'aménagement du territoire.
 Ces personnalités sont nommées par arrêté du Premier ministre, sur proposition du ministre chargé de l'aménagement du
 territoire et du ministre chargé de l'urbanisme.
 
-Leur mandat, renouvelable une fois, a une durée de trois ans.
+Leur mandat, renouvelable deux fois, a une durée de trois ans.
 
 3° Pour toutes les affaires intéressant les services et établissements publics de l'Etat, le représentant du secrétaire
 général du Gouvernement.
@@ -55854,7 +55854,7 @@ général du Gouvernement.
 
 _Modifié par_:
 
-  - Arrêté 1986-02-28 art. 1 JORF 2 mars 1986
+  - Arrêté 1992-08-24 art. 1 JORF 26 août 1992
 
 _Codifié par_:
 

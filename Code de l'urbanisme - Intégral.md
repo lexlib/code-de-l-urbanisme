@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1984-06-26
+Version Consolidée au 1984-07-13
 ## Contenu: 
   - [Partie législative (art. L121-10 à L550-1)](#1)
     - [Règles générales d'aménagement et d'urbanisme (art. L121-10 à L122-1-4)](#2)
@@ -5883,15 +5883,31 @@ d'intervention foncière, lorsqu'ils sont aliénés volontairement à titre oné
 
 Le droit de préemption peut également être exercé en cas d'adjudication forcée.
 
+En cas de contrat de location-accession régi par les dispositions de la loi n° 84-595 du 12 juillet 1984 définissant la
+location-accession à la propriété immobilière, le droit de préemption s'exerce avant la signature de ce contrat et non au
+moment de la levée de l'option par l'accédant.
+
+Dans le cas prévu à l'alinéa précédent, le délai de dix ans mentionné au a de l'article L. 211-4 et au a de l'article L.
+211-5 s'apprécie à la date de la signature du contrat de location-accession.
+
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 _Anciens textes_:
 
   - Loi n°62-848 1962-07-26 ART. 2
 
-_Créé par_:
+_Cite_:
 
-  - Loi n°75-1328 1975-12-31 art. 25 JORF 3 janvier 1976 en vigueur le 1er avril 1976
+  - Loi n°84-595 1984-07-12
+  - Code de l'urbanisme L211-5 a
+
+_Modifié par_:
+
+  - Loi n°84-595 du 12 juillet 1984 - art. 37 () JORF 13 JUILLET 1984 rectificatif JORF 21 JUILLET 1984
 
 _Cité par_:
 
@@ -5923,10 +5939,6 @@ _Cité par_:
 
   - TXT_ASSOCIE: Code de l'urbanisme - art. L211-2 (M)
   - TXT_ASSOCIE: Code de l'urbanisme R211-35
-
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L211-3
@@ -6516,12 +6528,13 @@ Les dispositions de l'article L. 211-9 sont applicables dans le périmètre de l
 En cas de déclaration d'utilité publique, l'exercice du droit de préemption produit les mêmes effets que l'accord amiable en
 matière d'expropriation en ce qui concerne l'extinction des droits réels et personnels.
 
-l'Etat peut toujours se substituer à une collectivité locale, un établissement public ou une société d'économie mixte qui
+L'Etat peut toujours se substituer à une collectivité locale, un établissement public ou une société d'économie mixte qui
 n'exerce pas le droit de préemption dont cette personne morale a été investie en vertu de l'alinéa premier du présent article
 ou qui n'acquiert pas un bien dont l'acquisition lui est demandée au titre de l'article L. 212-3. Sauf dans le cas où le bien
 immobilier ainsi acquis a déjà été affecté à des fins d'intérêt général, il sera cédé au titulaire du droit de préemption à
 la condition que ce dernier justifie de projets d'utilisation immédiate du bien dont il s'agit à des fins d'intérêt général
-et que sa demande soit formulée dans l'année qui suit la période d'exercice du droit de préemption.
+et que sa demande soit formulée dans l'année qui suit la période d'exercice du droit de préemption. Les dispositions du
+troisième alinéa de l'article L. 211-2 s'appliquent dans le périmètre des zones d'aménagement différé.
 
 **Liens relatifs à cet article**
 
@@ -6535,11 +6548,16 @@ _Cite_:
   - Code de l'urbanisme - art. L211-2 (M)
   - Code de l'urbanisme - art. L211-9 (Ab)
   - Code de l'urbanisme - art. L212-3 (M)
+  - Code de l'urbanisme - art. L213-1 (M)
   - Code de l'urbanisme - art. L321-1 (M)
 
 _Anciens textes_:
 
   - Loi n°62-848 1962-07-26 ART. 8
+
+_Modifié par_:
+
+  - Loi n°84-595 du 12 juillet 1984 - art. 37 () JORF 13 JUILLET 1984 rectificatif JORF 21 JUILLET 1984
 
 _Cité par_:
 
@@ -6568,7 +6586,6 @@ _Cité par_:
   - Code de l'urbanisme - art. L212-10 (Ab)
   - Code de l'urbanisme - art. L212-2-1 (V)
   - Code de l'urbanisme - art. L212-7 (Ab)
-  - Code de l'urbanisme - art. L213-1 (M)
   - Code de l'urbanisme - art. L213-6 (V)
   - Code général des impôts, CGI. - art. 1594-0 G (VD)
   - Code minier (nouveau) - art. L334-4 (V)

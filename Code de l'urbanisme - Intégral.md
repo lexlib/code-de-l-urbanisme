@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1988-12-30
+Version Consolidée au 1988-12-31
 ## Contenu: 
   - [Partie législative (art. L110 à L550-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -9220,8 +9220,9 @@ _Codifié par_:
 
 ###### Article L300-2
 
-Le conseil municipal délibère sur les objectifs poursuivis et sur les modalités d'une concertation associant, pendant toute
-la durée de l'élaboration du projet, les habitants, les associations locales et les autres personnes concernées avant :
+I - Le conseil municipal délibère sur les objectifs poursuivis et sur les modalités d'une concertation associant, pendant
+toute la durée de l'élaboration du projet, les habitants, les associations locales et les autres personnes concernées dont
+les représentants de la profession agricole, avant :
 
 a) Toute modification ou révision du plan d'occupation des sols qui ouvre à l'urbanisation tout ou partie d'une zone
 d'urbanisation future ;
@@ -9249,9 +9250,9 @@ organisent la concertation dans des conditions fixées en accord avec la commune
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°85-729 du 18 juillet 1985 - art. 1 () JORF 19 juillet 1985
+  - Loi n°88-1202 du 30 décembre 1988 - art. 57 () JORF 31 décembre 1988
 
 _Cité par_:
 

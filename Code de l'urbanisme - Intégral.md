@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2001-04-01
+Version Consolidée au 2001-07-01
 ## Contenu: 
   - [Partie législative (art. L110 à L600-4-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -364,10 +364,10 @@ Version Consolidée au 2001-04-01
           - [Section 1 : Camping et stationnement des caravanes hors terrain aménagé (art. R*443-3 à R*443-6-4)](#361)
             - [Paragraphe 1 : Stationnement des caravanes (art. R*443-3 à R*443-5-3)](#362)
             - [Paragraphe 2 : Camping (art. R*443-6-1 à R*443-6-4)](#363)
-          - [Section 2 : Terrains aménagés pour l'accueil des campeurs et des caravanes (art. R*443-7 à R*443-8-4)](#364)
+          - [Section 2 : Terrains aménagés pour l'accueil des campeurs et des caravanes (art. R*443-7 à R443-8-5)](#364)
             - [Paragraphe 1 : Terrains aménagés permanents (art. R*443-7 à R*443-8)](#365)
             - [Paragraphe 2 : Terrains aménagés saisonniers (art. R*443-8-1)](#366)
-            - [Paragraphe 3 : Dispositions communes à la section 2 (art. R*443-8-2 à R*443-8-4)](#367)
+            - [Paragraphe 3 : Dispositions communes à la section 2 (art. R*443-8-2 à R443-8-5)](#367)
           - [Section 3 : Dispositions générales (art. R*443-9-1 à R*443-16)](#368)
         - [CHAPITRE IV : Habitations légères de loisirs (art. R*444-1 à R*444-4)](#369)
         - [CHAPITRE V : Remontées mécaniques et aménagements de domaine skiable (art. R445-1 à R445-16)](#370)
@@ -49777,6 +49777,32 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°94-614 du 13 juillet 1994 - art. 2 () JORF 22 juillet 1994
+
+
+###### Article R443-8-5
+
+Les dispositions de la présente section ne sont pas applicables aux aires d'accueil des gens du voyage aménagées en
+application des dispositions de la loi du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage. La personne
+morale qui aménage une aire d'accueil des gens du voyage en informe préalablement l'autorité compétente en matière
+d'autorisation d'utiliser ou d'occuper le sol.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+_Cite_:
+
+  - Loi n°2000-614 2000-07-05
+
+_Créé par_:
+
+  - Décret n°2001-569 du 29 juin 2001 - art. 1 () JORF 1er juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ##### Section 3 : Dispositions générales<a id=368></a>

@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1995-01-10
+Version Consolidée au 1995-01-24
 ## Contenu: 
   - [Partie législative (art. L110 à L600-5)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -7,78 +7,78 @@ Version Consolidée au 1995-01-10
         - [Chapitre Ier : Règles générales de l'urbanisme. (art. L111-1 à L111-11)](#4)
         - [Chapitre II : Plafond légal de densité. (art. L112-1 à L112-7)](#5)
         - [Chapitre III : Dispositions transitoires. (art. L113-1 à L113-2)](#6)
-      - [Titre II : Prévisions et règles d'urbanisme (art. L121-1 à L126-1)](#7)
+      - [Titre II : Prévisions et règles d'urbanisme (art. L121-1 à L127-2)](#7)
         - [Chapitre I : Dispositions générales communes aux schémas directeurs et aux plans d'occupation des sols. (art. L121-1 à L121-12)](#8)
         - [Chapitre II : Schémas directeurs. (art. L122-1 à L122-6)](#9)
         - [Chapitre III : Plans d'occupation des sols. (art. L123-1 à L123-12)](#10)
         - [Chapitre IV : Dispositions transitoires. (art. L124-1 à L124-5)](#11)
         - [Chapitre V : Dispositions diverses. (art. L125-1 à L125-5)](#12)
         - [Chapitre VI : Servitudes d'utilité publique affectant l'utilisation du sol. (art. L126-1)](#13)
-      - [Titre III : Espaces boisés. (art. L130-1 à L130-6)](#14)
-      - [TITRE IV : Dispositions particulières à certaines parties du territoire (art. L141-1 à L147-5)](#15)
-        - [CHAPITRE I : Dispositions particulières à Paris et à la région d'Ile-de-France (art. L141-1)](#16)
-          - [Section 1 : Schéma directeur. (art. L141-1)](#17)
-        - [Chapitre III : Protection de certaines communes. (art. L143-1)](#18)
-        - [CHAPITRE IV : Dispositions particulières à la collectivité territoriale de Corse. (art. L144-1 à L144-6)](#19)
-        - [CHAPITRE V : Dispositions particulières aux zones de montagne. (art. L145-2 à L145-12)](#20)
-          - [Section 1 : Principes d'aménagement et de zone de montagne. (art. L145-3 à L145-7)](#21)
-          - [Section 1 : Principes d'aménagement et de protection en zone de montagne. (art. L145-4)](#22)
-          - [Section 2 : Unités touristiques nouvelles. (art. L145-9 à L145-12)](#23)
-        - [CHAPITRE VI : Dispositions particulières au littoral. (art. L146-1 à L146-7)](#24)
-        - [Chapitre VII : Dispositions particulières aux zones de bruit des aérodromes. (art. L147-1 à L147-5)](#25)
-      - [Titre IV : Dispositions particulières à certaines parties du territoire (art. L141-2 à L147-6)](#26)
-        - [Chapitre Ier : Dispositions particulières à Paris et à la région d'Ile-de-France (art. L141-2 à L141-3)](#27)
-          - [Section 1 : Schéma directeur. (art. L141-2 à L141-3)](#28)
-        - [Chapitre II : Espaces naturels sensibles des départements. (art. L*142-2 à L142-13)](#29)
-        - [Chapitre V : Dispositions particulières aux zones de montagne. (art. L145-1 à L145-13)](#30)
-          - [Section 1 : Principes d'aménagement et de protection en zone de montagne. (art. L145-6 à L145-8)](#31)
-          - [Section 2 : Unités touristiques nouvelles. (art. L145-10 à L145-13)](#32)
-        - [Chapitre VI : Dispositions particulières au littoral. (art. L146-3 à L146-9)](#33)
-        - [Chapitre VII : dispositions particulières aux zones de bruit des aérodromes. (art. L147-2 à L147-6)](#34)
-      - [Titre V : Application aux départements d'outre-mer (art. L150-1 à L156-3)](#35)
-        - [Chapitre VI : Dispositions particulières au littoral dans les départements d'outre-mer. (art. L156-1 à L156-3)](#36)
-      - [Titre VI : Sanctions et servitudes. (art. L160-1 à L160-8)](#37)
-    - [Livre II : Préemption et réserves foncières (art. L210-1 à L230-1)](#38)
-      - [Titre Ier : Droits de préemption (art. L210-1 à L216-1)](#39)
-        - [Chapitre Ier : Droit de préemption urbain (art. L211-1 à L211-7)](#40)
-        - [Chapitre II : Zones d'aménagement différé et périmètres provisoires (art. L212-1 à L212-5)](#41)
-        - [Chapitre III : Dispositions communes au droit de préemption urbain, aux zones d'aménagement différé et aux périmètres provisoires (art. L213-1 à L213-18)](#42)
-        - [Chapitre VI : Dispositions particulières aux jardins familiaux (art. L216-1)](#43)
-      - [Titre II : Réserves foncières (art. L221-1 à L221-2)](#44)
-        - [Chapitre Ier : Réserves foncières (art. L221-1 à L221-2)](#45)
-      - [Titre III : Départements d'outre-mer. (art. L230-1)](#46)
-    - [Livre III : Aménagement foncier (art. L300-1 à L340-1)](#47)
-      - [Titre Ier : Opérations d'aménagement (art. L311-1 à L318-9)](#48)
-        - [Chapitre Ier : Zones d'aménagement concerté (art. L311-1 à L311-7)](#49)
-        - [Chapitre III : Restauration immobilière et secteurs sauvegardés (art. L313-1 à L313-15)](#50)
-          - [Section 1 : Secteurs sauvegardés (art. L313-1 à L313-3)](#51)
-          - [Section 2 : Restauration immobilière (art. L313-4 à L313-4-3)](#52)
-          - [Section 3 : Dispositions communes (art. L313-5 à L313-15)](#53)
-        - [Chapitre IV : Protection des occupants (art. L314-1 à L314-9)](#54)
-        - [Chapitre V : Lotissements. (art. L315-1 à L315-9)](#55)
-        - [Chapitre V : Lotissements et divisions de propriété. (art. L315-1-1)](#56)
-        - [Chapitre VI : Sanctions pénales relatives aux lotissements. (art. L316-1 à L316-4)](#57)
-        - [Chapitre VII : Amélioration de certains lotissements (art. L317-1 à L317-15)](#58)
-          - [Section 1 : subventions de l'etat. (art. L317-1 à L317-5)](#59)
-          - [Section 2 : Prêts des caisses départementales. (art. L317-6 à L317-7)](#60)
-          - [Section 3 : Autres participations. (art. L317-8 à L317-11)](#61)
-          - [Section 4 : Règles particulières de fonctionnement des associations syndicales. (art. L317-12 à L317-15)](#62)
-        - [Chapitre VIII : Dispositions relatives à certaines opérations (art. L318-1 à L318-9)](#63)
-          - [Section 1 : Déclassements et transferts de propriété (art. L318-1 à L318-4)](#64)
-          - [Section 3 : Dispositions particulières aux commerçants et artisans (art. L318-8)](#65)
-          - [Section 4 : Dispositions particulières. (art. L318-9)](#66)
-      - [Titre II : Organismes d'exécution (art. L321-1 à L324-9)](#67)
-        - [CHAPITRE I : Etablissements publics d'aménagement. (art. L321-1 à L321-9)](#68)
-        - [Chapitre II : Associations foncières urbaines (art. L322-1 à L322-11)](#69)
-        - [Chapitre III : Chambres de commerce et d'industrie et chambres de métiers. (art. L323-1)](#70)
-        - [CHAPITRE IV : Etablissements publics fonciers. (art. L324-1 à L324-9)](#71)
-      - [Titre III : Dispositions financières (art. L331-1 à L334-3)](#72)
-        - [Chapitre I : Fonds national d'aménagement foncier et d'urbanisme (FNAFU). (art. L331-1 à L331-7)](#73)
-        - [Chapitre II : Participation des constructeurs et des lotisseurs (art. L332-1 à L332-30)](#74)
-          - [Section 1 : Participation en cas de dépassement du coefficient d'occupation des sols. (art. L332-1 à L332-5)](#75)
-          - [Section 2 : Participations à la réalisation d'équipements publics exigibles à l'occasion de la délivrance d'autorisations de construire ou d'utiliser le sol (art. L332-6 à L332-14)](#76)
-          - [Section 3 : Equipements propres dont la réalisation peut être exigée des bénéficiaires d'autorisations d'occuper ou d'utiliser le sol (art. L332-15 à L332-16)](#77)
-          - [Section 4 : Participation à la diversité de l'habitat. (art. L332-17 à L332-27)](#78)
+        - [Chapitre VII : Dispositions favorisant la diversité de l'habitat. (art. L127-1 à L127-2)](#14)
+      - [Titre III : Espaces boisés. (art. L130-1 à L130-6)](#15)
+      - [TITRE IV : Dispositions particulières à certaines parties du territoire (art. L141-1 à L147-5)](#16)
+        - [CHAPITRE I : Dispositions particulières à Paris et à la région d'Ile-de-France (art. L141-1)](#17)
+          - [Section 1 : Schéma directeur. (art. L141-1)](#18)
+        - [Chapitre III : Protection de certaines communes. (art. L143-1)](#19)
+        - [CHAPITRE IV : Dispositions particulières à la collectivité territoriale de Corse. (art. L144-1 à L144-6)](#20)
+        - [CHAPITRE V : Dispositions particulières aux zones de montagne. (art. L145-2 à L145-12)](#21)
+          - [Section 1 : Principes d'aménagement et de zone de montagne. (art. L145-3 à L145-7)](#22)
+          - [Section 1 : Principes d'aménagement et de protection en zone de montagne. (art. L145-4)](#23)
+          - [Section 2 : Unités touristiques nouvelles. (art. L145-9 à L145-12)](#24)
+        - [CHAPITRE VI : Dispositions particulières au littoral. (art. L146-1 à L146-7)](#25)
+        - [Chapitre VII : Dispositions particulières aux zones de bruit des aérodromes. (art. L147-1 à L147-5)](#26)
+      - [Titre IV : Dispositions particulières à certaines parties du territoire (art. L141-2 à L147-6)](#27)
+        - [Chapitre Ier : Dispositions particulières à Paris et à la région d'Ile-de-France (art. L141-2 à L141-3)](#28)
+          - [Section 1 : Schéma directeur. (art. L141-2 à L141-3)](#29)
+        - [Chapitre II : Espaces naturels sensibles des départements. (art. L*142-2 à L142-13)](#30)
+        - [Chapitre V : Dispositions particulières aux zones de montagne. (art. L145-1 à L145-13)](#31)
+          - [Section 1 : Principes d'aménagement et de protection en zone de montagne. (art. L145-6 à L145-8)](#32)
+          - [Section 2 : Unités touristiques nouvelles. (art. L145-10 à L145-13)](#33)
+        - [Chapitre VI : Dispositions particulières au littoral. (art. L146-3 à L146-9)](#34)
+        - [Chapitre VII : dispositions particulières aux zones de bruit des aérodromes. (art. L147-2 à L147-6)](#35)
+      - [Titre V : Application aux départements d'outre-mer (art. L150-1 à L156-3)](#36)
+        - [Chapitre VI : Dispositions particulières au littoral dans les départements d'outre-mer. (art. L156-1 à L156-3)](#37)
+      - [Titre VI : Sanctions et servitudes. (art. L160-1 à L160-8)](#38)
+    - [Livre II : Préemption et réserves foncières (art. L210-1 à L230-1)](#39)
+      - [Titre Ier : Droits de préemption (art. L210-1 à L216-1)](#40)
+        - [Chapitre Ier : Droit de préemption urbain (art. L211-1 à L211-7)](#41)
+        - [Chapitre II : Zones d'aménagement différé et périmètres provisoires (art. L212-1 à L212-5)](#42)
+        - [Chapitre III : Dispositions communes au droit de préemption urbain, aux zones d'aménagement différé et aux périmètres provisoires (art. L213-1 à L213-18)](#43)
+        - [Chapitre VI : Dispositions particulières aux jardins familiaux (art. L216-1)](#44)
+      - [Titre II : Réserves foncières (art. L221-1 à L221-2)](#45)
+        - [Chapitre Ier : Réserves foncières (art. L221-1 à L221-2)](#46)
+      - [Titre III : Départements d'outre-mer. (art. L230-1)](#47)
+    - [Livre III : Aménagement foncier (art. L300-1 à L340-1)](#48)
+      - [Titre Ier : Opérations d'aménagement (art. L311-1 à L318-9)](#49)
+        - [Chapitre Ier : Zones d'aménagement concerté (art. L311-1 à L311-7)](#50)
+        - [Chapitre III : Restauration immobilière et secteurs sauvegardés (art. L313-1 à L313-15)](#51)
+          - [Section 1 : Secteurs sauvegardés (art. L313-1 à L313-3)](#52)
+          - [Section 2 : Restauration immobilière (art. L313-4 à L313-4-3)](#53)
+          - [Section 3 : Dispositions communes (art. L313-5 à L313-15)](#54)
+        - [Chapitre IV : Protection des occupants (art. L314-1 à L314-9)](#55)
+        - [Chapitre V : Lotissements. (art. L315-1 à L315-9)](#56)
+        - [Chapitre V : Lotissements et divisions de propriété. (art. L315-1-1)](#57)
+        - [Chapitre VI : Sanctions pénales relatives aux lotissements. (art. L316-1 à L316-4)](#58)
+        - [Chapitre VII : Amélioration de certains lotissements (art. L317-1 à L317-15)](#59)
+          - [Section 1 : subventions de l'etat. (art. L317-1 à L317-5)](#60)
+          - [Section 2 : Prêts des caisses départementales. (art. L317-6 à L317-7)](#61)
+          - [Section 3 : Autres participations. (art. L317-8 à L317-11)](#62)
+          - [Section 4 : Règles particulières de fonctionnement des associations syndicales. (art. L317-12 à L317-15)](#63)
+        - [Chapitre VIII : Dispositions relatives à certaines opérations (art. L318-1 à L318-9)](#64)
+          - [Section 1 : Déclassements et transferts de propriété (art. L318-1 à L318-4)](#65)
+          - [Section 3 : Dispositions particulières aux commerçants et artisans (art. L318-8)](#66)
+          - [Section 4 : Dispositions particulières. (art. L318-9)](#67)
+      - [Titre II : Organismes d'exécution (art. L321-1 à L324-9)](#68)
+        - [CHAPITRE I : Etablissements publics d'aménagement. (art. L321-1 à L321-9)](#69)
+        - [Chapitre II : Associations foncières urbaines (art. L322-1 à L322-11)](#70)
+        - [Chapitre III : Chambres de commerce et d'industrie et chambres de métiers. (art. L323-1)](#71)
+        - [CHAPITRE IV : Etablissements publics fonciers. (art. L324-1 à L324-9)](#72)
+      - [Titre III : Dispositions financières (art. L331-1 à L334-3)](#73)
+        - [Chapitre I : Fonds national d'aménagement foncier et d'urbanisme (FNAFU). (art. L331-1 à L331-7)](#74)
+        - [Chapitre II : Participation des constructeurs et des lotisseurs (art. L332-1 à L332-30)](#75)
+          - [Section 1 : Participation en cas de dépassement du coefficient d'occupation des sols. (art. L332-1 à L332-5)](#76)
+          - [Section 2 : Participations à la réalisation d'équipements publics exigibles à l'occasion de la délivrance d'autorisations de construire ou d'utiliser le sol (art. L332-6 à L332-14)](#77)
+          - [Section 3 : Equipements propres dont la réalisation peut être exigée des bénéficiaires d'autorisations d'occuper ou d'utiliser le sol (art. L332-15 à L332-16)](#78)
           - [Section 5 : Dispositions diverses (art. L332-28 à L332-30)](#79)
         - [Chapitre III : Versement résultant du dépassement du plafond légal de densité. (art. L333-1 à L333-16)](#80)
         - [Chapitre IV : Dispositions diverses. (art. L334-1 à L334-3)](#81)
@@ -928,6 +928,43 @@ _Cité par_:
   - Code de l'urbanisme - art. L421-3 (M)
   - Code de l'urbanisme - art. R421-6 (Ab)
   - Code général des impôts, CGI. - art. 1605 nonies (VD)
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L111-3-1
+
+Les études préalables à la réalisation des projets d'aménagement, des équipements collectifs et des programmes de
+construction, entrepris par une collectivité publique ou nécessitant une autorisation administrative et qui, par leur
+importance, leur localisation ou leurs caractéristiques propres peuvent avoir des incidences sur la protection des personnes
+et des biens contre les menaces et les agressions, doivent comporter une étude de sécurité publique permettant d'en apprécier
+les conséquences. Sans préjudice de circonstances particulières, l'importance du projet est appréciée notamment par référence
+à la surface des catégories de locaux dont la construction est envisagée, à la densité des constructions avoisinantes, aux
+caractéristiques de la délinquance et aux besoins en équipements publics qu'ils génèrent.
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent article. Il détermine :
+
+- les conditions dans lesquelles les préoccupations en matière de sécurité publique sont prises en compte dans les procédures
+réglementaires existantes ;
+
+- les projets d'aménagement, les équipements collectifs et les programmes de construction soumis à l'obligation mentionnée au
+premier alinéa ;
+
+- le contenu de l'étude de sécurité publique, portant au minimum sur les risques que peut entraîner le projet pour la
+protection des personnes et des biens contre la délinquance et sur les mesures envisagées pour les prévenir.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°95-73 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. L160-1 (V)
+  - Code de l'urbanisme - art. R111-48 (VT)
 
 _Codifié par_:
 
@@ -4327,7 +4364,84 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-### Titre III : Espaces boisés.<a id=14></a>
+#### Chapitre VII : Dispositions favorisant la diversité de l'habitat.<a id=14></a>
+
+###### Article L127-1
+
+Le dépassement de la norme résultant de l'application du coefficient d'occupation des sols est autorisé, dans la limite de 20
+p. 100 de ladite norme et dans le respect des autres règles du plan d'occupation des sols, sous réserve :
+
+- d'une part, que la partie de la construction en dépassement ait la destination de logements à usage locatif bénéficiant
+d'un concours financier de l'Etat au sens du 3° de l'article L. 351-2 du code de la construction et de l'habitation ou, dans
+les départements d'outre-mer, la destination de logements locatifs sociaux bénéficiant pour leur construction d'un concours
+financier de l'Etat ;
+
+- et, d'autre part, que le coût foncier imputé à ces logements locatifs sociaux n'excède pas un montant fixé par décret en
+Conseil d'Etat selon les zones géographiques.
+
+La partie de la construction en dépassement n'est assujettie ni à la participation pour dépassement du coefficient
+d'occupation des sols, ni au versement résultant du dépassement du plafond légal de densité.
+
+La mise en oeuvre du permis de construire est subordonnée à l'obtention de la décision d'octroi du concours financier de
+l'Etat et au respect des conditions de cette dernière. Copie de cette décision doit être notifiée, avant l'ouverture du
+chantier, à l'autorité compétente en matière de permis de construire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°95-74 du 21 janvier 1995 - art. 10 () JORF 24 janvier 1995
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. L123-1-1 (T)
+  - Code de l'urbanisme - art. L123-1-11 (VT)
+  - Code de l'urbanisme - art. L123-13-2 (VT)
+  - Code de l'urbanisme - art. L123-13-3 (VT)
+  - Code de l'urbanisme - art. L127-2 (Ab)
+  - Code de l'urbanisme - art. L128-3 (M)
+  - Code de l'urbanisme - art. R*123-13 (V)
+  - Code de l'urbanisme - art. R*127-1 (Ab)
+  - Code de l'urbanisme - art. R*127-2 (VT)
+  - Code de l'urbanisme - art. R*333-1 (Ab)
+  - Code de l'urbanisme - art. R*421-39-1 (Ab)
+  - Code de l'urbanisme - art. R*431-17 (M)
+  - Code de l'urbanisme - art. R421-2-1 (Ab)
+  - Code de la construction et de l'habitation. - art. L302-1 (VT)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L127-2
+
+Les dispositions de l'article L. 127-1 sont rendues applicables dans la commune par décision de son conseil municipal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+_Créé par_:
+
+  - Loi n°95-74 du 21 janvier 1995 - art. 10 () JORF 24 janvier 1995
+
+_Abrogé par_:
+
+  - Loi n°2009-323 du 25 mars 2009 - art. 40 (V)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L127-1
+
+
+### Titre III : Espaces boisés.<a id=15></a>
 
 ###### Article L130-1
 
@@ -4683,11 +4797,11 @@ _Abrogé par_:
   - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 
-### TITRE IV : Dispositions particulières à certaines parties du territoire<a id=15></a>
+### TITRE IV : Dispositions particulières à certaines parties du territoire<a id=16></a>
 
-#### CHAPITRE I : Dispositions particulières à Paris et à la région d'Ile-de-France<a id=16></a>
+#### CHAPITRE I : Dispositions particulières à Paris et à la région d'Ile-de-France<a id=17></a>
 
-##### Section 1 : Schéma directeur.<a id=17></a>
+##### Section 1 : Schéma directeur.<a id=18></a>
 
 ###### Article L141-1
 
@@ -4737,7 +4851,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-#### Chapitre III : Protection de certaines communes.<a id=18></a>
+#### Chapitre III : Protection de certaines communes.<a id=19></a>
 
 ###### Article L143-1
 
@@ -4797,7 +4911,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-#### CHAPITRE IV : Dispositions particulières à la collectivité territoriale de Corse.<a id=19></a>
+#### CHAPITRE IV : Dispositions particulières à la collectivité territoriale de Corse.<a id=20></a>
 
 ###### Article L144-1
 
@@ -5061,7 +5175,7 @@ _Créé par_:
   - SPEC_APPLI: Loi n°91-428 1991-05-14 art. 87 JORF 14 mai 1991
 
 
-#### CHAPITRE V : Dispositions particulières aux zones de montagne.<a id=20></a>
+#### CHAPITRE V : Dispositions particulières aux zones de montagne.<a id=21></a>
 
 ###### Article L145-2
 
@@ -5094,7 +5208,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-##### Section 1 : Principes d'aménagement et de zone de montagne.<a id=21></a>
+##### Section 1 : Principes d'aménagement et de zone de montagne.<a id=22></a>
 
 ###### Article L145-3
 
@@ -5284,7 +5398,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-##### Section 1 : Principes d'aménagement et de protection en zone de montagne.<a id=22></a>
+##### Section 1 : Principes d'aménagement et de protection en zone de montagne.<a id=23></a>
 
 ###### Article L145-4
 
@@ -5310,7 +5424,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-##### Section 2 : Unités touristiques nouvelles.<a id=23></a>
+##### Section 2 : Unités touristiques nouvelles.<a id=24></a>
 
 ###### Article L145-9
 
@@ -5435,7 +5549,7 @@ _Cite_:
   - PILOTE_SUIVEUR: Code du tourisme. - art. L342-6 (V)
 
 
-#### CHAPITRE VI : Dispositions particulières au littoral.<a id=24></a>
+#### CHAPITRE VI : Dispositions particulières au littoral.<a id=25></a>
 
 ###### Article L146-1
 
@@ -5762,7 +5876,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-#### Chapitre VII : Dispositions particulières aux zones de bruit des aérodromes.<a id=25></a>
+#### Chapitre VII : Dispositions particulières aux zones de bruit des aérodromes.<a id=26></a>
 
 ###### Article L147-1
 
@@ -5913,11 +6027,11 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-### Titre IV : Dispositions particulières à certaines parties du territoire<a id=26></a>
+### Titre IV : Dispositions particulières à certaines parties du territoire<a id=27></a>
 
-#### Chapitre Ier : Dispositions particulières à Paris et à la région d'Ile-de-France<a id=27></a>
+#### Chapitre Ier : Dispositions particulières à Paris et à la région d'Ile-de-France<a id=28></a>
 
-##### Section 1 : Schéma directeur.<a id=28></a>
+##### Section 1 : Schéma directeur.<a id=29></a>
 
 ###### Article L141-2
 
@@ -5984,7 +6098,7 @@ _Cité par_:
   - Code de l'urbanisme - art. L328-2 (V)
 
 
-#### Chapitre II : Espaces naturels sensibles des départements.<a id=29></a>
+#### Chapitre II : Espaces naturels sensibles des départements.<a id=30></a>
 
 ###### Article L*142-2
 
@@ -6708,7 +6822,7 @@ _Nouveaux textes_:
   - Code de l'urbanisme - art. L171-1 (VD)
 
 
-#### Chapitre V : Dispositions particulières aux zones de montagne.<a id=30></a>
+#### Chapitre V : Dispositions particulières aux zones de montagne.<a id=31></a>
 
 ###### Article L145-1
 
@@ -6737,7 +6851,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R1614-42 (M)
 
 
-##### Section 1 : Principes d'aménagement et de protection en zone de montagne.<a id=31></a>
+##### Section 1 : Principes d'aménagement et de protection en zone de montagne.<a id=32></a>
 
 ###### Article L145-6
 
@@ -6795,7 +6909,7 @@ _Nouveaux textes_:
   - Code de l'urbanisme - art. L122-3 (VD)
 
 
-##### Section 2 : Unités touristiques nouvelles.<a id=32></a>
+##### Section 2 : Unités touristiques nouvelles.<a id=33></a>
 
 ###### Article L145-10
 
@@ -6853,7 +6967,7 @@ _Nouveaux textes_:
   - PILOTE_SUIVEUR: Code du tourisme. - art. L342-6 (V)
 
 
-#### Chapitre VI : Dispositions particulières au littoral.<a id=33></a>
+#### Chapitre VI : Dispositions particulières au littoral.<a id=34></a>
 
 ###### Article L146-3
 
@@ -6964,7 +7078,7 @@ _Cité par_:
   - Code du tourisme. - art. L331-1 (V)
 
 
-#### Chapitre VII : dispositions particulières aux zones de bruit des aérodromes.<a id=34></a>
+#### Chapitre VII : dispositions particulières aux zones de bruit des aérodromes.<a id=35></a>
 
 ###### Article L147-2
 
@@ -7075,7 +7189,7 @@ _Abrogé par_:
   - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 
-### Titre V : Application aux départements d'outre-mer<a id=35></a>
+### Titre V : Application aux départements d'outre-mer<a id=36></a>
 
 ###### Article L150-1
 
@@ -7116,7 +7230,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-#### Chapitre VI : Dispositions particulières au littoral dans les départements d'outre-mer.<a id=36></a>
+#### Chapitre VI : Dispositions particulières au littoral dans les départements d'outre-mer.<a id=37></a>
 
 ###### Article L156-1
 
@@ -7252,7 +7366,7 @@ _Créé par_:
   - Loi n°86-2 du 3 janvier 1986 - art. 35 () JORF 4 janvier 1986
 
 
-### Titre VI : Sanctions et servitudes.<a id=37></a>
+### Titre VI : Sanctions et servitudes.<a id=38></a>
 
 ###### Article L160-1
 
@@ -7677,9 +7791,9 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-## Livre II : Préemption et réserves foncières<a id=38></a>
+## Livre II : Préemption et réserves foncières<a id=39></a>
 
-### Titre Ier : Droits de préemption<a id=39></a>
+### Titre Ier : Droits de préemption<a id=40></a>
 
 ###### Article L210-1
 
@@ -7725,7 +7839,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-#### Chapitre Ier : Droit de préemption urbain<a id=40></a>
+#### Chapitre Ier : Droit de préemption urbain<a id=41></a>
 
 ###### Article L211-1
 
@@ -8021,7 +8135,7 @@ _Cité par_:
   - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
 
 
-#### Chapitre II : Zones d'aménagement différé et périmètres provisoires<a id=41></a>
+#### Chapitre II : Zones d'aménagement différé et périmètres provisoires<a id=42></a>
 
 ###### Article L212-1
 
@@ -8335,7 +8449,7 @@ _Modifié par_:
   - Loi - art. 34 () JORF 19 juillet 1991
 
 
-#### Chapitre III : Dispositions communes au droit de préemption urbain, aux zones d'aménagement différé et aux périmètres provisoires<a id=42></a>
+#### Chapitre III : Dispositions communes au droit de préemption urbain, aux zones d'aménagement différé et aux périmètres provisoires<a id=43></a>
 
 ###### Article L213-1
 
@@ -9144,7 +9258,7 @@ _Modifié par_:
   - Loi - art. 34 () JORF 19 juillet 1991
 
 
-#### Chapitre VI : Dispositions particulières aux jardins familiaux<a id=43></a>
+#### Chapitre VI : Dispositions particulières aux jardins familiaux<a id=44></a>
 
 ###### Article L216-1
 
@@ -9171,9 +9285,9 @@ _Modifié par_:
   - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
 
 
-### Titre II : Réserves foncières<a id=44></a>
+### Titre II : Réserves foncières<a id=45></a>
 
-#### Chapitre Ier : Réserves foncières<a id=45></a>
+#### Chapitre Ier : Réserves foncières<a id=46></a>
 
 ###### Article L221-1
 
@@ -9275,7 +9389,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-### Titre III : Départements d'outre-mer.<a id=46></a>
+### Titre III : Départements d'outre-mer.<a id=47></a>
 
 ###### Article L230-1
 
@@ -9326,7 +9440,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-## Livre III : Aménagement foncier<a id=47></a>
+## Livre III : Aménagement foncier<a id=48></a>
 
 ###### Article L300-1
 
@@ -9620,9 +9734,9 @@ _Modifié par_:
   - Loi n°94-112 du 9 février 1994 - art. 5 () JORF 10 février 1994
 
 
-### Titre Ier : Opérations d'aménagement<a id=48></a>
+### Titre Ier : Opérations d'aménagement<a id=49></a>
 
-#### Chapitre Ier : Zones d'aménagement concerté<a id=49></a>
+#### Chapitre Ier : Zones d'aménagement concerté<a id=50></a>
 
 ###### Article L311-1
 
@@ -9971,9 +10085,9 @@ _Cité par_:
   - Code de l'urbanisme - art. L340-1 (VT)
 
 
-#### Chapitre III : Restauration immobilière et secteurs sauvegardés<a id=50></a>
+#### Chapitre III : Restauration immobilière et secteurs sauvegardés<a id=51></a>
 
-##### Section 1 : Secteurs sauvegardés<a id=51></a>
+##### Section 1 : Secteurs sauvegardés<a id=52></a>
 
 ###### Article L313-1
 
@@ -10211,7 +10325,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-##### Section 2 : Restauration immobilière<a id=52></a>
+##### Section 2 : Restauration immobilière<a id=53></a>
 
 ###### Article L313-4
 
@@ -10426,7 +10540,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-##### Section 3 : Dispositions communes<a id=53></a>
+##### Section 3 : Dispositions communes<a id=54></a>
 
 ###### Article L313-5
 
@@ -10697,7 +10811,7 @@ _Cité par_:
   - PILOTE_SUIVEUR: Code du patrimoine - art. L641-1 (MMN)
 
 
-#### Chapitre IV : Protection des occupants<a id=54></a>
+#### Chapitre IV : Protection des occupants<a id=55></a>
 
 ###### Article L314-1
 
@@ -11085,7 +11199,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-#### Chapitre V : Lotissements.<a id=55></a>
+#### Chapitre V : Lotissements.<a id=56></a>
 
 ###### Article L315-1
 
@@ -11563,7 +11677,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-#### Chapitre V : Lotissements et divisions de propriété.<a id=56></a>
+#### Chapitre V : Lotissements et divisions de propriété.<a id=57></a>
 
 ###### Article L315-1-1
 
@@ -11592,7 +11706,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-#### Chapitre VI : Sanctions pénales relatives aux lotissements.<a id=57></a>
+#### Chapitre VI : Sanctions pénales relatives aux lotissements.<a id=58></a>
 
 ###### Article L316-1
 
@@ -11751,9 +11865,9 @@ _Cité par_:
   - Code de l'urbanisme - art. L480-4-1 (T)
 
 
-#### Chapitre VII : Amélioration de certains lotissements<a id=58></a>
+#### Chapitre VII : Amélioration de certains lotissements<a id=59></a>
 
-##### Section 1 : subventions de l'etat.<a id=59></a>
+##### Section 1 : subventions de l'etat.<a id=60></a>
 
 ###### Article L317-1
 
@@ -11934,7 +12048,7 @@ _Anciens textes_:
   - Code de l'urbanisme 124
 
 
-##### Section 2 : Prêts des caisses départementales.<a id=60></a>
+##### Section 2 : Prêts des caisses départementales.<a id=61></a>
 
 ###### Article L317-6
 
@@ -12003,7 +12117,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-##### Section 3 : Autres participations.<a id=61></a>
+##### Section 3 : Autres participations.<a id=62></a>
 
 ###### Article L317-8
 
@@ -12122,7 +12236,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-##### Section 4 : Règles particulières de fonctionnement des associations syndicales.<a id=62></a>
+##### Section 4 : Règles particulières de fonctionnement des associations syndicales.<a id=63></a>
 
 ###### Article L317-12
 
@@ -12274,9 +12388,9 @@ _Abrogé par_:
   - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
 
 
-#### Chapitre VIII : Dispositions relatives à certaines opérations<a id=63></a>
+#### Chapitre VIII : Dispositions relatives à certaines opérations<a id=64></a>
 
-##### Section 1 : Déclassements et transferts de propriété<a id=64></a>
+##### Section 1 : Déclassements et transferts de propriété<a id=65></a>
 
 ###### Article L318-1
 
@@ -12416,7 +12530,7 @@ _Anciens textes_:
   - Loi n°65-503 1965-06-29 art. 5
 
 
-##### Section 3 : Dispositions particulières aux commerçants et artisans<a id=65></a>
+##### Section 3 : Dispositions particulières aux commerçants et artisans<a id=66></a>
 
 ###### Article L318-8
 
@@ -12441,7 +12555,7 @@ _Cite_:
   - Loi n°73-1193 du 27 décembre 1973 - art. 52 (V)
 
 
-##### Section 4 : Dispositions particulières.<a id=66></a>
+##### Section 4 : Dispositions particulières.<a id=67></a>
 
 ###### Article L318-9
 
@@ -12468,9 +12582,9 @@ _Anciens textes_:
   - Code de l'urbanisme - art. L123-12 (T)
 
 
-### Titre II : Organismes d'exécution<a id=67></a>
+### Titre II : Organismes d'exécution<a id=68></a>
 
-#### CHAPITRE I : Etablissements publics d'aménagement.<a id=68></a>
+#### CHAPITRE I : Etablissements publics d'aménagement.<a id=69></a>
 
 ###### Article L321-1
 
@@ -12883,7 +12997,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-#### Chapitre II : Associations foncières urbaines<a id=69></a>
+#### Chapitre II : Associations foncières urbaines<a id=70></a>
 
 ###### Article L322-1
 
@@ -13610,7 +13724,7 @@ _Modifié par_:
   - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
 
 
-#### Chapitre III : Chambres de commerce et d'industrie et chambres de métiers.<a id=70></a>
+#### Chapitre III : Chambres de commerce et d'industrie et chambres de métiers.<a id=71></a>
 
 ###### Article L323-1
 
@@ -13654,7 +13768,7 @@ _Abrogé par_:
   - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
 
 
-#### CHAPITRE IV : Etablissements publics fonciers.<a id=71></a>
+#### CHAPITRE IV : Etablissements publics fonciers.<a id=72></a>
 
 ###### Article L324-1
 
@@ -13845,28 +13959,26 @@ _Cité par_:
 
 Les recettes du budget de l'établissement public foncier comprennent notamment :
 
-" 1° Le produit des impôts directs mentionnés à l'article 1607 bis du code général des impôts ;
+1° Le produit des impôts directs mentionnés à l'article 1607 bis du code général des impôts ;
 
-" 2° La participation prévue aux articles L. 332-17 et suivants du présent code et la contribution prévue à l'article L.
-302-7 du code de la construction et de l'habitation ;
+2° La contribution prévue à l'article L. 302-7 du code de la construction et de l'habitation ;
 
-" 3° Le produit des dons et legs.
+3° Le produit des dons et legs.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 1607 bis
-  - Code de l'urbanisme l332-17
   - Code de la construction et de l'habitation. - art. L302-7 (M)
+
+_Modifié par_:
+
+  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
 
 _Codifié par_:
 
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-_Créé par_:
-
-  - Loi - art. 27 () JORF 19 juillet 1991
 
 
 ###### Article L324-7
@@ -13938,9 +14050,9 @@ _Créé par_:
   - Loi - art. 27 () JORF 19 juillet 1991
 
 
-### Titre III : Dispositions financières<a id=72></a>
+### Titre III : Dispositions financières<a id=73></a>
 
-#### Chapitre I : Fonds national d'aménagement foncier et d'urbanisme (FNAFU).<a id=73></a>
+#### Chapitre I : Fonds national d'aménagement foncier et d'urbanisme (FNAFU).<a id=74></a>
 
 ###### Article L331-1
 
@@ -14206,9 +14318,9 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-#### Chapitre II : Participation des constructeurs et des lotisseurs<a id=74></a>
+#### Chapitre II : Participation des constructeurs et des lotisseurs<a id=75></a>
 
-##### Section 1 : Participation en cas de dépassement du coefficient d'occupation des sols.<a id=75></a>
+##### Section 1 : Participation en cas de dépassement du coefficient d'occupation des sols.<a id=76></a>
 
 ###### Article L332-1
 
@@ -14459,7 +14571,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-##### Section 2 : Participations à la réalisation d'équipements publics exigibles à l'occasion de la délivrance d'autorisations de construire ou d'utiliser le sol<a id=76></a>
+##### Section 2 : Participations à la réalisation d'équipements publics exigibles à l'occasion de la délivrance d'autorisations de construire ou d'utiliser le sol<a id=77></a>
 
 ###### Article L332-6
 
@@ -14474,19 +14586,13 @@ lieu à la participation instituée dans les secteurs d'aménagement définis à
 
 3° La réalisation des équipements propres mentionnées à l'article L. 332-15.
 
-4° La participation à la diversité de l'habitat prévue à l'article L. 332-17.
-
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°93-122 du 29 janvier 1993 - art. 57 () JORF 30 janvier 1993
 
 _Cité par_:
 
+  - Décret n°91-1201 du 27 novembre 1991 - art. ANNEXE (V)
   - Arrêté du 10 juin 1996 - art. ANNEXE I (VT)
   - Arrêté du 13 mars 1986 - art. 3 (Ab)
-  - Décret n°91-1201 du 27 novembre 1991 - art. ANNEXE (V)
   - Code de l'environnement - art. L332-27 (VT)
   - Code de l'urbanisme - art. L332-12 (M)
   - Code de l'urbanisme - art. L332-13 (M)
@@ -14495,7 +14601,6 @@ _Cité par_:
   - Code de l'urbanisme - art. L332-6-1 (V)
   - Code de l'urbanisme - art. L332-7 (M)
   - Code de l'urbanisme - art. L332-8 (M)
-  - Code de l'urbanisme - art. L332-9 (M)
   - Code de l'urbanisme - art. L340-2 (Ab)
   - Code de l'urbanisme - art. L730-1 (VT)
   - Code de l'urbanisme - art. R*315-29 (M)
@@ -14503,12 +14608,14 @@ _Cité par_:
   - Code de l'urbanisme - art. R421-38-7 (Ab)
   - Code général des collectivités territoriales - art. L2331-5 (V)
 
+_Modifié par_:
+
+  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
+
 _Cite_:
 
   - CGI 1585 A
-  - Code de l'urbanisme - art. L322-6-1 (M)
-  - Code de l'urbanisme - art. L332-17 (Ab)
-  - Code de l'urbanisme L332-9, L322-6-1, l332-15, L332-17
+  - Code de l'urbanisme - art. L332-9 (M)
 
 _Codifié par_:
 
@@ -14837,9 +14944,9 @@ _Cite_:
 
 ###### Article L332-12
 
-Les dispositions des articles L. 332-6 et L. 332-7 sont sont applicables dans les conditions suivantes aux lotisseurs ainsi
-qu'aux personnes aménageant des terrains destinés à l'accueil d'habitations légères de loisir et aux associations foncières
-urbaines de remembrement autorisées ou constituées d'office.
+Les dispositions des articles L. 332-6 et L. 332-7 sont applicables dans les conditions suivantes aux lotisseurs ainsi qu'aux
+personnes aménageant des terrains destinés à l'accueil d'habitations légères de loisir et aux associations foncières urbaines
+de remembrement autorisées ou constituées d'office.
 
 Peuvent être mis à la charge du lotisseur, de la personne aménageant un terrain destiné à l'accueil d'habitation légères de
 loisir ou de l'association foncière urbaine par l'autorisation de lotir, par l'autorisation d'aménager, ou par l'acte
@@ -14852,19 +14959,22 @@ b) La participation pur dépassement du coefficient d'occupation des sols dans l
 c) La participation spécifique pour équipements publics exceptionnels dans les conditions prévues à l'article L. 332-8 ;
 
 d) Une participation forfaitaire représentative de la participation prévue à l'article L. 332-9 et des contributions
-énumérées aux a, b, d et e du 2° et au 3° de l'article L. 332-6-1 ;
-
-e) Un versement représentatif de la participation à la diversité de l'habitat prévue à l'article L. 332-17.
+énumérées aux a, b, d et e du 2° et au 3° de l'article L. 332-6-1.
 
 Il ne peut être perçu sur les constructeurs aucune des contributions ou participations qui ont été mises à la charge du
 lotisseur, de la personne ayant aménagé le terrain destiné à l'accueil d'habitations légères de loisir, ou de l'association
 foncière urbaine de remembrement.
 
+**Nota:**
+
+NOTA : Les articles L. 332-1 et L. 333-9-1 du code de l'urbanisme sont abrogés par la loi n° 2000-1208 du 13 décembre 2000
+(SRU).
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°93-122 du 29 janvier 1993 - art. 56 () JORF 30 janvier 1993
+  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
 
 _Cite_:
 
@@ -14939,7 +15049,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 52 (V)
 
 
-##### Section 3 : Equipements propres dont la réalisation peut être exigée des bénéficiaires d'autorisations d'occuper ou d'utiliser le sol<a id=77></a>
+##### Section 3 : Equipements propres dont la réalisation peut être exigée des bénéficiaires d'autorisations d'occuper ou d'utiliser le sol<a id=78></a>
 
 ###### Article L332-15
 
@@ -15002,448 +15112,6 @@ _Créé par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 52 (V)
-
-
-##### Section 4 : Participation à la diversité de l'habitat.<a id=78></a>
-
-###### Article L332-17
-
-Les communes ou les établissements publics de coopération intercommunale compétents en matière d'urbanisme, dont le
-territoire est couvert par un programme local de l'habitat adopté conformément aux articles L. 302-1 et suivants du code de
-la construction et de l'habitation, peuvent, pour faciliter la réalisation de logements à usage locatif au sens du 3° de
-l'article L. 351-2 du code de la construction et de l'habitation et faisant l'objet d'un concours financier de l'Etat, et
-pour contribuer ainsi à la diversité de l'offre de logements, décider qu'à l'occasion des opérations soumises à permis de
-construire une participation, appelée participation à la diversité de l'habitat, sera mise à la charge des constructeurs sur
-tout ou partie de leur territoire. La décision doit être motivée.
-
-" L'assiette de la participation est constituée par le produit de la valeur du terrain par mètre carré de surface hors oeuvre
-nette constructible, diminuée d'un montant forfaitaire, par la surface hors oeuvre nette de l'opération diminuée de 170
-mètres carrés.
-
-" Pour l'application de l'alinéa précédent :
-
-" a) La surface hors oeuvre nette constructible est celle qui résulte de l'application du coefficient d'occupation des sols
-au terrain concerné ; en l'absence de coefficient d'occupation des sols, elle est égale à la superficie du terrain ;
-
-" b) Le montant forfaitaire est fixé à 600 F dans les départements autres que ceux de la région Ile-de-France. Il est porté à
-900 F dans les départements de la région Ile-de-France. Il est actualisé au 1er janvier de chaque année en fonction de
-l'évolution de l'indice du coût de la construction publié par l'Institut national de la statistique et des études
-économiques.
-
-" Le taux de la participation, qui ne peut excéder 15 p. 100, est fixé par la délibération qui l'a institué.
-
-" Pour les opérations de construction comprenant une surface de logements en accession à la propriété aidée par l'Etat,
-mentionnés au 1° de l'article L. 351-2 du code de la construction et de l'habitation, et de logements à usage locatif
-mentionnés au 3° de l'article L. 351-2 du même code et faisant l'objet d'un concours financier de l'Etat, ainsi que pour les
-opérations de construction de logements loués pendant une durée minimale de neuf ans à un prix inférieur à un plafond fixé
-par décret, le taux est diminué du rapport entre cette surface et la superficie hors oeuvre nette de l'opération.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi - art. 16 () JORF 19 juillet 1991
-
-_Abrogé par_:
-
-  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. L253-2 (M)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 302 septies B (M)
-  - Code de l'urbanisme - art. L332-12 (M)
-  - Code de l'urbanisme - art. L332-18 (Ab)
-  - Code de l'urbanisme - art. L332-6 (M)
-  - Code de l'urbanisme - art. R*341-1 (Ab)
-  - Code de l'urbanisme - art. R332-26 (Ab)
-  - Code de l'urbanisme - art. R332-27 (Ab)
-  - Code de l'urbanisme - art. R332-36 (Ab)
-  - Code de l'urbanisme - art. R332-40 (Ab)
-  - Code de la construction et de l'habitation. - art. L302-8 (M)
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L302-1 (M)
-  - Code de la construction et de l'habitation. - art. L351-2 (M)
-
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-
-###### Article L332-18
-
-Ne sont pas soumises à la participation :
-
-" a) Les constructions de logements en accession à la propriété aidée par l'Etat et de logements à usage locatif, mentionnés
-respectivement aux 1° et 3° de l'article L. 351-2 du code de la construction et de l'habitation, ainsi que les constructions
-de logements loués pendant une durée minimale de neuf ans à un prix inférieur à un plafond fixé par décret ;
-
-" b) Les constructions réalisées à l'occasion d'une action ou opération d'aménagement telles que définies à l'article L.
-300-1 du présent code, lorsque le programme global de construction comprend une surface de logements tels que définis au
-septième alinéa de l'article L. 332-17 et lorsque la part de ces logements dans la surface totale construite est au moins
-égale au taux de la participation à la diversité de l'habitat ;
-
-" c) Les constructions édifiées par ou pour le compte de l'Etat, des collectivités locales et de leurs groupements ou par des
-établissements publics administratifs, ou dans le cadre de concessions ou de mandats donnés par ces organismes, lorsqu'elles
-sont affectées à un service public ou d'utilité générale et qu'elles ne sont pas productives de revenus ;
-
-" d) Les constructions édifiées par des organismes sans but lucratif à caractère sanitaire, social, éducatif, sportif ou
-culturel ou par des organisations syndicales de salariés reconnues représentatives au plan national selon les critères prévus
-à l'article L. 133-2 du code du travail.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi - art. 16 () JORF 19 juillet 1991
-
-_Abrogé par_:
-
-  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
-
-_Cite_:
-
-  - Code du travail - art. L133-2 (M)
-  - Code de l'urbanisme - art. L300-1 (M)
-  - Code de l'urbanisme - art. L332-17 (Ab)
-  - Code de la construction et de l'habitation. - art. L351-2 (M)
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. L332-20 (Ab)
-  - Code de l'urbanisme - art. L332-25 (Ab)
-  - Code de l'urbanisme - art. R332-26 (Ab)
-  - Code de l'urbanisme - art. R332-29 (Ab)
-  - Code de l'urbanisme - art. R332-30 (Ab)
-  - Code de l'urbanisme - art. R332-32 (Ab)
-
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-
-###### Article L332-19
-
-Les constructeurs assujettis à la participation à la diversité de l'habitat s'en libèrent par paiement ou par dation :
-
-" a) Soit d'une partie du terrain d'implantation de l'opération faisant l'objet de la demande, permettant la construction de
-logements locatifs sociaux ; la superficie des terrains cédés est prise en compte pour le calcul des possibilités de
-construire ; par dérogation, les dispositions des deux premiers alinéas de l'article L. 111-5 du présent code ne s'appliquent
-pas à la partie cédée ;
-
-" b) Soit d'un terrain constructible sur le territoire de la commune, permettant la construction de logements locatifs
-sociaux ;
-
-" c) Soit de locaux vacants existant sur le territoire de la commune pouvant être utilisés, si nécessaire après travaux, en
-tant que logements locatifs sociaux.
-
-" La dation des terrains ou des locaux a un caractère libératoire si leur valeur est au moins égale à 70 p. 100 du montant
-qui aurait été celui de la participation si cette dernière avait été acquittée sous forme de contribution financière.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi - art. 16 () JORF 19 juillet 1991
-
-_Abrogé par_:
-
-  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L111-5 (M)
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. L332-22 (Ab)
-  - Code de l'urbanisme - art. R*160-5 (Ab)
-  - Code de l'urbanisme - art. R332-31 (Ab)
-  - Code de l'urbanisme - art. R332-33 (Ab)
-  - Code de l'urbanisme - art. R332-39 (Ab)
-  - Code de la construction et de l'habitation. - art. L302-8 (M)
-
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-
-###### Article L332-20
-
-La valeur du terrain d'implantation de l'opération de construction ou celle du terrain ou du local qu'il est envisagé
-d'apporter en règlement de la participation à la diversité de l'habitat est déclarée par le demandeur du permis de construire
-lors du dépôt de la demande, laquelle précise, en outre, la situation, la superficie et les caractéristiques du terrain ou du
-logement cédé. Dans les cas prévus aux a et b de l'article L. 332-18, le demandeur fournit les pièces justifiant le respect
-de l'objectif de diversité de l'habitat par l'opération.
-
-" En l'absence de déclaration ou des pièces prévues à l'alinéa précédent, le dossier de permis de construire est considéré
-comme incomplet et ne peut être instruit.
-
-" Les valeurs mentionnées au premier alinéa sont appréciées à la date du dépôt de la demande de permis de construire.
-
-" Le directeur des services fiscaux est consulté par le service chargé de l'instruction de la demande de permis de construire
-en vue d'émettre un avis sur la valeur déclarée par le demandeur du permis de construire.
-
-" L'avis du directeur des services fiscaux, donné dans le délai d'un mois, constitue l'évaluation administrative.
-
-" Si cette évaluation administrative est différente de la valeur déclarée par l'intéressé, la personne publique qui a
-institué la participation à la diversité de l'habitat doit la notifier par écrit au constructeur. La notification est
-assortie de l'avis du directeur des services fiscaux.
-
-" A défaut d'accord du pétitionnaire sur l'évaluation qui lui a été notifiée, la valeur du terrain ou du local est fixée par
-la juridiction compétente en matière d'expropriation saisie par la partie la plus diligente.
-
-" L'existence d'un désaccord sur les valeurs mentionnées au premier alinéa est sans incidence sur la délivrance du permis de
-construire.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi - art. 16 () JORF 19 juillet 1991
-
-_Abrogé par_:
-
-  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L332-18 (Ab)
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. R332-28 (Ab)
-  - Code de l'urbanisme - art. R421-4 (M)
-
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-
-###### Article L332-21
-
-La contribution financière versée en règlement de la participation à la diversité de l'habitat est perçue par la personne
-publique qui l'a instituée. Son produit est affecté, dans un délai maximal de trois ans, à l'acquisition de terrains, de
-locaux ou de logements destinés à la réalisation de logements locatifs sociaux sur le territoire de la commune ou de
-l'établissement public de coopération intercommunale, soit directement par le bénéficiaire de la participation à la diversité
-de l'habitat, soit par un établissement public créé en application des articles L. 321-1 ou L. 324-1, soit par un organisme
-d'habitations à loyer modéré au sens de l'article L. 411-2 du code de la construction et de l'habitation, soit par une
-société d'économie mixte locale de construction ou d'aménagement.
-
-" Toutefois, les communes dans lesquelles le nombre de logements sociaux au sens du 3° de l'article L. 351-2 du code de la
-construction et de l'habitation représente plus de 20 p. 100 des résidences principales au sens du II de l'article 1411 du
-code général des impôts peuvent utiliser, dans les conditions définies à l'alinéa précédent, ce produit pour la réalisation
-de logements loués pendant une durée minimale de neuf ans à un prix inférieur à un plafond fixé par décret.
-
-" La réalisation des logements sur les terrains ou dans les locaux ci-dessus mentionnés doit intervenir dans un délai de cinq
-ans à compter du versement de la participation.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1411
-  - Code de l'urbanisme - art. L321-1 (M)
-  - Code de l'urbanisme - art. L324-1 (M)
-  - Code de la construction et de l'habitation. - art. L351-2 (M)
-  - Code de la construction et de l'habitation. - art. L411-2 (M)
-
-_Créé par_:
-
-  - Loi - art. 16 () JORF 19 juillet 1991
-
-_Abrogé par_:
-
-  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. L332-23 (Ab)
-  - Code de l'urbanisme - art. R*341-2 (Ab)
-  - Code de l'urbanisme - art. R332-35 (Ab)
-
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-
-###### Article L332-22
-
-La dation de terrains ou de locaux faite en application de l'article L. 332-19 s'effectue au profit de la commune ou de
-l'établissement public de coopération intercommunale qui a institué la participation.
-
-" Le maire ou le président de l'établissement public peut également mettre à disposition ou donner par bail à construction
-les terrains ou les logements reçus à une personne morale ayant vocation à réaliser des logements locatifs sociaux en vue de
-la réalisation de tels logements.
-
-" La réalisation effective des logements locatifs sociaux doit intervenir dans un délai maximal de cinq ans à compter de la
-dation.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi - art. 16 () JORF 19 juillet 1991 Rectificatif JORF du 29 octobre 1991
-
-_Abrogé par_:
-
-  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L332-19 (Ab)
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. L332-23 (Ab)
-  - Code de l'urbanisme - art. L332-26 (Ab)
-
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-
-###### Article L332-23
-
-Les biens qui n'auraient pas été affectés à la réalisation de logements dans les conditions prévues aux articles L. 332-21 et
-L. 332-22 peuvent être transférés gratuitement, par le juge de l'expropriation saisi par le représentant de l'Etat, à une
-autre personne morale en vue de cette réalisation.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L332-21 (Ab)
-  - Code de l'urbanisme - art. L332-22 (Ab)
-
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-_Créé par_:
-
-  - Loi - art. 16 () JORF 19 juillet 1991
-
-_Abrogé par_:
-
-  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
-
-
-###### Article L332-24
-
-Les modalités d'établissement, de liquidation, de recouvrement et de restitution de la participation, lorsqu'elle est versée
-sous forme de contribution financière, ainsi que les sanctions, privilèges, sûretés et garanties y afférents, sont ceux
-prévus en matière de versement pour dépassement du plafond légal de densité par les articles L. 333-1 à L. 333-16.
-
-" Le montant de la participation à la diversité de l'habitat est déduit du versement pour dépassement du plafond légal de
-densité ou de la participation pour dépassement du coefficient d'occupation des sols, lorsque l'une ou l'autre de ces
-contributions est due.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. R332-37 (Ab)
-
-_Cite_:
-
-  - Code de l'urbanisme l333-1 à l333-16
-
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-_Créé par_:
-
-  - Loi - art. 16 () JORF 19 juillet 1991
-
-_Abrogé par_:
-
-  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
-
-
-###### Article L332-25
-
-Dans les cas prévus à l'article L. 332-18, la constatation par l'administration que les constructions réalisées ne
-correspondent pas aux conditions ayant justifié l'exonération de la participation rend le constructeur redevable de celle-ci
-à compter de la date de cette constatation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-_Créé par_:
-
-  - Loi - art. 16 () JORF 19 juillet 1991
-
-_Abrogé par_:
-
-  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L332-18 (Ab)
-
-
-###### Article L332-26
-
-Les communes, les établissements publics de coopération intercommunale, les organismes d'habitations à loyer modéré et les
-personnes morales attributaires tiennent à jour un registre des terrains ou locaux mentionnés à l'article L. 332-22.
-
-" Les organismes d'habitations à loyer modéré et les personnes morales attributaires rendent compte chaque année de
-l'utilisation des fonds ou des biens aux communes concernées ou à l'établissement public de coopération intercommunale. Ce
-rapport est tenu à la disposition du public.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-_Créé par_:
-
-  - Loi - art. 16 () JORF 19 juillet 1991
-
-_Abrogé par_:
-
-  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L332-22 (Ab)
-
-
-###### Article L332-27
-
-La participation à la diversité de l'habitat est applicable aux demandes de permis de construire déposées six mois après
-l'entrée en vigueur de ladite participation dans la commune et au plus tôt le 1er janvier 1995.
-
-Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d'application de la présente section, notamment
-celle nécessitée par la situation particulière des départements d'outre-mer. Il peut notamment préciser les conditions dans
-lesquelles les logements évolutifs sociaux en accession à la propriété peuvent être assimilés, pour l'application de la
-présente section dans les départements d'outre-mer, à des logements locatifs.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-_Modifié par_:
-
-  - Loi n°94-112 du 9 février 1994 - art. 6 (V) JORF 10 février 1994
-
-_Cité par_:
-
-  - Loi n°94-112 du 9 février 1994 - art. 6 (V)
-
-_Abrogé par_:
-
-  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
 
 
 ##### Section 5 : Dispositions diverses<a id=79></a>
@@ -15644,26 +15312,7 @@ Ces versements sont inscrits au budget de la commune de l'établissement public 
 alinéas précédents et les sommes collectées à ce titre devront être versées à leurs bénéficiaires dans les trois mois suivant
 leur encaissement.
 
-Le produit des versements perçu par la commune ou, le cas échéant, par l'établissement public de coopération intercommunale
-compétent en matière d'urbanisme, est affecté à la réalisation des objectifs de la participation à la diversité de l'habitat
-définis à l'article L. 332-21 du présent code.
-
-" Toutefois, les communes dans lesquelles le nombre de logements sociaux au sens du 3° de l'article L. 351-2 du code de la
-construction et de l'habitation représente plus de 20 p. 100 des résidences principales au sens du II de l'article 1411 du
-code général des impôts peuvent utiliser le produit de ces versements pour la réalisation de logements loués pendant une
-durée minimale de neuf ans à un prix inférieur à un plafond fixé par décret. "
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1411
-  - Code de l'urbanisme l332-21
-  - Code de la construction et de l'habitation. - art. L351-2 (M)
-
-_Modifié par_:
-
-  - Loi - art. 43 ()
 
 _Cité par_:
 
@@ -15676,10 +15325,13 @@ _Cité par_:
   - Code de l'urbanisme - art. R*333-12 (Ab)
   - Code de l'urbanisme - art. R*333-28 (Ab)
 
-**Liens**:
+_Modifié par_:
 
-  - TXT_ASSOCIE: Code de l'urbanisme - art. L332-3 (M)
-  - TXT_ASSOCIE: Code de l'urbanisme R332-12
+  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
+
+_Abrogé par_:
+
+  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
 
 _Codifié par_:
 

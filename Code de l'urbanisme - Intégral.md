@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1977-07-14
+Version Consolidée au 1977-07-22
 ## Contenu: 
   - [Partie législative (art. L122-1 à L550-1)](#1)
     - [Règles générales d'aménagement et d'urbanisme (art. L122-1 à L122-3)](#2)
@@ -522,46 +522,53 @@ Version Consolidée au 1977-07-14
       - [Titre  III : Dispositions financières (art. A331-1 à A335-7)](#519)
         - [CHAPITRE I : Fonds national d'aménagement foncier et d'urbanisme (art. A331-1 à A331-8)](#520)
         - [CHAPITRE V : Aide à la création et à l'aménagement d'espaces verts. (art. A335-1 à A335-7)](#521)
-    - [REGLES RELATIVES A L'ACTE DE CONSTRUIRE ET A DIVERS MODES  D'UTILISATION DU SOL (art. A440-1 à A440-9)](#522)
-      - [DISPOSITIONS RELATIVES AUX MODES PARTICULIERS  D'UTILISATION DU SOL (art. A440-1 à A440-9)](#523)
-        - [INSTALLATIONS DIVERSES . (art. A440-1 à A440-5)](#524)
-        - [STATIONNEMENT DES CARAVANES . (art. A440-9)](#525)
-    - [LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol (art. A410-1 à A460-2)](#526)
-      - [TITRE I : Certificat d'urbanisme. (art. A410-1 à A410-2)](#527)
-      - [TITRE II : Permis de construire (art. A421-1 à A422-31)](#528)
-        - [CHAPITRE I : Régime général (art. A421-1 à A421-8)](#529)
-          - [Section 1 : Règles applicables à toute construction. (art. A421-1 à A421-8)](#530)
-            - [Sous-section 1 : Présentation de la demande (art. A421-1 à A421-3)](#531)
-            - [Sous-section 2 : Instruction de la demande. Régime général. (art. A421-4 à A421-6)](#532)
-            - [Sous-section 5 : Dispositions diverses (art. A421-7 à A421-8)](#533)
-        - [CHAPITRE II : Exceptions au régime général (art. A422-1 à A422-31)](#534)
-          - [Section 1 : Edifices protégés, palais nationaux. (art. A422-1)](#535)
-          - [Section 2 : Travaux exécutés par la marine (art. A422-2 à A422-4)](#536)
-          - [Section 3 : Travaux exécutés par le ministère des armées (art. A422-5 à A422-8)](#537)
-          - [Section 4 : Travaux de production, de transport et de distribution de l'énergie électrique et du gaz (art. A422-9 à A422-11)](#538)
-          - [Section 5 : Travaux publics et transports (art. A422-12 à A422-17)](#539)
-          - [Section 6 : Bâtiments scolaires (art. A422-18 à A422-21)](#540)
-          - [Section 7 : Travaux exécutés par le ministre des postes et télécommunications (art. A422-22 à A422-24)](#541)
-          - [Section 8 : Travaux de faible importance (art. A422-25 à A422-27)](#542)
-          - [Section 9 : Groupement des contrôles radio-électriques (art. A422-28 à A422-30)](#543)
-          - [Section 10 : Dispositions diverses (art. A422-31)](#544)
-      - [Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol. (art. A440-6 à A440-12)](#545)
-      - [TITRE VI : Contrôle (art. A460-1 à A460-2)](#546)
-        - [Section 1 : Déclaration d'achèvement des travaux et certificat de conformité. (art. A460-1 à A460-2)](#547)
-    - [Livre  V : Implantation des services, établissements et entreprises (art. A510-1 à A520-11)](#548)
-      - [TITRE I : Dispositions administratives générales. (art. A510-1 à A510-13)](#549)
-      - [Titre  II : Dispositions financières concernant la région d'Ile-de-France (art. A520-1 à A520-11)](#550)
-        - [Section 1 : Dispositions générales (art. A520-1 à A520-11)](#551)
-          - [Sous-section 1 : Perception des redevances (art. A520-1 à A520-3)](#552)
-          - [Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance (art. A520-4 à A520-11)](#553)
-    - [Livre  VI : Organismes consultatifs et dispositions diverses (art. A611-1 à A614-4)](#554)
-      - [Titre Ier : Organismes consultatifs (art. A611-1 à A614-4)](#555)
-        - [CHAPITRE I : Commissions départementales d'urbanisme. (art. A611-1 à A611-7)](#556)
-        - [CHAPITRE II : Conférence permanente du permis de contruire (art. A612-1 à A612-9)](#557)
-          - [Section 1 : Conférence permanente du permis de construire instituée dans les départements situés hors de la région d'Ile-de-France. (art. A612-1 à A612-4)](#558)
-          - [Section 2 : Conférence permanente du permis de construire des départements de la région d'Ile-de-France. (art. A612-5 à A612-9)](#559)
-        - [CHAPITRE III : Comité d'aménagement de la région Ile-de-France. (art. A613-1 à A613-10)](#560)
-        - [CHAPITRE IV : Architectes-conseils (art. A614-2 à A614-4)](#561)
+    - [REGLES RELATIVES A L'ACTE DE CONSTRUIRE ET A DIVERS MODES  D'UTILISATION DU SOL (art. A430-3 à A440-9)](#522)
+      - [PERMIS DE DEMOLIR (art. A430-3)](#523)
+        - [REGIME GENERAL (art. A430-3)](#524)
+          - [DECISION . (art. A430-3)](#525)
+      - [DISPOSITIONS RELATIVES AUX MODES PARTICULIERS  D'UTILISATION DU SOL (art. A440-1 à A440-9)](#526)
+        - [INSTALLATIONS DIVERSES . (art. A440-1 à A440-5)](#527)
+        - [STATIONNEMENT DES CARAVANES . (art. A440-9)](#528)
+    - [LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol (art. A410-1 à A460-2)](#529)
+      - [TITRE I : Certificat d'urbanisme. (art. A410-1 à A410-2)](#530)
+      - [TITRE II : Permis de construire (art. A421-1 à A422-31)](#531)
+        - [CHAPITRE I : Régime général (art. A421-1 à A421-8)](#532)
+          - [Section 1 : Règles applicables à toute construction. (art. A421-1 à A421-8)](#533)
+            - [Sous-section 1 : Présentation de la demande (art. A421-1 à A421-3)](#534)
+            - [Sous-section 2 : Instruction de la demande. Régime général. (art. A421-4 à A421-6)](#535)
+            - [Sous-section 5 : Dispositions diverses (art. A421-7 à A421-8)](#536)
+        - [CHAPITRE II : Exceptions au régime général (art. A422-1 à A422-31)](#537)
+          - [Section 1 : Edifices protégés, palais nationaux. (art. A422-1)](#538)
+          - [Section 2 : Travaux exécutés par la marine (art. A422-2 à A422-4)](#539)
+          - [Section 3 : Travaux exécutés par le ministère des armées (art. A422-5 à A422-8)](#540)
+          - [Section 4 : Travaux de production, de transport et de distribution de l'énergie électrique et du gaz (art. A422-9 à A422-11)](#541)
+          - [Section 5 : Travaux publics et transports (art. A422-12 à A422-17)](#542)
+          - [Section 6 : Bâtiments scolaires (art. A422-18 à A422-21)](#543)
+          - [Section 7 : Travaux exécutés par le ministre des postes et télécommunications (art. A422-22 à A422-24)](#544)
+          - [Section 8 : Travaux de faible importance (art. A422-25 à A422-27)](#545)
+          - [Section 9 : Groupement des contrôles radio-électriques (art. A422-28 à A422-30)](#546)
+          - [Section 10 : Dispositions diverses (art. A422-31)](#547)
+      - [TITRE III : Permis de démolir (art. A430-2 à A430-4)](#548)
+        - [Section 1 : Régime général (art. A430-2 à A430-1)](#549)
+          - [Sous-section 1 : Présentation de la demande. (art. A430-1)](#550)
+        - [Section 4 : Formalités postérieures à la délivrance du permis de de démolir. (art. A430-4)](#551)
+      - [Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol. (art. A440-6 à A440-12)](#552)
+      - [TITRE VI : Contrôle (art. A460-1 à A460-2)](#553)
+        - [Section 1 : Déclaration d'achèvement des travaux et certificat de conformité. (art. A460-1 à A460-2)](#554)
+    - [Livre  V : Implantation des services, établissements et entreprises (art. A510-1 à A520-11)](#555)
+      - [TITRE I : Dispositions administratives générales. (art. A510-1 à A510-13)](#556)
+      - [Titre  II : Dispositions financières concernant la région d'Ile-de-France (art. A520-1 à A520-11)](#557)
+        - [Section 1 : Dispositions générales (art. A520-1 à A520-11)](#558)
+          - [Sous-section 1 : Perception des redevances (art. A520-1 à A520-3)](#559)
+          - [Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance (art. A520-4 à A520-11)](#560)
+    - [Livre  VI : Organismes consultatifs et dispositions diverses (art. A611-1 à A614-4)](#561)
+      - [Titre Ier : Organismes consultatifs (art. A611-1 à A614-4)](#562)
+        - [CHAPITRE I : Commissions départementales d'urbanisme. (art. A611-1 à A611-7)](#563)
+        - [CHAPITRE II : Conférence permanente du permis de contruire (art. A612-1 à A612-9)](#564)
+          - [Section 1 : Conférence permanente du permis de construire instituée dans les départements situés hors de la région d'Ile-de-France. (art. A612-1 à A612-4)](#565)
+          - [Section 2 : Conférence permanente du permis de construire des départements de la région d'Ile-de-France. (art. A612-5 à A612-9)](#566)
+        - [CHAPITRE III : Comité d'aménagement de la région Ile-de-France. (art. A613-1 à A613-10)](#567)
+        - [CHAPITRE IV : Architectes-conseils (art. A614-2 à A614-4)](#568)
 # Partie législative<a id=1></a>
 
 ## Règles générales d'aménagement et d'urbanisme<a id=2></a>
@@ -40477,9 +40484,33 @@ _Codifié par_:
 
 ## REGLES RELATIVES A L'ACTE DE CONSTRUIRE ET A DIVERS MODES  D'UTILISATION DU SOL<a id=522></a>
 
-### DISPOSITIONS RELATIVES AUX MODES PARTICULIERS  D'UTILISATION DU SOL<a id=523></a>
+### PERMIS DE DEMOLIR<a id=523></a>
 
-#### INSTALLATIONS DIVERSES .<a id=524></a>
+#### REGIME GENERAL<a id=524></a>
+
+##### DECISION .<a id=525></a>
+
+###### Article A430-3
+
+L'affichage du permis de démolir sur le terrain est assuré par les soins de son bénéficiaire sur un panneau rectangulaire
+dont les dimensions sont supérieures à 80 cm.
+
+Ce panneau indique le nom, la raison sociale ou la dénomination dudit bénéficiaire, la date et le numéro du permis de
+démolir ; il précise s'il s'agit d'une démolition totale ou partielle ; il mentionne l'adresse de la mairie où aura été
+effectué l'affichage d'un extrait de ce même permis et où pourra être consulté le registre en faisant foi.
+
+Ces renseignements doivent demeurer lisibles de la voie publique pendant toute la durée des travaux de démolition.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+
+### DISPOSITIONS RELATIVES AUX MODES PARTICULIERS  D'UTILISATION DU SOL<a id=526></a>
+
+#### INSTALLATIONS DIVERSES .<a id=527></a>
 
 ###### Article A440-1
 
@@ -40606,7 +40637,7 @@ _Cite_:
   - Code de l'urbanisme - art. A440-4 (Ab)
 
 
-#### STATIONNEMENT DES CARAVANES .<a id=525></a>
+#### STATIONNEMENT DES CARAVANES .<a id=528></a>
 
 ###### Article A440-9
 
@@ -40656,9 +40687,9 @@ _Cite_:
   - Code de l'urbanisme - art. R440-14 (T)
 
 
-## LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol<a id=526></a>
+## LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol<a id=529></a>
 
-### TITRE I : Certificat d'urbanisme.<a id=527></a>
+### TITRE I : Certificat d'urbanisme.<a id=530></a>
 
 ###### Article A410-1
 
@@ -40701,13 +40732,13 @@ _Cité par_:
   - Code de l'urbanisme - art. A410-3 (Ab)
 
 
-### TITRE II : Permis de construire<a id=528></a>
+### TITRE II : Permis de construire<a id=531></a>
 
-#### CHAPITRE I : Régime général<a id=529></a>
+#### CHAPITRE I : Régime général<a id=532></a>
 
-##### Section 1 : Règles applicables à toute construction.<a id=530></a>
+##### Section 1 : Règles applicables à toute construction.<a id=533></a>
 
-##### Sous-section 1 : Présentation de la demande<a id=531></a>
+##### Sous-section 1 : Présentation de la demande<a id=534></a>
 
 ###### Article A421-1
 
@@ -40805,7 +40836,7 @@ _Cite_:
   - Code de l'urbanisme - art. A421-2 (Ab)
 
 
-##### Sous-section 2 : Instruction de la demande. Régime général.<a id=532></a>
+##### Sous-section 2 : Instruction de la demande. Régime général.<a id=535></a>
 
 ###### Article A421-4
 
@@ -40853,7 +40884,7 @@ _Cite_:
   - Code de l'urbanisme - art. A421-5 (Ab)
 
 
-##### Sous-section 5 : Dispositions diverses<a id=533></a>
+##### Sous-section 5 : Dispositions diverses<a id=536></a>
 
 ###### Article A421-7
 
@@ -40898,9 +40929,9 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-#### CHAPITRE II : Exceptions au régime général<a id=534></a>
+#### CHAPITRE II : Exceptions au régime général<a id=537></a>
 
-##### Section 1 : Edifices protégés, palais nationaux.<a id=535></a>
+##### Section 1 : Edifices protégés, palais nationaux.<a id=538></a>
 
 ###### Article A422-1
 
@@ -40924,7 +40955,7 @@ _Cité par_:
   - Code de l'urbanisme - art. A441-2 (M)
 
 
-##### Section 2 : Travaux exécutés par la marine<a id=536></a>
+##### Section 2 : Travaux exécutés par la marine<a id=539></a>
 
 ###### Article A422-2
 
@@ -40997,7 +41028,7 @@ _Abrogé par_:
   - Arrêté du 28 décembre 1977 art. 1, v. init.
 
 
-##### Section 3 : Travaux exécutés par le ministère des armées<a id=537></a>
+##### Section 3 : Travaux exécutés par le ministère des armées<a id=540></a>
 
 ###### Article A422-5
 
@@ -41095,7 +41126,7 @@ _Cité par_:
   - Code de l'urbanisme - art. A422-17 (Ab)
 
 
-##### Section 4 : Travaux de production, de transport et de distribution de l'énergie électrique et du gaz<a id=538></a>
+##### Section 4 : Travaux de production, de transport et de distribution de l'énergie électrique et du gaz<a id=541></a>
 
 ###### Article A422-9
 
@@ -41155,7 +41186,7 @@ _Cite_:
   - Code de l'urbanisme - art. R421-1 (M)
 
 
-##### Section 5 : Travaux publics et transports<a id=539></a>
+##### Section 5 : Travaux publics et transports<a id=542></a>
 
 ###### Article A422-12
 
@@ -41324,7 +41355,7 @@ _Cite_:
   - Code de l'urbanisme - art. A422-8 (Ab)
 
 
-##### Section 6 : Bâtiments scolaires<a id=540></a>
+##### Section 6 : Bâtiments scolaires<a id=543></a>
 
 ###### Article A422-18
 
@@ -41400,7 +41431,7 @@ _Abrogé par_:
   - Arrêté du 28 décembre 1977 art. 1, v. init.
 
 
-##### Section 7 : Travaux exécutés par le ministre des postes et télécommunications<a id=541></a>
+##### Section 7 : Travaux exécutés par le ministre des postes et télécommunications<a id=544></a>
 
 ###### Article A422-22
 
@@ -41459,7 +41490,7 @@ _Cite_:
   - Code de l'urbanisme - art. R421-1 (M)
 
 
-##### Section 8 : Travaux de faible importance<a id=542></a>
+##### Section 8 : Travaux de faible importance<a id=545></a>
 
 ###### Article A422-25
 
@@ -41545,7 +41576,7 @@ _Cite_:
   - Code de l'urbanisme - art. A422-26 (Ab)
 
 
-##### Section 9 : Groupement des contrôles radio-électriques<a id=543></a>
+##### Section 9 : Groupement des contrôles radio-électriques<a id=546></a>
 
 ###### Article A422-28
 
@@ -41596,7 +41627,7 @@ _Abrogé par_:
   - Arrêté du 28 décembre 1977 art. 1, v. init.
 
 
-##### Section 10 : Dispositions diverses<a id=544></a>
+##### Section 10 : Dispositions diverses<a id=547></a>
 
 ###### Article A422-31
 
@@ -41614,7 +41645,75 @@ _Abrogé par_:
   - Arrêté du 28 décembre 1977 art. 1, v. init.
 
 
-### Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.<a id=545></a>
+### TITRE III : Permis de démolir<a id=548></a>
+
+#### Section 1 : Régime général<a id=549></a>
+
+###### Article A430-2
+
+Toute demande de permis de démolir concernant un bâtiment comportant un ou plusieurs logements soumis à la loi n. 48-1360 du
+1er septembre 1948 modifiée est accompagnée d'une copie du projet ou de la convention de relogement des locataires ou
+occupants ainsi que d'une notice indiquant le nombre de locataires ou occupants à reloger, le nombre de relogements
+provisoires et définitifs et, au cas de relogement définitif, les caractéristiques du local offert à chacun d'eux (adresse,
+habitabilité, montant du loyer, nature juridique de la location).
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1989-01-06 art. 7 I JORF 4 février 1989
+
+_Abrogé par_:
+
+  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
+
+_Cite_:
+
+  - Loi n°48-1360 1948-09-01
+
+_Codifié par_:
+
+  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+
+##### Sous-section 1 : Présentation de la demande.<a id=550></a>
+
+###### Article A430-1
+
+La demande de permis de démolir prévue à l'article R. 430-6, est établie conformément au modèle joint en annexe au présent
+code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+_Cité par_:
+
+  - Arrêté du 29 octobre 1993 - art. 1 (V)
+  - Arrêté du 29 octobre 1993 - art. 2 (V)
+
+_Cite_:
+
+  - Code de l'urbanisme R430-6
+
+
+#### Section 4 : Formalités postérieures à la délivrance du permis de de démolir.<a id=551></a>
+
+###### Article A430-4
+
+A l'issue de l'affichage à la mairie d'un extrait de la décision accordant le permis de démolir et jusqu'à l'achèvement des
+travaux de démolition, toute personne intéressée peut consulter le registre en attestant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+
+### Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.<a id=552></a>
 
 ###### Article A440-6
 
@@ -41711,9 +41810,9 @@ _Nouveaux textes_:
   - Code de l'urbanisme - art. A443-9 (Ab)
 
 
-### TITRE VI : Contrôle<a id=546></a>
+### TITRE VI : Contrôle<a id=553></a>
 
-#### Section 1 : Déclaration d'achèvement des travaux et certificat de conformité.<a id=547></a>
+#### Section 1 : Déclaration d'achèvement des travaux et certificat de conformité.<a id=554></a>
 
 ###### Article A460-1
 
@@ -41754,9 +41853,9 @@ _Cite_:
   - Code de l'urbanisme - art. A460-1 (M)
 
 
-## Livre  V : Implantation des services, établissements et entreprises<a id=548></a>
+## Livre  V : Implantation des services, établissements et entreprises<a id=555></a>
 
-### TITRE I : Dispositions administratives générales.<a id=549></a>
+### TITRE I : Dispositions administratives générales.<a id=556></a>
 
 ###### Article A510-1
 
@@ -42022,11 +42121,11 @@ _Cite_:
   - CODE DE L'URBANISME A510-1 à A510-12
 
 
-### Titre  II : Dispositions financières concernant la région d'Ile-de-France<a id=550></a>
+### Titre  II : Dispositions financières concernant la région d'Ile-de-France<a id=557></a>
 
-#### Section 1 : Dispositions générales<a id=551></a>
+#### Section 1 : Dispositions générales<a id=558></a>
 
-##### Sous-section 1 : Perception des redevances<a id=552></a>
+##### Sous-section 1 : Perception des redevances<a id=559></a>
 
 ###### Article A520-1
 
@@ -42102,7 +42201,7 @@ _Cite_:
   - Code de l'urbanisme - art. A520-2 (VT)
 
 
-##### Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance<a id=553></a>
+##### Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance<a id=560></a>
 
 ###### Article A520-4
 
@@ -42215,11 +42314,11 @@ _Cite_:
   - Code de l'urbanisme - art. A520-4 (V)
 
 
-## Livre  VI : Organismes consultatifs et dispositions diverses<a id=554></a>
+## Livre  VI : Organismes consultatifs et dispositions diverses<a id=561></a>
 
-### Titre Ier : Organismes consultatifs<a id=555></a>
+### Titre Ier : Organismes consultatifs<a id=562></a>
 
-#### CHAPITRE I : Commissions départementales d'urbanisme.<a id=556></a>
+#### CHAPITRE I : Commissions départementales d'urbanisme.<a id=563></a>
 
 ###### Article A611-1
 
@@ -42370,9 +42469,9 @@ _Cite_:
   - CODE DE L'URBANISME A611-1 à A611-6
 
 
-#### CHAPITRE II : Conférence permanente du permis de contruire<a id=557></a>
+#### CHAPITRE II : Conférence permanente du permis de contruire<a id=564></a>
 
-##### Section 1 : Conférence permanente du permis de construire instituée dans les départements situés hors de la région d'Ile-de-France.<a id=558></a>
+##### Section 1 : Conférence permanente du permis de construire instituée dans les départements situés hors de la région d'Ile-de-France.<a id=565></a>
 
 ###### Article A612-1
 
@@ -42452,21 +42551,23 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-##### Section 2 : Conférence permanente du permis de construire des départements de la région d'Ile-de-France.<a id=559></a>
+##### Section 2 : Conférence permanente du permis de construire des départements de la région d'Ile-de-France.<a id=566></a>
 
 ###### Article A612-5
 
-Sont membres de la conférence permanente du permis de construire de la ville de Paris :
+Sont membres de la conférence permanente du permis de construire du département de Paris :
 
 Le préfet de Paris ou le secrétaire général, président ;
 
-Les directeurs chargés, à la préfecture de Paris, des affaires concernant l'urbanisme, l'habitation, la santé publique, les
-beaux-arts, la jeunesse et les sports, l'enseignement, l'architecture, les questions domaniales et les services techniques ;
-Le président de la section permanente de la commission départementale des sites ;
+Le directeur de l'urbanisme et des équipements de la préfecture de Paris ;
+
+Le directeur départemental de l'action sanitaire et sociale ;
+
+Le président de la délégation permanente de la commission départementale des sites ;
 
 L'inspecteur général des monuments historiques ;
 
-Le directeur de la division Urbanisme du service régional de l'équipement de la région d'Ile-de-France ;
+L'inspecteur d'académie ;
 
 Le directeur de l'hygiène et de la sécurité publique de la préfecture de police ;
 
@@ -42567,7 +42668,7 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-#### CHAPITRE III : Comité d'aménagement de la région Ile-de-France.<a id=560></a>
+#### CHAPITRE III : Comité d'aménagement de la région Ile-de-France.<a id=567></a>
 
 ###### Article A613-1
 
@@ -42786,7 +42887,7 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-#### CHAPITRE IV : Architectes-conseils<a id=561></a>
+#### CHAPITRE IV : Architectes-conseils<a id=568></a>
 
 ###### Article A614-2
 

@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1988-05-08
+Version Consolidée au 1988-07-08
 ## Contenu: 
   - [Partie législative (art. L110 à L550-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -10916,6 +10916,45 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L315-2-1
+
+Lorsqu'un plan d'occupation des sols ou un document d'urbanisme en tenant lieu a été approuvé, les règles d'urbanisme
+contenues dans les documents approuvés d'un lotissement cessent de s'appliquer au terme de dix années à compter de la
+délivrance de l'autorisation de lotir.
+
+Toutefois, lorsqu'une majorité de co-lotis, calculée comme il est dit à l'article L. 315-3, a demandé le maintien de ces
+règles, elles ne cessent de s'appliquer qu'après décision expresse de l'autorité compétente prise après enquête publique.
+
+Les dispositions du présent article ne remettent pas en cause les droits et obligations régissant les rapports des co-lotis
+entre eux contenus dans le cahier des charges du lotissement, ni le mode de gestion des parties communes en vigueur.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°86-13 1986-01-06 art. 8 II, IV
+
+_Créé par_:
+
+  - Loi n°86-13 1986-01-06 art. 8 JORF 7 janvier 1986 en vigueur le 8 juillet 1988
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. L315-2 (Ab)
+  - Code de l'urbanisme - art. R*123-14 (VT)
+  - Code de l'urbanisme - art. R*123-24 (M)
+  - Code de l'urbanisme - art. R*315-45 (Ab)
+  - Code de l'urbanisme - art. R*315-46 (Ab)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L315-3 (M)
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L315-4

@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2004-02-05
+Version Consolidée au 2004-02-14
 ## Contenu: 
   - [Partie législative (art. L110 à L600-4-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -29830,18 +29830,18 @@ instruction. Il en informe immédiatement le directeur départemental de l'équi
 statuer sur la demande ou délivre, le cas échéant, l'autorisation en énonçant, s'il y a lieu, les prescriptions auxquelles le
 pétitionnaire doit se conformer.
 
-En l'absence [*silence*] de notification de la décision de l'architecte des bâtiments de France dans le délai de deux mois,
-l'autorisation [*tacite*] est réputée accordée.
+En l'absence de notification de la décision de l'architecte des bâtiments de France dans le délai de deux mois,
+l'autorisation est réputée accordée.
+
+En cas de refus de délivrance de l'autorisation spéciale de travaux par l'architecte des Bâtiments de France, le
+pétitionnaire peut saisir le préfet de région ou, dans la collectivité territoriale de Corse, le préfet de Corse, suivant les
+modalités définies à l'article R. 313-17-1.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°86-514 du 14 mars 1986 - art. 11 (V)
-
 _Modifié par_:
 
-  - Décret n°86-514 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
+  - Décret n°2004-142 du 12 février 2004 - art. 11 () JORF 14 février 2004
 
 _Cite_:
 
@@ -30016,29 +30016,42 @@ _Codifié par_:
 
 ###### Article R313-17-1
 
-En application du quatrième alinéa de l'article L. 313-2, le préfet de région, saisi par le maire ou par l'autorité
-compétente pour délivrer l'autorisation par lettre recommandée avec demande d'avis de réception dans un délai d'un mois à
-compter de la réception de l'avis ou de la décision émis par l'architecte des Bâtiments de France, émet, après consultation
-de la commission régionale du patrimoine et des sites, selon le cas un avis ou une décision qui se substitue à celui ou celle
-de l'architecte des Bâtiments de France.
+En application du quatrième alinéa de l'article L. 313-2 et sous réserve des dispositions de l'article R. 313-17-2, le préfet
+de région est saisi par lettre recommandée avec demande d'avis de réception soit :
 
-Lorsque le maire n'est pas l'autorité compétente pour délivrer l'autorisation, le préfet de région notifie à cette autorité
-la demande qui lui est adressée par le maire.
+a) Par le maire ou l'autorité compétente pour délivrer l'autorisation de travaux, dans le délai d'un mois à compter de la
+réception de l'avis ou de la décision émis par l'architecte des Bâtiments de France ;
 
-L'avis ou la décision du préfet de région est notifié au maire et à l'autorité compétente pour délivrer l'autorisation. Le
-préfet de région est réputé confirmer l'avis ou la décision de l'architecte des Bâtiments de France s'il ne se prononce pas
-dans un délai de quatre mois à compter de sa saisine, sauf si le dossier a, dans ce délai, été évoqué par le ministre chargé
-de la culture. Dans ce cas, l'autorisation ne peut être délivrée qu'avec l'accord exprès de ce dernier.
+b) Par le pétitionnaire, dans le délai de deux mois à compter de la notification du refus d'autorisation de travaux.
+
+Lorsqu'ils ne sont pas l'auteur de la saisine, le pétitionnaire, le maire ou l'autorité compétente pour délivrer
+l'autorisation de travaux reçoivent notification par le préfet de région de la demande dont il est saisi.
+
+Le préfet de région émet après consultation de la section de la commission régionale du patrimoine et des sites, selon le
+cas, un avis ou une décision qui se substitue à celui ou à celle de l'architecte des Bâtiments de France.
+
+L'avis ou la décision du préfet de région est notifié au maire et à l'autorité compétente pour délivrer l'autorisation, ainsi
+qu'au pétitionnaire.
+
+Le préfet de région se prononce dans un délai de trois mois à compter de sa saisine, sauf si le dossier a, dans ce délai, été
+évoqué par le ministre. Dans ce cas, l'autorisation ne peut être délivrée qu'avec l'accord exprès de ce dernier.
+
+Lorsque le maire saisit le préfet de région de la décision prise par l'architecte des Bâtiments de France en application du
+premier alinéa de l'article R. 313-14, celle-ci est suspendue jusqu'à la décision expresse ou tacite du préfet de région ou
+jusqu'à la décision expresse du ministre en cas d'évocation.
+
+Dans la collectivité territoriale de Corse, les attributions conférées par le présent article au préfet de région sont
+exercées par le préfet de Corse.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°99-78 du 5 février 1999 - art. 17 (M)
+  - Décret n°2004-142 du 12 février 2004 - art. 12 () JORF 14 février 2004
 
-_Créé par_:
+_Abrogé par_:
 
-  - Décret n°99-78 du 5 février 1999 - art. 8 () JORF 7 février 1999 en vigueur le 1er mai 1999
+  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
 
 _Cite_:
 
@@ -30060,9 +30073,9 @@ _Codifié par_:
 
 Lorsque le maire ou l'autorité compétente pour délivrer le permis de construire ou de démolir saisit le préfet de région, en
 application du quatrième alinéa de l'article L. 313-2, de l'avis émis par l'architecte des Bâtiments de France conformément,
-selon le cas, à l'article R. 313-3 ou R. 313-15, le délai au terme duquel le permis est réputé accordé faute de notification
+selon le cas, à l'article R. 313-13 ou R. 313-15, le délai au terme duquel le permis est réputé accordé faute de notification
 à l'autorité compétente d'une décision expresse est suspendu jusqu'à la notification à l'autorité compétente pour délivrer le
-permis de l'avis du préfet de région ou l'expiration du délai de quatre mois mentionné au dernier alinéa de l'article R.
+permis de l'avis du préfet de région ou l'expiration du délai de trois mois mentionné au septième alinéa de l'article R.
 313-17-1.
 
 Dans le cas prévu au quatrième alinéa de l'article L. 313-2, le préfet de région avise le pétitionnaire, par la voie
@@ -30080,25 +30093,20 @@ notification adressée au pétitionnaire mentionne que, conformément au troisi�
 duquel le permis est réputé accordé faute de notification par l'autorité compétente d'une décision expresse est suspendu
 jusqu'à ce que le ministre se soit prononcé.
 
-II. - A l'article R. 313-19-3 du code de l'urbanisme, la référence à l'article R. 313-17 est remplacée par la référence à
-l'article R. 313-17-2.
-
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°99-78 du 5 février 1999 - art. 17 (M)
+  - Décret n°2004-142 du 12 février 2004 - art. 13 () JORF 14 février 2004
 
-_Créé par_:
+_Abrogé par_:
 
-  - Décret n°99-78 du 5 février 1999 - art. 8 () JORF 7 février 1999 en vigueur le 1er mai 1999
+  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
 
 _Cite_:
 
   - Code de l'urbanisme - art. L313-2 (M)
-  - Code de l'urbanisme - art. R313-17 (M)
-  - Code de l'urbanisme - art. R313-19-3 (M)
-  - Code de l'urbanisme - art. R313-3 (M)
+  - Code de l'urbanisme - art. R313-13 (M)
 
 _Cité par_:
 
@@ -45004,20 +45012,33 @@ intention d'utiliser un délai plus long qui ne peut, en tout état de cause, ex
 chargé des monuments historiques a décidé, dans ce délai, d'évoquer le dossier, le permis de construire ne peut être délivré
 qu'avec son accord exprès.
 
-En application du troisième alinéa de l'article 13 bis de la loi du 31 décembre 1913 modifiée sur les monuments historiques,
-le préfet de région, saisi par le maire ou par l'autorité compétente pour délivrer le permis de construire par lettre
-recommandée avec demande d'avis de réception dans un délai d'un mois à compter de la réception de l'avis émis par
-l'architecte des Bâtiments de France, émet, après consultation de la commission régionale du patrimoine et des sites, un avis
-qui se substitue à celui de l'architecte des Bâtiments de France.
+En application du troisième alinéa de l'article 13 bis de la loi du 31 décembre 1913 sur les monuments historiques, le préfet
+de région est saisi par lettre recommandée avec demande d'avis de réception soit :
 
-Lorsque le maire n'est pas l'autorité compétente pour délivrer le permis, le préfet de région notifie à cette autorité la
-demande qui lui est adressée par le maire.
+a) Par le maire ou l'autorité compétente pour délivrer le permis de construire, dans le délai d'un mois à compter de la
+réception de l'avis émis par l'architecte des Bâtiments de France ;
 
-L'avis du préfet de région est notifié au maire et à l'autorité compétente pour délivrer le permis. Le préfet de région est
-réputé confirmer l'avis de l'architecte des Bâtiments de France s'il ne se prononce pas dans un délai de quatre mois à
-compter de sa saisine, sauf si le dossier a, dans ce délai, été évoqué par le ministre chargé de la culture. Dans ce cas, le
-permis ne peut être délivré qu'avec l'accord exprès de ce dernier. La décision d'évoquer le dossier prise par le ministre est
-notifiée au pétitionnaire, au maire et à l'autorité compétente.
+b) Par le pétitionnaire, dans le délai de deux mois à compter de la notification du refus de permis de construire.
+
+Lorsqu'ils ne sont pas l'auteur de la saisine, le pétitionnaire, le maire ou l'autorité compétente en matière de permis de
+construire reçoivent notification par le préfet de région de la demande dont il est saisi.
+
+Le préfet de région émet après consultation de la section de la commission régionale du patrimoine et des sites un avis qui
+se substitue à celui de l'architecte des Bâtiments de France.
+
+L'avis du préfet de région est notifié au maire et à l'autorité compétente pour délivrer le permis ainsi qu'au pétitionnaire.
+
+Le préfet de région se prononce dans un délai de trois mois à compter de sa saisine, sauf si le dossier a, dans ce délai, été
+évoqué par le ministre chargé de la culture. Dans ce cas, le permis ne peut être délivré qu'avec l'accord exprès de ce
+dernier. La décision d'évoquer le dossier prise par le ministre est notifiée au pétitionnaire, au maire ou à l'autorité
+compétente pour délivrer le permis.
+
+En cas de recours du pétitionnaire, si le préfet de région, ou le ministre en cas d'évocation, infirme l'avis de l'architecte
+des Bâtiments de France, le maire ou l'autorité compétente pour délivrer le permis doit statuer à nouveau dans le délai d'un
+mois suivant la réception du nouvel avis.
+
+Dans la collectivité territoriale de Corse, les attributions conférées par le présent article au préfet de région sont
+exercées par le préfet de Corse.
 
 **Liens relatifs à cet article**
 
@@ -45025,13 +45046,13 @@ _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°99-78 du 5 février 1999 - art. 17 (M)
-
 _Modifié par_:
 
-  - Décret n°99-78 du 5 février 1999 - art. 9 () JORF 7 février 1999 en vigueur le 1er mai 1999
+  - Décret n°2004-142 du 12 février 2004 - art. 14 () JORF 14 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 _Cité par_:
 
@@ -45051,33 +45072,39 @@ par décret en application des articles 17 ou 28 de la loi du 2 mai 1930, le per
 l'accord exprès de l'autorité compétente en application du décret 88-1124 du 15 décembre 1988 , ou de l'autorité mentionnée
 dans le décret instituant la zone de protection.
 
-II. - Lorsque la construction se trouve dans une zone de protection du patrimoine architectural et urbain, le permis de
-construire ne peut être délivré qu'avec l'accord de l'architecte des bâtiments de France. Cet accord [*tacite*] est réputé
-favorable faute de réponse dans le délai d'un mois suivant la transmission de la demande de permis de construire par
-l'autorité chargée de son instruction, sauf si l'architecte des bâtiments de France fait connaître dans ce délai, par une
-décision motivée, à cette autorité, son intention d'utiliser un délai plus long qui ne peut, en tout état de cause, excéder
-quatre mois.
+II. - Lorsque la construction se trouve dans une zone de protection du patrimoine architectural, urbain et paysager le permis
+de construire ne peut être délivré qu'avec l'accord de l'architecte des bâtiments de France. Cet accord est réputé favorable
+faute de réponse dans le délai d'un mois suivant la transmission de la demande de permis de construire par l'autorité chargée
+de son instruction, sauf si l'architecte des bâtiments de France fait connaître dans ce délai, par une décision motivée, à
+cette autorité, son intention d'utiliser un délai plus long qui ne peut, en tout état de cause, excéder quatre mois.
 
-En application du deuxième alinéa de l'article 71 de la loi n° 83-8 du 7 janvier 1983 modifiée, le préfet de région, saisi
-par le maire ou par l'autorité compétente pour délivrer le permis de construire par lettre recommandée avec demande d'avis de
-réception dans un délai d'un mois à compter de la réception de l'avis émis par l'architecte des Bâtiments de France, émet,
-après consultation de la commission régionale du patrimoine et des sites, un avis qui se substitue à celui de l'architecte
-des Bâtiments de France.
+En application du deuxième alinéa de l'article 71 de la loi du 7 janvier 1983 relative à la répartition de compétences entre
+les communes, les départements, les régions et l'Etat, le préfet de région est saisi par lettre recommandée avec demande
+d'avis de réception soit :
 
-Lorsque le maire n'est pas l'autorité compétente pour délivrer le permis, le préfet de région notifie à cette autorité la
-demande qui lui est adressée par le maire.
+a) Par le maire ou l'autorité compétente pour délivrer le permis de construire, dans le délai d'un mois à compter de la
+réception de l'avis émis par l'architecte des Bâtiments de France ;
 
-L'avis du préfet de région est notifié au maire et à l'autorité compétente pour délivrer le permis. Le préfet de région est
-réputé confirmer l'avis de l'architecte des Bâtiments de France s'il ne se prononce pas dans un délai de quatre mois à
-compter de sa saisine, sauf si le dossier a, dans ce délai, été évoqué par le ministre chargé de la culture. Dans ce cas, le
-permis ne peut être délivré qu'avec l'accord exprès de ce dernier. La décision d'évoquer le dossier prise par le ministre est
-notifiée au pétitionnaire, au maire et à l'autorité compétente.
+b) Par le pétitionnaire, dans le délai de deux mois à compter de la notification du refus de permis de construire.
+
+Lorsqu'ils ne sont pas l'auteur de la saisine, le pétitionnaire, le maire ou l'autorité compétente en matière de permis de
+construire reçoivent notification par le préfet de région de la demande dont il est saisi.
+
+Le préfet de région émet après consultation de la section de la commission régionale du patrimoine et des sites un avis qui
+se substitue à celui de l'architecte des Bâtiments de France.
+
+L'avis du préfet de région est notifié au maire et à l'autorité compétente pour délivrer le permis, ainsi qu'au
+pétitionnaire.
+
+Le préfet de région se prononce dans un délai de trois mois à compter de sa saisine, sauf si le dossier a, dans ce délai, été
+évoqué par le ministre chargé de la culture. Dans ce cas, le permis ne peut être délivré qu'avec l'accord exprès de ce
+dernier. La décision d'évoquer le dossier prise par le ministre est notifiée au pétitionnaire, au maire ou à l'autorité
+compétente pour délivrer le permis.
+
+Dans la collectivité territoriale de Corse, les attributions conférées par le présent article au préfet de région sont
+exercées par le préfet de Corse.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
 
 _Cite_:
 
@@ -45085,21 +45112,19 @@ _Cite_:
   - Décret n°88-1124 1988-12-15
   - Loi n°1930-05-02 art. 17, art. 28
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
-  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
-  - SPEC_APPLI: Décret n°99-78 du 5 février 1999 - art. 17 (M)
-
 _Modifié par_:
 
-  - Décret n°99-78 du 5 février 1999 - art. 10 () JORF 7 février 1999 en vigueur le 1er mai 1999
+  - Décret n°2004-142 du 12 février 2004 - art. 15 () JORF 14 février 2004
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R*442-11-1 (Ab)
   - Code de l'urbanisme - art. R*443-7-2 (Ab)
   - Code de l'urbanisme - art. R421-38-8 (M)
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*421-38-8
@@ -45306,18 +45331,18 @@ _Modifié par_:
 Lorsque la construction est située dans un secteur sauvegardé, la demande de permis de construire est instruite comme il est
 dit aux articles R. 313-13 ou R. 313-19-2.
 
-En outre, lorsqu'il est fait application du troisième alinéa de l'article L. 313-2, il est procédé ainsi qu'il est dit aux
+En outre, lorsqu'il est fait application du quatrième alinéa de l'article L. 313-2, il est procédé ainsi qu'il est dit aux
 articles R. 313-17-1 et R. 313-17-2.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°99-78 du 5 février 1999 - art. 17 (M)
-
 _Modifié par_:
 
-  - Décret n°99-78 du 5 février 1999 - art. 8 () JORF 7 février 1999 en vigueur le 1er mai 1999
+  - Décret n°2004-142 du 12 février 2004 - art. 16 () JORF 14 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 _Cite_:
 
@@ -46496,6 +46521,54 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
+###### Article R*422-8-1
+
+I. - Lorsque le projet objet de la déclaration de travaux est situé dans le champ de visibilité d'un édifice classé ou
+inscrit, dans une zone de protection du patrimoine architectural, urbain et paysager ou dans un secteur sauvegardé, le préfet
+de région est saisi par lettre recommandée avec demande d'avis de réception soit :
+
+a) Par le maire ou l'autorité compétente pour délivrer le permis de construire, dans le délai d'un mois à compter de la
+réception de l'avis émis par l'architecte des Bâtiments de France ;
+
+b) Par le pétitionnaire, dans le délai de deux mois à compter de la notification de la décision d'opposition.
+
+Lorsqu'ils ne sont pas l'auteur de la saisine, le pétitionnaire, le maire ou l'autorité compétente en matière de permis de
+construire reçoivent notification par le préfet de région de la demande dont il est saisi.
+
+Le préfet de région émet, après consultation de la section de la commission régionale du patrimoine et des sites, un avis qui
+se substitue à celui de l'architecte des Bâtiments de France.
+
+L'avis du préfet de région est notifié au maire et à l'autorité compétente pour délivrer le permis de construire, ainsi qu'au
+pétitionnaire.
+
+Le préfet de région se prononce dans un délai de trois mois à compter de sa saisine.
+
+II. - Dans le cas prévu à l'article R. 421-38-4, en cas de recours du pétitionnaire, si le préfet de région infirme l'avis de
+l'architecte des Bâtiments de France, le maire ou l'autorité compétente pour délivrer le permis de construire doit statuer à
+nouveau dans le délai d'un mois suivant la réception du nouvel avis.
+
+Dans la collectivité territoriale de Corse les attributions conférées par le présent article au préfet de région sont
+exercées par le préfet de Corse.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+_Créé par_:
+
+  - Décret n°2004-142 du 12 février 2004 - art. 17 () JORF 14 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2007-18 du 5 janvier 2007 - art. 9
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R421-38-4 (M)
+
+
 ###### Article R*422-9
 
 Dans les communes où un plan local d'urbanisme a été approuvé, à l'exclusion des cas mentionnés au quatrième alinéa de
@@ -47460,7 +47533,9 @@ leur délégué, lorsque l'immeuble est, selon le cas :
 
 3° Protégé au titre des articles 4 ou 9 de la loi du 2 mai 1930 ;
 
-4° Compris dans un secteur sauvegardé.
+4° Compris dans un secteur sauvegardé ;
+
+5° Compris dans une zone de protection du patrimoine architectural, urbain ou paysager.
 
 **Liens relatifs à cet article**
 
@@ -47468,66 +47543,79 @@ _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-224 1984-03-29 ART. 21, ART. 22 : modalités d'application
-  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
-
 _Modifié par_:
 
-  - Décret n°86-984 1986-08-19 art. 7 XXXVI JORF 27 août 1986
+  - Décret n°2004-142 du 12 février 2004 - art. 18 () JORF 14 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 _Cite_:
 
-  - Loi n°1930-05-02 art. 9, art. 4
+  - Loi n°1930-05-02 art. 4, art. 9
 
 
 ###### Article R*430-12-1
 
-En application du troisième alinéa de l'article 13 bis de la loi du 31 décembre 1913 modifiée sur les monuments historiques,
-le préfet de région, saisi par le maire ou par l'autorité compétente pour délivrer le permis de démolir par lettre
-recommandée avec demande d'avis de réception dans un délai d'un mois à compter de la réception de l'avis émis par
-l'architecte des Bâtiments de France, émet, après consultation de la commission régionale du patrimoine et des sites, un avis
-qui se substitue à celui de l'architecte des Bâtiments de France.
+En application du troisième alinéa de l'article 13 bis de la loi du 31 décembre 1913 sur les monuments historiques, le préfet
+de région est saisi par lettre recommandée avec demande d'avis de réception soit :
 
-Lorsque le maire n'est pas l'autorité compétente pour délivrer le permis, le préfet de région notifie à cette autorité la
-demande qui lui est adressée par le maire.
+a) Par le maire ou l'autorité compétente pour délivrer le permis de démolir, dans le délai d'un mois à compter de la
+réception de l'avis émis par l'architecte des Bâtiments de France ;
 
-Lorsque le maire ou l'autorité compétente saisit le préfet de région de l'avis de l'architecte des Bâtiments de France dans
-les conditions prévues au premier alinéa, le délai au terme duquel le permis est réputé accordé faute de notification par
-l'autorité compétente d'une décision expresse est suspendu jusqu'à la notification à l'autorité compétente de l'avis du
-préfet de région ou l'expiration du délai de quatre mois prévu au cinquième alinéa du présent article.
+b) Par le pétitionnaire, dans le délai de deux mois à compter de la notification de la décision de rejet total ou partiel du
+permis de démolir.
+
+Lorsqu'ils ne sont pas l'auteur de la saisine, le pétitionnaire, le maire ou l'autorité compétente pour délivrer le permis de
+démolir doivent se voir notifier par le préfet de région la demande dont il est saisi.
+
+Le préfet de région émet après consultation de la section de la commission régionale du patrimoine et des sites un avis qui
+se substitue à celui de l'architecte des Bâtiments de France.
+
+L'avis du préfet de région est notifié au maire et à l'autorité compétente pour délivrer le permis, ainsi qu'au
+pétitionnaire.
+
+Le préfet de région se prononce dans un délai de trois mois à compter de sa saisine, sauf si le dossier a, dans ce délai, été
+évoqué par le ministre chargé de la culture. Dans ce cas, le permis ne peut être délivré qu'avec l'accord exprès de ce
+dernier.
+
+Lorsque le maire ou l'autorité compétente pour délivrer le permis de démolir saisit le préfet de région de l'avis de
+l'architecte des Bâtiments de France dans les conditions prévues au deuxième alinéa, le délai au terme duquel le permis est
+réputé accordé faute de notification d'une décision expresse est suspendu jusqu'à la notification à l'autorité compétente de
+l'avis du préfet de région ou l'expiration du délai de trois mois prévu au septième alinéa du présent article.
 
 Le préfet de région avise le pétitionnaire, par la voie administrative ou par lettre recommandée avec demande d'avis de
-réception, qu'il est saisi en application du premier alinéa du présent article et mentionne que le délai au terme duquel le
-permis est réputé accordé faute de notification par l'autorité compétente d'une décision expresse est suspendu conformément
-aux dispositions du troisième alinéa.
+réception, qu'il est saisi en application du deuxième alinéa du présent article et mentionne que le délai au terme duquel le
+permis est réputé accordé est suspendu conformément aux dispositions de l'alinéa précédent.
 
-L'avis du préfet de région est notifié au maire et à l'autorité compétente pour délivrer le permis. Le préfet de région est
-réputé confirmer l'avis de l'architecte des Bâtiments de France s'il ne se prononce pas dans un délai de quatre mois à
-compter de sa saisine, sauf si le dossier a, dans ce délai, été évoqué par le ministre chargé de la culture. Dans ce cas, le
-permis ne peut être délivré qu'avec l'accord exprès de ce dernier.
-
-Lorsque le ministre chargé de la culture décide d'évoquer le dossier en application du cinquième alinéa du présent article,
-le délai au terme duquel le permis est réputé accordé faute de notification par l'autorité compétente d'une décision expresse
+Lorsque le ministre chargé de la culture décide d'évoquer le dossier en application du septième alinéa du présent article, le
+délai au terme duquel le permis est réputé accordé faute de notification par l'autorité compétente d'une décision expresse
 est suspendu jusqu'à la notification à l'autorité compétente de l'avis du ministre. La décision d'évoquer le dossier prise
 par le ministre est notifiée au pétitionnaire, au maire et à l'autorité compétente. La notification adressée au pétitionnaire
 mentionne que le délai au terme duquel le permis est réputé accordé faute de notification par l'autorité compétente d'une
 décision expresse est suspendu jusqu'à ce que le ministre se soit prononcé, dans les conditions prévues au présent alinéa.
 
+En cas de recours du pétitionnaire, si le préfet de région, ou le ministre en cas d'évocation, infirme l'avis de l'architecte
+des Bâtiments de France, le maire ou l'autorité compétente pour délivrer le permis doit statuer à nouveau dans le délai d'un
+mois suivant la réception du nouvel avis.
+
+Dans la collectivité territoriale de Corse, les attributions conférées par le présent article au préfet de région sont
+exercées par le préfet de Corse.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°99-78 du 5 février 1999 - art. 11 () JORF 7 février 1999 en vigueur le 1er mai 1999
+  - Décret n°2004-142 du 12 février 2004 - art. 19 () JORF 14 février 2004
 
-**Liens**:
+_Abrogé par_:
 
-  - SPEC_APPLI: Décret n°99-78 du 5 février 1999 - art. 17 (M)
+  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 _Cite_:
 
@@ -47536,25 +47624,50 @@ _Cite_:
 
 ###### Article R*430-13
 
-Lorsque le bâtiment se situe dans une zone de protection du patrimoine architectural et urbain, la décision doit être
-conforme à l'avis de l'architecte des bâtiments de France.
+Lorsque le bâtiment se situe dans une zone de protection du patrimoine architectural, urbain et paysager la décision doit
+être conforme à l'avis de l'architecte des bâtiments de France.
 
-En application du deuxième alinéa de l'article 71 de la loi n° 83-8 du 7 janvier 1983 modifiée, le préfet de région, saisi
-par le maire ou par l'autorité compétente pour délivrer le permis de démolir par lettre recommandée avec demande d'avis de
-réception dans un délai d'un mois à compter de la réception de l'avis émis par l'architecte des Bâtiments de France, émet,
-après consultation de la commission régionale du patrimoine et des sites, un avis qui se substitue à celui de l'architecte
-des Bâtiments de France.
+En application du deuxième alinéa de l'article 71 de la loi du 7 janvier 1983 relative à la répartition de compétences entre
+les communes, les départements, les régions et l'Etat, le préfet de région est saisi par lettre recommandée avec demande
+d'avis de réception soit :
 
-Lorsque le maire n'est pas l'autorité compétente pour délivrer le permis, le préfet de région notifie à cette autorité la
-demande qui lui est adressée par le maire. Le préfet de région informe le pétitionnaire, par la voie administrative ou par
-lettre recommandée avec demande d'avis de réception, qu'il est saisi en application du deuxième alinéa de l'article 71 de la
-loi n° 83-8 du 7 janvier 1983 modifiée.
+a) Par le maire ou l'autorité compétente pour délivrer le permis de démolir, dans un délai d'un mois à compter de la
+réception de l'avis émis par l'architecte des Bâtiments de France ;
 
-L'avis du préfet de région est notifié au maire et à l'autorité compétente pour délivrer le permis. Le préfet de région est
-réputé confirmer l'avis de l'architecte des Bâtiments de France s'il ne se prononce pas dans un délai de quatre mois à
-compter de sa saisine, sauf si le dossier a, dans ce délai, été évoqué par le ministre chargé de la culture. Dans ce cas, le
-permis ne peut être délivré qu'avec l'accord exprès de ce dernier. La décision d'évoquer le dossier prise par le ministre est
-notifiée au pétitionnaire, au maire et à l'autorité compétente pour délivrer le permis.
+b) Par le pétitionnaire, dans le délai de deux mois à compter de la notification de la décision de rejet total ou partiel du
+permis de démolir.
+
+Lorsqu'ils ne sont pas l'auteur de la saisine, le pétitionnaire, le maire ou l'autorité compétente pour délivrer le permis de
+démolir reçoivent notification par le préfet de région de la demande dont il est saisi.
+
+Le préfet de région émet après consultation de la section de la commission régionale du patrimoine et des sites un avis qui
+se substitue à celui de l'architecte des Bâtiments de France.
+
+L'avis du préfet de région est notifié au maire et à l'autorité compétente pour délivrer le permis, ainsi qu'au
+pétitionnaire.
+
+Le préfet de région se prononce dans un délai de trois mois à compter de sa saisine, sauf si le dossier a, dans ce délai, été
+évoqué par le ministre chargé de la culture. Dans ce cas, le permis ne peut être délivré qu'avec l'accord exprès de ce
+dernier.
+
+Lorsque le maire ou l'autorité compétente pour délivrer le permis de démolir saisit le préfet de région de l'avis de
+l'architecte des Bâtiments de France dans les conditions prévues au troisième alinéa, le délai au terme duquel le permis est
+réputé accordé faute de notification d'une décision expresse est suspendu jusqu'à la notification à l'autorité compétente de
+l'avis du préfet de région ou l'expiration du délai de trois mois prévu au huitième alinéa du présent article.
+
+Le préfet de région avise le pétitionnaire, par la voie administrative ou par lettre recommandée avec demande d'avis de
+réception, qu'il est saisi en application du troisième alinéa du présent article et mentionne que le délai au terme duquel le
+permis est réputé accordé est suspendu conformément aux dispositions de l'alinéa précédent.
+
+Lorsque le ministre chargé de la culture décide d'évoquer le dossier en application du huitième alinéa du présent article, le
+délai au terme duquel le permis est réputé accordé faute de notification par l'autorité compétente d'une décision expresse
+est suspendu jusqu'à la notification à l'autorité compétente de l'avis du ministre. La décision d'évoquer le dossier prise
+par le ministre est notifiée au pétitionnaire, au maire et à l'autorité compétente. La notification adressée au pétitionnaire
+mentionne que le délai au terme duquel le permis est réputé accordé faute de notification par l'autorité compétente d'une
+décision expresse est suspendu jusqu'à ce que le ministre se soit prononcé, dans les conditions prévues au présent alinéa.
+
+Dans la collectivité territoriale de Corse, les attributions conférées par le présent article au préfet de région sont
+exercées par le préfet de Corse.
 
 **Liens relatifs à cet article**
 
@@ -47566,15 +47679,9 @@ _Cite_:
 
   - Loi n°83-8 1983-01-07 art. 71
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-224 1984-03-29 ART. 21, ART. 22 : modalités d'application
-  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
-  - SPEC_APPLI: Décret n°99-78 du 5 février 1999 - art. 17 (M)
-
 _Modifié par_:
 
-  - Décret n°99-78 du 5 février 1999 - art. 12 () JORF 7 février 1999 en vigueur le 1er mai 1999
+  - Décret n°2004-142 du 12 février 2004 - art. 20 () JORF 14 février 2004
 
 
 ###### Article R*430-15
@@ -48744,20 +48851,33 @@ _Codifié par_:
 
 ###### Article R442-4-8-1
 
-Lorsque l'autorisation prévue au premier alinéa de l'article 13 bis de la loi du 31 décembre 1913 modifiée sur les monuments
-historiques est requise, et en application du troisième alinéa dudit article, le préfet de région, saisi par le maire ou par
-l'autorité compétente pour délivrer l'autorisation mentionnée à l'article R. 442-2 par lettre recommandée avec demande d'avis
-de réception dans un délai d'un mois à compter de la réception de l'avis émis par l'architecte des Bâtiments de France, émet,
-après consultation de la commission régionale du patrimoine et des sites, un avis qui se substitue à celui de l'architecte
-des Bâtiments de France.
+Lorsque l'autorisation prévue au premier alinéa de l'article 13 bis de la loi du 31 décembre 1913 sur les monuments
+historiques est requise, et en application du troisième alinéa dudit article, le préfet de région est saisi par lettre
+recommandée avec demande d'avis de réception soit :
 
-Lorsque le maire n'est pas l'autorité compétente pour délivrer l'autorisation, le préfet de région notifie à cette autorité
-la demande qui lui est adressée par le maire.
+a) Par le maire ou l'autorité compétente pour délivrer l'autorisation mentionnée à l'article R. 442-2, dans le délai d'un
+mois à compter de la réception de l'avis émis par l'architecte des Bâtiments de France ;
 
-L'avis du préfet de région est notifié au maire et à l'autorité compétente pour délivrer l'autorisation. Le préfet de région
-est réputé confirmer l'avis de l'architecte des Bâtiments de France s'il ne se prononce pas dans un délai de quatre mois à
-compter de sa saisine, sauf si le dossier a, dans ce délai, été évoqué par le ministre chargé de la culture. Dans ce cas,
-l'autorisation ne peut être délivrée qu'avec l'accord exprès de ce dernier.
+b) Par le pétitionnaire, dans le délai de deux mois à compter de la notification de la décision de rejet de la demande.
+
+Lorsqu'ils ne sont pas l'auteur de la saisine, le pétitionnaire, le maire ou l'autorité compétente pour délivrer
+l'autorisation doivent se voir notifier par le préfet de région la demande dont il est saisi.
+
+Le préfet de région émet après consultation de la section de la commission régionale du patrimoine et des sites un avis qui
+se substitue à celui de l'architecte des Bâtiments de France.
+
+L'avis du préfet de région est notifié au maire et à l'autorité compétente pour délivrer l'autorisation, ainsi qu'au
+pétitionnaire. Le préfet de région se prononce dans un délai de trois mois à compter de sa saisine, sauf si le dossier a,
+dans ce délai, été évoqué par le ministre chargé de la culture. Dans ce cas, l'autorisation ne peut être délivrée qu'avec
+l'accord exprès de ce dernier. La décision d'évoquer le dossier ainsi que l'avis conforme du ministre sont notifiés au
+pétitionnaire, au maire et à l'autorité compétente pour délivrer l'autorisation.
+
+En cas de recours du pétitionnaire, si le préfet de région, ou le ministre en cas d'évocation, infirme l'avis de l'architecte
+des Bâtiments de France, le maire ou l'autorité compétente pour délivrer le permis doit statuer à nouveau dans le délai d'un
+mois suivant la réception du nouvel avis.
+
+Dans la collectivité territoriale de Corse, les attributions conférées par le présent article au préfet de région sont
+exercées par le préfet de Corse.
 
 **Liens relatifs à cet article**
 
@@ -48765,13 +48885,13 @@ _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°99-78 du 5 février 1999 - art. 13 () JORF 7 février 1999 en vigueur le 1er mai 1999
+  - Décret n°2004-142 du 12 février 2004 - art. 21 () JORF 14 février 2004
 
-**Liens**:
+_Abrogé par_:
 
-  - SPEC_APPLI: Décret n°99-78 du 5 février 1999 - art. 17 (M)
+  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 _Cite_:
 

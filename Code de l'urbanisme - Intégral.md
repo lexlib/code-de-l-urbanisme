@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1987-09-11
+Version Consolidée au 1987-10-23
 ## Contenu: 
   - [Partie législative (art. L110 à L550-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -57,7 +57,7 @@ Version Consolidée au 1987-09-11
           - [Section 2 : Restauration immobilière (art. L313-4 à L313-4-3)](#54)
           - [Section 3 : Dispositions communes (art. L313-5 à L313-15)](#55)
         - [Chapitre IV : Protection des occupants (art. L314-1 à L314-9)](#56)
-        - [Chapitre V : Lotissements. (art. L315-1 à L315-8)](#57)
+        - [Chapitre V : Lotissements. (art. L315-1 à L315-9)](#57)
         - [Chapitre V : Lotissements et divisions de propriété. (art. L315-1-1 à L315-3)](#58)
         - [Chapitre VI : Sanctions pénales relatives aux lotissements. (art. L316-1 à L316-4)](#59)
         - [Chapitre VII : Amélioration de certains lotissements (art. L317-1 à L317-15)](#60)
@@ -11159,6 +11159,64 @@ _Cite_:
   - Code de l'urbanisme - art. L315-3 (M)
   - Code de l'urbanisme - art. L315-4 (M)
   - Code de l'urbanisme - art. L315-7 (Ab)
+
+
+###### Article L315-9
+
+Sont validés :
+
+1° Les autorisations de lotir délivrées à compter du 1er janvier 1978 :
+
+a) En tant qu'elles autorisent une surface hors oeuvre nette de construction résultant de l'application du coefficient
+d'occupation des sols à la surface totale du terrain ayant fait l'objet de la demande d'autorisation de lotir ;
+
+b) En tant qu'elles répartissent cette surface hors oeuvre nette entre les différents lots sans tenir compte de l'application
+du coefficient d'occupation des sols à chacun de ces lots ;
+
+c) En tant qu'elles prévoient que le lotisseur procède à cette répartition dans les mêmes conditions ;
+
+2° Les permis de construire délivrés sur le fondement des dispositions mentionnées au 1° ci-dessus en tant qu'ils autorisent
+l'édification de constructions d'une surface hors oeuvre nette supérieure à celle qui résulte de l'application du coefficient
+d'occupation des sols à la surface du lot ayant fait l'objet de la demande ;
+
+3° Les certificats d'urbanisme en tant qu'ils reconnaissent des possibilités de construire résultant des dispositions
+validées au 1° du présent article.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°87-565 du 22 juillet 1987 - art. 27 () JORF 23 octobre 1987
+
+_Transféré par_:
+
+  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 22 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L315-3 (M)
+  - Code de l'urbanisme - art. L315-4 (M)
+  - Code de l'urbanisme - art. L315-7 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. L480-10 (Ab)
+  - Code de l'urbanisme - art. L480-10 (M)
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 #### Chapitre V : Lotissements et divisions de propriété.<a id=58></a>

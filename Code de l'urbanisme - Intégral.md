@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1993-01-30
+Version Consolidée au 1993-03-17
 ## Contenu: 
   - [Partie législative (art. L110 à L550-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -46222,7 +46222,9 @@ _Abrogé par_:
 ###### Article R421-38-14
 
 La demande de permis de construire tient lieu de la déclaration mentionnée à l'article 50 du code du domaine public fluvial
-et de la navigation intérieure pour les constructions situées dans les parties submersibles des vallées.
+et de la navigation intérieure pour les constructions situées dans les parties submersibles des vallées, ou de la déclaration
+prévue par l'article 5-1 de la loi n° 82-600 du 13 juillet 1982 relative à l'indemnisation des victimes de catastrophes
+naturelles, pour les constructions situées dans un secteur couvert par un plan d'exposition aux risques naturels prévisibles.
 
 Dans un délai d'un mois à compter de la réception de la demande, le préfet peut, après consultation du service chargé des
 mesures de défense contre les inondations et du service chargé de la police des cours d'eau, s'opposer à la délivrance du
@@ -46230,11 +46232,18 @@ permis de construire ou ne donner son accord qu'à condition que le permis soit 
 assurer le libre écoulement des eaux ou la conservation des champs d'inondation. Après l'expiration de ce délai, le permis de
 construire est délivré dans les conditions du droit commun.
 
+**Nota:**
+
+NOTA : Décret 95-1089 art. 10 III : Cet article demeure toutefois en vigueur en tant qu'il est nécessaire à la mise en oeuvre
+des plans de surfaces submersibles valant plan de prévention des risques naturels prévisibles en application de l'article
+562-6 du code de l'environnement.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Code du domaine public fluvial 50
+  - Loi n°82-600 du 13 juillet 1982 - art. 5-1 (Ab)
 
 _Codifié par_:
 
@@ -46242,8 +46251,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°83-1261 1983-12-30 ART. 22, ART. 47 JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°93-351 du 15 mars 1993 - art. 13 () JORF 17 mars 1993
+
+_Abrogé par_:
+
+  - Décret n°95-1089 1995-10-05 art. 10 III sous réserve JORF 11 octobre 1995
+  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R421-38-16
@@ -50024,6 +50037,52 @@ _Cite_:
   - Code de l'urbanisme - art. L442-1 (M)
   - Code de l'urbanisme - art. R442-2 (M)
   - Loi n°1941-09-27
+
+
+###### Article R*442-14
+
+La demande d'autorisation prévue à l'article R. 442-2 tient lieu de la déclaration mentionnée à l'article 50 du code du
+domaine public fluvial ou de la déclaration mentionnée à l'article 5-1 de la loi n° 82-600 du 13 juillet 1982 relative à
+l'indemnisation des victimes de catastrophes naturelles pour les installations et travaux divers situés dans les secteurs
+couverts par un plan d'exposition aux risques naturels prévisibles.
+
+Dans un délai d'un mois à dater de la réception de la demande, le préfet peut, après consultation du service chargé des
+mesures de défense contre les inondations et du service chargé de la police des cours d'eau, s'opposer à la délivrance de
+l'autorisation d'installations et travaux divers ou ne donner son accord qu'à la condition que l'autorisation soit assortie
+des prescriptions nécessaires pour assurer le libre écoulement des eaux ou la conservation du champ des inondations. Après
+expiration de ce délai, l'autorisation est délivrée dans les conditions de droit commun.
+
+**Nota:**
+
+NOTA : Décret 95-1089 art. 10 III : Cet article demeure toutefois en vigueur en tant qu'il est nécessaire à la mise en oeuvre
+des plans de surfaces submersibles valant plan de prévention des risques naturels prévisibles en application de l'article L.
+562-6 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°82-600 du 13 juillet 1982 - art. 5-1 (Ab)
+  - Code de l'urbanisme - art. R442-2 (M)
+  - Code du domaine public fluvial 50
+
+_Créé par_:
+
+  - Décret n°93-351 du 15 mars 1993 - art. 15 () JORF 17 mars 1993
+
+_Abrogé par_:
+
+  - Décret n°95-1089 1995-10-05 art. 10 III JORF 11 octobre 1995
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. *R442-13 (V)
+  - Code de l'urbanisme - art. *R442-15 (V)
+  - Code de l'urbanisme - art. *R442-6 (V)
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R442-13

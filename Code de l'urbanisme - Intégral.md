@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1989-01-01
+Version Consolidée au 1989-01-06
 ## Contenu: 
   - [Partie législative (art. L110 à L550-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -472,35 +472,34 @@ Version Consolidée au 1989-01-01
           - [Section 2 : Grands camps à l'intérieur desquels les constructions et installations sont exemptées du permis de construire (art. A422-2)](#469)
         - [CHAPITRE IV : Etablissement de l'assiette et liquidation des impositions dont le permis de construire constitue le fait générateur (art. A424-1 à A424-6)](#470)
           - [Section 1 : Déconcentration auprès du maire. (art. A424-1 à A424-6)](#471)
-      - [TITRE III : Permis de démolir (art. A430-2 à A430-4)](#472)
-        - [Section 1 : Régime général (art. A430-2 à A430-1)](#473)
-          - [Sous-section 1 : Présentation de la demande. (art. A430-1)](#474)
-        - [Section 4 : Formalités postérieures à la délivrance du permis de de démolir. (art. A430-4)](#475)
-      - [Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol. (art. A441-1 à A443-4)](#476)
-        - [CHAPITRE I : Clôtures. (art. A441-1)](#477)
-        - [CHAPITRE II : Installations et travaux divers. (art. A442-1)](#478)
-        - [CHAPITRE III : Stationnement des caravanes (art. A443-1 à A443-9)](#479)
-          - [Paragraphe 1 : Stationnement en dehors des terrains aménagés (art. A443-1 à A443-2)](#480)
-          - [Paragraphe 2 : Stationnement sur des terrains aménagés (art. A443-6 à A443-9)](#481)
-        - [CHAPITRE III : Camping et stationnement des caravanes (art. A443-3 à A443-4)](#482)
-          - [Paragraphe 1 : Stationnement en dehors des terrains aménagés. (art. A443-3 à A443-4)](#483)
-      - [TITRE VI : Contrôle (art. A460-1 à A460-2)](#484)
-        - [Section 1 : Déclaration d'achèvement des travaux et certificat de conformité. (art. A460-1 à A460-2)](#485)
-      - [TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres Ier à IV et VI du présent livre (art. A490-1)](#486)
-    - [Livre  V : Implantation des services, établissements et entreprises (art. A510-1 à A520-11)](#487)
-      - [TITRE I : Dispositions administratives générales. (art. A510-1 à A510-8)](#488)
-      - [Titre  II : Dispositions financières concernant la région d'Ile-de-France (art. A520-1 à A520-11)](#489)
-        - [Section 1 : Dispositions générales (art. A520-1 à A520-11)](#490)
-          - [Sous-section 1 : Perception des redevances (art. A520-1 à A520-3)](#491)
-          - [Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance (art. A520-4 à A520-11)](#492)
-    - [Livre  VI : Organismes consultatifs et dispositions diverses (art. A611-1 à A614-4)](#493)
-      - [Titre Ier : Organismes consultatifs (art. A611-1 à A614-4)](#494)
-        - [CHAPITRE I : Commissions départementales d'urbanisme. (art. A611-1 à A611-7)](#495)
-        - [CHAPITRE II : Conférence permanente du permis de contruire (art. A612-1 à A612-9)](#496)
-          - [Section 1 : Conférence permanente du permis de construire instituée dans les départements situés hors de la région d'Ile-de-France. (art. A612-1 à A612-4)](#497)
-          - [Section 2 : Conférence permanente du permis de construire des départements de la région d'Ile-de-France. (art. A612-5 à A612-9)](#498)
-        - [CHAPITRE III : Comité d'aménagement de la région Ile-de-France. (art. A613-1 à A613-10)](#499)
-        - [CHAPITRE IV : Architectes-conseils (art. A614-2 à A614-4)](#500)
+      - [TITRE III : Permis de démolir (art. A430-1 à A430-4)](#472)
+        - [Section 1 : Régime général (art. A430-1 à A430-2)](#473)
+        - [Section 4 : Formalités postérieures à la délivrance du permis de de démolir. (art. A430-4)](#474)
+      - [Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol. (art. A441-1 à A443-4)](#475)
+        - [CHAPITRE I : Clôtures. (art. A441-1)](#476)
+        - [CHAPITRE II : Installations et travaux divers. (art. A442-1)](#477)
+        - [CHAPITRE III : Stationnement des caravanes (art. A443-1 à A443-9)](#478)
+          - [Paragraphe 1 : Stationnement en dehors des terrains aménagés (art. A443-1 à A443-2)](#479)
+          - [Paragraphe 2 : Stationnement sur des terrains aménagés (art. A443-6 à A443-9)](#480)
+        - [CHAPITRE III : Camping et stationnement des caravanes (art. A443-3 à A443-4)](#481)
+          - [Paragraphe 1 : Stationnement en dehors des terrains aménagés. (art. A443-3 à A443-4)](#482)
+      - [TITRE VI : Contrôle (art. A460-1 à A460-2)](#483)
+        - [Section 1 : Déclaration d'achèvement des travaux et certificat de conformité. (art. A460-1 à A460-2)](#484)
+      - [TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres Ier à IV et VI du présent livre (art. A490-1)](#485)
+    - [Livre  V : Implantation des services, établissements et entreprises (art. A510-1 à A520-11)](#486)
+      - [TITRE I : Dispositions administratives générales. (art. A510-1 à A510-8)](#487)
+      - [Titre  II : Dispositions financières concernant la région d'Ile-de-France (art. A520-1 à A520-11)](#488)
+        - [Section 1 : Dispositions générales (art. A520-1 à A520-11)](#489)
+          - [Sous-section 1 : Perception des redevances (art. A520-1 à A520-3)](#490)
+          - [Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance (art. A520-4 à A520-11)](#491)
+    - [Livre  VI : Organismes consultatifs et dispositions diverses (art. A611-1 à A614-4)](#492)
+      - [Titre Ier : Organismes consultatifs (art. A611-1 à A614-4)](#493)
+        - [CHAPITRE I : Commissions départementales d'urbanisme. (art. A611-1 à A611-7)](#494)
+        - [CHAPITRE II : Conférence permanente du permis de contruire (art. A612-1 à A612-9)](#495)
+          - [Section 1 : Conférence permanente du permis de construire instituée dans les départements situés hors de la région d'Ile-de-France. (art. A612-1 à A612-4)](#496)
+          - [Section 2 : Conférence permanente du permis de construire des départements de la région d'Ile-de-France. (art. A612-5 à A612-9)](#497)
+        - [CHAPITRE III : Comité d'aménagement de la région Ile-de-France. (art. A613-1 à A613-10)](#498)
+        - [CHAPITRE IV : Architectes-conseils (art. A614-2 à A614-4)](#499)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Règles générales d'aménagement et d'urbanisme<a id=2></a>
@@ -55347,6 +55346,44 @@ _Codifié par_:
 
 #### Section 1 : Régime général<a id=473></a>
 
+###### Article A430-1
+
+La demande de permis de démolir prévue à l'article R. 430-1 est établie conformément au modèle joint en annexe au présent
+article.
+
+**Nota:**
+
+Nota : Cet imprimé est enregistré au Cerfa sous le numéro 46-0405 (imprimé PC 020). Il peut être obtenu auprès des mairies ou
+des directions départementales de l'équipement.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-10-29 art. 1 JORF 19 novembre 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 1993-10-29 art. 2
+
+_Abrogé par_:
+
+  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
+
+_Codifié par_:
+
+  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+_Cité par_:
+
+  - Arrêté du 29 octobre 1993 - art. 1 (V)
+  - Arrêté du 29 octobre 1993 - art. 2 (V)
+
+_Cite_:
+
+  - Code de l'urbanisme R430-1
+
+
 ###### Article A430-2
 
 Toute demande de permis de démolir concernant un bâtiment comportant un ou plusieurs logements soumis à la loi n. 48-1360 du
@@ -55374,30 +55411,7 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-##### Sous-section 1 : Présentation de la demande.<a id=474></a>
-
-###### Article A430-1
-
-La demande de permis de démolir prévue à l'article R. 430-6, est établie conformément au modèle joint en annexe au présent
-code.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-_Cité par_:
-
-  - Arrêté du 29 octobre 1993 - art. 1 (V)
-  - Arrêté du 29 octobre 1993 - art. 2 (V)
-
-_Cite_:
-
-  - Code de l'urbanisme R430-6
-
-
-#### Section 4 : Formalités postérieures à la délivrance du permis de de démolir.<a id=475></a>
+#### Section 4 : Formalités postérieures à la délivrance du permis de de démolir.<a id=474></a>
 
 ###### Article A430-4
 
@@ -55411,9 +55425,9 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-### Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.<a id=476></a>
+### Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.<a id=475></a>
 
-#### CHAPITRE I : Clôtures.<a id=477></a>
+#### CHAPITRE I : Clôtures.<a id=476></a>
 
 ###### Article A441-1
 
@@ -55437,7 +55451,7 @@ _Cite_:
   - Code de l'urbanisme R441-4
 
 
-#### CHAPITRE II : Installations et travaux divers.<a id=478></a>
+#### CHAPITRE II : Installations et travaux divers.<a id=477></a>
 
 ###### Article A442-1
 
@@ -55456,9 +55470,9 @@ _Cite_:
   - Code de l'urbanisme - art. R442-9 (M)
 
 
-#### CHAPITRE III : Stationnement des caravanes<a id=479></a>
+#### CHAPITRE III : Stationnement des caravanes<a id=478></a>
 
-##### Paragraphe 1 : Stationnement en dehors des terrains aménagés<a id=480></a>
+##### Paragraphe 1 : Stationnement en dehors des terrains aménagés<a id=479></a>
 
 ###### Article A443-1
 
@@ -55513,7 +55527,7 @@ _Cité par_:
   - Code de l'urbanisme - art. A443-3 (M)
 
 
-##### Paragraphe 2 : Stationnement sur des terrains aménagés<a id=481></a>
+##### Paragraphe 2 : Stationnement sur des terrains aménagés<a id=480></a>
 
 ###### Article A443-6
 
@@ -55652,9 +55666,9 @@ _Codifié par_:
   - Décret n°77-38 1977-12-28 JORF 18 JANVIER 1977
 
 
-#### CHAPITRE III : Camping et stationnement des caravanes<a id=482></a>
+#### CHAPITRE III : Camping et stationnement des caravanes<a id=481></a>
 
-##### Paragraphe 1 : Stationnement en dehors des terrains aménagés.<a id=483></a>
+##### Paragraphe 1 : Stationnement en dehors des terrains aménagés.<a id=482></a>
 
 ###### Article A443-3
 
@@ -55698,9 +55712,9 @@ _Cite_:
   - Code de l'urbanisme - art. R443-4 (M)
 
 
-### TITRE VI : Contrôle<a id=484></a>
+### TITRE VI : Contrôle<a id=483></a>
 
-#### Section 1 : Déclaration d'achèvement des travaux et certificat de conformité.<a id=485></a>
+#### Section 1 : Déclaration d'achèvement des travaux et certificat de conformité.<a id=484></a>
 
 ###### Article A460-1
 
@@ -55741,7 +55755,7 @@ _Cite_:
   - Code de l'urbanisme - art. A460-1 (M)
 
 
-### TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres Ier à IV et VI du présent livre<a id=486></a>
+### TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres Ier à IV et VI du présent livre<a id=485></a>
 
 ###### Article A490-1
 
@@ -55777,9 +55791,9 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-## Livre  V : Implantation des services, établissements et entreprises<a id=487></a>
+## Livre  V : Implantation des services, établissements et entreprises<a id=486></a>
 
-### TITRE I : Dispositions administratives générales.<a id=488></a>
+### TITRE I : Dispositions administratives générales.<a id=487></a>
 
 ###### Article A510-1
 
@@ -55985,11 +55999,11 @@ _Cite_:
   - Code de l'urbanisme A510-1 à A510-7
 
 
-### Titre  II : Dispositions financières concernant la région d'Ile-de-France<a id=489></a>
+### Titre  II : Dispositions financières concernant la région d'Ile-de-France<a id=488></a>
 
-#### Section 1 : Dispositions générales<a id=490></a>
+#### Section 1 : Dispositions générales<a id=489></a>
 
-##### Sous-section 1 : Perception des redevances<a id=491></a>
+##### Sous-section 1 : Perception des redevances<a id=490></a>
 
 ###### Article A520-1
 
@@ -56071,7 +56085,7 @@ _Cite_:
   - Code de l'urbanisme - art. A520-2 (VT)
 
 
-##### Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance<a id=492></a>
+##### Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance<a id=491></a>
 
 ###### Article A520-4
 
@@ -56184,11 +56198,11 @@ _Cite_:
   - Code de l'urbanisme - art. A520-4 (V)
 
 
-## Livre  VI : Organismes consultatifs et dispositions diverses<a id=493></a>
+## Livre  VI : Organismes consultatifs et dispositions diverses<a id=492></a>
 
-### Titre Ier : Organismes consultatifs<a id=494></a>
+### Titre Ier : Organismes consultatifs<a id=493></a>
 
-#### CHAPITRE I : Commissions départementales d'urbanisme.<a id=495></a>
+#### CHAPITRE I : Commissions départementales d'urbanisme.<a id=494></a>
 
 ###### Article A611-1
 
@@ -56339,9 +56353,9 @@ _Cite_:
   - CODE DE L'URBANISME A611-1 à A611-6
 
 
-#### CHAPITRE II : Conférence permanente du permis de contruire<a id=496></a>
+#### CHAPITRE II : Conférence permanente du permis de contruire<a id=495></a>
 
-##### Section 1 : Conférence permanente du permis de construire instituée dans les départements situés hors de la région d'Ile-de-France.<a id=497></a>
+##### Section 1 : Conférence permanente du permis de construire instituée dans les départements situés hors de la région d'Ile-de-France.<a id=496></a>
 
 ###### Article A612-1
 
@@ -56421,7 +56435,7 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-##### Section 2 : Conférence permanente du permis de construire des départements de la région d'Ile-de-France.<a id=498></a>
+##### Section 2 : Conférence permanente du permis de construire des départements de la région d'Ile-de-France.<a id=497></a>
 
 ###### Article A612-5
 
@@ -56546,7 +56560,7 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-#### CHAPITRE III : Comité d'aménagement de la région Ile-de-France.<a id=499></a>
+#### CHAPITRE III : Comité d'aménagement de la région Ile-de-France.<a id=498></a>
 
 ###### Article A613-1
 
@@ -56765,7 +56779,7 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-#### CHAPITRE IV : Architectes-conseils<a id=500></a>
+#### CHAPITRE IV : Architectes-conseils<a id=499></a>
 
 ###### Article A614-2
 

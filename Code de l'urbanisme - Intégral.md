@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2004-08-01
+Version Consolidée au 2004-08-11
 ## Contenu: 
   - [Partie législative (art. L110 à L600-4-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -8533,11 +8533,13 @@ _Cite_:
 
 Les communes dotées d'un plan d'occupation des sols rendu public ou d'un plan local d'urbanisme approuvé peuvent, par
 délibération, instituer un droit de préemption urbain sur tout ou partie des zones urbaines et des zones d'urbanisation
-future délimitées par ce plan, dans les périmètres définis par un plan de prévention des risques technologiques en
-application du I de l'article L. 515-16 du code de l'environnement, dans les zones soumises aux servitudes prévues au II de
-l'article L. 211-12 du même code, ainsi que sur tout ou partie de leur territoire couvert par un plan de sauvegarde et de
-mise en valeur rendu public ou approuvé en application de l'article L. 313-1 lorsqu'il n'a pas été créé de zone d'aménagement
-différé ou de périmètre provisoire de zone d'aménagement différé sur ces territoires.
+future délimitées par ce plan, dans les périmètres de protection rapprochée de prélèvement d'eau destinée à l'alimentation
+des collectivités humaines définis en application de l'article L. 1321-2 du code de la santé publique, dans les périmètres
+définis par un plan de prévention des risques technologiques en application du I de l'article L. 515-16 du code de
+l'environnement, dans les zones soumises aux servitudes prévues au II de l'article L. 211-12 du même code, ainsi que sur tout
+ou partie de leur territoire couvert par un plan de sauvegarde et de mise en valeur rendu public ou approuvé en application
+de l'article L. 313-1 lorsqu'il n'a pas été créé de zone d'aménagement différé ou de périmètre provisoire de zone
+d'aménagement différé sur ces territoires.
 
 Les conseils municipaux des communes dotées d'une carte communale approuvée peuvent, en vue de la réalisation d'un équipement
 ou d'une opération d'aménagement, instituer un droit de préemption dans un ou plusieurs périmètres délimités par la carte. La
@@ -8549,7 +8551,7 @@ zones considérées. Il peut ultérieurement le rétablir dans les mêmes condit
 Lorsqu'un lotissement a été autorisé ou une zone d'aménagement concerté créée, la commune peut exclure du champ d'application
 du droit de préemption urbain la vente des lots issus dudit lotissement ou les cessions de terrain par la personne chargée de
 l'aménagement de la zone d'aménagement concerté. Dans ce cas, la délibération du conseil municipal est valable pour une durée
-de cinq ans à compter du jour où la délibération est éxécutoire.
+de cinq ans à compter du jour où la délibération est exécutoire.
 
 **Liens relatifs à cet article**
 
@@ -8602,7 +8604,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-699 du 30 juillet 2003 - art. 79 () JORF 31 juillet 2003
+  - Loi n°2004-806 du 9 août 2004 - art. 59 () JORF 11 août 2004
 
 _Cite_:
 

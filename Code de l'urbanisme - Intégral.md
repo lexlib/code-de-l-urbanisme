@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2002-01-03
+Version Consolidée au 2002-01-04
 ## Contenu: 
   - [Partie législative (art. L110 à L600-4-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -5492,8 +5492,8 @@ aux nuisances.
 2° Les opérations de rénovation des quartiers ou de réhabilitation de l'habitat existant, ainsi que l'amélioration,
 l'extension mesurée ou la reconstruction des constructions existantes, ne peuvent être admises que lorsqu'elles n'entraînent
 pas un accroissement de la capacité d'accueil d'habitants exposés aux nuisances, elles peuvent, en outre, être admises dans
-les secteurs déjà urbanisés et desservis par des équipements publics de la zone C lorsqu'elles n'entraînent qu'un faible
-accroissement de la capacité d'accueil d'habitants exposés aux nuisances.
+les secteurs déjà urbanisés et desservis par des équipements publics de la zone C lorsqu'elles n'entraînent pas
+d'accroissement de la capacité d'accueil d'habitants exposés aux nuisances.
 
 3° Dans les zones A et B, les équipements publics ou collectifs ne sont admis que lorsqu'ils sont nécessaires à l'activité
 aéronautique ou indispensables aux populations existantes.
@@ -5504,8 +5504,7 @@ obligatoire pour les aérodromes visés au 3 de l'article 266 septies du code de
 
 5° A l'intérieur des zones C, les plans d'exposition au bruit peuvent délimiter des secteurs où, pour permettre le
 renouvellement urbain des quartiers ou villages existants, des opérations de réhabilitation et de réaménagement urbain
-peuvent être autorisées, à condition qu'elles n'entraînent pas d'augmentation significative de la population soumise aux
-nuisances sonores.
+peuvent être autorisées, à condition qu'elles n'entraînent pas d'augmentation de la population soumise aux nuisances sonores.
 
 Le contrat de location d'immeuble à usage d'habitation ayant pour objet un bien immobilier situé dans l'une des zones de
 bruit définies par un plan d'exposition au bruit comporte une clause claire et lisible précisant la zone de bruit où se
@@ -5523,7 +5522,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 36 () JORF 14 décembre 2000
+  - Loi n°2002-3 du 3 janvier 2002 - art. 10 () JORF 4 janvier 2002
 
 _Cite_:
 
@@ -16342,12 +16341,30 @@ _Cité par_:
 En dehors des zones couvertes par un plan d'occupation des sols rendu public ou un plan local d'urbanisme approuvé, le préfet
 peut, par arrêté pris dans des conditions fixées par décret en Conseil d'Etat, délimiter un périmètre à l'intérieur duquel
 l'exécution de travaux de la nature de ceux visés à l'article L. 421-1 est soumise à des règles particulières rendues
-nécessaires par l'existence d'installations classées.
+nécessaires par l'existence d'installations classées ou de stockage souterrain de gaz, d'hydrocarbures liquides ou liquéfiés
+ou de produits chimiques de base à destination industrielle.
 
 Ces dispositions ne sont pas applicables aux installations classées bénéficiant de l'application des articles 7-1 à 7-4 de la
-loi n° 76-663 du 19 juillet 1976 relative aux installations classées pour la protection de l'environnement.
+loi n° 76-663 du 19 juillet 1976 relative aux installations classées pour la protection de l'environnement ainsi qu'aux
+stockages souterrains visés à l'alinéa précédent bénéficiant de l'application de l'article 8 bis de l'ordonnance n° 58-1132
+du 25 novembre 1958 relative au stockage souterrain de gaz, de l'article 8 bis de l'ordonnance n° 58-1332 du 23 décembre 1958
+relative au stockage souterrain d'hydrocarbures liquides ou liquéfiés et de l'article 4 bis de la loi n° 70-1324 du 31
+décembre 1970 relative au stockage souterrain de produits chimiques de base à destination industrielle.
+
+Le permis de construire mentionne explicitement le cas échéant les servitudes instituées en application du présent article et
+de l'article 8 bis de l'ordonnance n° 58-1132 du 25 novembre 1958 précitée, de l'article 8 bis de l'ordonnance n° 58-1332 du
+23 décembre 1958 précitée et de l'article 4 bis de la loi n° 70-134 du 31 décembre 1970 précitée.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance 58-1132 1958-11-25 art. 8 bis
+  - Ordonnance 58-1332 1958-12-23 art. 8 bis
+  - Loi n°70-1324 1970-12-31 art. 4 bis
+  - Loi n°76-663 1976-07-19 art. 7-1 à 7-4
+  - Code de l'urbanisme - art. L421-1 (M)
+  - Loi n°70-134 1970-12-31 art. 4 bis
 
 _Cité par_:
 
@@ -16362,14 +16379,9 @@ _Cité par_:
   - Code de l'urbanisme - art. R*421-52 (Ab)
   - Code minier - art. *104-3 (M)
 
-_Cite_:
-
-  - Loi n°76-663 1976-07-19 art. 7-1 à 7-4
-  - Code de l'urbanisme - art. L421-1 (M)
-
 _Modifié par_:
 
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+  - Loi n°2002-3 du 3 janvier 2002 - art. 13 () JORF 4 janvier 2002
 
 **Liens**:
 
@@ -17832,8 +17844,9 @@ _Cite_:
 
 ###### Article L445-1
 
-- Les remontées mécaniques visées à l'article 43 de la loi n° 85-30 du 9 janvier 1985 précitée sont soumises à autorisation,
-d'une part, avant l'exécution des travaux et, d'autre part, avant la mise en exploitation.
+Les travaux de construction ou de modification substantielle des remontées mécaniques visées à l'article 43 de la loi n°
+85-30 du 9 janvier 1985 précitée sont soumis à autorisation, d'une part, avant l'exécution des travaux et, d'autre part,
+avant la mise en exploitation.
 
 L'autorisation d'exécution des travaux portant sur la réalisation des remontées mécaniques tient lieu du permis de construire
 prévu à l'article L. 421-1 en ce qui concerne les travaux soumis audit permis.
@@ -17845,10 +17858,25 @@ Elle est délivrée après avis conforme du représentant de l'Etat dans le dép
 et des aménagements concernés par l'appareil. Le représentant de l'Etat dans le département arrête les réserves et les
 prescriptions auxquelles peut être subordonnée l'autorisation d'exécution des travaux.
 
+Lorsque les travaux portent sur une remontée mécanique empruntant un tunnel, il doit être joint à la demande d'autorisation
+un dossier descriptif accompagné de l'avis sur la sécurité émis par un expert ou un organisme qualifié, agréé. Cet avis
+présente notamment les conditions d'exploitation de la remontée mécanique au regard des risques naturels ou technologiques
+susceptibles d'affecter l'ouvrage.
+
 La mise en exploitation des remontées mécaniques est autorisée par l'autorité compétente en matière de permis de construire,
 après avis conforme du représentant de l'Etat dans le département au titre de la sécurité des installations et des
-aménagements concernés par l'appareil. Cette autorisation tient lieu du certificat de [* conformité *] prévu à l'article L.
-460-2.
+aménagements concernés par l'appareil. Cette autorisation tient lieu du certificat prévu à l'article L. 460-2.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -17857,10 +17885,6 @@ _Cite_:
   - Loi n°85-30 1985-01-09 art. 43
   - Code de l'urbanisme - art. L421-1 (M)
   - Code de l'urbanisme - art. L460-2 (M)
-
-_Créé par_:
-
-  - Loi n°85-30 du 9 janvier 1985 - art. 49 () JORF 10 janvier 1985
 
 _Cité par_:
 
@@ -17874,6 +17898,10 @@ _Cité par_:
   - Code du sport. - art. L312-11 (V)
   - Code du tourisme. - art. L342-16 (V)
   - Code du tourisme. - art. L342-17-1 (V)
+
+_Modifié par_:
+
+  - Loi n°2002-3 du 3 janvier 2002 - art. 6 () JORF 4 janvier 2002
 
 _Codifié par_:
 
@@ -17958,8 +17986,22 @@ _Abrogé par_:
 
 ###### Article L445-4
 
-- Un décret en Conseil d'Etat détermine les règles générales auxquelles sont soumises les autorisations prévues par le
-présent chapitre ainsi que les formes, conditions et délais dans lesquels elles sont délivrées.
+Un décret en Conseil d'Etat détermine les règles générales auxquelles sont soumises les autorisations prévues par le présent
+chapitre ainsi que les formes, conditions et délais dans lesquels elles sont délivrées. Ce décret précise en outre les
+remontées mécaniques pour lesquelles l'avis conforme du représentant de l'Etat dans le département, préalable à ces
+autorisations, ne peut être délivré qu'après consultation d'une commission administrative, assurant notamment la
+représentation des collectivités territoriales.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -17967,9 +18009,13 @@ _Codifié par_:
 
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°85-30 du 9 janvier 1985 - art. 49 () JORF 10 janvier 1985
+  - Loi n°2002-3 du 3 janvier 2002 - art. 6 () JORF 4 janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 
 ### TITRE V :Dispositions diverses<a id=80></a>

@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2005-01-05
+Version Consolidée au 2005-01-19
 ## Contenu: 
   - [Partie législative (art. L110 à L600-4-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -53,7 +53,7 @@ Version Consolidée au 2005-01-05
           - [Section 3 : Dispositions particulières aux commerçants et artisans (art. L318-8)](#50)
           - [Section 4 : Dispositions particulières. (art. L318-9)](#51)
       - [Titre II : Organismes d'exécution (art. L321-1 à L326-7)](#52)
-        - [CHAPITRE I : Etablissements publics d'aménagement. (art. L321-1 à L321-9)](#53)
+        - [Chapitre I : Etablissements publics fonciers et d'aménagement. (art. L321-1 à L321-9)](#53)
         - [Chapitre II : Associations foncières urbaines (art. L322-1 à L322-11)](#54)
         - [Chapitre IV : Etablissements publics fonciers locaux (art. L324-1 à L324-10)](#55)
         - [Chapitre V : Etablissement public d'aménagement et de restructuration des espaces commerciaux et artisanaux (art. L325-1 à L325-4)](#56)
@@ -13628,21 +13628,33 @@ _Anciens textes_:
 
 ### Titre II : Organismes d'exécution<a id=52></a>
 
-#### CHAPITRE I : Etablissements publics d'aménagement.<a id=53></a>
+#### Chapitre I : Etablissements publics fonciers et d'aménagement.<a id=53></a>
 
 ###### Article L321-1
 
-Les établissement publics créés en application du présent chapitre sont compétents pour réaliser, pour leur compte ou, avec
-leur accord, pour le compte de l'Etat, d'une collectivité locale ou d'un autre établissement public, ou pour faire réaliser
-toutes les interventions foncières et opérations d'aménagement prévues par le présent code.
+Les établissements publics créés en application du présent chapitre sont compétents pour réaliser, pour leur compte ou, avec
+leur accord, pour le compte de l'Etat, d'une collectivité locale ou d'un autre établissement public, ou faire réaliser :
 
-Lorsqu'ils procèdent à des opérations de restructuration urbaine, ces établissements publics sont compétents pour réaliser ou
-faire réaliser, après avis des communes ou groupements de communes concernés, toutes opérations ou actions ou tous
-aménagements ou équipements de nature à favoriser une politique de développement social urbain telle que définie à l'article
-1er de la loi n° 96-987 du 14 novembre 1996 relative à la mise en oeuvre du pacte de relance pour la ville, pouvant inclure
-des actions d'insertion professionnelle et sociale en faveur des habitants des grands ensembles ou quartiers d'habitat
-dégradé mentionnés au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
-développement du territoire inclus dans leurs zones d'activité territoriale.
+a) En ce qui concerne les établissements publics d'aménagement, toutes les opérations d'aménagement prévues par le présent
+code et les acquisitions foncières nécessaires aux opérations qu'ils réalisent ;
+
+b) En ce qui concerne les établissements publics fonciers, les acquisitions foncières et les opérations immobilières et
+foncières de nature à faciliter l'aménagement ultérieur des terrains. Ces acquisitions et opérations sont réalisées dans le
+cadre de programmes pluriannuels adoptés par le conseil d'administration de ces établissements qui, tenant compte des
+priorités définies par les programmes locaux de l'habitat, déterminent les objectifs d'acquisitions destinées à la
+réalisation de logements locatifs sociaux.
+
+Les établissements publics créés avant la promulgation de la loi n° 2005-32 du 18 janvier 2005 de programmation pour la
+cohésion sociale restent soumis aux dispositions du présent article dans sa rédaction antérieure à ladite loi, sauf si leur
+statut est modifié pour les faire entrer dans le champ d'application du a ou du b du présent article.
+
+Lorsqu'ils procèdent à des opérations de restructuration urbaine, les établissements publics d'aménagement sont compétents
+pour réaliser ou faire réaliser, après avis des communes ou groupements de communes concernés, toutes opérations ou actions
+ou tous aménagements ou équipements de nature à favoriser une politique de développement social urbain telle que définie à
+l'article 1er de la loi n° 96-987 du 14 novembre 1996 relative à la mise en oeuvre du pacte de relance pour la ville, pouvant
+inclure des actions d'insertion professionnelle et sociale en faveur des habitants des grands ensembles ou quartiers
+d'habitat dégradé mentionnés au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et
+le développement du territoire inclus dans leurs zones d'activité territoriale.
 
 Les établissements publics d'aménagement qui mènent des opérations de restructuration urbaine dans les conditions prévues à
 l'alinéa précédent peuvent, par délégation de l'Etablissement public national pour l'aménagement et la restructuration des
@@ -13650,6 +13662,10 @@ espaces commerciaux, assurer la maîtrise d'ouvrage des opérations définies à
 disposition et d'administration définis à l'article L. 325-2..
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 _Cité par_:
 
@@ -13761,25 +13777,17 @@ _Cite_:
 
   - Loi n°95-115 du 4 février 1995 - art. 42 (M)
   - Loi n°96-987 du 14 novembre 1996 - art. 1 (V)
+  - Loi n°2005-32 2005-01-18
   - Code de l'urbanisme - art. L325-1 (M)
   - Code de l'urbanisme - art. L325-2 (V)
 
 _Modifié par_:
 
-  - Loi n°96-987 du 14 novembre 1996 - art. 19 () JORF 15 novembre 1996
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code de l'urbanisme - art. R*211-12 (Ab)
-  - TXT_ASSOCIE: Code de l'urbanisme R311-2, R315-46, R318-1, R211-12
+  - Loi n°2005-32 du 18 janvier 2005 - art. 94 () JORF 19 janvier 2005
 
 _Anciens textes_:
 
   - Code de l'urbanisme 78-1
-
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L321-2
@@ -13803,25 +13811,26 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+  - Loi n°2005-32 du 18 janvier 2005 - art. 94 () JORF 19 janvier 2005
 
 _Cite_:
 
-  - Code de l'urbanisme L321-1 AL. 1
+  - Code de l'urbanisme - art. L321-1 (M)
 
 
 ###### Article L321-3
 
-Ces établissements sont créés par décret en Conseil d'Etat après avis du ou des conseils généraux et des conseils municipaux
-intéressés.
-
-Toutefois, lorsque leur zone d'activité territoriale s'étend sur plus de cent communes, le décret de création est pris en
-Conseil d'Etat et en conseil des ministres, après avis des conseils généraux intéressés.
-
-Dans le département de la Guyane, lorsque la zone d'activité de l'établissement s'étend sur tout le territoire du
-département, le décret de création est pris en Conseil d'Etat, après avis du conseil régional et du conseil général.
+Les établissements visés aux a et b de l'article L. 321-1 sont créés par décret en Conseil d'Etat après avis des conseils
+régionaux, des conseils généraux, des organes délibérants des établissements publics de coopération intercommunale compétents
+en matière d'aménagement de l'espace communautaire, d'équilibre social de l'habitat et de développement économique et des
+conseils municipaux des communes de plus de 20 000 habitants non membres de ces établissements situés dans leur périmètre de
+compétence. L'avis est réputé favorable s'il n'est pas émis dans un délai de trois mois.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 _Cité par_:
 
@@ -13841,11 +13850,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°94-638 du 25 juillet 1994 - art. 36 () JORF 27 juillet 1994
+  - Loi n°2005-32 du 18 janvier 2005 - art. 94 () JORF 19 janvier 2005
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+  - Code de l'urbanisme - art. L321-1 (M)
 
 
 ###### Article L321-4
@@ -13856,6 +13865,10 @@ directeur, les pouvoirs du conseil d'administration, du président et du directe
 représentation à l'assemblée spéciale prévue à l'article L. 321-5 des collectivités et établissements publics intéressés.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 _Cité par_:
 
@@ -13874,7 +13887,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+  - Loi n°2005-32 du 18 janvier 2005 - art. 94 () JORF 19 janvier 2005
 
 _Cite_:
 
@@ -13884,10 +13897,6 @@ _Cite_:
 
   - TXT_ASSOCIE: Code de l'urbanisme - art. L321-5 (M)
 
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
 
 ###### Article L321-5
 
@@ -13895,7 +13904,7 @@ Lorsque, en raison de leur nombre, les collectivités locales et, le cas échéa
 opérations et travaux entrant dans l'objet de l'établissement ne peuvent être tous représentés directement au conseil
 d'administration, ceux d'entre eux qui ne le sont pas sont groupés en une assemblée spéciale.
 
-Cette assemblée élit les représentants au conseil d'administration. Si l'assemblée spéciale ne désigne pas ses représentants
+Cette assemblée élit des représentants au conseil d'administration. Si l'assemblée spéciale ne désigne pas ses représentants
 au conseil d'administration de l'établissement, cette désignation peut être opérée par décision de l'autorité administrative.
 
 Lorsqu'un établissement public a été créé pour l'aménagement d'une agglomération nouvelle, les représentants, au conseil
@@ -13926,8 +13935,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°83-636 1983-07-13 Art. 37 JORF 14 juillet 1983
-  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+  - Loi n°2005-32 du 18 janvier 2005 - art. 94 () JORF 19 janvier 2005
 
 _Codifié par_:
 
@@ -13960,16 +13968,15 @@ _Cite_:
 
   - Loi n°83-636 1983-07-13
 
-_Modifié par_:
-
-  - Loi n°83-636 1983-07-13 Art. 38 JORF 14 juillet 1983
-  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
-
 _Cité par_:
 
   - Décret n°87-191 du 24 mars 1987 - art. 9 (V)
   - Décret n°2018-142 du 27 février 2018 - art. 8
   - Code de la construction et de l'habitation. - art. R362-2 (V)
+
+_Modifié par_:
+
+  - Loi n°2005-32 du 18 janvier 2005 - art. 94 () JORF 19 janvier 2005
 
 
 ###### Article L321-7
@@ -13994,16 +14001,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°85-229 1985-07-18 art. 26 XX JORF 19 juillet 1985
+  - Loi n°2005-32 du 18 janvier 2005 - art. 94 () JORF 19 janvier 2005
 
 
 ###### Article L321-8
 
-Dans le cas prévu au deuxième alinéa de l'article L. 321-3 [*zone d'activité s'étendant sur plus de cent communes*], il peut
-être dérogé aux dispositions relatives au contrôle exercé sur l'établissement public, à la constitution de l'assemblée
-spéciale et à la désignation des représentants des collectivités locales au conseil d'administration, qui devront être
-choisis par des assemblées ou des élus de ces collectivités suivant les modalités fixées par le décret créant
-l'établissement.
+Pour les établissements publics dont la zone d'activité territoriale s'étend sur plus de cent communes, il peut être dérogé
+aux dispositions relatives au contrôle exercé sur l'établissement public, à la constitution de l'assemblée spéciale et à la
+désignation des représentants des collectivités locales au conseil d'administration, qui devront être choisis par des
+assemblées ou des élus de ces collectivités suivant les modalités fixées par le décret créant l'établissement.
 
 **Liens relatifs à cet article**
 
@@ -14013,11 +14019,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L321-3 (M)
+  - Loi n°2005-32 du 18 janvier 2005 - art. 94 () JORF 19 janvier 2005
 
 
 ###### Article L321-9
@@ -14054,7 +14056,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+  - Loi n°2005-32 du 18 janvier 2005 - art. 94 () JORF 19 janvier 2005
 
 _Codifié par_:
 
@@ -20664,8 +20666,9 @@ de la loi n° 76-394 du 6 mai 1976 et qui seront déterminées par décret en Co
 l'occasion de la construction de locaux à usage de bureaux et de locaux de recherche ainsi que de leurs annexes.
 
 A compter de la promulgation de la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement
-urbains, dans les communes éligibles à la dotation de solidarité urbaine, le montant de cette redevance ne peut excéder le
-seuil des montants prévus au 3° de l'article R. 520-12 du présent code et fixés par le décret n° 89-86 du 10 février 1989.
+urbains, dans les communes éligibles à la dotation de solidarité urbaine et de cohésion sociale, le montant de cette
+redevance ne peut excéder le seuil des montants prévus au 3° de l'article R. 520-12 du présent code et fixés par le décret n°
+89-86 du 10 février 1989.
 
 **Liens relatifs à cet article**
 
@@ -20685,10 +20688,6 @@ _Cite_:
   - TXT_SOURCE: Décret n°87-744 du 9 septembre 1987
   - TXT_SOURCE: Décret n°87-744 du 9 septembre 1987 - art. 2 (V)
   - TXT_SOURCE: Code de l'urbanisme - art. R*520-12 (M)
-
-_Modifié par_:
-
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 48 () JORF 14 décembre 2000
 
 _Cité par_:
 
@@ -20712,6 +20711,10 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+_Modifié par_:
+
+  - Loi n°2005-329 2005-01-18 art. 135 II JORF 19 janvier 2005
 
 
 ###### Article L520-2

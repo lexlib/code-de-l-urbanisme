@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2003-08-02
+Version Consolidée au 2003-09-03
 ## Contenu: 
   - [Partie législative (art. L110 à L600-4-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -137,14 +137,14 @@ Version Consolidée au 2003-08-02
           - [Section 1 : Schéma de cohérence territoriale de la région Ile-de-France. (art. R*141-1 à R*141-2)](#134)
           - [Section 2 : Schémas de cohérence territoriale, schémas de secteurs et plans locaux d'urbanisme en région Ile-de-France (art. R*141-3 à R*141-4)](#135)
           - [Section 3 : Plans locaux d'urbanisme des communes de Paris, Marseille, Lyon ou des communes issues d'une fusion comportant une ou plusieurs communes associées (art. R*141-5 à R*141-6)](#136)
-        - [Chapitre II : Espaces naturels sensibles des départements (art. R142-1 à R142-18)](#137)
+        - [Chapitre II : Espaces naturels sensibles des départements (art. R142-1 à R142-19)](#137)
           - [Section 1 : Taxe départementale des espaces naturels sensibles (art. R142-1)](#138)
           - [Section 2 : Mesures de protection (art. R142-2 à R142-3)](#139)
           - [Section 3 : Zones de préemption (art. R142-4 à R142-7)](#140)
-          - [Section 4 : Procédure de préemption (art. R142-8 à R142-18)](#141)
+          - [Section 4 : Procédure de préemption (art. R142-8 à R142-19)](#141)
             - [Sous-Section 1 : Cas général (art. R142-8 à R142-11)](#142)
             - [Sous-section 2 : Cas des ventes par adjudication lorsque cette procédure est rendue obligatoire de par la loi ou le règlement (art. R142-12 à R142-14)](#143)
-            - [Sous-section 3 : Dispositions communes (art. R142-15 à R142-18)](#144)
+            - [Sous-section 3 : Dispositions communes (art. R142-15 à R142-19)](#144)
         - [Chapitre V : Dispositions particulières aux zones de montagne (art. R145-1 à R145-10)](#145)
         - [Chapitre VI : Dispositions particulières au littoral (art. R146-1 à R146-2)](#146)
         - [Chapitre VII : Dispositions particulières aux zones de bruit des aérodromes (art. R147-1 à R147-11)](#147)
@@ -25546,6 +25546,42 @@ _Cite_:
 _Cité par_:
 
   - Code de l'urbanisme - art. R142-19 (V)
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+
+###### Article R142-19
+
+Dans les cas mentionnés au neuvième alinéa de l'article L. 142-3, les attributions confiées au président du conseil général
+pour l'application des articles R. 142-8 à R. 142-18 sont exercées par le directeur du Conservatoire de l'espace littoral et
+des rivages lacustres.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°61-910 1961-08-05 ART. 14
+
+_Créé par_:
+
+  - Décret n°2003-839 du 29 août 2003 - art. 3 () JORF 3 septembre 2003
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L142-3 (V)
+  - Code de l'urbanisme - art. R142-18 (V)
+  - Code de l'urbanisme - art. R142-8 (V)
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. R142-21 (Ab)
+  - Code de l'urbanisme - art. R142-22 (Ab)
 
 _Codifié par_:
 

@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1979-12-02
+Version Consolidée au 1980-07-17
 ## Contenu: 
   - [Partie législative (art. L122-1 à L550-1)](#1)
     - [Règles générales d'aménagement et d'urbanisme (art. L122-1 à L122-3)](#2)
@@ -329,12 +329,12 @@ Version Consolidée au 1979-12-02
           - [Section 4 : Opérations réalisées par l'Etat (art. R*331-8 à R*331-12)](#326)
           - [Section 5 : Opérations en participation (art. R*331-13 à R*331-15)](#327)
           - [Section 6 : Dispositions communes (art. R*331-16 à R*331-17)](#328)
-        - [Chapitre II : Participation des constructeurs et des lotisseurs (art. R*332-1 à R*332-23)](#329)
+        - [Chapitre II : Participation des constructeurs et des lotisseurs (art. R*332-1 à R332-24)](#329)
           - [Section 1 : Participation en cas de dépassement du coefficient d'occupation des sols (art. R*332-1 à R*332-14)](#330)
           - [Section 1 : Participation en cas de dépassement du coefficient d'occupation du sol (art. R*332-8 à R*332-11)](#331)
-          - [Section 2 : Autres participations (art. R*332-15 à R*332-23)](#332)
+          - [Section 2 : Autres participations (art. R*332-15 à R332-24)](#332)
             - [Sous-section 1 : Cessions de terrains ou de locaux (art. R*332-15 à R*332-16)](#333)
-            - [Sous-section 2 : Participation en cas de non-réalisation d'aires de stationnement (art. R*332-17 à R*332-23)](#334)
+            - [Sous-section 2 : Participation en cas de non-réalisation d'aires de stationnement (art. R*332-17 à R332-24)](#334)
         - [Chapitre III : Versement résultant du dépassement du plafond légal de densité (art. R*333-8 à R*333-31)](#335)
           - [Section 1 : Dispositions générales (art. R*333-8 à R*333-10)](#336)
           - [Section 2 : Application du plafond légal de densité dans les zones d'aménagement concerté, les zones de rénovation urbaine et les zones de résorption de l'habitat insalubre (art. R*333-16 à R*333-31)](#337)
@@ -28074,6 +28074,25 @@ _Codifié par_:
 _Abrogé par_:
 
   - Décret n°2016-6 du 5 janvier 2016 - art. 1
+
+
+###### Article R332-24
+
+Le montant maximum de la participation pour non-réalisation d'aires de stationnement est fixé à 20000 F..
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+_Abrogé par_:
+
+  - Décret n°93-614 du 26 mars 1993 - art. 17 (V) JORF 28 mars 1993
+
+_Cité par_:
+
+  - Décret n°93-614 du 26 mars 1993 - art. 17 (V)
 
 
 #### Chapitre III : Versement résultant du dépassement du plafond légal de densité<a id=335></a>

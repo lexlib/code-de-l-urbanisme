@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1977-07-01
+Version Consolidée au 1977-07-02
 ## Contenu: 
   - [Partie législative (art. L122-1 à L550-1)](#1)
     - [Règles générales d'aménagement et d'urbanisme (art. L122-1 à L122-3)](#2)
@@ -476,7 +476,7 @@ Version Consolidée au 1977-07-01
           - [Section 2 : Réalisation des zones d'aménagement concerté. (art. A311-5 à A311-10)](#473)
           - [Section 4 : Subventions (art. A311-11 à A311-21)](#474)
             - [Sous-section 1 : Aide de l'Etat en ce qui concerne la viabilité des grands ensembles d'habitation. (art. A311-11 à A311-17)](#475)
-            - [Sous-section 2 : Aide de l'Etat en ce qui concerne les subventions d'équipement aux collectivités pour l'habitat urbain. (art. A311-18 à A311-20)](#476)
+            - [Sous-section 2 : Aide de l'Etat en ce qui concerne les subventions d'équipement aux collectivités pour l'habitat urbain. (art. A311-18 à A311-19)](#476)
             - [Sous-section 3 : Equipements de superstructure d'accompagnement du logement dans les zones d'aménagement concerté susceptibles de bénéficier de subventions en application des articles R. 311-25 à R. 311-29. (art. A311-21)](#477)
           - [Section 6 : Dispositions diverses. (art. A311-22)](#478)
         - [CHAPITRE II : Rénovation urbaine. (art. A312-1 à A312-5)](#479)
@@ -38600,58 +38600,6 @@ _Codifié par_:
 _Cite_:
 
   - Code de l'urbanisme - art. A311-18 (Ab)
-
-
-###### Article A311-20
-
-Les équipements de superstructure d'accompagnement du logement à implanter dans les zones d'aménagement concerté, dont la
-réalisation peut faire l'objet de subventions attribuées globalement aux collectivités locales ou établissements publics,
-maîtres d'ouvrage, sur les crédits du chapitre 65-41 du budget du ministre de l'équipement et du logement, sont les
-suivants :
-
-Equipements sportifs :
-
-Installations de plein air : terrains d'entraînement et leurs annexes ;
-
-Installations couvertes : gymnases, halles de sports et salles d'entraînement et leurs annexes ;
-
-Equipements socio-éducatifs :
-
-Aménagement de locaux collectifs résidentiels ;
-
-Foyers et clubs de jeunes ;
-
-Equipements scolaires du premier degré :
-
-Classes maternelles ;
-
-Classes primaires et annexes de ces équipements ;
-
-Autres équipements :
-
-Centres de consultations infantiles et de P.M.I. ;
-
-Dispensaires polyvalents d'hygiène sociale ;
-
-Crèches ;
-
-Haltes et garderies ;
-
-Centres sociaux.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-_Abrogé par_:
-
-  - Arrêté du 8 juin 1977, v. init.
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. A311-21 (Ab)
 
 
 ##### Sous-section 3 : Equipements de superstructure d'accompagnement du logement dans les zones d'aménagement concerté susceptibles de bénéficier de subventions en application des articles R. 311-25 à R. 311-29.<a id=477></a>

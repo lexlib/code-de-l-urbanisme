@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1986-12-24
+Version Consolidée au 1986-12-31
 ## Contenu: 
   - [Partie législative (art. L121-10 à L550-1)](#1)
     - [Règles générales d'aménagement et d'urbanisme (art. L121-10)](#2)
@@ -13575,6 +13575,8 @@ c) La taxe départementale des espaces naturels sensibles prévue à l'article L
 d) La taxe pour le financement des dépenses des conseils d'architecture, d'urbanisme et de l'environnement prévue à l'article
 1599 B du code général des impôts ;
 
+e) La taxe spéciale d'équipement prévue à l'article 1599 OB du code général des impôts.
+
 2° a) La participation pour raccordement à l'égout prévue à l'article L. 35-4 du code de la santé publique ;
 
 b) La participation destinée à la réalisation de parcs publics de stationnement prévue au troisième alinéa de l'article L.
@@ -13598,20 +13600,20 @@ de l'éclairage public.
 
 _Cite_:
 
-  - CGI 1599 B
+  - CGI 1599 B, 1599 OB
   - Code de la santé publique - art. L35-4 (Ab)
   - Code de l'urbanisme - art. L112-2 (M)
   - Code de l'urbanisme - art. L142-2 (M)
   - Code de l'urbanisme - art. L332-1 (M)
   - Code de l'urbanisme - art. L332-8 (M)
 
-_Créé par_:
-
-  - Loi n°85-729 du 18 juillet 1985 - art. 23 () JORF 19 juillet 1985 en vigueur le 1er juillet 1986
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 52 (V)
+
+_Modifié par_:
+
+  - Loi n°86-1318 du 30 décembre 1986 - art. 32 () JORF du 31 décembre 1986
 
 _Cité par_:
 
@@ -18258,10 +18260,8 @@ _Codifié par_:
 ###### Article L520-3
 
 Le montant de la redevance due par mètre carré de surface utile de plancher peut varier selon les périmètres considérés, sans
-pouvoir excéder 1300 F.
-
-Ce montant et ces périmètres sont fixés par décret en conseil d'Etat, sur avis du conseil régional de la région d'Ile-de-
-France, en fonction du taux d'emploi et de son évolution.
+pouvoir excéder 1300 F. Ce montant et ces périmètres sont fixés par décret en Conseil d'Etat en fonction du taux d'emploi et
+de son évolution.
 
 **Liens relatifs à cet article**
 
@@ -18271,7 +18271,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°82-1020 1982-12-03 ART. 4, ART. 5 I JORF 4 DECEMBRE 1982
+  - Loi n°86-1318 du 30 décembre 1986 - art. 46 () JORF 31 DECEMBRE 1986
 
 _Cité par_:
 
@@ -18299,15 +18299,9 @@ _Codifié par_:
 
 ###### Article L520-4
 
-Le produit de la redevance est :
-
-a) rattaché à concurrence de 50 p. 100 selon la procédure de fonds de concours, à un chapitre du budget des services du
-premier ministre, afin d'être affecté hors de la région d'Ile-de-France à des actions facilitant l'implantation d'activités
-industrielles ou tertiaires ;
-
-b) attribue à concurrence de 50 p. 100 à la région d'Ile-de-France pour être pris en recette au budget d'équipement de la
-région, en vue du financement d'équipements nécessaires au desserrement d'activités industrielles ou tertiaires dans
-certaines parties de la région d'Ile-de-France .
+Le produit de la redevance est attribué à la région d'Ile-de-France pour être pris en recettes au budget d'équipement de la
+région, en vue du financement d'infrastructures routières et d'équipements nécessaires au desserrement d'activités
+industrielles ou tertiaires.
 
 **Liens relatifs à cet article**
 
@@ -18323,7 +18317,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°82-1020 1982-12-03 ART. 5 II, III JORF 4 DECEMBRE 1982
+  - Loi n°86-1318 du 30 décembre 1986 - art. 46 () JORF 31 décembre 1986
 
 _Codifié par_:
 

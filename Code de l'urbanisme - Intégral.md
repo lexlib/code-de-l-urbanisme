@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2004-07-02
+Version Consolidée au 2004-08-01
 ## Contenu: 
   - [Partie législative (art. L110 à L600-4-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -32432,39 +32432,49 @@ _Abrogé par_:
 
 Tous les exemplaires de la demande et du dossier d'autorisation de lotir sont adressés par pli recommandé avec demande d'avis
 de réception postal au maire de la commune dans laquelle le lotissement doit être réalisé, ou déposés contre décharge à la
-mairie [*conditions de forme*].
+mairie.
 
 Le maire affecte un numéro d'enregistrement à la demande dans des conditions prévues par arrêté du ministre chargé de
 l'urbanisme.
 
 Les exemplaires de la demande et du dossier d'autorisation de lotir font l'objet des transmissions prévues à l'article L.
 421-2-3. Toutefois, dans les cas où les autorisations et les actes relatifs au lotissement ne sont pas délivrés au nom de
-l'Etat, seul le formulaire de demande est transmis au préfet.
+l'Etat, seul le formulaire de demande est transmis au préfet sauf lorsque les travaux sont situés à l'intérieur d'une zone
+délimitée dans les conditions prévues à l'article 5 du décret n° 2004-490 du 3 juin 2004 relatif aux procédures
+administratives et financières en matière d'archéologie préventive et portant le cas échéant sur des emprises au sol excédant
+le seuil fixé dans l'arrêté définissant la zone.
 
-Dans les quinze jours [*délai*] qui suivent le dépôt de la demande et pendant la durée d'instruction de celle-ci, le maire
-procède à l'affichage en mairie d'un avis de dépôt de demande d'autorisation de lotir comprenant les mentions suivantes : nom
-du demandeur, numéro et date d'enregistrement de la demande, adresse et superficie du terrain, surface hors oeuvre nette
-maximale à construire sur l'ensemble du lotissement, nombre de lots projetés, destination du lotissement[*publicité*].
+Dans les quinze jours qui suivent le dépôt de la demande et pendant la durée d'instruction de celle-ci, le maire procède à
+l'affichage en mairie d'un avis de dépôt de demande d'autorisation de lotir comprenant les mentions suivantes : nom du
+demandeur, numéro et date d'enregistrement de la demande, adresse et superficie du terrain, surface hors oeuvre nette
+maximale à construire sur l'ensemble du lotissement, nombre de lots projetés, destination du lotissement.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-490 2004-06-03 art. 122 : réserves
+
+_Cite_:
+
+  - Décret n°2004-490 2004-06-03 art. 5
+  - Code de l'urbanisme - art. L421-2-3 (M)
+
+_Modifié par_:
+
+  - Décret n°2004-490 du 3 juin 2004 - art. 111 () JORF 5 juin 2004 en vigueur le 1er août 2004
+
+_Abrogé par_:
+
+  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-228 1984-03-29 ART. 33, ART. 34 : modalités d'application
-  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
-
-_Modifié par_:
-
-  - Décret n°84-228 1984-03-29 art. 1, art. 4 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L421-2-3 (M)
 
 
 ##### Section 3 : Instruction des demandes<a id=194></a>
@@ -33338,36 +33348,46 @@ délivrer l'autorisation ;
 
 La superficie des terrains à apporter ainsi que leur valeur déterminée par le directeur des services fiscaux.
 
-Dans le cas où l'opération projetée entre dans le champ d'application de l'article 1er du décret n° 2002-89 du 16 janvier
-2002 pris pour l'application de la loi n° 2001-44 du 17 janvier 2001 et relatif aux procédures administratives et financières
-en matière d'archéologie préventive, l'autorisation de lotir mentionne les surfaces concernées et les obligations mises à la
-charge du lotisseur par le préfet de région. Lorsque, à l'occasion de l'instruction de l'autorisation de lotir, des
-prescriptions ont été décidées par le préfet pour l'intégralité de la surface de terrain faisant l'objet de la demande
-d'autorisation, aucune autre prescription n'est possible à l'occasion des autorisations d'urbanisme demandées ultérieurement
-pour chaque lot.
+Dans le cas où l'opération projetée entre dans le champ d'application de l'article 4 du décret n° 2004-490 du 3 juin 2004
+relatif aux procédures administratives et financières en matière d'archéologie préventive, l'autorisation de lotir mentionne
+les surfaces concernées et les obligations mises à la charge du lotisseur par le préfet de région. Lorsque, à l'occasion de
+l'instruction de l'autorisation de lotir, des prescriptions ont été décidées par le préfet pour l'intégralité de la surface
+de terrain faisant l'objet de la demande d'autorisation, aucune autre prescription n'est possible à l'occasion des
+autorisations d'urbanisme demandées ultérieurement pour chaque lot.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-490 2004-06-03 art. 122 : réserves
+
 _Cite_:
 
-  - Loi n°2001-44 2001-01-17
-  - Décret n°2002-89 2002-01-16 art. 1
+  - Décret n°2004-490 2004-06-03 art. 4
   - Code de l'urbanisme - art. L332-10 (V)
   - Code de l'urbanisme - art. L332-12 (M)
   - Code de l'urbanisme - art. L332-9 (M)
   - Code de l'urbanisme R123-21, L332-12, L332-9, L332-10
 
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
 _Modifié par_:
 
-  - Décret n°2002-89 du 16 janvier 2002 - art. 53 () JORF 19 janvier 2002 en vigueur le 1er février 2002
+  - Décret n°2004-490 du 3 juin 2004 - art. 111 () JORF 5 juin 2004 en vigueur le 1er août 2004
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R*315-30 (M)
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+_Abrogé par_:
+
+  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R*315-29-1
@@ -33417,21 +33437,28 @@ application des alinéas ci-dessus s'appliquent aux travaux de la première tran
 travaux des autres tranches sont fixés par l'arrêté d'autorisation sans qu'ils puissent excéder une durée de six ans
 décomptée comme il est dit à l'alinéa premier du présent article.
 
-La durée de validité de l'autorisation de lotir est prolongée à concurrence du délai de réalisation du diagnostic et, le cas
-échéant, des fouilles archéologiques prescrits par le préfet en application du décret n° 2002-89 du 16 janvier 2002 pris pour
-l'application de la loi n° 2001-44 du 17 janvier 2001 et relatif aux procédures administratives et financières en matière
-d'archéologie préventive.
+Lorsque des prescriptions archéologiques sont imposées en application de l'article 14 du décret n° 2004-490 du 3 juin 2004
+relatif aux procédures administratives et financières en matière d'archéologie préventive, les délais mentionnés aux alinéas
+précédents courent à compter de la remise du rapport de diagnostic et, en cas de prescription de fouilles, de la délivrance
+de l'attestation préfectorale ou du certificat prévus à l'article 53 dudit décret.
 
 Lorsque l'autorisation est devenue caduque, l'opération ne peut être poursuivie qu'en ce qui concerne les tranches dont les
 travaux d'aménagement ont été menés à terme.
 
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-490 2004-06-03 art. 122 : réserves
 
 _Cite_:
 
-  - Décret n°2002-89 2002-01-16
+  - Décret n°2004-490 2004-06-03 art. 14, art. 53
   - Code de l'urbanisme - art. R315-21 (M)
-  - Loi n°2001-44 2001-01-17
 
 _Codifié par_:
 
@@ -33439,7 +33466,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2002-89 du 16 janvier 2002 - art. 53 () JORF 19 janvier 2002 en vigueur le 1er février 2002
+  - Décret n°2004-490 du 3 juin 2004 - art. 111 () JORF 5 juin 2004 en vigueur le 1er août 2004
+
+_Abrogé par_:
+
+  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R*315-31
@@ -44655,31 +44686,35 @@ l'urbanisme.
 
 Les exemplaires de la demande et du dossier de permis de construire font l'objet des transmissions prévues à l'article L.
 421-2-3. Toutefois dans les cas prévus au 1° dudit article, seul le formulaire de demande est transmis au préfet sauf lorsque
-les travaux sont situés à l'intérieur d'une zone délimitée dans les conditions prévues au 1° de l'article 1er du décret n°
-2002-89 du 16 janvier 2002 pris pour l'application de la loi n° 2001-44 du 17 janvier 2001 et relatif aux procédures
-administratives et financières en matière d'archéologie préventive ou lorsque ces travaux ont une emprise au sol excédant les
-seuils fixés dans les mêmes conditions.
+les travaux sont situés à l'intérieur d'une zone délimitée dans les conditions prévues à l'article 5 du décret n° 2004-490 du
+3 juin 2004 relatif aux procédures administratives et financières en matière d'archéologie préventive ou lorsque ces travaux
+ont une emprise au sol excédant les seuils fixés dans les mêmes conditions.
 
 Dans les quinze jours qui suivent le dépôt de la demande et pendant la durée d'instruction de celle-ci, le maire procède à
 l'affichage en mairie d'un avis de dépôt de demande de permis de construire comprenant les mentions suivantes : nom du
 demandeur, numéro et date d'enregistrement de la demande, adresse du terrain, surface hors oeuvre nette et hauteur du projet,
 destination de la construction.
 
-Lorsque le projet a fait l'objet d'une prescription du préfet de région en application du décret du 16 janvier 2002 précité,
-le permis de construire comporte la mention prévue au dernier alinéa de l'article L. 421-2-4.
+Lorsque le projet a fait l'objet d'une prescription du préfet de région en application du décret n° 2004-490 du 3 juin 2004
+précité, le permis de construire comporte la mention prévue au dernier alinéa de l'article L. 421-2-4.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°2001-44 2001-01-17
-  - Décret n°2002-89 2002-01-16 art. 1
-  - Code de l'urbanisme - art. L421-2-3 (M)
-  - Code de l'urbanisme - art. L421-2-4 (M)
-
 _Modifié par_:
 
-  - Décret n°2002-89 du 16 janvier 2002 - art. 53 () JORF 19 janvier 2002 en vigueur le 1er février 2002
+  - Décret n°2004-490 2004-06-03 art. 111 IV, V JORF 5 juin 2004 en vigueur le 1er août 2004
+  - Décret n°2004-490 du 3 juin 2004 - art. 111 () JORF 5 juin 2004 en vigueur le 1er août 2004
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-490 2004-06-03 art. 122 : réserves
+  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-10 (M)
+
+_Cite_:
+
+  - Décret n°2004-490 2004-06-03 art. 5
+  - Code de l'urbanisme - art. L421-2-3 (M)
+  - Code de l'urbanisme - art. L421-2-4 (M)
 
 _Cité par_:
 
@@ -44701,11 +44736,6 @@ _Cité par_:
   - Code de l'urbanisme - art. R445-8 (Ab)
   - Code de la construction et de l'habitation. - art. R*421-8 (M)
   - Code du tourisme. - art. D333-1 (V)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-10 (M)
-  - SPEC_APPLI: Loi n°83-1261 1983-12-30 art. 18
 
 _Anciens textes_:
 
@@ -45752,10 +45782,10 @@ première tranche lorsque le permis de construire a autorisé la réalisation d'
 tranches, dont la première constitue une unité habitable et ne dépasse pas 100 mètres carrés de surface hors oeuvre nette et
 dont la suivante a une surface hors oeuvre nette inférieure à la première.
 
-Le délai de validité du permis de construire est prolongé à concurrence de la durée de réalisation du diagnostic et, le cas
-échéant, des fouilles archéologiques prescrits par le préfet de région en application du décret n° 2002-89 du 16 janvier 2002
-pris pour l'application de la loi n° 2001-44 du 17 janvier 2001 et relatif aux procédures administratives et financières en
-matière d'archéologie préventive.
+Lorsque des prescriptions archéologiques sont imposées en application de l'article 14 du décret n° 2004-490 du 3 juin 2004
+relatif aux procédures administratives et financières en matière d'archéologie préventive, le délai de deux ans mentionné au
+premier alinéa court à compter de la remise du rapport de diagnostic et en cas de fouilles, de la délivrance de l'attestation
+préfectorale ou du certificat prévus par l'article 53 dudit décret.
 
 Le délai de validité du permis de construire est suspendu, le cas échéant, pendant la durée du sursis à exécution de la
 décision portant octroi dudit permis, ordonné par décision juridictionnelle ou administrative, ainsi que, en cas d'annulation
@@ -45790,10 +45820,16 @@ _Cité par_:
   - Code de l'urbanisme - art. R421-44 (Ab)
   - Code de l'urbanisme - art. R421-46 (Ab)
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-490 2004-06-03 art. 122 : réserves
+  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-15 (M)
+  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-28 (M)
+  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-47 (M)
+
 _Cite_:
 
-  - Loi n°2001-44 2001-01-17
-  - Décret n°2002-89 2002-01-16
+  - Décret n°2004-490 2004-06-03 art. 14, art. 53
   - Code de l'urbanisme - art. R421-33 (M)
   - Code de l'urbanisme - art. R421-34 (M)
   - Code de l'urbanisme - art. R421-36 (M)
@@ -45801,18 +45837,12 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2002-89 du 16 janvier 2002 - art. 53 () JORF 19 janvier 2002 en vigueur le 1er février 2002
+  - Décret n°2004-490 du 3 juin 2004 - art. 111 () JORF 5 juin 2004 en vigueur le 1er août 2004
 
 _Anciens textes_:
 
   - Code de l'urbanisme - art. R*421-38 (M)
   - Code de l'urbanisme - art. R421-38 (M)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-15 (M)
-  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-28 (M)
-  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-47 (M)
 
 _Codifié par_:
 
@@ -46487,25 +46517,32 @@ _Codifié par_:
 
 ###### Article R421-38-10-1
 
-Lorsque l'opération projetée entre dans le champ d'application de l'article 1er du décret n° 2002-89 du 16 janvier 2002 pris
-pour l'application de la loi n° 2001-44 du 17 janvier 2001 et relatif aux procédures administratives et financières en
-matière d'archéologie préventive, le permis de construire ne peut être délivré qu'après saisine du préfet de région dans les
-conditions prévues à l'article 3 de ce décret.
+Lorsque l'opération projetée entre dans le champ d'application de l'article 4 du décret n° 2004-490 du 3 juin 2004 relatif
+aux procédures administratives et financières en matière d'archéologie préventive, le permis de construire ne peut être
+délivré qu'après saisine du préfet de région dans les conditions prévues à l'article 8 de ce décret.
+
+**Nota:**
+
+Nota : Le VII de l'article 111 du décret 2004-490 tel que publié au Journal officiel du 5 juin 2004, modifiait par erreur
+l'article R. 421-32-101 du code de l'urbanisme, lequel n'existe pas.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2004-490 2004-06-03 art. 4, art. 8
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
-_Cite_:
+_Modifié par_:
 
-  - Loi n°2001-44 2001-01-17
-  - Décret n°2002-89 2002-01-16 art. 1, art. 3
+  - Décret n°2004-490 du 3 juin 2004 - art. 111 () JORF 5 juin 2004 en vigueur le 1er août 2004
 
-_Créé par_:
+_Abrogé par_:
 
-  - Décret n°2002-89 du 16 janvier 2002 - art. 53 () JORF 19 janvier 2002 en vigueur le 1er février 2002
+  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ##### B - Protection d'ouvrages militaires, maritimes et aériens.<a id=313></a>
@@ -48150,7 +48187,10 @@ décharge dans les locaux de ce service. Cet envoi fait courir le délai de quat
 procéder à aucune modification de l'immeuble en application de l'article 2 (5è alinéa) de la loi du 31 décembre 1913.
 
 Les exemplaires de la demande et du dossier de permis de démolir font l'objet des transmissions prévues à l'article L.
-421-2-3. Toutefois, dans le cas prévu au 1er dudit article, seul le formulaire de demande est transmis au préfet.
+421-2-3. Toutefois, dans le cas prévu au 1er dudit article, seul le formulaire de demande est transmis au préfet sauf lorsque
+les travaux sont situés à l'intérieur d'une zone délimitée dans les conditions prévues à l'article 5 du décret n° 2004-490 du
+3 juin 2004 relatif aux procédures administratives et financières en matière d'archéologie préventive et portant le cas
+échéant sur des emprises au sol excédant le seuil fixé dans l'arrêté définissant la zone.
 
 Dans les quinze jours qui suivent le dépôt de la demande et pendant la durée d'instruction de celle-ci, le maire procède à
 l'affichage en mairie d'un avis de dépôt de la demande comprenant les mentions suivantes : nom du demandeur, numéro et date
@@ -48161,22 +48201,25 @@ plancher dont la démolition est projetée.
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°84-224 1984-03-29 art. 21, art. 22 : Modalités d'application
-  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
-
-_Modifié par_:
-
-  - Décret n°86-984 1986-08-19 art. 7 XXXII JORF 27 août 1986
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - SPEC_APPLI: Décret n°2004-490 2004-06-03 art. 122 : réserves
 
 _Cite_:
 
+  - Décret n°2004-490 2004-06-03 art. 5
   - Code de l'urbanisme - art. L421-2-3 (M)
-  - Loi n°1913-12-31 art. 2 al. 5
+  - Loi n°1913-12-31 art. 2
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+_Modifié par_:
+
+  - Décret n°2004-490 du 3 juin 2004 - art. 111 () JORF 5 juin 2004 en vigueur le 1er août 2004
+
+_Abrogé par_:
+
+  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R*430-6
@@ -49568,31 +49611,17 @@ d) Les travaux de création de retenues d'eau ou de canaux d'irrigation d'une pr
 une surface de plus de 10 000 m2.
 
 Lorsque la présomption de la présence de vestiges en sous-sol le justifie, les seuils de 10 000 m2 et de 0,50 mètre peuvent
-être réduits par arrêté du préfet de région dans tout ou partie des zones délimitées en application du 1° de l'article 1er du
-décret n° 2002-89 du 16 janvier 2002 pris pour l'application de la loi n° 2001-44 du 17 janvier 2001 et relatif aux
-procédures administratives et financières en matière d'archéologie préventive.
+être réduits par arrêté du préfet de région dans tout ou partie des zones délimitées en application de l'article 5 du décret
+n° 2004-490 du 3 juin 2004 relatif aux procédures administratives et financières en matière d'archéologie préventive.
 
 Le dossier de déclaration est présenté par le propriétaire du terrain et, s'il n'assure pas lui-même la réalisation des
-travaux, par la personne chargée de celle-ci. Il doit comporter un plan parcellaire et les références cadastrales, le
-descriptif des travaux et leur emplacement sur le terrain d'assiette de l'opération, ainsi qu'une notice précisant les
-modalités techniques envisagées pour leur exécution.
+travaux, par la personne chargée de celle-ci. Il doit comporter un plan parcellaire et les références cadastrales la ou les
+surfaces intéressées, le descriptif des travaux, leur destination et leur emplacement sur le terrain d'assiette de
+l'opération, ainsi qu'une notice précisant les modalités techniques envisagées pour leur exécution.
 
-Le préfet de région peut prendre les mesures prévues par le décret du 16 janvier 2002 précité.
+Le préfet de région peut prendre les mesures prévues par le décret n° 2004-490 du 3 juin 2004 précité.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°2001-44 2001-01-17
-  - Décret n°2002-89 2002-01-16 art. 1
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
-_Créé par_:
-
-  - Décret n°2002-89 du 16 janvier 2002 - art. 53 () JORF 19 janvier 2002 en vigueur le 1er février 2002
 
 _Cité par_:
 
@@ -49601,6 +49630,27 @@ _Cité par_:
   - Décret n°2004-490 du 3 juin 2004 - art. 4 (M)
   - Décret n°2004-490 du 3 juin 2004 - art. 8 (M)
   - Code de l'urbanisme - art. R442-1 (M)
+
+_Modifié par_:
+
+  - Décret n°2004-490 2004-06-03 art. 111 IV, V, VIII JORF 5 juin 2004 en vigueur le 1er août 2004
+  - Décret n°2004-490 du 3 juin 2004 - art. 111 () JORF 5 juin 2004 en vigueur le 1er août 2004
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-490 2004-06-03 art. 122 : réserves
+
+_Cite_:
+
+  - Décret n°2004-490 2004-06-03 art. 5
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+_Abrogé par_:
+
+  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ##### Section 2 : Présentation, dépôt et transmission de la demande<a id=344></a>
@@ -49707,26 +49757,32 @@ _Abrogé par_:
 ###### Article R442-4-2
 
 Tous les exemplaires de la demande et du dossier d'autorisation d'installations et travaux divers sont adressés, par pli
-recommandé avec demande d'avis de réception postal[*condition de forme*], au maire de la commune dans laquelle la clôture est
-envisagée, ou déposés contre décharge à la mairie.
+recommandé avec demande d'avis de réception postal, au maire de la commune dans laquelle la clôture est envisagée, ou déposés
+contre décharge à la mairie.
 
 Le maire affecte un numéro d'enregistrement à la demande dans des conditions prévues par arrêté du ministre chargé de
 l'urbanisme.
 
 Les exemplaires de la demande et du dossier d'autorisation d'installations et travaux divers font l'objet des transmissions
 prévues à l'article L. 421-2-3. Toutefois, dans le cas prévu au 1er dudit article, seul le formulaire de demande est transmis
-au préfet.
+au préfet sauf lorsque les travaux sont situés à l'intérieur d'une zone délimitée dans les conditions prévues à l'article 5
+du décret n° 2004-490 du 3 juin 2004 relatif aux procédures administratives et financières en matière d'archéologie
+préventive et portant le cas échéant sur des emprises au sol excédant le seuil fixé dans l'arrêté définissant la zone.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°86-514 1986-03-14 art. 5 II, III JORF 16 mars 1986
-  - Décret n°86-514 du 14 mars 1986 - art. 5 () JORF 16 mars 1986
+  - SPEC_APPLI: Décret n°2004-490 2004-06-03 art. 122 : réserves
 
-_Modifié par_:
+_Cite_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2004-490 2004-06-03 art. 5
+  - Code de l'urbanisme - art. L421-2-3 (M)
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
 
 _Cité par_:
 
@@ -49735,18 +49791,18 @@ _Cité par_:
   - Code de l'urbanisme - art. R442-4-5 (Ab)
   - Code de l'urbanisme - art. R442-4-8 (Ab)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'urbanisme - art. L421-2-3 (M)
+  - Décret n°2004-490 du 3 juin 2004 - art. 111 () JORF 5 juin 2004 en vigueur le 1er août 2004
+
+_Abrogé par_:
+
+  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 _Anciens textes_:
 
   - Code de l'urbanisme - art. R*441-5 (T)
   - Code de l'urbanisme R441-5
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
 
 
 ##### Section 3 : Instruction de la demande<a id=345></a>

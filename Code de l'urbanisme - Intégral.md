@@ -1,7 +1,7 @@
 # Code de l'urbanisme  
-Version Consolidée au 2001-01-01
+Version Consolidée au 2001-01-14
 ## Contenu: 
-  - [Partie législative (art. L110 à L600-4)](#1)
+  - [Partie législative (art. L110 à L600-4-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
       - [Titre Ier : Règles générales d'utilisation du sol. (art. L110 à L112-6)](#3)
         - [Chapitre Ier : Règles générales de l'urbanisme. (art. L111-1 à L111-11)](#4)
@@ -94,7 +94,7 @@ Version Consolidée au 2001-01-01
       - [Titre III : Implantation hors de la région parisienne de certaines activités (art. L530-1 à L530-4)](#91)
       - [Titre IV : Construction ou aménagement des immeubles à usage industriel en vue de leur revente (art. L540-1 à L540-3)](#92)
       - [Titre V : Sanctions (art. L550-1)](#93)
-    - [Livre VI : Dispositions relatives au contentieux de l'urbanisme (art. L600-1 à L600-4)](#94)
+    - [Livre VI : Dispositions relatives au contentieux de l'urbanisme (art. L600-1 à L600-4-1)](#94)
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*111-1 à R*620-1)](#95)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. R*111-1 à R*160-33)](#96)
       - [Titre Ier : Règles générales d'utilisation du sol (art. R*111-1 à R*112-2)](#97)
@@ -19238,6 +19238,31 @@ _Créé par_:
 _Cité par_:
 
   - Code de l'urbanisme - art. L760-1 (VT)
+
+
+###### Article L600-4-1
+
+Lorsqu'elle annule pour excès de pouvoir un acte intervenu en matière d'urbanisme ou en ordonne la suspension, la juridiction
+administrative se prononce sur l'ensemble des moyens de la requête qu'elle estime susceptibles de fonder l'annulation ou la
+suspension, en l'état du dossier.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. L760-1 (VT)
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08 JORF 13 NOVEMBRE 1973
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2000-1208 2000-12-14 art. 43
+
+_Créé par_:
+
+  - Loi n°2000-1208 du 13 décembre 2000 - art. 37 () JORF 14 décembre 2000 en vigueur le 14 janvier 2001
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat<a id=95></a>

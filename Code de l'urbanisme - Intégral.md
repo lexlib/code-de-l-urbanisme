@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1978-03-09
+Version Consolidée au 1978-03-23
 ## Contenu: 
   - [Partie législative (art. L122-1 à L550-1)](#1)
     - [Règles générales d'aménagement et d'urbanisme (art. L122-1 à L122-3)](#2)
@@ -118,7 +118,7 @@ Version Consolidée au 1978-03-09
       - [Titre III : Implantation hors de la région parisienne de certaines activités (art. L530-1 à L530-4)](#115)
       - [Titre IV : Construction ou aménagement des immeubles à usage industriel en vue de leur revente (art. L540-1 à L540-3)](#116)
       - [Titre V : Sanctions (art. L550-1)](#117)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R421-37 à R550-1)](#118)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R421-37 à R615-6)](#118)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. **R111-1 à R*160-28)](#119)
       - [Titre Ier : Règles générales d'utilisation du sol (art. **R111-1 à R*112-2)](#120)
         - [Chapitre Ier : Règles générales de l'urbanisme (art. **R111-1 à R111-26)](#121)
@@ -522,86 +522,89 @@ Version Consolidée au 1978-03-09
       - [TITRE III : Implantation hors de la région Ile-de-France de certaines activités. (art. R530-1 à R530-2)](#519)
       - [Titre III : Implantation hors de la région parisienne de certaines activités (art. R530-3 à R530-5)](#520)
       - [Titre V : Sanctions (art. R550-1)](#521)
-  - [Partie réglementaire - Arrêtés (art. A121-1 à A614-4)](#522)
-    - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. A121-1 à A160-1)](#523)
-      - [Titre  II : Prévisions et règles d'urbanisme (art. A121-1 à A124-1)](#524)
-        - [Chapitre Ier : Dispositions générales communes aux schémas directeurs et aux plans d'occupation des sols (art. A121-1 à A121-4)](#525)
-        - [Chapitre  III : Plans d'occupation des sols (art. A123-1 à A123-6)](#526)
-          - [Section 4 : Effets du plan d'occupation des sols (art. A123-1 à A123-6)](#527)
-            - [Sous-section 1 : Mesures de sauvegarde. (art. A123-1 à A123-4)](#528)
-            - [Sous-section 2 : Mesures d'exécution. (art. A123-5 à A123-6)](#529)
-        - [CHAPITRE IV : Dispositions transitoires. (art. A124-1)](#530)
-      - [Titre  IV : Dispositions spéciales à certaines parties du territoire (art. A142-1 à A142-3)](#531)
-        - [Section 2 : Zones de préemption. (art. A142-1 à A142-3)](#532)
-      - [Titre  VI : Sanctions et servitudes (art. A160-1)](#533)
-        - [Section 3 : Agrément des associations exerçant leurs activités dans le domaine de la protection de la nature et de l'environnement et de l'amélioration du cadre de vie (art. A160-1)](#534)
-    - [Livre  II : Préemption et réserves foncières (art. A211-1 à A213-1)](#535)
-      - [TITRE Ier : DROIT DE PREEMPTION (art. A211-1 à A213-1)](#536)
-        - [CHAPITRE Ier : ZONES D'INTERVENTION FONCIERE. (art. A211-1 à A211-2)](#537)
-        - [Chapitre  II : Zones d'aménagement différé (art. A212-1 à A212-5)](#538)
-        - [CHAPITRE III : PERIMETRES PROVISOIRES DES ZONES  D'AMENAGEMENT DIFFERE. (art. A213-1)](#539)
-    - [Livre  III : Aménagement foncier (art. A311-1 à A335-6)](#540)
-      - [Titre Ier : Opérations d'aménagement (art. A311-1 à A317-10)](#541)
-        - [CHAPITRE I : Zones d'aménagement concerté (art. A311-1 à A311-22)](#542)
-          - [Section 1 : Création des zones d'aménagement concerté. (art. A311-1 à A311-2)](#543)
-          - [Section 2 : Réalisation des zones d'aménagement concerté. (art. A311-5 à A311-10)](#544)
-          - [Section 4 : Subventions (art. A311-11 à A311-21)](#545)
-            - [Sous-section 1 : Aide de l'Etat en ce qui concerne la viabilité des grands ensembles d'habitation. (art. A311-11 à A311-17)](#546)
-            - [Sous-section 2 : Aide de l'Etat en ce qui concerne les subventions d'équipement aux collectivités pour l'habitat urbain. (art. A311-18 à A311-19)](#547)
-            - [Sous-section 3 : Equipements de superstructure d'accompagnement du logement dans les zones d'aménagement concerté susceptibles de bénéficier de subventions en application des articles R. 311-25 à R. 311-29. (art. A311-21)](#548)
-          - [Section 6 : Dispositions diverses. (art. A311-22)](#549)
-        - [CHAPITRE II : Rénovation urbaine. (art. A312-1 à A312-5)](#550)
-        - [CHAPITRE III : Restauration immobilière et secteurs sauvegardés. (art. A313-1)](#551)
-        - [CHAPITRE V : Lotissements (art. A315-1 à A315-5)](#552)
-        - [CHAPITRE VII : Amélioration de certains lotissements. (art. A317-1 à A317-10)](#553)
-      - [Titre  II : Organismes d'exécution (art. A321-1)](#554)
-        - [Chapitre Ier : Sociétés d'économie mixte, établissements publics et autres organismes d'aménagement (art. A321-1)](#555)
-          - [Section 1 : Aménagement d'agglomérations nouvelles, de zones d'habitation ou de zones industrielles (art. A321-1)](#556)
-      - [Titre  III : Dispositions financières (art. A331-1 à A335-6)](#557)
-        - [CHAPITRE I : Fonds national d'aménagement foncier et d'urbanisme (art. A331-1 à A331-8)](#558)
-        - [CHAPITRE V : Aide à la création et à l'aménagement d'espaces verts. (art. A335-1 à A335-6)](#559)
-    - [REGLES RELATIVES A L'ACTE DE CONSTRUIRE ET A DIVERS MODES  D'UTILISATION DU SOL (art. A430-3)](#560)
-      - [PERMIS DE DEMOLIR (art. A430-3)](#561)
-        - [REGIME GENERAL (art. A430-3)](#562)
-          - [DECISION . (art. A430-3)](#563)
-    - [LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol (art. A410-1 à A460-2)](#564)
-      - [TITRE I : Certificat d'urbanisme. (art. A410-1 à A410-2)](#565)
-      - [TITRE II : Permis de construire (art. A421-1 à A422-1)](#566)
-        - [CHAPITRE I : Régime général (art. A421-1 à A421-8)](#567)
-          - [Section 1 : Règles applicables à toute construction. (art. A421-1 à A421-8)](#568)
-            - [Sous-section 1 : Présentation de la demande (art. A421-1 à A421-3)](#569)
-            - [Sous-section 2 : Instruction de la demande. Régime général. (art. A421-4 à A421-6)](#570)
-            - [Sous-section 5 : Dispositions diverses (art. A421-7 à A421-8)](#571)
-        - [CHAPITRE II : Exceptions au régime général (art. A422-1)](#572)
-          - [SECTION UNIQUE : Déclarations de travaux exemptés du permis de construire. (art. A422-1)](#573)
-      - [TITRE III : Permis de démolir (art. A430-2 à A430-4)](#574)
-        - [Section 1 : Régime général (art. A430-2 à A430-1)](#575)
-          - [Sous-section 1 : Présentation de la demande. (art. A430-1)](#576)
-        - [Section 4 : Formalités postérieures à la délivrance du permis de de démolir. (art. A430-4)](#577)
-      - [Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol. (art. A441-1 à A443-4)](#578)
-        - [CHAPITRE I : Clôtures. (art. A441-1)](#579)
-        - [CHAPITRE II : Installations et travaux divers. (art. A442-1)](#580)
-        - [CHAPITRE III : Stationnement des caravanes (art. A443-1 à A443-9)](#581)
-          - [Paragraphe 1 : Stationnement en dehors des terrains aménagés (art. A443-1 à A443-2)](#582)
-          - [Paragraphe 2 : Stationnement sur des terrains aménagés (art. A443-6 à A443-9)](#583)
-        - [CHAPITRE III : Camping et stationnement des caravanes (art. A443-3 à A443-4)](#584)
-          - [Paragraphe 1 : Stationnement en dehors des terrains aménagés. (art. A443-3 à A443-4)](#585)
-      - [TITRE VI : Contrôle (art. A460-1 à A460-2)](#586)
-        - [Section 1 : Déclaration d'achèvement des travaux et certificat de conformité. (art. A460-1 à A460-2)](#587)
-    - [Livre  V : Implantation des services, établissements et entreprises (art. A510-1 à A520-11)](#588)
-      - [TITRE I : Dispositions administratives générales. (art. A510-1 à A510-13)](#589)
-      - [Titre  II : Dispositions financières concernant la région d'Ile-de-France (art. A520-1 à A520-11)](#590)
-        - [Section 1 : Dispositions générales (art. A520-1 à A520-11)](#591)
-          - [Sous-section 1 : Perception des redevances (art. A520-1 à A520-3)](#592)
-          - [Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance (art. A520-4 à A520-11)](#593)
-    - [Livre  VI : Organismes consultatifs et dispositions diverses (art. A611-1 à A614-4)](#594)
-      - [Titre Ier : Organismes consultatifs (art. A611-1 à A614-4)](#595)
-        - [CHAPITRE I : Commissions départementales d'urbanisme. (art. A611-1 à A611-7)](#596)
-        - [CHAPITRE II : Conférence permanente du permis de contruire (art. A612-1 à A612-9)](#597)
-          - [Section 1 : Conférence permanente du permis de construire instituée dans les départements situés hors de la région d'Ile-de-France. (art. A612-1 à A612-4)](#598)
-          - [Section 2 : Conférence permanente du permis de construire des départements de la région d'Ile-de-France. (art. A612-5 à A612-9)](#599)
-        - [CHAPITRE III : Comité d'aménagement de la région Ile-de-France. (art. A613-1 à A613-10)](#600)
-        - [CHAPITRE IV : Architectes-conseils (art. A614-2 à A614-4)](#601)
+    - [LIVRE VI : Organismes consultatifs et dispositions diverses (art. R615-1 à R615-6)](#522)
+      - [Titre Ier : Organismes consultatifs (art. R615-1 à R615-6)](#523)
+        - [Chapitre V : Fonds d'aménagement urbain (art. R615-1 à R615-6)](#524)
+  - [Partie réglementaire - Arrêtés (art. A121-1 à A614-4)](#525)
+    - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. A121-1 à A160-1)](#526)
+      - [Titre  II : Prévisions et règles d'urbanisme (art. A121-1 à A124-1)](#527)
+        - [Chapitre Ier : Dispositions générales communes aux schémas directeurs et aux plans d'occupation des sols (art. A121-1 à A121-4)](#528)
+        - [Chapitre  III : Plans d'occupation des sols (art. A123-1 à A123-6)](#529)
+          - [Section 4 : Effets du plan d'occupation des sols (art. A123-1 à A123-6)](#530)
+            - [Sous-section 1 : Mesures de sauvegarde. (art. A123-1 à A123-4)](#531)
+            - [Sous-section 2 : Mesures d'exécution. (art. A123-5 à A123-6)](#532)
+        - [CHAPITRE IV : Dispositions transitoires. (art. A124-1)](#533)
+      - [Titre  IV : Dispositions spéciales à certaines parties du territoire (art. A142-1 à A142-3)](#534)
+        - [Section 2 : Zones de préemption. (art. A142-1 à A142-3)](#535)
+      - [Titre  VI : Sanctions et servitudes (art. A160-1)](#536)
+        - [Section 3 : Agrément des associations exerçant leurs activités dans le domaine de la protection de la nature et de l'environnement et de l'amélioration du cadre de vie (art. A160-1)](#537)
+    - [Livre  II : Préemption et réserves foncières (art. A211-1 à A213-1)](#538)
+      - [TITRE Ier : DROIT DE PREEMPTION (art. A211-1 à A213-1)](#539)
+        - [CHAPITRE Ier : ZONES D'INTERVENTION FONCIERE. (art. A211-1 à A211-2)](#540)
+        - [Chapitre  II : Zones d'aménagement différé (art. A212-1 à A212-5)](#541)
+        - [CHAPITRE III : PERIMETRES PROVISOIRES DES ZONES  D'AMENAGEMENT DIFFERE. (art. A213-1)](#542)
+    - [Livre  III : Aménagement foncier (art. A311-1 à A335-6)](#543)
+      - [Titre Ier : Opérations d'aménagement (art. A311-1 à A317-10)](#544)
+        - [CHAPITRE I : Zones d'aménagement concerté (art. A311-1 à A311-22)](#545)
+          - [Section 1 : Création des zones d'aménagement concerté. (art. A311-1 à A311-2)](#546)
+          - [Section 2 : Réalisation des zones d'aménagement concerté. (art. A311-5 à A311-10)](#547)
+          - [Section 4 : Subventions (art. A311-11 à A311-21)](#548)
+            - [Sous-section 1 : Aide de l'Etat en ce qui concerne la viabilité des grands ensembles d'habitation. (art. A311-11 à A311-17)](#549)
+            - [Sous-section 2 : Aide de l'Etat en ce qui concerne les subventions d'équipement aux collectivités pour l'habitat urbain. (art. A311-18 à A311-19)](#550)
+            - [Sous-section 3 : Equipements de superstructure d'accompagnement du logement dans les zones d'aménagement concerté susceptibles de bénéficier de subventions en application des articles R. 311-25 à R. 311-29. (art. A311-21)](#551)
+          - [Section 6 : Dispositions diverses. (art. A311-22)](#552)
+        - [CHAPITRE II : Rénovation urbaine. (art. A312-1 à A312-5)](#553)
+        - [CHAPITRE III : Restauration immobilière et secteurs sauvegardés. (art. A313-1)](#554)
+        - [CHAPITRE V : Lotissements (art. A315-1 à A315-5)](#555)
+        - [CHAPITRE VII : Amélioration de certains lotissements. (art. A317-1 à A317-10)](#556)
+      - [Titre  II : Organismes d'exécution (art. A321-1)](#557)
+        - [Chapitre Ier : Sociétés d'économie mixte, établissements publics et autres organismes d'aménagement (art. A321-1)](#558)
+          - [Section 1 : Aménagement d'agglomérations nouvelles, de zones d'habitation ou de zones industrielles (art. A321-1)](#559)
+      - [Titre  III : Dispositions financières (art. A331-1 à A335-6)](#560)
+        - [CHAPITRE I : Fonds national d'aménagement foncier et d'urbanisme (art. A331-1 à A331-8)](#561)
+        - [CHAPITRE V : Aide à la création et à l'aménagement d'espaces verts. (art. A335-1 à A335-6)](#562)
+    - [REGLES RELATIVES A L'ACTE DE CONSTRUIRE ET A DIVERS MODES  D'UTILISATION DU SOL (art. A430-3)](#563)
+      - [PERMIS DE DEMOLIR (art. A430-3)](#564)
+        - [REGIME GENERAL (art. A430-3)](#565)
+          - [DECISION . (art. A430-3)](#566)
+    - [LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol (art. A410-1 à A460-2)](#567)
+      - [TITRE I : Certificat d'urbanisme. (art. A410-1 à A410-2)](#568)
+      - [TITRE II : Permis de construire (art. A421-1 à A422-1)](#569)
+        - [CHAPITRE I : Régime général (art. A421-1 à A421-8)](#570)
+          - [Section 1 : Règles applicables à toute construction. (art. A421-1 à A421-8)](#571)
+            - [Sous-section 1 : Présentation de la demande (art. A421-1 à A421-3)](#572)
+            - [Sous-section 2 : Instruction de la demande. Régime général. (art. A421-4 à A421-6)](#573)
+            - [Sous-section 5 : Dispositions diverses (art. A421-7 à A421-8)](#574)
+        - [CHAPITRE II : Exceptions au régime général (art. A422-1)](#575)
+          - [SECTION UNIQUE : Déclarations de travaux exemptés du permis de construire. (art. A422-1)](#576)
+      - [TITRE III : Permis de démolir (art. A430-2 à A430-4)](#577)
+        - [Section 1 : Régime général (art. A430-2 à A430-1)](#578)
+          - [Sous-section 1 : Présentation de la demande. (art. A430-1)](#579)
+        - [Section 4 : Formalités postérieures à la délivrance du permis de de démolir. (art. A430-4)](#580)
+      - [Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol. (art. A441-1 à A443-4)](#581)
+        - [CHAPITRE I : Clôtures. (art. A441-1)](#582)
+        - [CHAPITRE II : Installations et travaux divers. (art. A442-1)](#583)
+        - [CHAPITRE III : Stationnement des caravanes (art. A443-1 à A443-9)](#584)
+          - [Paragraphe 1 : Stationnement en dehors des terrains aménagés (art. A443-1 à A443-2)](#585)
+          - [Paragraphe 2 : Stationnement sur des terrains aménagés (art. A443-6 à A443-9)](#586)
+        - [CHAPITRE III : Camping et stationnement des caravanes (art. A443-3 à A443-4)](#587)
+          - [Paragraphe 1 : Stationnement en dehors des terrains aménagés. (art. A443-3 à A443-4)](#588)
+      - [TITRE VI : Contrôle (art. A460-1 à A460-2)](#589)
+        - [Section 1 : Déclaration d'achèvement des travaux et certificat de conformité. (art. A460-1 à A460-2)](#590)
+    - [Livre  V : Implantation des services, établissements et entreprises (art. A510-1 à A520-11)](#591)
+      - [TITRE I : Dispositions administratives générales. (art. A510-1 à A510-13)](#592)
+      - [Titre  II : Dispositions financières concernant la région d'Ile-de-France (art. A520-1 à A520-11)](#593)
+        - [Section 1 : Dispositions générales (art. A520-1 à A520-11)](#594)
+          - [Sous-section 1 : Perception des redevances (art. A520-1 à A520-3)](#595)
+          - [Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance (art. A520-4 à A520-11)](#596)
+    - [Livre  VI : Organismes consultatifs et dispositions diverses (art. A611-1 à A614-4)](#597)
+      - [Titre Ier : Organismes consultatifs (art. A611-1 à A614-4)](#598)
+        - [CHAPITRE I : Commissions départementales d'urbanisme. (art. A611-1 à A611-7)](#599)
+        - [CHAPITRE II : Conférence permanente du permis de contruire (art. A612-1 à A612-9)](#600)
+          - [Section 1 : Conférence permanente du permis de construire instituée dans les départements situés hors de la région d'Ile-de-France. (art. A612-1 à A612-4)](#601)
+          - [Section 2 : Conférence permanente du permis de construire des départements de la région d'Ile-de-France. (art. A612-5 à A612-9)](#602)
+        - [CHAPITRE III : Comité d'aménagement de la région Ile-de-France. (art. A613-1 à A613-10)](#603)
+        - [CHAPITRE IV : Architectes-conseils (art. A614-2 à A614-4)](#604)
 # Partie législative<a id=1></a>
 
 ## Règles générales d'aménagement et d'urbanisme<a id=2></a>
@@ -39698,13 +39701,207 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-# Partie réglementaire - Arrêtés<a id=522></a>
+## LIVRE VI : Organismes consultatifs et dispositions diverses<a id=522></a>
 
-## Livre Ier : Règles générales d'aménagement et d'urbanisme<a id=523></a>
+### Titre Ier : Organismes consultatifs<a id=523></a>
 
-### Titre  II : Prévisions et règles d'urbanisme<a id=524></a>
+#### Chapitre V : Fonds d'aménagement urbain<a id=524></a>
 
-#### Chapitre Ier : Dispositions générales communes aux schémas directeurs et aux plans d'occupation des sols<a id=525></a>
+###### Article R615-1
+
+Il est institué un fonds d'aménagement urbain.
+
+Le fonds d'aménagement urbain a pour objet l'aménagement des centres et quartiers existants.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté  1976-08-24 ART. 1
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°84-1118 1984-12-07 art. 2 : "Les décisions prises par le comité directeur du fonds d'aménagement urbain avant la publication du présent décret seront exécutées dans les conditions mentionnées aux articles R. 615-1 à R. 615-6 du code de l'urban
+
+_Abrogé par_:
+
+  - Décret n°84-1118 du 7 décembre 1984 - art. 1 () JORF 15 DECEMBRE 1984
+
+
+###### Article R615-2
+
+Le fonds d'aménagement urbain est géré par un comité directeur constitué par :
+
+Un président nommé par arrêté du ministre chargé de l'urbanisme après consultation des autres ministres représentés au comité
+directeur :
+
+Le directeur de l'aménagement foncier et de l'urbanisme ;
+
+Le directeur de la construction ;
+
+Le directeur de l'architecture ;
+
+Le directeur de l'action sociale ;
+
+Le secrétaire général de la commission nationale pour le logement des immigrés ;
+
+Le directeur général des collectivités locales ;
+
+Le directeur du budget ;
+
+Le directeur du Trésor.
+
+D'autres chefs de service peuvent être associés aux travaux du comité directeur pour les opérations qui les concernent.
+
+Le directeur de l'agence nationale pour l'amélioration de l'habitat assiste à toutes les séances du comité directeur.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté  1976-08-24 ART. 2
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°84-1118 1984-12-07 art. 2 : "Les décisions prises par le comité directeur du fonds d'aménagement urbain avant la publication du présent décret seront exécutées dans les conditions mentionnées aux articles R. 615-1 à R. 615-6 du code de l'urban
+
+_Abrogé par_:
+
+  - Décret n°84-1118 du 7 décembre 1984 - art. 1 () JORF 15 DECEMBRE 1984
+
+
+###### Article R615-3
+
+Le comité directeur a pour mission d'animer et de coordonner l'action des administrations intéressées à l'aménagement des
+centres et quartiers existants en vue de promouvoir un cadre de vie de qualité et d'assurer de meilleures conditions de vie
+aux ménages les plus modestes, en concertation avec les collectivités locales.
+
+Le comité directeur est consulté sur les projets de textes réglementaires ou d'instructions ministérielles relatifs à sa
+mission.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté  1976-08-24 ART. 3
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°84-1118 1984-12-07 art. 2 : "Les décisions prises par le comité directeur du fonds d'aménagement urbain avant la publication du présent décret seront exécutées dans les conditions mentionnées aux articles R. 615-1 à R. 615-6 du code de l'urban
+
+_Abrogé par_:
+
+  - Décret n°84-1118 du 7 décembre 1984 - art. 1 () JORF 15 DECEMBRE 1984
+
+
+###### Article R615-4
+
+Le comité directeur exerce les missions antérieurement assumées par le groupe interministériel permanent pour la résorption
+de l'habitat insalubre.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté  1976-08-24 ART. 6 AL. 2
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°84-1118 1984-12-07 art. 2 : "Les décisions prises par le comité directeur du fonds d'aménagement urbain avant la publication du présent décret seront exécutées dans les conditions mentionnées aux articles R. 615-1 à R. 615-6 du code de l'urban
+
+_Abrogé par_:
+
+  - Décret n°84-1118 du 7 décembre 1984 - art. 1 () JORF 15 DECEMBRE 1984
+
+
+###### Article R615-5
+
+Les décisions d'affectation des crédits budgétaires, y compris les crédits d'étude, ayant les objets suivants :
+
+Rénovation urbaine ;
+
+Restauration immobilière ;
+
+Résorption de l'habitat insalubre ;
+
+Opérations programmées d'amélioration des logements ;
+
+Mise en valeur architecturale des ensembles urbains, et, le cas échéant, tous crédits dont les ministres décideraient
+ultérieurement de réserver l'affectation au comité directeur du fonds d'aménagement urbain, sont prises par ledit comité.
+Elles sont exécutées par les administrations gestionnaires des chapitres budgétaires correspondants.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté  1976-08-24 ART. 4
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°84-1118 1984-12-07 art. 2 : "Les décisions prises par le comité directeur du fonds d'aménagement urbain avant la publication du présent décret seront exécutées dans les conditions mentionnées aux articles R. 615-1 à R. 615-6 du code de l'urban
+
+_Abrogé par_:
+
+  - Décret n°84-1118 du 7 décembre 1984 - art. 1 () JORF 15 DECEMBRE 1984
+
+
+###### Article R615-6
+
+Il est instauré un secrétariat général du fonds d'aménagement urbain qui est rattaché administrativement au ministère chargé
+de l'urbanisme.
+
+Le secrétaire général est rapporteur des projets d'opérations d'aménagement devant le comité directeur du fonds d'aménagement
+urbain et prépare la coordination entre les différents services concernés par ces opérations.
+
+Le secrétaire général est nommé par arrêté du ministre chargé de l'urbanisme après consultation des autres ministres
+représentés au comité directeur du fonds d'aménagement urbain.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Arrêté  1976-08-24 ART. 5
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°84-1118 1984-12-07 art. 2 : "Les décisions prises par le comité directeur du fonds d'aménagement urbain avant la publication du présent décret seront exécutées dans les conditions mentionnées aux articles R. 615-1 à R. 615-6 du code de l'urban
+
+_Abrogé par_:
+
+  - Décret n°84-1118 du 7 décembre 1984 - art. 1 () JORF 15 DECEMBRE 1984
+
+
+# Partie réglementaire - Arrêtés<a id=525></a>
+
+## Livre Ier : Règles générales d'aménagement et d'urbanisme<a id=526></a>
+
+### Titre  II : Prévisions et règles d'urbanisme<a id=527></a>
+
+#### Chapitre Ier : Dispositions générales communes aux schémas directeurs et aux plans d'occupation des sols<a id=528></a>
 
 ###### Article A121-1
 
@@ -39811,11 +40008,11 @@ _Cite_:
   - Code de l'urbanisme - art. L121-8 (V)
 
 
-#### Chapitre  III : Plans d'occupation des sols<a id=526></a>
+#### Chapitre  III : Plans d'occupation des sols<a id=529></a>
 
-##### Section 4 : Effets du plan d'occupation des sols<a id=527></a>
+##### Section 4 : Effets du plan d'occupation des sols<a id=530></a>
 
-##### Sous-section 1 : Mesures de sauvegarde.<a id=528></a>
+##### Sous-section 1 : Mesures de sauvegarde.<a id=531></a>
 
 ###### Article A123-1
 
@@ -40038,7 +40235,7 @@ _Cite_:
   - Code de l'urbanisme - art. A123-3 (Ab)
 
 
-##### Sous-section 2 : Mesures d'exécution.<a id=529></a>
+##### Sous-section 2 : Mesures d'exécution.<a id=532></a>
 
 ###### Article A123-5
 
@@ -40090,7 +40287,7 @@ _Cite_:
   - Code de l'urbanisme - art. L123-9 (M)
 
 
-#### CHAPITRE IV : Dispositions transitoires.<a id=530></a>
+#### CHAPITRE IV : Dispositions transitoires.<a id=533></a>
 
 ###### Article A124-1
 
@@ -40112,9 +40309,9 @@ _Cite_:
   - Code de l'urbanisme - art. A121-2 (Ab)
 
 
-### Titre  IV : Dispositions spéciales à certaines parties du territoire<a id=531></a>
+### Titre  IV : Dispositions spéciales à certaines parties du territoire<a id=534></a>
 
-#### Section 2 : Zones de préemption.<a id=532></a>
+#### Section 2 : Zones de préemption.<a id=535></a>
 
 ###### Article A142-1
 
@@ -40177,9 +40374,9 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-### Titre  VI : Sanctions et servitudes<a id=533></a>
+### Titre  VI : Sanctions et servitudes<a id=536></a>
 
-#### Section 3 : Agrément des associations exerçant leurs activités dans le domaine de la protection de la nature et de l'environnement et de l'amélioration du cadre de vie<a id=534></a>
+#### Section 3 : Agrément des associations exerçant leurs activités dans le domaine de la protection de la nature et de l'environnement et de l'amélioration du cadre de vie<a id=537></a>
 
 ###### Article A160-1
 
@@ -40200,11 +40397,11 @@ _Cite_:
   - Code de l'urbanisme - art. L480-1 (V)
 
 
-## Livre  II : Préemption et réserves foncières<a id=535></a>
+## Livre  II : Préemption et réserves foncières<a id=538></a>
 
-### TITRE Ier : DROIT DE PREEMPTION<a id=536></a>
+### TITRE Ier : DROIT DE PREEMPTION<a id=539></a>
 
-#### CHAPITRE Ier : ZONES D'INTERVENTION FONCIERE.<a id=537></a>
+#### CHAPITRE Ier : ZONES D'INTERVENTION FONCIERE.<a id=540></a>
 
 ###### Article A211-1
 
@@ -40247,7 +40444,7 @@ _Cite_:
   - Code de l'urbanisme - art. A211-1 (M)
 
 
-#### Chapitre  II : Zones d'aménagement différé<a id=538></a>
+#### Chapitre  II : Zones d'aménagement différé<a id=541></a>
 
 ###### Article A212-1
 
@@ -40368,7 +40565,7 @@ _Cite_:
   - Code de l'urbanisme - art. L212-3 (M)
 
 
-#### CHAPITRE III : PERIMETRES PROVISOIRES DES ZONES  D'AMENAGEMENT DIFFERE.<a id=539></a>
+#### CHAPITRE III : PERIMETRES PROVISOIRES DES ZONES  D'AMENAGEMENT DIFFERE.<a id=542></a>
 
 ###### Article A213-1
 
@@ -40389,13 +40586,13 @@ _Cité par_:
   - Code de l'urbanisme - art. A212-1 (V)
 
 
-## Livre  III : Aménagement foncier<a id=540></a>
+## Livre  III : Aménagement foncier<a id=543></a>
 
-### Titre Ier : Opérations d'aménagement<a id=541></a>
+### Titre Ier : Opérations d'aménagement<a id=544></a>
 
-#### CHAPITRE I : Zones d'aménagement concerté<a id=542></a>
+#### CHAPITRE I : Zones d'aménagement concerté<a id=545></a>
 
-##### Section 1 : Création des zones d'aménagement concerté.<a id=543></a>
+##### Section 1 : Création des zones d'aménagement concerté.<a id=546></a>
 
 ###### Article A311-1
 
@@ -40453,7 +40650,7 @@ _Cité par_:
   - Code de l'urbanisme - art. A311-4 (Ab)
 
 
-##### Section 2 : Réalisation des zones d'aménagement concerté.<a id=544></a>
+##### Section 2 : Réalisation des zones d'aménagement concerté.<a id=547></a>
 
 ###### Article A311-5
 
@@ -40604,9 +40801,9 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-##### Section 4 : Subventions<a id=545></a>
+##### Section 4 : Subventions<a id=548></a>
 
-##### Sous-section 1 : Aide de l'Etat en ce qui concerne la viabilité des grands ensembles d'habitation.<a id=546></a>
+##### Sous-section 1 : Aide de l'Etat en ce qui concerne la viabilité des grands ensembles d'habitation.<a id=549></a>
 
 ###### Article A311-11
 
@@ -40785,7 +40982,7 @@ _Cite_:
   - Code de l'urbanisme - art. A311-16 (Ab)
 
 
-##### Sous-section 2 : Aide de l'Etat en ce qui concerne les subventions d'équipement aux collectivités pour l'habitat urbain.<a id=547></a>
+##### Sous-section 2 : Aide de l'Etat en ce qui concerne les subventions d'équipement aux collectivités pour l'habitat urbain.<a id=550></a>
 
 ###### Article A311-18
 
@@ -40832,7 +41029,7 @@ _Cite_:
   - Code de l'urbanisme - art. A311-18 (Ab)
 
 
-##### Sous-section 3 : Equipements de superstructure d'accompagnement du logement dans les zones d'aménagement concerté susceptibles de bénéficier de subventions en application des articles R. 311-25 à R. 311-29.<a id=548></a>
+##### Sous-section 3 : Equipements de superstructure d'accompagnement du logement dans les zones d'aménagement concerté susceptibles de bénéficier de subventions en application des articles R. 311-25 à R. 311-29.<a id=551></a>
 
 ###### Article A311-21
 
@@ -40854,7 +41051,7 @@ _Cite_:
   - Code de l'urbanisme - art. A311-20 (Ab)
 
 
-##### Section 6 : Dispositions diverses.<a id=549></a>
+##### Section 6 : Dispositions diverses.<a id=552></a>
 
 ###### Article A311-22
 
@@ -40876,7 +41073,7 @@ _Cite_:
   - Code de l'urbanisme - art. A121-2 (Ab)
 
 
-#### CHAPITRE II : Rénovation urbaine.<a id=550></a>
+#### CHAPITRE II : Rénovation urbaine.<a id=553></a>
 
 ###### Article A312-1
 
@@ -41000,7 +41197,7 @@ _Cite_:
   - Code de l'urbanisme - art. A312-4 (Ab)
 
 
-#### CHAPITRE III : Restauration immobilière et secteurs sauvegardés.<a id=551></a>
+#### CHAPITRE III : Restauration immobilière et secteurs sauvegardés.<a id=554></a>
 
 ###### Article A313-1
 
@@ -41022,7 +41219,7 @@ _Cite_:
   - Code de l'urbanisme - art. A121-2 (Ab)
 
 
-#### CHAPITRE V : Lotissements<a id=552></a>
+#### CHAPITRE V : Lotissements<a id=555></a>
 
 ###### Article A315-1
 
@@ -41138,7 +41335,7 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-#### CHAPITRE VII : Amélioration de certains lotissements.<a id=553></a>
+#### CHAPITRE VII : Amélioration de certains lotissements.<a id=556></a>
 
 ###### Article A317-1
 
@@ -41236,11 +41433,11 @@ _Cite_:
   - CODE DE L'URBANISME A317-1 à A317-9
 
 
-### Titre  II : Organismes d'exécution<a id=554></a>
+### Titre  II : Organismes d'exécution<a id=557></a>
 
-#### Chapitre Ier : Sociétés d'économie mixte, établissements publics et autres organismes d'aménagement<a id=555></a>
+#### Chapitre Ier : Sociétés d'économie mixte, établissements publics et autres organismes d'aménagement<a id=558></a>
 
-##### Section 1 : Aménagement d'agglomérations nouvelles, de zones d'habitation ou de zones industrielles<a id=556></a>
+##### Section 1 : Aménagement d'agglomérations nouvelles, de zones d'habitation ou de zones industrielles<a id=559></a>
 
 ###### Article A321-1
 
@@ -41267,9 +41464,9 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-### Titre  III : Dispositions financières<a id=557></a>
+### Titre  III : Dispositions financières<a id=560></a>
 
-#### CHAPITRE I : Fonds national d'aménagement foncier et d'urbanisme<a id=558></a>
+#### CHAPITRE I : Fonds national d'aménagement foncier et d'urbanisme<a id=561></a>
 
 ###### Article A331-1
 
@@ -41442,7 +41639,7 @@ _Cite_:
   - Code de l'urbanisme - art. A331-7 (Ab)
 
 
-#### CHAPITRE V : Aide à la création et à l'aménagement d'espaces verts.<a id=559></a>
+#### CHAPITRE V : Aide à la création et à l'aménagement d'espaces verts.<a id=562></a>
 
 ###### Article A335-1
 
@@ -41587,13 +41784,13 @@ _Cite_:
   - TXT_ASSOCIE: Code de l'urbanisme - art. A335-4 (Ab)
 
 
-## REGLES RELATIVES A L'ACTE DE CONSTRUIRE ET A DIVERS MODES  D'UTILISATION DU SOL<a id=560></a>
+## REGLES RELATIVES A L'ACTE DE CONSTRUIRE ET A DIVERS MODES  D'UTILISATION DU SOL<a id=563></a>
 
-### PERMIS DE DEMOLIR<a id=561></a>
+### PERMIS DE DEMOLIR<a id=564></a>
 
-#### REGIME GENERAL<a id=562></a>
+#### REGIME GENERAL<a id=565></a>
 
-##### DECISION .<a id=563></a>
+##### DECISION .<a id=566></a>
 
 ###### Article A430-3
 
@@ -41613,9 +41810,9 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-## LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol<a id=564></a>
+## LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol<a id=567></a>
 
-### TITRE I : Certificat d'urbanisme.<a id=565></a>
+### TITRE I : Certificat d'urbanisme.<a id=568></a>
 
 ###### Article A410-1
 
@@ -41658,13 +41855,13 @@ _Cité par_:
   - Code de l'urbanisme - art. A410-3 (Ab)
 
 
-### TITRE II : Permis de construire<a id=566></a>
+### TITRE II : Permis de construire<a id=569></a>
 
-#### CHAPITRE I : Régime général<a id=567></a>
+#### CHAPITRE I : Régime général<a id=570></a>
 
-##### Section 1 : Règles applicables à toute construction.<a id=568></a>
+##### Section 1 : Règles applicables à toute construction.<a id=571></a>
 
-##### Sous-section 1 : Présentation de la demande<a id=569></a>
+##### Sous-section 1 : Présentation de la demande<a id=572></a>
 
 ###### Article A421-1
 
@@ -41762,7 +41959,7 @@ _Cite_:
   - Code de l'urbanisme - art. A421-2 (Ab)
 
 
-##### Sous-section 2 : Instruction de la demande. Régime général.<a id=570></a>
+##### Sous-section 2 : Instruction de la demande. Régime général.<a id=573></a>
 
 ###### Article A421-4
 
@@ -41810,7 +42007,7 @@ _Cite_:
   - Code de l'urbanisme - art. A421-5 (Ab)
 
 
-##### Sous-section 5 : Dispositions diverses<a id=571></a>
+##### Sous-section 5 : Dispositions diverses<a id=574></a>
 
 ###### Article A421-7
 
@@ -41855,9 +42052,9 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-#### CHAPITRE II : Exceptions au régime général<a id=572></a>
+#### CHAPITRE II : Exceptions au régime général<a id=575></a>
 
-##### SECTION UNIQUE : Déclarations de travaux exemptés du permis de construire.<a id=573></a>
+##### SECTION UNIQUE : Déclarations de travaux exemptés du permis de construire.<a id=576></a>
 
 ###### Article A422-1
 
@@ -41885,9 +42082,9 @@ _Cite_:
   - Code de l'urbanisme R422-5
 
 
-### TITRE III : Permis de démolir<a id=574></a>
+### TITRE III : Permis de démolir<a id=577></a>
 
-#### Section 1 : Régime général<a id=575></a>
+#### Section 1 : Régime général<a id=578></a>
 
 ###### Article A430-2
 
@@ -41916,7 +42113,7 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-##### Sous-section 1 : Présentation de la demande.<a id=576></a>
+##### Sous-section 1 : Présentation de la demande.<a id=579></a>
 
 ###### Article A430-1
 
@@ -41939,7 +42136,7 @@ _Cite_:
   - Code de l'urbanisme R430-6
 
 
-#### Section 4 : Formalités postérieures à la délivrance du permis de de démolir.<a id=577></a>
+#### Section 4 : Formalités postérieures à la délivrance du permis de de démolir.<a id=580></a>
 
 ###### Article A430-4
 
@@ -41953,9 +42150,9 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-### Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.<a id=578></a>
+### Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.<a id=581></a>
 
-#### CHAPITRE I : Clôtures.<a id=579></a>
+#### CHAPITRE I : Clôtures.<a id=582></a>
 
 ###### Article A441-1
 
@@ -41979,7 +42176,7 @@ _Cite_:
   - Code de l'urbanisme R441-4
 
 
-#### CHAPITRE II : Installations et travaux divers.<a id=580></a>
+#### CHAPITRE II : Installations et travaux divers.<a id=583></a>
 
 ###### Article A442-1
 
@@ -41998,9 +42195,9 @@ _Cite_:
   - Code de l'urbanisme - art. R442-9 (M)
 
 
-#### CHAPITRE III : Stationnement des caravanes<a id=581></a>
+#### CHAPITRE III : Stationnement des caravanes<a id=584></a>
 
-##### Paragraphe 1 : Stationnement en dehors des terrains aménagés<a id=582></a>
+##### Paragraphe 1 : Stationnement en dehors des terrains aménagés<a id=585></a>
 
 ###### Article A443-1
 
@@ -42055,7 +42252,7 @@ _Cité par_:
   - Code de l'urbanisme - art. A443-3 (M)
 
 
-##### Paragraphe 2 : Stationnement sur des terrains aménagés<a id=583></a>
+##### Paragraphe 2 : Stationnement sur des terrains aménagés<a id=586></a>
 
 ###### Article A443-6
 
@@ -42194,9 +42391,9 @@ _Codifié par_:
   - Décret n°77-38 1977-12-28 JORF 18 JANVIER 1977
 
 
-#### CHAPITRE III : Camping et stationnement des caravanes<a id=584></a>
+#### CHAPITRE III : Camping et stationnement des caravanes<a id=587></a>
 
-##### Paragraphe 1 : Stationnement en dehors des terrains aménagés.<a id=585></a>
+##### Paragraphe 1 : Stationnement en dehors des terrains aménagés.<a id=588></a>
 
 ###### Article A443-3
 
@@ -42240,9 +42437,9 @@ _Cite_:
   - Code de l'urbanisme - art. R443-4 (M)
 
 
-### TITRE VI : Contrôle<a id=586></a>
+### TITRE VI : Contrôle<a id=589></a>
 
-#### Section 1 : Déclaration d'achèvement des travaux et certificat de conformité.<a id=587></a>
+#### Section 1 : Déclaration d'achèvement des travaux et certificat de conformité.<a id=590></a>
 
 ###### Article A460-1
 
@@ -42283,9 +42480,9 @@ _Cite_:
   - Code de l'urbanisme - art. A460-1 (M)
 
 
-## Livre  V : Implantation des services, établissements et entreprises<a id=588></a>
+## Livre  V : Implantation des services, établissements et entreprises<a id=591></a>
 
-### TITRE I : Dispositions administratives générales.<a id=589></a>
+### TITRE I : Dispositions administratives générales.<a id=592></a>
 
 ###### Article A510-1
 
@@ -42551,11 +42748,11 @@ _Cite_:
   - CODE DE L'URBANISME A510-1 à A510-12
 
 
-### Titre  II : Dispositions financières concernant la région d'Ile-de-France<a id=590></a>
+### Titre  II : Dispositions financières concernant la région d'Ile-de-France<a id=593></a>
 
-#### Section 1 : Dispositions générales<a id=591></a>
+#### Section 1 : Dispositions générales<a id=594></a>
 
-##### Sous-section 1 : Perception des redevances<a id=592></a>
+##### Sous-section 1 : Perception des redevances<a id=595></a>
 
 ###### Article A520-1
 
@@ -42631,7 +42828,7 @@ _Cite_:
   - Code de l'urbanisme - art. A520-2 (VT)
 
 
-##### Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance<a id=593></a>
+##### Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance<a id=596></a>
 
 ###### Article A520-4
 
@@ -42744,11 +42941,11 @@ _Cite_:
   - Code de l'urbanisme - art. A520-4 (V)
 
 
-## Livre  VI : Organismes consultatifs et dispositions diverses<a id=594></a>
+## Livre  VI : Organismes consultatifs et dispositions diverses<a id=597></a>
 
-### Titre Ier : Organismes consultatifs<a id=595></a>
+### Titre Ier : Organismes consultatifs<a id=598></a>
 
-#### CHAPITRE I : Commissions départementales d'urbanisme.<a id=596></a>
+#### CHAPITRE I : Commissions départementales d'urbanisme.<a id=599></a>
 
 ###### Article A611-1
 
@@ -42899,9 +43096,9 @@ _Cite_:
   - CODE DE L'URBANISME A611-1 à A611-6
 
 
-#### CHAPITRE II : Conférence permanente du permis de contruire<a id=597></a>
+#### CHAPITRE II : Conférence permanente du permis de contruire<a id=600></a>
 
-##### Section 1 : Conférence permanente du permis de construire instituée dans les départements situés hors de la région d'Ile-de-France.<a id=598></a>
+##### Section 1 : Conférence permanente du permis de construire instituée dans les départements situés hors de la région d'Ile-de-France.<a id=601></a>
 
 ###### Article A612-1
 
@@ -42981,7 +43178,7 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-##### Section 2 : Conférence permanente du permis de construire des départements de la région d'Ile-de-France.<a id=599></a>
+##### Section 2 : Conférence permanente du permis de construire des départements de la région d'Ile-de-France.<a id=602></a>
 
 ###### Article A612-5
 
@@ -43098,7 +43295,7 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-#### CHAPITRE III : Comité d'aménagement de la région Ile-de-France.<a id=600></a>
+#### CHAPITRE III : Comité d'aménagement de la région Ile-de-France.<a id=603></a>
 
 ###### Article A613-1
 
@@ -43317,7 +43514,7 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-#### CHAPITRE IV : Architectes-conseils<a id=601></a>
+#### CHAPITRE IV : Architectes-conseils<a id=604></a>
 
 ###### Article A614-2
 

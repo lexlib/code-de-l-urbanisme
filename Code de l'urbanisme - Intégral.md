@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1977-12-01
+Version Consolidée au 1977-12-28
 ## Contenu: 
   - [Partie législative (art. L122-1 à L550-1)](#1)
     - [Règles générales d'aménagement et d'urbanisme (art. L122-1 à L122-3)](#2)
@@ -10,11 +10,11 @@ Version Consolidée au 1977-12-01
         - [Chapitre Ier : Règles générales de l'urbanisme. (art. L111-1 à L111-11)](#7)
         - [Chapitre II : Plafond légal de densité. (art. L112-1 à L112-7)](#8)
         - [Chapitre III : Dispositions transitoires. (art. L113-1 à L113-2)](#9)
-      - [Titre II : Prévisions et règles d'urbanisme (art. L121-1 à L125-1)](#10)
+      - [Titre II : Prévisions et règles d'urbanisme (art. L121-1 à L125-2)](#10)
         - [Chapitre I : Dispositions générales communes aux schémas directeurs et aux plans d'occupation des sols. (art. L121-1 à L121-8)](#11)
         - [Chapitre III : Plans d'occupation des sols. (art. L123-1 à L123-12)](#12)
         - [Chapitre IV : Dispositions transitoires relatives aux projets d'aménagement, aux plans d'urbanisme et aux coefficients provisoires d'occupation du sol. (art. L124-1 à L124-2)](#13)
-        - [Chapitre V : Dispositions diverses. (art. L125-1)](#14)
+        - [Chapitre V : Dispositions diverses. (art. L125-1 à L125-2)](#14)
       - [Titre III : Espaces boisés. (art. L130-1 à L130-6)](#15)
       - [TITRE IV : Dispositions particulières à certaines parties du territoire (art. L141-1 à L143-1)](#16)
         - [CHAPITRE I : Dispositions particulières à Paris et à la région d'Ile-de-France (art. L141-1 à L141-3)](#17)
@@ -2660,6 +2660,32 @@ _Cite_:
   - TXT_ASSOCIE: Code de l'urbanisme - art. L124-2 (M)
   - TXT_ASSOCIE: Code de l'urbanisme - art. L124-4 (Ab)
   - TXT_ASSOCIE: Code de l'urbanisme - art. R*124-2 (M)
+
+
+###### Article L125-2
+
+La désignation, effectuée antérieurement à la date de publication de la loi n. 77-1420 du 27 décembre 1977, des représentants
+des communes intéressées ou des établissements publics groupant lesdites communes et ayant compétence en matière d'urbanisme
+dans les commissions chargées de l'élaboration des documents d'urbanisme est et demeure valable même si cette désignation
+n'est pas intervenue dans les conditions fixées par les articles 27 et 40 du Code de l'Administration communale ou par les
+articles L. 121-12 et L. 121-26 du Code des Communes.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°77-1420 1977-12-27
+  - CODE DES COMMUNES. - art. L121-12 (M)
+  - CODE DES COMMUNES. - art. L121-26 (M)
+  - Code de l'administration communale 27, 40
+
+_Abrogé par_:
+
+  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ### Titre III : Espaces boisés.<a id=15></a>

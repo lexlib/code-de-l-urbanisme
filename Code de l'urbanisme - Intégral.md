@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2000-01-01
+Version Consolidée au 2000-04-29
 ## Contenu: 
   - [Partie législative (art. L110 à L600-5)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -54338,16 +54338,21 @@ L'agrément institué à l'article R. 510-1 est accordé, accordé sous conditio
 d'instruction :
 
 1° Par un comité de décentralisation placé auprès du ministre chargé de l'aménagement du territoire, lorsque l'opération est
-réalisée par un service de l'Etat ou par une personne publique ou privée soumise à son contrôle.
+réalisée par un service de l'Etat ou par les personnes publiques ou privées soumises à son contrôle dont l'activité ne
+s'exerce pas dans le secteur concurrentiel, et lorsque l'activité du service ou des personnes concernés s'exerce au-delà de
+la région d'Ile-de-France ;
 
 En cas de refus d'agrément, le ministre intéressé peut, dans un délai de deux mois après la notification, saisir le Premier
 ministre, qui décide, après avis du ministre chargé de l'aménagement du territoire, du ministre chargé de l'urbanisme, du
-ministre chargé de l'économie, du ministre chargé du budget et du préfet de la région d'Ile-de-France ;
+ministre chargé de l'économie, du ministre chargé du budget, du ministre chargé de la réforme de l'Etat et du préfet de la
+région d'Ile-de-France ;
 
 2° Par le préfet de département pour toute opération de construction, reconstruction ou extension ne relevant pas des cas
 prévus au 1° du présent article, lorsqu'il existe une convention visée à l'article R. 510-5 en cours de validité ;
 
-3° Par le ministre chargé de l'aménagement du territoire, sur avis du comité de décentralisation, dans tous les autres cas.
+3° Par le préfet de la région d'Ile-de-France dans tous les autres cas. Il peut consulter le comité de décentralisation sur
+toute demande d'agrément. Sa décision fait l'objet d'un arrêté publié au Recueil des actes administratifs de la préfecture de
+la région d'Ile-de-France.
 
 Tout refus d'agrément ou agrément sous condition doit être motivé.
 
@@ -54364,6 +54369,10 @@ _Anciens textes_:
 
   - Décret n°67-944 1967-10-24 ART. 2
 
+_Modifié par_:
+
+  - Décret n°2000-368 du 26 avril 2000 - art. 1 () JORF 29 avril 2000
+
 _Cite_:
 
   - Code de l'urbanisme R510-1, R510-5
@@ -54371,10 +54380,6 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
-
-_Modifié par_:
-
-  - Décret n°95-690 du 9 mai 1995 - art. 2 () JORF 11 mai 1995
 
 
 ###### Article R*510-3
@@ -54445,17 +54450,14 @@ Ce rapport, ainsi que les surfaces de construction qui le déterminent, varie se
 situation mesurée au 1er janvier 1990 et de son évolution depuis cette date, dans le respect notamment des directives
 territoriales d'aménagement et du schéma directeur de la région d'Ile-de-France.
 
-Le comité de décentralisation est consulté par le préfet de la région d'Ile-de-France sur tout projet de convention ou
-avenant préparé par les préfets de département. Il donne son avis dans un délai de deux mois.
-
 Lorsque les termes de cette convention ne sont pas respectés, le préfet de département, après la mise en demeure restée sans
 effet, en suspend l'application ou la dénonce.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-690 du 9 mai 1995 - art. 4 () JORF 11 mai 1995
+  - Décret n°2000-368 du 26 avril 2000 - art. 2 () JORF 29 avril 2000
 
 _Cite_:
 
@@ -54474,8 +54476,9 @@ _Codifié par_:
 
 ###### Article R*510-6
 
-I. - Sont dispensées de l'agrément les opérations, autres que celles visées au 1° de l'article R. 510-2, qui répondent à
-l'une des conditions suivantes :
+I. - Sont dispensées de l'agrément les opérations, autres que réalisées par un service de l'Etat ou par une personne publique
+ou privée soumise à son contrôle et dont l'activité ne s'exerce pas dans le secteur concurrentiel, qui répondent à l'une des
+conditions suivantes :
 
 1. Lorsqu'elles sont situées :
 
@@ -54543,41 +54546,41 @@ Magny-en-Vexin.
 
 - de magasin de vente ;
 
-- industriel par un utilisateur déterminé.
+- industriel par un utilisateur déterminé ;
 
-- de salles de spectacles cinématographiques.
+- de salles de spectacles cinématographiques ;
+
+- d'équipement hospitalier ;
 
 3. Lorsque ces opérations portent sur la reconstruction ou la réhabilitation de bureaux sans extension de surface.
 
 4. Lorsque ces opérations ajoutées à celles éventuellement réalisées sur le même site au cours des douze mois précédents
 portent sur une superficie hors oeuvre nette inférieure à :
 
-1 000 mètres carrés pour les locaux destinés à un usage technique, scientifique, industriel sans utilisateur déterminé,
-d'enseignement ou de bureaux ;
+- 1 000 mètres carrés pour la construction de locaux destinés à un usage technique, scientifique, d'enseignement ou de
+bureaux ;
 
-3 000 mètres carrés pour les locaux destinés à un usage d'entrepôt.
+- 5 000 mètres carrés pour la construction de locaux destinés à un usage industriel sans utilisateur déterminé ou à un usage
+d'entrepôt.
 
-5. Lorsqu'elles portent sur l'utilisation de bureaux et de leurs annexes de toute nature achevés à la date du 31 décembre
-1994 ou dont la déclaration d'ouverture de chantier prévue à l'article R. 421-40 a été déposée en mairie au plus tard à cette
-même date. La présente disposition n'est applicable qu'aux opérations d'utilisation pour lesquelles les actes juridiques dont
-l'utilisation dépend sont définitivement passés au plus tard le 31 décembre 1999.
+5. Lorsqu'elles portent sur le changement d'utilisateur ou d'utilisation de locaux, quelle que soit leur nature.
 
 6. Lorsqu'elles portent sur des locaux d'internat à usage scolaire ou sur des résidences universitaires.
 
-II. - Les opérations visées au 1° de l'article R. 510-2 ne sont dispensées d'agrément que si elles portent sur une surface
-hors oeuvre nette inférieure à 200 mètres carrés.
+II. - Les opérations réalisées par un service de l'Etat ou par une personne publique ou privée soumise à son contrôle et dont
+l'activité ne s'exerce pas dans le secteur concurrentiel sont dispensées d'agrément si elles répondent à l'une des conditions
+suivantes :
+
+1. Lorsqu'elles portent sur une surface hors oeuvre nette inférieure à 200 mètres carrés ;
+
+2. Lorsqu'elles concernent des locaux des services déconcentrés de l'Etat à compétence départementale ou des locaux de
+services dont les activités ne s'exercent pas au-delà du département d'implantation.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°67-944 1967-10-24 art. 6
-
-_Cite_:
-
-  - Loi n°83-636 du 13 juillet 1983 - art. 10 (Ab)
-  - Code de l'urbanisme - art. R421-40 (Ab)
-  - Code de l'urbanisme R510-2, R421-40
 
 _Cité par_:
 
@@ -54589,9 +54592,13 @@ _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
+_Cite_:
+
+  - Loi n°83-636 du 13 juillet 1983 - art. 10 (Ab)
+
 _Modifié par_:
 
-  - Décret n°99-858 1999-10-07 art. 1 JORF 7 octobre 1999
+  - Décret n°2000-368 du 26 avril 2000 - art. 3 () JORF 29 avril 2000
 
 
 ###### Article R*510-8
@@ -54640,26 +54647,18 @@ _Codifié par_:
 
 ###### Article R*510-10
 
-La décision accordant l'agrément[*Région parisienne*] fixe un délai de validité pendant lequel doit intervenir, selon le cas,
-soit le dépôt de la demande de permis de construire , soit la passation des actes juridiques dont l'utilisation des locaux et
-installations dépend, soit l'utilisation effective des locaux et installations.
+La décision accordant l'agrément fixe un délai de validité pendant lequel doit intervenir, selon le cas, soit le dépôt de la
+demande de permis de construire , soit la passation des actes juridiques dont l'utilisation des locaux et installations
+dépend, soit l'utilisation effective des locaux et installations.
 
-A l'expiration dudit délai, et sauf prolongation accordée, suivant la distinction prévue à l'article R. 510-2 par le comité
-de décentralisation, le préfet de département ou le ministre chargé de l'aménagement du territoire, l'agrément est caduc.
+A l'expiration de ce délai, et sauf prolongation accordée par l'autorité compétente pour délivrer l'agrément, la décision
+d'agrément est caduque.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
-
-_Modifié par_:
-
-  - Décret n°95-690 du 9 mai 1995 - art. 8 () JORF 11 mai 1995
-
-_Cite_:
-
-  - Code de l'urbanisme R510-2
 
 
 ###### Article R*510-11
@@ -54708,8 +54707,8 @@ _Abrogé par_:
 
 ###### Article R*510-13
 
-Le comité institué par l'article R. 510-2[*décentralisation, attributions*] est chargé, de façon permanente, dans les
-conditions définies par le ministre de l'aménagement du territoire :
+Le comité institué par l'article R. 510-2 [*décentralisation, attributions*] est chargé, de façon permanente, dans les
+conditions définies par le ministre de l'aménagement du territoire et par le ministre chargé de la réforme de l'Etat :
 
 a) De déterminer ceux des services et établissements civils ou militaires relevant de l'Etat ou soumis à son contrôle, tels
 qu'ils sont définis à l'article R. 510-4 dont la présence dans la région parisienne ne s'impose ni par les tâches qu'ils ont
@@ -54731,13 +54730,17 @@ _Anciens textes_:
 
   - Décret n°67-944 1967-10-24 ART. 13
 
-_Cite_:
-
-  - Code de l'urbanisme R510-2, R510-4, R510-1
-
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+_Modifié par_:
+
+  - Décret n°2000-368 du 26 avril 2000 - art. 5 () JORF 29 avril 2000
+
+_Cite_:
+
+  - Code de l'urbanisme R510-2, R510-4, R510-1
 
 
 ###### Article R*510-14

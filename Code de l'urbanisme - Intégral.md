@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1998-12-31
+Version Consolidée au 1999-01-01
 ## Contenu: 
   - [Partie législative (art. L110 à L600-5)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -471,7 +471,7 @@ Version Consolidée au 1998-12-31
           - [Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance (art. A520-4 à A520-11)](#468)
     - [Livre  VI : Organismes consultatifs et dispositions diverses (art. A614-1 à A614-4)](#469)
       - [Titre Ier : Organismes consultatifs (art. A614-1 à A614-4)](#470)
-        - [CHAPITRE IV : Architectes-conseils (art. A614-1 à A614-4)](#471)
+        - [Chapitre  IV : Architectes-conseils et paysagistes-conseils (art. A614-1 à A614-4)](#471)
   - [Annexes (art. R*126-1, Annexe à R127-3, Annexe 2)](#472)
     - [Liste des servitudes d'utilité publique affectant l'utilisation du sol. (art. R*126-1, Annexe)](#473)
     - [Liste des communes comprises dans la zone 1 (art. R127-3, Annexe 1)](#474)
@@ -57177,28 +57177,29 @@ _Cite_:
 
 ### Titre Ier : Organismes consultatifs<a id=470></a>
 
-#### CHAPITRE IV : Architectes-conseils<a id=471></a>
+#### Chapitre  IV : Architectes-conseils et paysagistes-conseils<a id=471></a>
 
 ###### Article A614-1
 
-Les services extérieurs du ministère chargé de l'urbanisme sont autorisés à faire appel à des architectes qui prendront le
-titre d'architectes-conseils de l'équipement. 
+Dans la limite des crédits ouverts à cet effet, le ministère de l'équipement, des transports et du logement peut faire appel
+à des architectes et à des paysagistes qui lui apportent leur concours de façon continue ou intermittente sans renoncer à
+leur emploi principal. Ils prendront respectivement le titre d'architectes-conseils et de paysagistes-conseils de
+l'équipement.
 
-Ces architectes assurent les missions qui leur sont confiées par le ministre chargé de l'urbanisme ou ses délégués.
+Dans le département de leur affectation, ils ne peuvent intervenir à titre privé dans aucune opération, sauf dérogation
+expresse accordée par le ministre.
 
-**Nota:**
-
-[*Loi 92-125 art. 3 : la référence services extérieurs est remplaçé par celle à : services déconcentrés*]
+Ces architectes et ces paysagistes assurent les missions qui leur sont confiées par le ministre ou ses délégués.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1999-02-22 art. 1, art. 2 JORF 24 mars 1999 en vigueur le 1er janvier 1999
 
 _Codifié par_:
 
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-_Modifié par_:
-
-  - Loi n°92-125 du 6 février 1992 - art. 3 (V) JORF 8 février 1992
 
 _Cité par_:
 
@@ -57207,25 +57208,17 @@ _Cité par_:
 
 ###### Article A614-2
 
-Les architectes-conseils de l'équipement peuvent percevoir des honoraires dont le montant, fixé par le ministre chargé de
-l'urbanisme, comprend les deux éléments ci-après :
+Les architectes-conseils et les paysagistes-conseils de l'équipement peuvent percevoir une indemnité forfaitaire dont le
+montant journalier est fixé au 1/100 du traitement annuel brut correspondant à l'indice majoré 625.
 
-1. Une rémunération forfaitaire de 2 062 F par vacation d'une journée ;
-
-2. Une indemnité forfaitaire de déplacement dont le montant unitaire, variable en fonction des sujétions des intéressés, est
-fixé dans la limite de 2 769 F sur le territoire métropolitain, ce plafond pouvant atteindre exceptionnellement 3 350 F, et
-dans la limite des taux des indemnités forfaitaires prévues pour le règlement des frais de déplacement des personnes civiles
-pour les départements d'outre-mer.
+Les frais de transport et de missions engagés dans le cadre de leurs vacations seront remboursés par application des décrets
+en vigueur concernant les personnels civils de l'Etat.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 1994-03-23 art. 1 JORF 6 avril 1994 en vigueur le 1er janvier 1994
-
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 1994-03-23 art. 3
+  - Arrêté 1999-02-22 art. 1, art. 3 JORF 24 mars 1999 en vigueur le 1er janvier 1999
 
 _Codifié par_:
 
@@ -57234,10 +57227,14 @@ _Codifié par_:
 
 ###### Article A614-3
 
-Les dépenses correspondant à la rémunération des architectes conseils de l'équipement sont imputées sur les crédits du
-ministère chargé de l'urbanisme.
+Les dépenses correspondantes à la rémunération et au remboursement des frais de déplacement des architectes-conseils et des
+paysagistes-conseils sont imputées sur les crédits du ministère de l'équipement, des transports et du logement.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1999-02-22 art. 1, art. 4 JORF 24 mars 1999 en vigueur le 1er janvier 1999
 
 _Codifié par_:
 
@@ -57250,6 +57247,10 @@ Les dispositions des articles A. 614-1 à A. 614-3 ne peuvent être modifiées q
 l'urbanisme et du ministre de l'économie et des finances.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1999-02-22 art. 1 JORF 24 mars 1999 en vigueur le 1er janvier 1999
 
 _Codifié par_:
 

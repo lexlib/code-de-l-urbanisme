@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1996-06-19
+Version Consolidée au 1996-08-14
 ## Contenu: 
   - [Partie législative (art. L110 à L600-5)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -21162,19 +21162,37 @@ _Codifié par_:
 
 ###### Article R*121-1
 
-Les associations locales d'usagers visées à l'article L. 121-8 [*élaboration plan d'occupation des sols consultation*] sont
-agréées dans les conditions définies au titre 1er du décret n. 77-760 du 7 juillet 1977.
+Les associations locales d'usagers peuvent être agréées, au titre de l'article L. 121-8, dès lors qu'elles ont un
+fonctionnement continu depuis trois ans au moins et qu'elles exercent des activités statutaires désintéressées en rapport
+avec l'urbanisme. L'agrément ne peut être demandé que pour la commune où l'association a son siège social et pour les
+communes limitrophes.
+
+La demande d'agrément comporte :
+
+a) Une note de présentation de l'association indiquant le nombre des adhérents à jour de leur cotisation et retraçant ses
+principales activités au cours des trois années antérieures ;
+
+b) Un exemplaire, à jour, des statuts ;
+
+c) Le rapport moral et le rapport financier approuvés lors de la dernière assemblée générale ; le rapport financier doit
+comprendre un tableau retraçant les ressources et les charges financières de l'association ; il indique expressément le ou
+les montants des cotisations demandées aux membres de l'association et le produit de ces cotisations.
+
+L'agrément est délivré par arrêté préfectoral après avis du maire ou des maires intéressés et, s'il y a lieu, du président de
+l'établissement public de coopération intercommunale compétent pour l'élaboration des documents d'urbanisme mentionnés à
+l'article L. 121-8. Faute de réponse dans un délai de deux mois, leur avis est réputé favorable.
+
+La décision d'agrément est publiée au Recueil des actes administratifs de la préfecture.
+
+L'agrément est réputé accordé si l'association n'a pas reçu notification de la décision du préfet dans les quatre mois qui
+suivent le dépôt de la demande ou des pièces complémentaires demandées. Dans ce cas, le préfet délivre, sur simple demande du
+président de l'association intéressée, une attestation constatant l'existence d'un agrément.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - Décret n°77-760 1977-07-07 ART. 3 à 19
-  - Code de l'urbanisme - art. L121-8 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
+  - Décret n°96-717 du 9 août 1996 - art. 1 () JORF 14 août 1996
 
 _Cité par_:
 
@@ -21187,6 +21205,10 @@ _Cité par_:
   - Code de l'urbanisme - art. R*141-4 (VT)
   - Code de l'urbanisme - art. R*710-1 (Ab)
   - Code de la défense. - art. D5131-12 (M)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L121-8 (M)
 
 _Codifié par_:
 
@@ -21847,9 +21869,11 @@ _Cite_:
 
 ###### Article R*122-9
 
-Le président de l'établissement public de coopération intercommunale peut recueillir l'avis de tout organisme ou association
-ayant compétence en matière de construction, d'aménagement ou d'urbanisme et entendre toute personne qualifiée
-[*élaboration*].
+Le président de l'établissement public de coopération intercommunale entend, à leur demande, les présidents des associations
+mentionnées à l'article L. 121-8 ou leurs représentants.
+
+Il peut recueillir l'avis de tout organisme ou association ayant compétence en matière de construction, d'aménagement ou
+d'urbanisme et entendre toute personne qualifiée.
 
 **Liens relatifs à cet article**
 
@@ -21859,29 +21883,37 @@ _Codifié par_:
 
 **Liens**:
 
-  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 42 (Code de l'urbanisme L122-1-1)
-  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
+  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°83-812 1983-09-09 ART. 1, ART. 3 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur  1 OCTOBRE 1983
+  - Décret n°96-717 du 9 août 1996 - art. 2 () JORF 14 août 1996
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L121-8 (M)
 
 
 ###### Article R*122-10
 
-Le projet de schéma directeur ou de schéma de secteur [*élaboration*], arrêté par l'organe délibérant de l'établissement
-public de coopération intercommunale est soumis pour avis par son président simultanément aux conseils municipaux des
-communes membres concernées, au commissaire de la République et aux organes délibérants des personnes publiques autres que
-l'Etat associées à son élaboration et, en zone de montagne lorsque le projet comporte des dispositions relatives à la
-création d'une ou plusieurs unités touristiques nouvelles, à la commission spécialisée du comité de massif. Faute de réponse
-dans un délai de trois mois à compter de la transmission du projet, leur avis est réputé favorable.
+Le projet de schéma directeur ou de schéma de secteur, arrêté par l'organe délibérant de l'établissement public de
+coopération intercommunale est soumis pour avis par son président simultanément aux conseils municipaux des communes membres
+concernées, au préfet et aux organes délibérants des personnes publiques autres que l'Etat associées à son élaboration et, en
+zone de montagne lorsque le projet comporte des dispositions relatives à la création d'une ou plusieurs unités touristiques
+nouvelles, à la commission spécialisée du comité de massif. Faute de réponse dans un délai de trois mois à compter de la
+transmission du projet, leur avis est réputé favorable.
 
-Lorsque le commissaire de la République constate que le projet de schéma directeur ou de schéma de secteur arrêté compromet
-gravement la mise en oeuvre d'un projet d'intérêt général déjà communiqué à l'établissement public de coopération
-intercommunale, il porte à la connaissance de ce dernier, parmi les dispositions prévues aux articles R. 122-25 et R. 122-26,
-celles qui sont nécessaires à la mise en oeuvre de projet d'intérêt général. Cette communication précise la situation du
-projet, les objectifs à la réalisation desquels il concourt et, dans la mesure du possible, l'échéancier prévisionnel de sa
-réalisation.
+Lorsqu'il en fait la demande au président de l'établissement public de coopération intercommunale, le président d'une
+association mentionnée à l'article L. 121-8 reçoit communication du projet de schéma directeur ou de schéma de secteur ou est
+invité à en prendre connaissance au lieu désigné à cet effet. Il peut faire connaître ses observations écrites sur le projet
+de schéma directeur ou de schéma de secteur dans le délai d'un mois courant à compter de la réception du projet de schéma
+directeur ou de schéma de secteur ou de la date à laquelle il a pris connaissance de celui-ci.
+
+Lorsque le préfet constate que le projet de schéma directeur ou de schéma de secteur arrêté compromet gravement la mise en
+oeuvre d'un projet d'intérêt général déjà communiqué à l'établissement public de coopération intercommunale, il porte à la
+connaissance de ce dernier, parmi les dispositions prévues aux articles R. 122-25 et R. 122-26, celles qui sont nécessaires à
+la mise en oeuvre de projet d'intérêt général. Cette communication précise la situation du projet, les objectifs à la
+réalisation desquels il concourt et, dans la mesure du possible, l'échéancier prévisionnel de sa réalisation.
 
 **Liens relatifs à cet article**
 
@@ -21891,23 +21923,19 @@ _Codifié par_:
 
 **Liens**:
 
-  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 42 (Code de l'urbanisme L122-1-1)
+  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
 
 _Modifié par_:
 
-  - Décret n°86-52 1986-01-10 ART. 2 JORF 14 janvier 1986
-
-_Cite_:
-
-  - Code de l'urbanisme R122-25
+  - Décret n°96-717 du 9 août 1996 - art. 2 () JORF 14 août 1996
 
 
 ###### Article R*122-11
 
-Le projet de schéma directeur ou de schéma de secteur [*élaboration*] arrêté, accompagné des avis exprimés à la suite des
-constatations prévues au premier alinéa de l'article R. 122-10 et des communications du commissaire de la République
-mentionnées au second alinéa du même article, est mis par décision du président de l'établissement à la disposition du public
-pendant un mois au siège de l'établissement et dans les mairies des communes concernées [*publicité*].
+Le projet de schéma directeur ou de schéma de secteur arrêté, accompagné des avis exprimés à la suite des constatations
+prévues au premier alinéa et au deuxième alinéa de l'article R. 122-10 et des communications du commissaire de la République
+mentionnées au troisième alinéa du même article, est mis par décision du président de l'établissement à la disposition du
+public pendant un mois au siège de l'établissement et dans les mairies des communes concernées.
 
 Cette décision est affichée au siège de l'établissement public et dans les mairies des communes pendant la même durée de un
 mois. Mention en est insérée en caractères apparents dans deux journaux régionaux ou locaux diffusés dans le ou les
@@ -21921,6 +21949,18 @@ b) Les modalités suivant lesquelles le public peut en prendre connaissance et f
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
+
+_Modifié par_:
+
+  - Décret n°96-717 du 9 août 1996 - art. 2 () JORF 14 août 1996
+
+_Cité par_:
+
+  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
+
 _Cite_:
 
   - Code de l'urbanisme R122-10
@@ -21928,19 +21968,6 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
-
-**Liens**:
-
-  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 42 (Code de l'urbanisme L122-1-1)
-  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
-
-_Créé par_:
-
-  - Décret n°83-812 1983-09-09 ART. 1, ART. 3 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur  1 OCTOBRE 1983
-
-_Cité par_:
-
-  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
 
 
 ###### Article R*122-12
@@ -22136,8 +22163,11 @@ _Modifié par_:
 Les chambres de commerce et d'industrie, les chambres de métiers et les chambres d'agriculture intéressées sont associées, en
 ce qui les concerne, aux travaux de la commission.
 
-Celle-ci peut en outre recueillir l'avis de toutes personnes qualifiées et de tout organisme ou association ayant compétence
-en matière de construction, d'aménagement ou d'urbanisme.
+La commission consulte, à leur demande, dans les conditions prévues au deuxième alinéa de l'article R. 122-10, les
+associations mentionnées à l'article L. 121-8..
+
+La commission peut en outre recueillir l'avis de toutes personnes qualifiées et de tout organisme ou association ayant
+compétence en matière de construction, d'aménagement ou d'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -22147,15 +22177,20 @@ _Codifié par_:
 
 **Liens**:
 
-  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 42 (Code de l'urbanisme L122-1-1)
+  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
 
 _Modifié par_:
 
-  - Décret n°95-995 du 5 septembre 1995 - art. 2 () JORF 9 septembre 1995
+  - Décret n°96-717 du 9 août 1996 - art. 2 () JORF 14 août 1996
 
 _Cité par_:
 
   - Décret n°2011-724 du 24 juin 2011 - art. 10 (V)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L121-8 (M)
+  - Code de l'urbanisme R122-10, L121-8
 
 
 ###### Article R*122-18
@@ -22788,11 +22823,12 @@ _Cite_:
 
 ###### Article R*123-8
 
-Le maire entend à leur demande les présidents des associations agréées en application de l'article L. 121-8 ou leurs
-représentants.
+Le maire entend à leur demande les présidents des associations mentionnées à l'article L. 121-8 ou leurs représentants.
 
 Il peut recueillir l'avis de tout organisme ou association défini à l'article L. 123-3 (3è alinéa) et décider d'entendre
-toute personne qualifiée.    En zone de montagne, il consulte la commission communale ou intercommunale d'aménagement foncier
+toute personne qualifiée.
+
+En zone de montagne, il consulte la commission communale ou intercommunale d'aménagement foncier
 
 **Liens relatifs à cet article**
 
@@ -22802,16 +22838,16 @@ _Codifié par_:
 
 **Liens**:
 
-  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 50 (Code de l'urbanisme L123-3)
+  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 50 (Code de l'urbanisme L123-3)
 
 _Modifié par_:
 
-  - Décret n°86-52 1986-01-10 art. 3 3° JORF 14 janvier 1986
+  - Décret n°96-717 du 9 août 1996 - art. 3 () JORF 14 août 1996
 
 _Cite_:
 
   - Code de l'urbanisme - art. L121-8 (M)
-  - Code de l'urbanisme L123-3 AL. 3
+  - Code de l'urbanisme - art. L123-3 (M)
 
 
 ###### Article R*123-9
@@ -22821,32 +22857,30 @@ en ce qui les concerne, aux personnes publiques associées à l'élaboration du 
 limitrophes et aux établissements publics de coopération intercommunale directement intéressés. Leur avis est réputé
 favorable faute de réponse dans un délai de trois mois à compter de la transmission.
 
-Lorsque le commissaire de la République constate que le projet de plan d'occupation des sols arrêté ne permet pas la mise en
-oeuvre d'un projet d'intérêt général déjà communiqué à la commune, il porte à la connaissance de celle-ci, parmi les
-dispositions prévues aux articles R. 123-15 à R. 123-24, celles qui sont nécessaires à la mise en oeuvre d'un projet
-d'intérêt général. Cette communication précise la situation du projet, les objectifs à la réalisation desquels il concourt
-et, dans la mesure du possible, l'échéancier prévisionnel de sa réalisation.
+Lorsque le préfet constate que le projet de plan d'occupation des sols arrêté ne permet pas la mise en oeuvre d'un projet
+d'intérêt général déjà communiqué à la commune, il porte à la connaissance de celle-ci, parmi les dispositions prévues aux
+articles R. 123-15 à R. 123-24, celles qui sont nécessaires à la mise en oeuvre d'un projet d'intérêt général. Cette
+communication précise la situation du projet, les objectifs à la réalisation desquels il concourt et, dans la mesure du
+possible, l'échéancier prévisionnel de sa réalisation.
 
 Dans le cas où le projet de plan a été arrêté par l'organe délibérant de l'établissement public de coopération intercommunale
 à qui a été confiée l'élaboration du plan d'occupation des sols, il doit être soumis pour accord aux conseils municipaux des
-communes membres concernées ; faute de réponse dans un délai de trois mois, l'accord est réputé donné [*tacite*].
+communes membres concernées ; faute de réponse dans un délai de trois mois, l'accord est réputé donné.
 
-Lorsqu'il en fait la demande au maire, le président d'une association agréée en application de l'article L. 121-8 reçoit
-communication du projet de plan d'occupation des sols ou est invité à en prendre connaissance au lieu désigné à cet effet.
-
-Il peut faire connaître ses observations écrites sur le projet de plan d'occupation des sols au plus tard un mois après en
-avoir eu connaissance [*délai*].
+Lorsqu'il en fait la demande au maire, le président d'une association mentionnée à l'article L. 121-8 reçoit communication du
+projet de plan d'occupation des sols ou est invité à en prendre connaissance au lieu désigné à cet effet. Il peut faire
+connaître ses observations écrites sur le projet de plan d'occupation des sols dans un délai d'un mois courant à compter de
+la reception du projet de plan d'occupation des sols ou de la date à laquelle il a pris connaissance de celui-ci.
 
 **Liens relatifs à cet article**
 
 **Liens**:
 
-  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 50 (Code de l'urbanisme L123-3)
-  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
+  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 50 (Code de l'urbanisme L123-3)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°83-813 1983-09-09 ART. 2 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur  1 OCTOBRE 1983
+  - Décret n°96-717 du 9 août 1996 - art. 3 () JORF 14 août 1996
 
 _Cité par_:
 
@@ -22864,7 +22898,7 @@ _Cité par_:
 _Cite_:
 
   - Code de l'urbanisme - art. L121-8 (M)
-  - Code de l'urbanisme R123-15 à R123-24
+  - Code de l'urbanisme R123-15 à R123-24, L121-8
 
 _Codifié par_:
 
@@ -22874,14 +22908,13 @@ _Codifié par_:
 ###### Article R*123-10
 
 Lorsque les avis ou accords mentionnés à l'article R. 123-9 ont été recueillis ou sont réputés acquis, le projet de plan,
-éventuellement modifié par le conseil municipal pour tenir compte de ces avis, des communications du commissaire de la
-République et des propositions de la commission de conciliation instituée par l'article L. 121-9, est rendu public par arrêté
-du maire.
+éventuellement modifié par le conseil municipal pour tenir compte de ces avis, des communications du préfet et des
+propositions de la commission de conciliation instituée par l'article L. 121-9, est rendu public par arrêté du maire.
 
 Le plan d'occupation des sols rendu public comporte en annexe les avis des personnes publiques consultées mentionnées aux 1er
-et 3é alinéas de l'article R. 123-9 et des associations agréées en application de l'article L. 121-8 ayant présenté des
-observations, les communications du commissaire de la République, ainsi que la liste des autres personnes consultées au cours
-de l'élaboration du plan d'occupation des sols.
+et 3é alinéas de l'article R. 123-9 et des associations mentionnées à l'article L. 121-8 ayant présenté des observations, les
+communications du préfet, ainsi que la liste des autres personnes consultées au cours de l'élaboration du plan d'occupation
+des sols.
 
 L'arrêté rendant public le plan d'occupation des sols fait l'objet pendant un mois d'un affichage en mairie ou au siège de
 l'établissement public de coopération intercommunale compétent et, dans ce cas, aux mairies des communes membres concernées.
@@ -22895,19 +22928,19 @@ les conditions prévues par l'article L. 123-3-2.
 
 **Liens**:
 
-  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 50 (Code de l'urbanisme L123-3)
-  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
+  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 50 (Code de l'urbanisme L123-3)
+  - TXT_SOURCE: Code de l'urbanisme - art. L123-3-2 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°83-813 1983-09-09 ART. 2 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur  1 OCTOBRE 1983
+  - Décret n°96-717 du 9 août 1996 - art. 3 () JORF 14 août 1996
 
 _Cite_:
 
   - Code de l'urbanisme - art. L121-8 (M)
   - Code de l'urbanisme - art. L121-9 (M)
   - Code de l'urbanisme - art. L123-3-2 (M)
-  - Code de l'urbanisme R123-9
+  - Code de l'urbanisme R123-9, L121-9, annexe, L121-8, L123-3-2
 
 _Cité par_:
 
@@ -23014,25 +23047,22 @@ _Cité par_:
 Le plan d'occupation des sols, éventuellement modifié pour tenir compte des résultats de l'enquête publique et des
 propositions de la commission de conciliation, donne lieu, dans les conditions fixées au premier alinéa de l'article R.
 123-9, à la consultation des services de l'Etat et des personnes publiques associées si le maire estime que la nature et
-l'importance des modifications envisagées justifient cette consultation [*autorité compétente*]. Le plan est ensuite approuvé
-par délibération du conseil municipal.
+l'importance des modifications envisagées justifient cette consultation. Le plan, accompagné par les avis des personnes
+publiques et des associations mentionnées au deuxième alinéa de l'article R. 123-10, est ensuite transmis au conseil
+municipal, qui l'approuve par délibération.
 
 La délibération approuvant le plan d'occupation des sols fait l'objet des mesures de publicité mentionnées au 3è alinéa de
 l'article R. 123-10. Elle est exécutoire dans les conditions fixées au dernier alinéa du même article.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
 **Liens**:
 
-  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 50 (Code de l'urbanisme L123-3)
+  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 50 (Code de l'urbanisme L123-3)
 
 _Modifié par_:
 
-  - Décret n°86-984 1986-08-19 ART. 7 VI JORF 27 aout 1986
+  - Décret n°96-717 du 9 août 1996 - art. 3 () JORF 14 août 1996
 
 _Cité par_:
 
@@ -23041,7 +23071,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme R123-10 AL. 3, R123-9 AL. 1
+  - Code de l'urbanisme R123-9, R123-10
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*123-13
@@ -24072,16 +24106,17 @@ _Abrogé par_:
 
 ###### Article R*123-35-3
 
-Lorsque l'utilite publique d'une opération doit être déclarée dans les conditions prévues à l'article L. 123-8, la mise en
-compatibilité du plan d'occupation des sols est effectuée selon les modalités définies ci-après.
+Lorsque l'utilité publique d'une opération doit être déclarée dans les conditions prévues à l'article L. 123-8, la mise en
+compatibilité du plan d'occupation des sols est effectuée selon les modalités ci-après.
 
-Le commissaire de la République informe de la nature de l'opération et de ses implications sur le plan d'occupation des sols,
-le maire ou le président de l'établissement public de coopération intercommunale, ainsi que les présidents du conseil
-régional, du conseil général et des organismes consulaires.
+Le préfet informe de la nature de l'opération et de ses implications sur le plan d'occupation des sols, le maire ou le
+président de l'établissement public de coopération intercommunale, ainsi que les présidents du conseil régional, du conseil
+général et des organismes consulaires. Lorsqu'il en fait la demande au préfet, le président d'une association mentionnée à
+l'article L. 121-8 est consulté dans les conditions prévues au dernier alinéa de l'article R. 123-9.
 
-Simultanément, il ouvre, par arrêté, l'enquête publique portant à la fois sur l'utilité publique de l'opération et sur la
-mise en compatibilité du P.O.S.. Cette enquête s'ouvre et s'effectue conformément aux dispositions des articles R. 11-14-1 et
-suivants du code de l'expropriation pour cause d'utilité publique ou des textes prévoyant une procédure propre d'enquête
+Simultanément, le préfet ouvre, par arrêté, l'enquête publique portant à la fois sur l'utilité publique de l'opération et sur
+la mise en compatibilité du P.O.S.. Cette enquête s'ouvre et s'effectue conformément aux dispositions des articles R. 11-14-1
+et suivants du code de l'expropriation pour cause d'utilité publique ou des textes prévoyant une procédure propre d'enquête
 préalable à la déclaration d'utilité publique régie par la loi du 12 juillet 1983.
 
 Après la remise des conclusions de l'enquête par le commissaire enquêteur ou le président de la commission d'enquête, le
@@ -24094,8 +24129,7 @@ la République au conseil municipal ou à l'organe délibérant de l'établissem
 se prononcer dans un délai de deux mois. S'il n'est pas intervenu dans ce délai, l'avis est réputé donné.
 
 Lorsqu'une déclaration d'utilité publique qui emporte approbation des nouvelles dispositions du plan d'occupation des sols ne
-relève pas de la compétence du commissaire de la République, elle est contresignée ou consignée par le ministre chargé de
-l'urbanisme.
+relève pas de la compétence du préfet, elle est contresignée ou cosignée par le ministre chargé de l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -24104,19 +24138,20 @@ _Cité par_:
   - Décret n°70-492 du 11 juin 1970 - art. 6 (V)
   - Décret n°70-492 du 11 juin 1970 - art. 7 (V)
 
-_Cite_:
-
-  - Loi n°83-630 1983-07-12
-  - Code de l'urbanisme - art. L123-8 (M)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-1 (M)
-
-_Modifié par_:
-
-  - Décret n°86-984 1986-08-19 art. 7 XI JORF 27 AOUT 1986 en vigueur le 1er SEPTEMBRE 1986
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°86-984 1986-08-19 art. 7 XII : Date d'entrée en vigueur
+
+_Modifié par_:
+
+  - Décret n°96-717 du 9 août 1996 - art. 3 () JORF 14 août 1996
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L121-8 (M)
+  - Code de l'urbanisme - art. L123-8 (M)
+  - Code de l'urbanisme L123-8, L121-8, R123-9
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-1 (M)
 
 _Codifié par_:
 
@@ -31649,29 +31684,22 @@ _Codifié par_:
 Le projet de plan est communiqué par le préfet à ceux des services publics qui ne sont pas représentés au sein de la
 commission locale du secteur sauvegardé et qu'il y a lieu de consulter sur ce projet. Faute de réponse dans les deux mois du
 jour où ils ont été saisis, leur avis est réputé favorable. L'ensemble des avis ainsi recueillis est soumis à la commission
-locale du secteur sauvegardé. 
+locale du secteur sauvegardé.
 
-Lorsqu'il en fait la demande au préfet, le président d'une association [*locale d'usagers*] agréée en application de
-l'article L. 121-8 reçoit communication du projet de plan de sauvegarde et de mise en valeur ou est invité à en prendre
-connaissance au lieu désigné à cet effet. Il peut faire connaître ses observations sur le projet au plus tard un mois après
-en avoir eu connaissance [*délai*].
+Lorsqu'il en fait la demande au préfet, le président d'une association mentionnée à l'article L. 121-8 reçoit communication
+du projet de plan de sauvegarde et de mise en valeur ou est invité à en prendre connaissance au lieu désigné à cet effet. Il
+peut faire connaître ses observations sur le projet dans le délai d'un mois courant à compter de la réception du projet de
+plan ou de la date à laquelle il a pris connaissance de celui-ci.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°63-691 1963-07-13 ART. 7
-
-**Liens**:
-
-  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 75 I (Code de l'urbanisme L313-1)
-  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-8 (M)
-  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
+  - Décret n°63-691 1963-07-13 art. 7
 
 _Modifié par_:
 
-  - Décret n°83-813 1983-09-09 ART. 11 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur 1 OCTOBRE 1983
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°96-717 du 9 août 1996 - art. 4 () JORF 14 août 1996
 
 _Cite_:
 
@@ -31683,6 +31711,10 @@ _Cité par_:
   - Code de l'urbanisme - art. R313-18 (M)
   - Code de l'urbanisme - art. R313-4 (M)
   - Code de l'urbanisme - art. R313-9 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-8 (M)
 
 _Codifié par_:
 

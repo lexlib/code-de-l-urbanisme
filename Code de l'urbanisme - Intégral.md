@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1999-07-13
+Version Consolidée au 1999-10-07
 ## Contenu: 
   - [Partie législative (art. L110 à L600-5)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -54373,6 +54373,8 @@ Magny-en-Vexin.
 
 - industriel par un utilisateur déterminé.
 
+- de salles de spectacles cinématographiques.
+
 3. Lorsque ces opérations portent sur la reconstruction ou la réhabilitation de bureaux sans extension de surface.
 
 4. Lorsque ces opérations ajoutées à celles éventuellement réalisées sur le même site au cours des douze mois précédents
@@ -54405,10 +54407,6 @@ _Cite_:
   - Code de l'urbanisme - art. R421-40 (Ab)
   - Code de l'urbanisme R510-2, R421-40
 
-_Modifié par_:
-
-  - Décret n°98-1248 du 28 décembre 1998 - art. 1 () JORF 30 décembre 1998
-
 _Cité par_:
 
   - Code de l'urbanisme - art. R*510-1 (V)
@@ -54418,6 +54416,10 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+_Modifié par_:
+
+  - Décret n°99-858 1999-10-07 art. 1 JORF 7 octobre 1999
 
 
 ###### Article R*510-8

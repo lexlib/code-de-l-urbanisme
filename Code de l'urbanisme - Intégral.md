@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1999-05-01
+Version Consolidée au 1999-06-01
 ## Contenu: 
   - [Partie législative (art. L110 à L600-5)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -57434,6 +57434,22 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
 
 
+###### Article A510-4
+
+Le président de la mission pour l'implantation territoriale des emplois publics assiste aux séances du comité avec voix
+consultative.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 1999-05-25 art. 1 JORF 1er juin 1999
+
+_Codifié par_:
+
+  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
+
+
 ###### Article A510-6
 
 Les moyens administratifs nécessaires au fonctionnement du secrétariat du comité de décentralisation sont mis à la
@@ -57457,6 +57473,10 @@ _Codifié par_:
 La délégation à l'aménagement du territoire et à l'action régionale et les départements ministériels intéressés sont chargés
 d'instruire les affaires soumises au comité.
 
+Les dossiers déposés par les services de l'Etat et par les personnes publiques ou privées soumises à son contrôle sont
+également transmis à la mission pour l'implantation territoriale des emplois publics. La mission procède à l'analyse de la
+compatibilité de ces dossiers avec la politique de l'Etat en matière de localisation des services publics.
+
 Chaque département ministériel non représenté au sein du comité de décentralisation peut nommer un rapporteur adjoint.
 
 Le rapporteur adjoint est destinataire des ordres du jour des réunions du comité de décentralisation. Il assiste les
@@ -57471,7 +57491,7 @@ aspect de la politique d'aménagement du territoire.
 
 _Modifié par_:
 
-  - Arrêté 1995-05-09 art. 3, art. 4 JORF 11 mai 1995
+  - Arrêté 1999-05-25 art. 2 JORF 1er juin 1999
 
 _Codifié par_:
 

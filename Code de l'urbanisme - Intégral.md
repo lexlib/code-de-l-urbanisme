@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1989-06-19
+Version Consolidée au 1989-08-08
 ## Contenu: 
   - [Partie législative (art. L110 à L550-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -12,7 +12,7 @@ Version Consolidée au 1989-06-19
         - [Chapitre II : Schémas directeurs. (art. L122-1 à L122-6)](#9)
         - [Chapitre III : Plans d'occupation des sols. (art. L123-1 à L123-12)](#10)
         - [Chapitre IV : Dispositions transitoires. (art. L124-1 à L124-5)](#11)
-        - [Chapitre V : Dispositions diverses. (art. L125-1 à L125-3)](#12)
+        - [Chapitre V : Dispositions diverses. (art. L125-1 à L125-4)](#12)
         - [Chapitre VI : Servitudes d'utilité publique affectant l'utilisation du sol. (art. L126-1)](#13)
       - [Titre III : Espaces boisés. (art. L130-1 à L130-6)](#14)
       - [TITRE IV : Dispositions particulières à certaines parties du territoire (art. L141-1 à L147-5)](#15)
@@ -49,7 +49,7 @@ Version Consolidée au 1989-06-19
       - [Titre III : Départements d'outre-mer. (art. L230-1)](#46)
     - [Livre III : Aménagement foncier (art. L300-1 à L340-1)](#47)
       - [Titre Ier : Opérations d'aménagement (art. L311-1 à L318-9)](#48)
-        - [Chapitre Ier : Zones d'aménagement concerté (art. L311-1 à L311-6)](#49)
+        - [Chapitre Ier : Zones d'aménagement concerté (art. L311-1 à L311-7)](#49)
         - [Chapitre III : Restauration immobilière et secteurs sauvegardés (art. L313-1 à L313-15)](#50)
           - [Section 1 : Secteurs sauvegardés (art. L313-1 à L313-3)](#51)
           - [Section 2 : Restauration immobilière (art. L313-4 à L313-4-3)](#52)
@@ -3580,8 +3580,8 @@ _Anciens textes_:
 
 Le propriétaire d'un terrain bâti ou non bâti réservé par un plan d'occupation des sols pour un ouvrage public, une voie
 publique, une installation d'intérêt général ou un espace vert peut, dès que le plan est opposable aux tiers, même si à cette
-date une décision de sursis à statuer lui ayant été opposée est en est en cours de validité, exiger de la collectivité ou du
-service public au bénéfice duquel le terrain a été réservé qu'il soit procédé à son acquisition.
+date une décision de sursis à statuer lui ayant été opposée est en cours de validité, exiger de la collectivité ou du service
+public au bénéfice duquel le terrain a été réservé qu'il soit procédé à son acquisition.
 
 Au cas où le terrain viendrait à faire l'objet d'une transmission pour cause de décès, les ayants-droit du propriétaire
 décédé peuvent, sur justification que l'immeuble en cause représente au moins la moitié de l'actif successoral et sous
@@ -3602,9 +3602,9 @@ A défaut d'accord amiable à l'expiration du délai d'un an mentionné à l'ali
 soit par le propriétaire, soit par la collectivité ou le service public bénéficiaire de la réserve, prononce le transfert de
 propriété et fixe le prix du terrain. Ce prix, y compris l'indemnité de réemploi, est fixé et payé comme en matière
 d'expropriation, le terrain étant considéré comme ayant cessé d'être compris dans un emplacement réservé. Toutefois, la date
-de référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique est celle de la publication
-du plan d'occupation des sols, de la modification ou de la révision dudit plan délimitant la zone dans laquelle est située
-l'emplacement réservé.
+de référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique est celle à laquelle est
+devenu opposable aux tiers le plus récent des actes rendant public, approuvant, révisant ou modifiant le plan d'occupation
+des sols et délimitant la zone dans laquelle est situé l'emplacement réservé.
 
 Le juge de l'expropriation fixe également, s'il y a lieu, les indemnités auxquelles peuvent prétendre les personnes
 mentionnées au troisième alinéa ci-dessus.
@@ -3660,7 +3660,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°86-1290 du 23 décembre 1986 - art. 69 () JORF 24 décembre 1986
+  - Loi n°89-550 du 2 août 1989 - art. 8 () JORF 8 aôut 1989
 
 _Cite_:
 
@@ -4077,6 +4077,40 @@ _Cite_:
 _Créé par_:
 
   - Loi n°83-663 du 22 juillet 1983 - art. 109 () JORF 23 juillet 1983
+
+_Abrogé par_:
+
+  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+
+
+###### Article L125-4
+
+En application de l'article 2 du décret n° 83-851 du 23 septembre 1983 relatif à l'entrée en vigueur de la section II du
+titre II de la loi n° 83-8 du 7 janvier 1983 modifiée relative à la répartition de compétences entre les communes, les
+départements, les régions et l'Etat, ont été soumis à la délibération des conseils municipaux ou des organes délibérants des
+établissements publics groupant les communes concernées et ayant compétence en matière d'urbanisme, les projets de schémas
+directeurs, les projets de plans d'occupation des sols ou les plans d'occupation des sols rendus publics dont l'acte de
+transmission par le représentant de l'Etat auxdits conseils municipaux ou auxdits organes délibérants est antérieur au 1er
+octobre 1983.
+
+Sont, en conséquence, validés les actes réglementaires et non réglementaires relatifs à ces schémas directeurs ou à ces plans
+d'occupation des sols ou pris sur leur fondement en tant que ces documents ont été élaborés dans les conditions prévues à
+l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+_Cite_:
+
+  - Décret n°83-851 1883-09-23 art. 2
+  - Loi n°83-8 1983-01-07 titre II section II
+
+_Créé par_:
+
+  - Loi n°89-550 du 2 août 1989 - art. 1 () JORF 8 aôut 1989
 
 _Abrogé par_:
 
@@ -6065,12 +6099,15 @@ A défaut d'accord amiable, le prix d'acquisition est fixé par la juridiction c
 est exclusif de toute indemnité accessoire, et notamment de l'indemnité de réemploi.
 
 Le prix est fixé, payé ou, le cas échéant, consigné selon les règles applicables en matière d'expropriation. Toutefois, dans
-ce cas : a) La date de référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique est
-soit la date du plus récent des actes rendant public, approuvant ou modifiant le plan d'occupation des sols et délimitant la
-zone dans laquelle est situé le bien, soit, en l'absence d'un tel plan, cinq ans avant la déclaration par laquelle le
-propriétaire a manifesté son intention d'aliéner le bien ; b) Les améliorations, transformations ou changements d'affectation
-opérés par le propriétaire postérieurement à la date fixée au a) ci-dessus ne sont pas présumés revêtir un caractère
-spéculatif ;
+ce cas :
+
+a) La date de référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique est soit la date
+à laquelle est devenu opposable aux tiers le plus récent des actes rendant public, approuvant, révisant ou modifiant le plan
+d'occupation des sols et délimitant la zone dans laquelle est situé le bien, soit, en l'absence d'un tel plan, cinq ans avant
+la déclaration par laquelle le propriétaire a manifesté son intention d'aliéner le bien ;
+
+b) Les améliorations, transformations ou changements d'affectation opérés par le propriétaire postérieurement à la date fixée
+au a) ci-dessus ne sont pas présumés revêtir un caractère spéculatif ;
 
 c) A défaut de transactions amiables constituant des références suffisantes pour l'évaluation du bien dans la même zone, il
 pourra être tenu compte des mutations et accords amiables intervenus pour des terrains de même qualification situés dans des
@@ -6082,21 +6119,20 @@ vendeur mais peut réviser le montant de cette rente et du capital éventuel.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°86-516 du 14 mars 1986 - art. 10 (M)
-  - TXT_ASSOCIE: Code de l'urbanisme - art. L142-1 (M)
-  - TXT_ASSOCIE: Code de l'urbanisme - art. L142-3 (M)
-  - TXT_ASSOCIE: Code de l'urbanisme - art. L142-4 (M)
-
 _Modifié par_:
 
-  - Loi n°86-1290 du 23 décembre 1986 - art. 69 () JORF 24 décembre 1986    en vigueur le 1er juin 1987
+  - Loi n°89-550 du 2 août 1989 - art. 8 () JORF 8 aôut 1989
 
 _Cité par_:
 
   - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 14 (V)
   - Code de l'urbanisme - art. L142-12 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de l'urbanisme - art. L142-1 (M)
+  - TXT_ASSOCIE: Code de l'urbanisme - art. L142-3 (M)
+  - TXT_ASSOCIE: Code de l'urbanisme - art. L142-4 (M)
 
 _Cite_:
 
@@ -6111,22 +6147,15 @@ _Codifié par_:
 
 Lorsqu'un terrain soumis au droit de préemption mentionné à l'article L. 142-3 fait l'objet d'une expropriation pour cause
 d'utilité publique, la date de référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique
-est remplacée, s'il existe un plan d'occupation des sols, par la date du plus récent des acte rendant public, approuvant ou
-modifiant ce plan pour la zone dans laquelle est situé le terrain.
+est remplacée, s'il existe un plan d'occupation des sols, par la date à laquelle est devenu opposable aux tiers le plus
+récent des actes rendant public, approuvant, révisant ou modifiant ce plan et délimitant la zone dans laquelle est situé le
+terrain.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-_Créé par_:
-
-  - Loi n°85-729 du 18 juillet 1985 - art. 12 ()
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
+  - Loi n°89-550 du 2 août 1989 - art. 8 () JORF 8 aôut 1989
 
 _Cité par_:
 
@@ -6136,6 +6165,10 @@ _Cite_:
 
   - Code de l'urbanisme - art. L142-3 (M)
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-15 (M)
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L142-7
@@ -7733,11 +7766,17 @@ _Cité par_:
 
 ###### Article L212-1
 
-Des zones d'aménagement différé peuvent être créées, sur les territoires non couverts par un plan d'occupation des sols rendu
-public ou approuvé, par décision motivée du représentant de l'Etat dans le département, sur proposition ou après avis des
-communes concernées.
+Des zones d'aménagement différé peuvent être créées, en dehors des zones urbaines et des zones d'urbanisation future
+délimitées par un plan d'occupation des sols rendu public ou approuvé, par décision motivée du représentant de l'Etat dans le
+département, sur proposition ou après avis de la commune ou de l'établissement public de coopération intercommunale ayant les
+compétences visées au second alinéa de l'article L. 211-2.
 
-En cas d'avis défavorable d'une commune, la zone d'aménagement différé ne peut être créée que par décret en Conseil d'Etat.
+En cas d'avis défavorable de la commune ou de l'établissement public compétent, la zone d'aménagement différé ne peut être
+créée que par décret en Conseil d'Etat.
+
+Un décret en Conseil d'Etat précise, après avis de chaque région concernée, les parties du territoire national dans
+lesquelles des zones d'aménagement différé peuvent être créées dans les communes dotées d'un plan d'occupation des sols rendu
+public ou approuvé. Cet avis [*tacite*] est réputé donné s'il n'intervient pas dans un délai de trois mois. "
 
 **Liens relatifs à cet article**
 
@@ -7771,12 +7810,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985   en vigueur le 1er juin 1987
-  - Loi n°85-729 du 18 juillet 1985 - art. 7 () JORF 19 juillet 1985   en vigueur le 1er juin 1987
+  - Loi n°89-550 du 2 août 1989 - art. 8 ()
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+  - Code de l'urbanisme - art. L211-2 (M)
 
 _Codifié par_:
 
@@ -8187,10 +8225,10 @@ est exclusif de toute indemnité accessoire, et notamment de l'indemnité de ré
 Le prix est fixé, payé ou, le cas échéant, consigné selon les règles applicables en matière d'expropriation. Toutefois, dans
 ce cas :
 
-a) La date de référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique est, pour ce qui
-concerne les zones d'aménagement différé, un an avant la publication de l'acte instituant la zone et, pour ce qui concerne
-les biens soumis au droit de préemption urbain, la date du plus récent des actes rendant public, approuvant ou modifiant le
-plan d'occupation des sols et délimitant la zone dans laquelle sont situés les biens.
+a) La date de référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique est soit la date
+à laquelle est devenu opposable aux tiers le plus récent des actes rendant public, approuvant, révisant ou modifiant le plan
+d'occupation des sols et délimitant la zone dans laquelle est situé le bien, soit, en l'absence d'un tel document, un an
+avant la publication de l'acte créant la zone d'aménagement différé ;
 
 b) Les améliorations, les transformations ou les changements d'affectation opérés par le propriétaire postérieurement à la
 date mentionnée au a) ci-dessus ne sont pas présumés revêtir un caractère spéculatif ;
@@ -8207,7 +8245,7 @@ vendeur mais peut réviser le montant de cette rente et du capital éventuel.
 
 _Modifié par_:
 
-  - Loi n°86-1290 du 23 décembre 1986 - art. 69 () JORF 24 décembre 1986    en vigueur le 1er juin 1987
+  - Loi n°89-550 du 2 août 1989 - art. 8 ()
 
 _Cité par_:
 
@@ -8268,10 +8306,8 @@ _Codifié par_:
 ###### Article L213-6
 
 Lorsqu'un bien soumis au droit de préemption fait l'objet d'une expropriation pour cause d'utilité publique, la date de
-référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique est, pour ce qui concerne les
-zones d'aménagement différé, un an avant publication de l'acte instituant la zone et, pour ce qui concerne les biens soumis
-au droit de préemption urbain, la date du plus récent des actes rendant public, approuvant ou modifiant le plan d'occupation
-des sols pour la zone dans laquelle ces biens sont situés.
+référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique est celle prévue au a de
+l'article L. 213-4.
 
 **Liens relatifs à cet article**
 
@@ -8279,17 +8315,17 @@ _Codifié par_:
 
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
-_Créé par_:
-
-  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985   en vigueur le 1er juin 1987
-  - Loi n°85-729 du 18 juillet 1985 - art. 8 () JORF 19 juillet 1985   en vigueur le 1er juin 1987
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
 
+_Modifié par_:
+
+  - Loi n°89-550 du 2 août 1989 - art. 8 ()
+
 _Cite_:
 
+  - Code de l'urbanisme - art. L213-4 (M)
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-15 (M)
 
 
@@ -8672,26 +8708,14 @@ droit soumises au droit de préemption urbain institué par l'article L. 211-1. 
 titulaire du droit de préemption urbain est délégué de plein droit à ce titulaire, sauf délibération contraire du conseil
 municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale ;
 
-b) Les parties de zone d'aménagement différé non couvertes par ce plan d'occupation des sols demeurent soumises aux
-dispositions des articles L. 212-1 et suivants ;
-
-c) Les parties de zone d'aménagement différé situées dans des zones de ce plan d'occupation des sols autres que celles
-mentionnées au a) ci-dessus sont supprimées de plein droit.
+b) Les parties de la zone d'aménagement différé situées hors des zones urbaines ou des zones d'urbanisation future délimitées
+par le plan d'occupation des sols demeurent soumises aux dispositions des articles L. 212-1 et suivants. "
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-_Créé par_:
-
-  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985   en vigueur le 1er juin 1987
-  - Loi n°85-729 du 18 juillet 1985 - art. 8 () JORF 19 juillet 1985   en vigueur le 1er juin 1987
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+  - Loi n°89-550 du 2 août 1989 - art. 8 ()
 
 _Cite_:
 
@@ -8702,6 +8726,35 @@ _Cite_:
 _Cité par_:
 
   - Code de l'urbanisme - art. L213-17-1 (Ab)
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L213-17-1
+
+Les dispositions du a de l'article L. 213-17 [*champ d'application*] s'appliquent en cas d'approbation, de modification ou de
+révision du plan d'occupation des sols ayant pour effet, postérieurement à la création d'une zone d'aménagement différé,
+d'étendre le périmètre des zones urbaines ou des zones d'urbanisation future délimitées par le plan d'occupation des sols. "
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+_Créé par_:
+
+  - Loi n°89-550 du 2 août 1989 - art. 8 ()
+
+_Abrogé par_:
+
+  - Loi - art. 35 ()
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L213-17 (M)
 
 
 ###### Article L213-18
@@ -9458,6 +9511,35 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L311-7
+
+Les dispositions du chapitre Ier du titre Ier du livre III du présent code dans sa rédaction issue de la loi n°85-729 du 18
+juillet 1985 relative à la définition et à la mise en oeuvre de principes d'aménagement sont, quelles que soient l'autorité
+qui a prononcé la création des zones d'aménagement concerté intéressées et la date de cette création, entrées en vigueur dans
+les conditions définies par l'article 26 du décret n°86-517 du 14 mars 1986 pris pour leur application.
+
+Sont, en conséquence, validés les actes réglementaires et non réglementaires relatifs aux zones d'aménagement concerté en
+tant qu'ils ont été pris dans les conditions et par les autorités définies à l'article 26 du décret n°86-517 du 14 mars 1986
+précité.
+
+Sont, en outre, validés les actes réglementaires et non réglementaires pris sur le fondement des actes mentionnés à l'alinéa
+précédent en tant que ces derniers ont été validés dans les conditions prévues audit alinéa.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+_Créé par_:
+
+  - Loi n°89-550 du 2 août 1989 - art. 2 () JORF 8 août 1989
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. L340-1 (VT)
 
 
 #### Chapitre III : Restauration immobilière et secteurs sauvegardés<a id=50></a>

@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1985-04-24
+Version Consolidée au 1985-06-01
 ## Contenu: 
   - [Partie législative (art. L121-10 à L550-1)](#1)
     - [Règles générales d'aménagement et d'urbanisme (art. L121-10 à L122-1-4)](#2)

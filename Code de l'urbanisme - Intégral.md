@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1984-04-24
+Version Consolidée au 1984-05-04
 ## Contenu: 
   - [Partie législative (art. L121-10 à L550-1)](#1)
     - [Règles générales d'aménagement et d'urbanisme (art. L121-10 à L122-1-4)](#2)
@@ -651,45 +651,47 @@ Version Consolidée au 1984-04-24
       - [PERMIS DE DEMOLIR (art. A430-3)](#648)
         - [REGIME GENERAL (art. A430-3)](#649)
           - [DECISION . (art. A430-3)](#650)
-    - [LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol (art. A410-1 à A460-2)](#651)
+    - [LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol (art. A410-1 à A490-1)](#651)
       - [TITRE I : Certificat d'urbanisme. (art. A410-1 à A410-2)](#652)
       - [TITRE II : Permis de construire (art. A421-1 à A422-2)](#653)
         - [CHAPITRE I : Régime général (art. A421-1 à A421-8)](#654)
-          - [Section 1 : Règles applicables à toute construction. (art. A421-1 à A421-8)](#655)
-            - [Sous-section 1 : Présentation de la demande (art. A421-1 à A421-3)](#656)
-            - [Sous-section 2 : Instruction de la demande. Régime général. (art. A421-4 à A421-6)](#657)
-            - [Sous-section 5 : Dispositions diverses (art. A421-7 à A421-8)](#658)
-        - [CHAPITRE II : Exceptions au régime général (art. A422-1 à A422-2)](#659)
-          - [Section 1 : Déclarations de travaux exemptés du permis de construire. (art. A422-1)](#660)
-          - [Section 2 : Grands camps à l'intérieur desquels les constructions et installations sont exemptées du permis de construire (art. A422-2)](#661)
-      - [TITRE III : Permis de démolir (art. A430-2 à A430-4)](#662)
-        - [Section 1 : Régime général (art. A430-2 à A430-1)](#663)
-          - [Sous-section 1 : Présentation de la demande. (art. A430-1)](#664)
-        - [Section 4 : Formalités postérieures à la délivrance du permis de de démolir. (art. A430-4)](#665)
-      - [Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol. (art. A441-1 à A443-4)](#666)
-        - [CHAPITRE I : Clôtures. (art. A441-1)](#667)
-        - [CHAPITRE II : Installations et travaux divers. (art. A442-1)](#668)
-        - [CHAPITRE III : Stationnement des caravanes (art. A443-1 à A443-9)](#669)
-          - [Paragraphe 1 : Stationnement en dehors des terrains aménagés (art. A443-1 à A443-2)](#670)
-          - [Paragraphe 2 : Stationnement sur des terrains aménagés (art. A443-6 à A443-9)](#671)
-        - [CHAPITRE III : Camping et stationnement des caravanes (art. A443-3 à A443-4)](#672)
-          - [Paragraphe 1 : Stationnement en dehors des terrains aménagés. (art. A443-3 à A443-4)](#673)
-      - [TITRE VI : Contrôle (art. A460-1 à A460-2)](#674)
-        - [Section 1 : Déclaration d'achèvement des travaux et certificat de conformité. (art. A460-1 à A460-2)](#675)
-    - [Livre  V : Implantation des services, établissements et entreprises (art. A510-1 à A520-11)](#676)
-      - [TITRE I : Dispositions administratives générales. (art. A510-1 à A510-13)](#677)
-      - [Titre  II : Dispositions financières concernant la région d'Ile-de-France (art. A520-1 à A520-11)](#678)
-        - [Section 1 : Dispositions générales (art. A520-1 à A520-11)](#679)
-          - [Sous-section 1 : Perception des redevances (art. A520-1 à A520-3)](#680)
-          - [Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance (art. A520-4 à A520-11)](#681)
-    - [Livre  VI : Organismes consultatifs et dispositions diverses (art. A611-1 à A614-4)](#682)
-      - [Titre Ier : Organismes consultatifs (art. A611-1 à A614-4)](#683)
-        - [CHAPITRE I : Commissions départementales d'urbanisme. (art. A611-1 à A611-7)](#684)
-        - [CHAPITRE II : Conférence permanente du permis de contruire (art. A612-1 à A612-9)](#685)
-          - [Section 1 : Conférence permanente du permis de construire instituée dans les départements situés hors de la région d'Ile-de-France. (art. A612-1 à A612-4)](#686)
-          - [Section 2 : Conférence permanente du permis de construire des départements de la région d'Ile-de-France. (art. A612-5 à A612-9)](#687)
-        - [CHAPITRE III : Comité d'aménagement de la région Ile-de-France. (art. A613-1 à A613-10)](#688)
-        - [CHAPITRE IV : Architectes-conseils (art. A614-2 à A614-4)](#689)
+          - [Section 1 : Présentation de la demande. (art. A421-1 à A421-3-1)](#655)
+          - [Section 1 : Règles applicables à toute construction. (art. A421-7)](#656)
+            - [Sous-section 5 : Dispositions diverses (art. A421-7)](#657)
+          - [Section 3 : Instruction de la demande. (art. A421-4 à A421-6)](#658)
+          - [Section 6 : Formalités postérieures à la délivrance du permis de construire. (art. A421-8)](#659)
+        - [CHAPITRE II : Exceptions au régime général (art. A422-1 à A422-2)](#660)
+          - [Section 1 : Déclarations de travaux exemptés du permis de construire. (art. A422-1)](#661)
+          - [Section 2 : Grands camps à l'intérieur desquels les constructions et installations sont exemptées du permis de construire (art. A422-2)](#662)
+      - [TITRE III : Permis de démolir (art. A430-2 à A430-4)](#663)
+        - [Section 1 : Régime général (art. A430-2 à A430-1)](#664)
+          - [Sous-section 1 : Présentation de la demande. (art. A430-1)](#665)
+        - [Section 4 : Formalités postérieures à la délivrance du permis de de démolir. (art. A430-4)](#666)
+      - [Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol. (art. A441-1 à A443-4)](#667)
+        - [CHAPITRE I : Clôtures. (art. A441-1)](#668)
+        - [CHAPITRE II : Installations et travaux divers. (art. A442-1)](#669)
+        - [CHAPITRE III : Stationnement des caravanes (art. A443-1 à A443-9)](#670)
+          - [Paragraphe 1 : Stationnement en dehors des terrains aménagés (art. A443-1 à A443-2)](#671)
+          - [Paragraphe 2 : Stationnement sur des terrains aménagés (art. A443-6 à A443-9)](#672)
+        - [CHAPITRE III : Camping et stationnement des caravanes (art. A443-3 à A443-4)](#673)
+          - [Paragraphe 1 : Stationnement en dehors des terrains aménagés. (art. A443-3 à A443-4)](#674)
+      - [TITRE VI : Contrôle (art. A460-1 à A460-2)](#675)
+        - [Section 1 : Déclaration d'achèvement des travaux et certificat de conformité. (art. A460-1 à A460-2)](#676)
+      - [TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres Ier à IV et VI du présent livre (art. A490-1)](#677)
+    - [Livre  V : Implantation des services, établissements et entreprises (art. A510-1 à A520-11)](#678)
+      - [TITRE I : Dispositions administratives générales. (art. A510-1 à A510-13)](#679)
+      - [Titre  II : Dispositions financières concernant la région d'Ile-de-France (art. A520-1 à A520-11)](#680)
+        - [Section 1 : Dispositions générales (art. A520-1 à A520-11)](#681)
+          - [Sous-section 1 : Perception des redevances (art. A520-1 à A520-3)](#682)
+          - [Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance (art. A520-4 à A520-11)](#683)
+    - [Livre  VI : Organismes consultatifs et dispositions diverses (art. A611-1 à A614-4)](#684)
+      - [Titre Ier : Organismes consultatifs (art. A611-1 à A614-4)](#685)
+        - [CHAPITRE I : Commissions départementales d'urbanisme. (art. A611-1 à A611-7)](#686)
+        - [CHAPITRE II : Conférence permanente du permis de contruire (art. A612-1 à A612-9)](#687)
+          - [Section 1 : Conférence permanente du permis de construire instituée dans les départements situés hors de la région d'Ile-de-France. (art. A612-1 à A612-4)](#688)
+          - [Section 2 : Conférence permanente du permis de construire des départements de la région d'Ile-de-France. (art. A612-5 à A612-9)](#689)
+        - [CHAPITRE III : Comité d'aménagement de la région Ile-de-France. (art. A613-1 à A613-10)](#690)
+        - [CHAPITRE IV : Architectes-conseils (art. A614-2 à A614-4)](#691)
 # Partie législative<a id=1></a>
 
 ## Règles générales d'aménagement et d'urbanisme<a id=2></a>
@@ -49684,17 +49686,35 @@ _Cité par_:
 
 #### CHAPITRE I : Régime général<a id=654></a>
 
-##### Section 1 : Règles applicables à toute construction.<a id=655></a>
-
-##### Sous-section 1 : Présentation de la demande<a id=656></a>
+##### Section 1 : Présentation de la demande.<a id=655></a>
 
 ###### Article A421-1
 
-La demande de permis de construire prévue à l'article R. 421-1 est établie conformément à l'un des modèles joints au présent
-article. Ces modèles comportent le libellé de l'engagement dont la demande doit être assortie, en vertu de l'article L. 421-3
-(alinéa 1er).
+La demande de permis de construire prévue à l'article R. 421-1 est établie conformément au modèle joint en annexe au présent
+code.
+
+Note : Ces imprimés sont enregistrés au C.E.R.F.A. sous les numéros suivants :
+
+46-0303 Demande de permis de construire pour travaux ne créant pas de surface de planchers (P.C. 155).
+
+46-0306 Demande de permis de construire pour une maison individuelle (P.C. 157).
+
+46-0307 Demande de permis de construire modificatif (P.C. 158 bis).
+
+46-0311 Demande de permis de construire (P.C. 158).
+
+46-0323 Demande de permis de construire une ligne d'énergie électrique (P.C. 155 bis).
+
+Les imprimés 46-0303, 46-0307, 46-0311 peuvent être obtenus auprès des directions départementales de l'équipement et des
+mairies.
+
+L'imprimé 46-0323 peut être obtenu auprès des directions départementales de l'équipement.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1984-04-02 ART. 1 JONC 4 MAI 1984
 
 _Codifié par_:
 
@@ -49708,20 +49728,19 @@ _Cité par_:
 
 **Liens**:
 
-  - TXT_ASSOCIE: Code de l'urbanisme - art. A520-1 (M)
-
-_Cite_:
-
-  - Code de l'urbanisme - art. R421-1 (M)
-  - Code de l'urbanisme L421-3 AL. 1
+  - TXT_ASSOCIE: Code de l'urbanisme - art. A421-3 (M)
 
 
 ###### Article A421-3
 
-Les dispositions des articles A. 421-1 et A. 421-2 ne peuvent être modifiées que par arrêté du ministre chargé de
-l'urbanisme.
+Les dispositions de l'article A. 421-1 ne peuvent être modifiées que par arrêté du ministre chargé de l'urbanisme.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1978-11-06 ART. 2 JORF NC 21 NOVEMBRE 1978
+  - Arrêté 1984-04-02 ART. 1 JONC 4 MAI 1984
 
 _Codifié par_:
 
@@ -49734,58 +49753,61 @@ _Codifié par_:
 _Cite_:
 
   - Code de l'urbanisme - art. A421-1 (M)
+
+
+###### Article A421-3-1
+
+La lettre de notification prévue à l'article R. 421-12 indique au demandeur :
+
+- le numéro d'enregistrement de sa demande ;
+
+- la collectivité au nom de laquelle la décision sera prise ;
+
+- la date de laquelle part le délai d'instruction, qui peut être selon le cas la date de la décharge ou de l'avis de
+réception postal prévus à l'article R. 421-9 ou la date de réception des pièces complétant le dossier ;
+
+- le délai maximal d'instruction de la demande et la motivation de ce délai s'il est supérieur à deux mois ;
+
+- la date avant laquelle, compte tenu du délai réglementaire d'instruction, la décision devra lui être notifiée.
+
+Lorsque le projet ne se trouve pas dans l'un des cas prévus à l'article R. 421-19, le demandeur est avisé :
+
+- que si aucune décision ne lui a été adressé avant la date limite d'instruction, la lettre de notification vaudra permis de
+construire tacite et que le projet pourra être entrepris conformément au projet déposé, que toutefois le permis, s'il est
+illégal, peut être retiré par l'autorité compétente pendant le délai de recours contentieux ;
+
+- qu'en cas de permis de construire tacite, il peut demander une attestation certifiant qu'aucune décision négative n'est
+intervenue à l'égard de sa demande ;
+
+- qu'une lettre rectificative peut le cas échéant lui être adressée en cas de majoration du délai d'instruction.
+
+Lorsque le projet se trouve dans l'un des cas prévus à l'article R. 421-19, le demandeur est informé qu'il ne pourra
+bénéficier d'un permis tacite et que les travaux ne pourront être entrepris qu'après réception d'une décision positive.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté 1984-04-02 ART. 1, ART. 2 JORF 4 MAI 1984
+
+_Codifié par_:
+
+  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+_Nouveaux textes_:
+
   - Code de l'urbanisme - art. A421-2 (Ab)
 
-
-##### Sous-section 2 : Instruction de la demande. Régime général.<a id=657></a>
-
-###### Article A421-4
-
-Sauf dans la région d'Ile-de-France et dans les départements du Loiret, d'Eure-et-Loir, de l'Eure et de l'Oise, l'avis du
-ministre chargé de l'aménagement du territoire, donné en vue de l'application de l'article R. 111-15, est formulé par les
-préfets de département en son lieu et place.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. A421-6 (M)
-
 _Cite_:
 
-  - Code de l'urbanisme - art. R111-15 (M)
+  - Code de l'urbanisme - art. R421-12 (M)
+  - Code de l'urbanisme - art. R421-19 (M)
+  - Code de l'urbanisme - art. R421-9 (M)
 
 
-###### Article A421-5
+##### Section 1 : Règles applicables à toute construction.<a id=656></a>
 
-Les préfets de département transmettent mensuellement, avec leurs avis, à la délégation à l'aménagement du territoire et à
-l'action régionale, les notices de renseignements prévues à l'article R. 421-3.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. A421-6 (M)
-
-_Cite_:
-
-  - Code de l'urbanisme - art. R421-3 (M)
-
-
-###### Article A421-6
-
-Les dispositions des articles A. 421-4 et A. 421-5 ne peuvent être modifiées que par arrêté du ministre chargé de
-l'aménagement du territoire.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de l'urbanisme - art. A421-4 (Ab)
-  - Code de l'urbanisme - art. A421-5 (Ab)
-
-
-##### Sous-section 5 : Dispositions diverses<a id=658></a>
+##### Sous-section 5 : Dispositions diverses<a id=657></a>
 
 ###### Article A421-7
 
@@ -49805,34 +49827,134 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-###### Article A421-8
+##### Section 3 : Instruction de la demande.<a id=658></a>
 
-Dès l'affichage à la mairie d'un extrait de la décision accordant le permis de construire et jusqu'à la déclaration
-d'achèvement des travaux, toute personne intéressée peut consulter les pièces suivantes du dossier :
+###### Article A421-4
 
-Demande de permis de construire ;
-
-Plan de situation ;
-
-Plan de masse ;
-
-Plan des façades ;
-
-Arrêté accordant le permis de construire ;
-
-Eventuellement, contrats ou décisions judiciaires en matière d'institution de servitudes dites de cours communes ou de
-minoration de densité sur les fonds voisins.
+Sauf dans la région d'Ile-de-France et dans les départements du Loiret, d'Eure-et-Loir, de l'Eure et de l'Oise, l'avis du
+ministre chargé de l'aménagement du territoire, donné en vue de l'application de l'article R. 111-15, est formulé par les
+préfets de département en son lieu et place.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1984-04-02 ART. 1 JONC 4 MAI 1984
+
+_Abrogé par_:
+
+  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
 
 _Codifié par_:
 
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
+_Cité par_:
 
-#### CHAPITRE II : Exceptions au régime général<a id=659></a>
+  - Code de l'urbanisme - art. A421-6 (M)
 
-##### Section 1 : Déclarations de travaux exemptés du permis de construire.<a id=660></a>
+_Cite_:
+
+  - Code de l'urbanisme - art. R111-15 (M)
+
+
+###### Article A421-5
+
+Les préfets de département transmettent mensuellement, avec leurs avis, à la délégation à l'aménagement du territoire et à
+l'action régionale, les notices de renseignements prévues à l'article R. 421-3.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1984-04-02 ART. 1 JONC 4 MAI 1984
+
+_Abrogé par_:
+
+  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
+
+_Codifié par_:
+
+  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. A421-6 (M)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R421-3 (M)
+
+
+###### Article A421-6
+
+Les dispositions des articles A. 421-4 et A. 421-5 ne peuvent être modifiées que par arrêté du ministre chargé de
+l'aménagement du territoire.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1984-04-02 ART. 1 JONC 4 MAI 1984
+
+_Abrogé par_:
+
+  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
+
+_Codifié par_:
+
+  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+_Cite_:
+
+  - Code de l'urbanisme - art. A421-4 (Ab)
+  - Code de l'urbanisme - art. A421-5 (Ab)
+
+
+##### Section 6 : Formalités postérieures à la délivrance du permis de construire.<a id=659></a>
+
+###### Article A421-8
+
+Dès l'affichage à la mairie d'un extrait de la décision accordant le permis de construire ou du document en tenant lieu
+valant permis de construire et jusqu'à la déclaration d'achèvement des travaux, toute personne intéressée peut consulter dans
+les locaux de la mairie, les pièces suivantes du dossier :
+
+- la demande complète de permis de construire : formulaire de demande, pièces jointes, plan de situation, plan de masse et
+plan des façades ;
+
+- les avis recueillis au cours de l'instruction ;
+
+- l'arrêté accordant le permis de construire ;
+
+- éventuellement, les contrats ou décisions judiciaires en matière d'institution de servitudes dites de cours communes ou de
+minoration de densité sur les fonds voisins. 
+
+Les dispositions du présent article ne font pas obstacle au droit à communication dans les conditions prévues par la loi n°
+78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et
+diverses dispositions d'ordre administratif, social et fiscal.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1984-04-02 art. 1, art. 4 JORF 4 mai 1984
+
+_Abrogé par_:
+
+  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
+
+_Codifié par_:
+
+  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+_Cite_:
+
+  - Loi n°78-753 1978-07-17
+
+
+#### CHAPITRE II : Exceptions au régime général<a id=660></a>
+
+##### Section 1 : Déclarations de travaux exemptés du permis de construire.<a id=661></a>
 
 ###### Article A422-1
 
@@ -49860,7 +49982,7 @@ _Cite_:
   - Code de l'urbanisme R422-5
 
 
-##### Section 2 : Grands camps à l'intérieur desquels les constructions et installations sont exemptées du permis de construire<a id=661></a>
+##### Section 2 : Grands camps à l'intérieur desquels les constructions et installations sont exemptées du permis de construire<a id=662></a>
 
 ###### Article A422-2
 
@@ -49893,9 +50015,9 @@ _Cite_:
   - Code de l'urbanisme R422-1 al. 2
 
 
-### TITRE III : Permis de démolir<a id=662></a>
+### TITRE III : Permis de démolir<a id=663></a>
 
-#### Section 1 : Régime général<a id=663></a>
+#### Section 1 : Régime général<a id=664></a>
 
 ###### Article A430-2
 
@@ -49924,7 +50046,7 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-##### Sous-section 1 : Présentation de la demande.<a id=664></a>
+##### Sous-section 1 : Présentation de la demande.<a id=665></a>
 
 ###### Article A430-1
 
@@ -49947,7 +50069,7 @@ _Cite_:
   - Code de l'urbanisme R430-6
 
 
-#### Section 4 : Formalités postérieures à la délivrance du permis de de démolir.<a id=665></a>
+#### Section 4 : Formalités postérieures à la délivrance du permis de de démolir.<a id=666></a>
 
 ###### Article A430-4
 
@@ -49961,9 +50083,9 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-### Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.<a id=666></a>
+### Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.<a id=667></a>
 
-#### CHAPITRE I : Clôtures.<a id=667></a>
+#### CHAPITRE I : Clôtures.<a id=668></a>
 
 ###### Article A441-1
 
@@ -49987,7 +50109,7 @@ _Cite_:
   - Code de l'urbanisme R441-4
 
 
-#### CHAPITRE II : Installations et travaux divers.<a id=668></a>
+#### CHAPITRE II : Installations et travaux divers.<a id=669></a>
 
 ###### Article A442-1
 
@@ -50006,9 +50128,9 @@ _Cite_:
   - Code de l'urbanisme - art. R442-9 (M)
 
 
-#### CHAPITRE III : Stationnement des caravanes<a id=669></a>
+#### CHAPITRE III : Stationnement des caravanes<a id=670></a>
 
-##### Paragraphe 1 : Stationnement en dehors des terrains aménagés<a id=670></a>
+##### Paragraphe 1 : Stationnement en dehors des terrains aménagés<a id=671></a>
 
 ###### Article A443-1
 
@@ -50063,7 +50185,7 @@ _Cité par_:
   - Code de l'urbanisme - art. A443-3 (M)
 
 
-##### Paragraphe 2 : Stationnement sur des terrains aménagés<a id=671></a>
+##### Paragraphe 2 : Stationnement sur des terrains aménagés<a id=672></a>
 
 ###### Article A443-6
 
@@ -50202,9 +50324,9 @@ _Codifié par_:
   - Décret n°77-38 1977-12-28 JORF 18 JANVIER 1977
 
 
-#### CHAPITRE III : Camping et stationnement des caravanes<a id=672></a>
+#### CHAPITRE III : Camping et stationnement des caravanes<a id=673></a>
 
-##### Paragraphe 1 : Stationnement en dehors des terrains aménagés.<a id=673></a>
+##### Paragraphe 1 : Stationnement en dehors des terrains aménagés.<a id=674></a>
 
 ###### Article A443-3
 
@@ -50248,9 +50370,9 @@ _Cite_:
   - Code de l'urbanisme - art. R443-4 (M)
 
 
-### TITRE VI : Contrôle<a id=674></a>
+### TITRE VI : Contrôle<a id=675></a>
 
-#### Section 1 : Déclaration d'achèvement des travaux et certificat de conformité.<a id=675></a>
+#### Section 1 : Déclaration d'achèvement des travaux et certificat de conformité.<a id=676></a>
 
 ###### Article A460-1
 
@@ -50291,9 +50413,45 @@ _Cite_:
   - Code de l'urbanisme - art. A460-1 (M)
 
 
-## Livre  V : Implantation des services, établissements et entreprises<a id=676></a>
+### TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres Ier à IV et VI du présent livre<a id=677></a>
 
-### TITRE I : Dispositions administratives générales.<a id=677></a>
+###### Article A490-1
+
+Le maire affecte aux demandes d'autorisations et actes relatifs à l'occupation du sol un numéro d'enregistrement de treize
+caractères dont la structure est la suivante :
+
+Le numéro de code géographique I.N.S.E.E. du département (trois caractères) ;
+
+Le numéro de code géographique I.N.S.E.E. de la commune (trois caractères) ;
+
+Les deux derniers chiffres du millésime de l'année de dépôt de la demande (deux caractères) ;
+
+Le numéro de dossier composé de cinq caractères ; le premier (de ces cinq caractères) est réservé au service instructeur ;
+les quatre autres (caractères) sont utilisés pour une numérotation en continu par nature d'autorisation ou acte relatif à
+l'utilisation du sol.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté 1993-10-29 art. 1 JORF 19 novembre 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 1993-10-29 art. 2
+
+_Abrogé par_:
+
+  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
+
+_Codifié par_:
+
+  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+
+## Livre  V : Implantation des services, établissements et entreprises<a id=678></a>
+
+### TITRE I : Dispositions administratives générales.<a id=679></a>
 
 ###### Article A510-1
 
@@ -50559,11 +50717,11 @@ _Cite_:
   - CODE DE L'URBANISME A510-1 à A510-12
 
 
-### Titre  II : Dispositions financières concernant la région d'Ile-de-France<a id=678></a>
+### Titre  II : Dispositions financières concernant la région d'Ile-de-France<a id=680></a>
 
-#### Section 1 : Dispositions générales<a id=679></a>
+#### Section 1 : Dispositions générales<a id=681></a>
 
-##### Sous-section 1 : Perception des redevances<a id=680></a>
+##### Sous-section 1 : Perception des redevances<a id=682></a>
 
 ###### Article A520-1
 
@@ -50639,7 +50797,7 @@ _Cite_:
   - Code de l'urbanisme - art. A520-2 (VT)
 
 
-##### Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance<a id=681></a>
+##### Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance<a id=683></a>
 
 ###### Article A520-4
 
@@ -50752,11 +50910,11 @@ _Cite_:
   - Code de l'urbanisme - art. A520-4 (V)
 
 
-## Livre  VI : Organismes consultatifs et dispositions diverses<a id=682></a>
+## Livre  VI : Organismes consultatifs et dispositions diverses<a id=684></a>
 
-### Titre Ier : Organismes consultatifs<a id=683></a>
+### Titre Ier : Organismes consultatifs<a id=685></a>
 
-#### CHAPITRE I : Commissions départementales d'urbanisme.<a id=684></a>
+#### CHAPITRE I : Commissions départementales d'urbanisme.<a id=686></a>
 
 ###### Article A611-1
 
@@ -50907,9 +51065,9 @@ _Cite_:
   - CODE DE L'URBANISME A611-1 à A611-6
 
 
-#### CHAPITRE II : Conférence permanente du permis de contruire<a id=685></a>
+#### CHAPITRE II : Conférence permanente du permis de contruire<a id=687></a>
 
-##### Section 1 : Conférence permanente du permis de construire instituée dans les départements situés hors de la région d'Ile-de-France.<a id=686></a>
+##### Section 1 : Conférence permanente du permis de construire instituée dans les départements situés hors de la région d'Ile-de-France.<a id=688></a>
 
 ###### Article A612-1
 
@@ -50989,7 +51147,7 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-##### Section 2 : Conférence permanente du permis de construire des départements de la région d'Ile-de-France.<a id=687></a>
+##### Section 2 : Conférence permanente du permis de construire des départements de la région d'Ile-de-France.<a id=689></a>
 
 ###### Article A612-5
 
@@ -51114,7 +51272,7 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-#### CHAPITRE III : Comité d'aménagement de la région Ile-de-France.<a id=688></a>
+#### CHAPITRE III : Comité d'aménagement de la région Ile-de-France.<a id=690></a>
 
 ###### Article A613-1
 
@@ -51333,7 +51491,7 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-#### CHAPITRE IV : Architectes-conseils<a id=689></a>
+#### CHAPITRE IV : Architectes-conseils<a id=691></a>
 
 ###### Article A614-2
 

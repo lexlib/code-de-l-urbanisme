@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1995-05-10
+Version Consolidée au 1995-05-11
 ## Contenu: 
   - [Partie législative (art. L110 à L600-5)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -407,7 +407,7 @@ Version Consolidée au 1995-05-10
       - [TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres Ier à IV et VI du présent livre (art. R*490-1 à R490-8)](#404)
       - [TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres I à IV et VI du présent livre. (art. R*490-5)](#405)
     - [Livre V : Implantation des services, établissements et entreprises (art. R*510-1 à R550-1)](#406)
-      - [Titre Ier : Dispositions administratives générales (art. R*510-1 à R*510-14)](#407)
+      - [Titre Ier : Dispositions administratives générales (art. R*510-1 à R*510-15)](#407)
       - [Titre II : Dispositions financières concernant la région parisienne (art. R520-1 à R*520-12)](#408)
         - [Section 1 : Dispositions générales (art. R520-1 à R520-11)](#409)
         - [Section 2 : Montant des redevances (art. R*520-12)](#410)
@@ -53918,24 +53918,17 @@ _Modifié par_:
 
 ###### Article R*510-1
 
-Dans la région Ile-de-France, telle qu'elle est définie par la loi n. 76-394 du 6 mai 1976, sont soumis à agrément, sous
-réserve des exceptions prévues aux articles R. 510-4, R. 510-6 et R. 510-7, toute opération entreprise par toute personne
-physique ou morale de droit public ou de droit privé tendant à la construction, la reconstruction, la réhabilitation ou
-l'extension de tous locaux ou installations servant à des activités industrielles, commerciales, professionnelles,
-administratives, techniques, scientifiques ou d'enseignement ainsi que tout changement d'utilisateur ou d'utilisation desdits
-locaux.
+Dans la région d'Ile-de-France, sont soumis à agrément, sous réserve des exceptions prévues aux articles R. 510-4 et R.
+510-6, toute opération entreprise par toute personne physique ou morale de droit public ou de droit privé tendant à la
+construction, la reconstruction, la réhabilitation ou l'extension de tous locaux ou installations servant à des activités
+industrielles, commerciales, professionnelles, administratives, techniques, scientifiques ou d'enseignement ainsi que tout
+changement d'utilisateur ou d'utilisation desdits locaux.
 
-Les opérations visées à l'alinéa 1er du présent article sont soumises à agrément quelle que soit l'affectation des locaux
-existants et indépendamment de la qualité de leur propriétaire et quelles que soient les conditions juridiques de
-l'utilisation. Les transferts à titre gratuit sont exclus du champ d'application du présent titre.
+Les opérations mentionnées au premier alinéa sont soumises à agrément quelle que soit l'affectation des locaux existants et
+indépendamment de la qualité de leur propriétaire et quelles que soient les conditions juridiques de l'utilisation. Les
+transferts à titre gratuit sont exclus du champ d'application du présent titre.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°64-707 1964-07-10
-  - Loi n°76-394 1976-05-06
-  - Code de l'urbanisme R510-6
 
 _Anciens textes_:
 
@@ -53943,7 +53936,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°85-47 1985-01-14 art. 1 JORF 15 janvier 1985
+  - Décret n°95-690 du 9 mai 1995 - art. 1 () JORF 11 mai 1995
 
 _Cité par_:
 
@@ -53953,6 +53946,10 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R212-8 (V)
   - Code du cinéma et de l'image animée - art. R212-9 (Ab)
 
+_Cite_:
+
+  - Code de l'urbanisme R510-4, R510-6
+
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
@@ -53960,15 +53957,29 @@ _Codifié par_:
 
 ###### Article R*510-2
 
-L'agrément institué à l'article R. 510-1 [*Région parisienne*] est accordé ou refusé :
+L'agrément institué à l'article R. 510-1 est accordé, accordé sous condition, refusé ou ajourné pour complément
+d'instruction :
 
-Soit par un comité de décentralisation placé auprès du ministre chargé de l'aménagement du territoire, lorsque l'opération
-est réalisée par un service ou établissement qui relève de l'Etat ou d'une collectivité publique ou qui est soumis à leur
-contrôle ; en cas de décision défavorable, le ministre intéressé peut saisir le Premier ministre qui décide, après avis du
-ministre chargé de l'aménagement du territoire et du ministre de l'économie et des finances.
+1° Par un comité de décentralisation placé auprès du ministre chargé de l'aménagement du territoire, lorsque l'opération est
+réalisée par un service de l'Etat ou par une personne publique ou privée soumise à son contrôle.
 
-Soit par le ministre chargé de l'aménagement du territoire, sur sur avis du comité de décentralisation mentionné ci-dessus,
-dans les autres cas.
+En cas de refus d'agrément, le ministre intéressé peut, dans un délai de deux mois après la notification, saisir le Premier
+ministre, qui décide, après avis du ministre chargé de l'aménagement du territoire, du ministre chargé de l'urbanisme, du
+ministre chargé de l'économie, du ministre chargé du budget et du préfet de la région d'Ile-de-France ;
+
+2° Par le préfet de département pour toute opération de construction, reconstruction ou extension ne relevant pas des cas
+prévus au 1° du présent article, lorsqu'il existe une convention visée à l'article R. 510-5 en cours de validité ;
+
+3° Par le ministre chargé de l'aménagement du territoire, sur avis du comité de décentralisation, dans tous les autres cas.
+
+Tout refus d'agrément ou agrément sous condition doit être motivé.
+
+L'autorité compétente dispose d'un délai de trois mois à compter de la réception de la demande pour statuer. En l'absence de
+réponse dans ce délai, l'agrément est réputé accordé dans les termes où il a été demandé.
+
+Toutefois, l'autorité compétente peut prendre une décision motivée d'ajournement pour complément d'instruction. Elle dispose
+alors de trois mois à compter de la réception de cette décision par le demandeur pour statuer. Faute de décision dans ce
+délai, l'agrément est réputé accordé dans les termes où il a été demandé.
 
 **Liens relatifs à cet article**
 
@@ -53976,17 +53987,17 @@ _Anciens textes_:
 
   - Décret n°67-944 1967-10-24 ART. 2
 
+_Cite_:
+
+  - Code de l'urbanisme R510-1, R510-5
+
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
 _Modifié par_:
 
-  - Décret n°86-288 1986-02-28 art. 2 JORF 2 mars 1986
-
-_Cite_:
-
-  - Code de l'urbanisme R510-1
+  - Décret n°95-690 du 9 mai 1995 - art. 2 () JORF 11 mai 1995
 
 
 ###### Article R*510-3
@@ -54032,50 +54043,138 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
+###### Article R*510-5
+
+La convention mentionnée au II de l'article L. 510-1 est passée pour une durée de trois à cinq ans entre le préfet de
+département et le maire ou le président de tout établissement public de coopération intercommunale compétent en matière
+d'aménagement et d'urbanisme. Par cette convention, les signataires s'engagent notamment à prendre, dans les limites de leurs
+compétences, les mesures nécessaires pour assurer l'équilibre entre les constructions destinées à l'habitation et celles
+destinées aux activités mentionnées au premier alinéa de l'article R. 510-1. Cet équilibre se mesure par le rapport de la
+surface de logements à la surface de locaux destinés à des activités.
+
+Ce rapport, ainsi que les surfaces de construction qui le déterminent, varie selon les zones concernées en fonction de la
+situation mesurée au 1er janvier 1990 et de son évolution depuis cette date, dans le respect notamment des directives
+territoriales d'aménagement et du schéma directeur de la région d'Ile-de-France.
+
+Le comité de décentralisation est consulté par le préfet de la région d'Ile-de-France sur tout projet de convention ou
+avenant préparé par les préfets de département. Il donne son avis dans un délai de deux mois.
+
+Lorsque les termes de cette convention ne sont pas respectés, le préfet de département, après la mise en demeure restée sans
+effet, en suspend l'application ou la dénonce.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°95-690 du 9 mai 1995 - art. 4 () JORF 11 mai 1995
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L510-1 (M)
+  - Code de l'urbanisme L510-1, R510-1
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. R*510-15 (V)
+  - Code de l'urbanisme - art. R*510-2 (VD)
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*510-6
 
-Ne sont pas soumises à l'agrément prévu à l'article R. 510-1, pour les personnes physiques ou morales autres que l'Etat et
-ses établissements publics à caractère administratif, les opérations répondant à l'une des hypothèses suivantes :
+I. - Sont dispensées de l'agrément les opérations, autres que celles visées au 1° de l'article R. 510-2, qui répondent à
+l'une des conditions suivantes :
 
-1° Lorsqu'elles sont réalisées dans les agglomérations nouvelles délimitées en application de la loi n° 83-636 du 13 juillet
-1983 portant modification du statut des agglomérations nouvelles, ou dans les communes situées à l'intérieur du périmètre
-d'un établissement public d'aménagement de ville nouvelle et ayant passé convention avec l'Etat en application de l'article
-10 de la même loi ;
+1. Lorsqu'elles sont situées :
 
-2° Lorsqu'elles ont trait à la construction d'ensembles de bureaux non affectés destinés à la vente ou à la location :
+- dans les agglomérations nouvelles délimitées en application de la loi n° 83-636 du 13 juillet 1983 portant modification du
+statut des agglomérations nouvelles, ou dans les communes situées à l'intérieur du périmètre d'un établissement public
+d'aménagement de ville nouvelle et ayant passé convention avec l'Etat en application de l'article 10 de la même loi ;
 
-a) Sous réserve que la superficie développée de plancher soit inférieure à 2 000 mètres carrés s'il s'agit d'opérations
-réalisées dans les communes ci-après du département des Hauts-de-Seine :
+- dans les cantons suivants :
 
-Bois-Colombes, Boulogne-Billancourt, Colombes, Courbevoie, Clichy, Garches, La Garenne-Colombes, Gennevilliers, Issy-les-
-Moulineaux, Malakoff, Marnes-la-Coquette, Nanterre, Neuilly-sur-Seine, Puteaux, Saint-Cloud, Sèvres, Vanves, Vaucresson et
-Ville-d'Avray ;.
+Seine-et-Marne
 
-b) Quelle que soit la superficie dans les autres cas ;
+Bray-sur-Seine.
 
-2° bis Lorsqu'elles ont trait à la reconstruction ou à la réhabilitation de bureaux sans extension de surface ;
+Chapelle-la-Reine (La).
 
-3° Lorsqu'elles portent sur des surfaces affectées à des magasins de vente, sous réserve des dispositions du 5° ci-après ;
+Château-Landon.
 
-4° Lorsqu'elles portent sur des locaux ou installations, ainsi que leurs annexes de toute nature à usage industriel,
-technique, scientifique et notamment ceux affectés à la recherche au sens de l'article 520-1 du présent code et que ces
-locaux ou installations ont une superficie développée de plancher inférieure à 3000 m2 ou que l'extension envisagée ajoutée,
-le cas échéant, aux opérations réalisées, sans qu'un agrément fût nécessaire, au cours des douze mois précédents, n'excède
-pas cette superficie.
+Chatelet-en-Brie (Le).
 
-5° Lorsqu'elles portent sur des locaux d'enseignement supérieur et des bureaux à usage commercial, professionnel,
-administratif, technique ou scientifique et leurs annexes de toute nature, distincts de ceux visés au 4° ci-dessus, et que
-ces locaux ont une superficie de planchers inférieure à 2000 m2 ou que l'extension envisagée ajoutée, le cas échéant, aux
-opérations réalisées, sans qu'un agrément fût nécessaire, au cours des douze mois précédents, n'excède pas cette superficie ;
+Coulommiers.
 
-6° Lorsqu'elles ont trait à des installations à usage d'entrepôt, si elles portent sur une superficie développée de plancher
-inférieur à 5000 m2 et qu'elles ne conduisent pas l'exploitant ou l'utilisateur à disposer à l'intérieur de la zone définie à
-l'article R. 510-1 d'une superficie de plancher supérieure au total à 5000 m2.
+Donnemarie-Dontilly.
 
-7° Lorsqu'elles portent sur l'utilisation de bureaux et de leurs annexes de toute nature achevés à la date du 31 décembre
+Ferté-Gaucher (La).
+
+Ferté-sous-Jouarre (La).
+
+Fontainebleau.
+
+Lizy-sur-Ourcq.
+
+Lorrez-le-Boccage-Préaux.
+
+Montereau-Fault-Yonne.
+
+Moret-sur-Loing.
+
+Nangis.
+
+Nemours.
+
+Provins.
+
+Rebais.
+
+Villiers-Saint-Georges.
+
+Yvelines
+
+Bonnières-sur-Seine.
+
+Houdan.
+
+Essonne
+
+Méréville.
+
+Milly-la-Forêt.
+
+Val-d'Oise
+
+Magny-en-Vexin.
+
+2. Lorsque ces opérations portent sur des locaux à usage :
+
+- de magasin de vente ;
+
+- industriel par un utilisateur déterminé.
+
+3. Lorsque ces opérations portent sur la reconstruction ou la réhabilitation de bureaux sans extension de surface.
+
+4. Lorsque ces opérations ajoutées à celles éventuellement réalisées sur le même site au cours des douze mois précédents
+portent sur une superficie hors oeuvre nette inférieure à :
+
+1 000 mètres carrés pour les locaux destinés à un usage technique, scientifique, industriel sans utilisateur déterminé,
+d'enseignement ou de bureaux ;
+
+3 000 mètres carrés pour les locaux destinés à un usage d'entrepôt.
+
+5. Lorsqu'elles portent sur l'utilisation de bureaux et de leurs annexes de toute nature achevés à la date du 31 décembre
 1994 ou dont la déclaration d'ouverture de chantier prévue à l'article R. 421-40 a été déposée en mairie au plus tard à cette
 même date. La présente disposition n'est applicable qu'aux opérations d'utilisation pour lesquelles les actes juridiques dont
 l'utilisation dépend sont définitivement passés au plus tard le 31 décembre 1998.
+
+6. Lorsqu'elles portent sur des locaux d'internat à usage scolaire ou sur des résidences universitaires.
+
+II. - Les opérations visées au 1° de l'article R. 510-2 ne sont dispensées d'agrément que si elles portent sur une surface
+hors oeuvre nette inférieure à 200 mètres carrés.
 
 **Liens relatifs à cet article**
 
@@ -54087,7 +54186,11 @@ _Cite_:
 
   - Loi n°83-636 du 13 juillet 1983 - art. 10 (Ab)
   - Code de l'urbanisme - art. R421-40 (Ab)
-  - Code de l'urbanisme R510-1, 520-1, R421-40
+  - Code de l'urbanisme R510-2, R421-40
+
+_Modifié par_:
+
+  - Décret n°95-690 du 9 mai 1995 - art. 5 () JORF 11 mai 1995
 
 _Cité par_:
 
@@ -54095,41 +54198,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R212-8 (V)
   - Code du cinéma et de l'image animée - art. R212-9 (Ab)
 
-_Modifié par_:
-
-  - Décret n°1994-12-29 art. 1 JORF 30 décembre 1994
-
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
-
-
-###### Article R*510-7
-
-L'agrément n'est pas exigé pour les locaux à caractère social affectés à l'usage collectif du personnel, notamment pour les
-cantines, vestiaires, installations sanitaires, services médicaux [*Région parisienne*].
-
-Nonobstant les dispositions du premier alinéa du présent article, l'agrément est exigé pour les locaux d'internat à usage
-scolaire, pour les résidences universitaires, ainsi que pour toutes les opérations financées sur fonds publics intéressant le
-logement des étudiants.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°67-944 1967-10-24 ART. 7
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
-_Modifié par_:
-
-  - Décret n°85-47 1985-01-14 art. 5 JORF 15 janvier 1985
-
-_Abrogé par_:
-
-  - Décret n°95-690 du 9 mai 1995 - art. 6 () JORF 11 mai 1985
 
 
 ###### Article R*510-8
@@ -54147,13 +54218,13 @@ _Codifié par_:
 
 ###### Article R*510-9
 
-La décision accordant l'agrément fixe la superficie développée de planchers autorisée et détermine les conditions et réserves
-auxquelles est subordonnée l'opération.
+La décision accordant l'agrément fixe la superficie hors oeuvre nette (SHON) autorisée et détermine les conditions et
+réserves auxquelles est subordonnée l'opération.
 
 La décision peut, soit subordonner la réalisation de l'opération à l'exécution effective d'engagements souscrits par le
-bénéficiaire, notamment quant à la création ou l'extension d'activités hors de la zone définie à l'article R. 510-1 [*région
-parisienne*], soit imposer des conditions concernant notamment la nature des activités susceptibles d'être exercées dans les
-locaux ou installations en cause, la durée pendant laquelle elles peuvent être exercées, la localisation des bâtiments et
+bénéficiaire, notamment quant à la création ou l'extension d'activités hors de la zone définie à l'article R. 510-1, soit
+imposer des conditions concernant notamment la nature des activités susceptibles d'être exercées dans les locaux ou
+installations en cause, la durée pendant laquelle elles peuvent être exercées, la localisation des bâtiments et
 installations, la désaffectation, l'abandon ou la démolition de certains locaux ou installations, l'effectif qui pourra être
 employé.
 
@@ -54162,6 +54233,10 @@ employé.
 _Anciens textes_:
 
   - Décret n°67-944 1967-10-24 ART. 9
+
+_Modifié par_:
+
+  - Décret n°95-690 du 9 mai 1995 - art. 7 () JORF 11 mai 1995
 
 _Cite_:
 
@@ -54174,22 +54249,14 @@ _Codifié par_:
 
 ###### Article R*510-10
 
-La décision accordant l'agrément [*Région parisienne*] fixe un délai de validité pendant lequel doit intervenir, selon le
-cas, soit le dépôt de la demande de permis de construire , soit la passation des actes juridiques dont l'utilisation des
-locaux et installations dépend, soit l'utilisation effective des locaux et installations.
+La décision accordant l'agrément[*Région parisienne*] fixe un délai de validité pendant lequel doit intervenir, selon le cas,
+soit le dépôt de la demande de permis de construire , soit la passation des actes juridiques dont l'utilisation des locaux et
+installations dépend, soit l'utilisation effective des locaux et installations.
 
-A l'expiration dudit délai et sauf prolongation accordée suivant la distinction prévue à l'article R. 510-2, par le comité de
-décentralisation ou par le ministre chargé de l'aménagement du territoire, l'agrément est caduc.
+A l'expiration dudit délai, et sauf prolongation accordée, suivant la distinction prévue à l'article R. 510-2 par le comité
+de décentralisation, le préfet de département ou le ministre chargé de l'aménagement du territoire, l'agrément est caduc.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°67-944 1967-10-24 ART. 10
-
-_Cite_:
-
-  - Code de l'urbanisme R510-2
 
 _Codifié par_:
 
@@ -54197,7 +54264,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°86-288 1986-02-28  art. 3 JORF 2 mars 1986
+  - Décret n°95-690 du 9 mai 1995 - art. 8 () JORF 11 mai 1995
+
+_Cite_:
+
+  - Code de l'urbanisme R510-2
 
 
 ###### Article R*510-11
@@ -54296,6 +54367,25 @@ _Cite_:
 _Anciens textes_:
 
   - Code de l'urbanisme 152-5 AL. 2
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*510-15
+
+Les conventions prévues à l'article R. 510-5 sont tenues à la disposition du public dans les mairies et sous-préfectures
+concernées.
+
+Toute suspension ou dénonciation de convention fait l'objet d'une information dans les conditions prévues à l'alinéa
+précédent.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R*510-5 (V)
 
 _Codifié par_:
 
@@ -56961,41 +57051,41 @@ _Codifié par_:
 
 ###### Article A510-1
 
-Le comité de décentralisation placé auprès du ministre chargé de l'aménagement du territoire institué par l'article R. 510-2
-est ainsi composé :
+Le comité de décentralisation placé auprès du ministre chargé de l'aménagement du territoire, institué par l'article R.
+510-2, est ainsi composé :
 
-1° - le représentant du ministre chargé de l'aménagement du territoire ;
+1° Sept représentants de l'administration :
 
-- le représentant du ministre chargé de l'urbanisme ;
+a) Un représentant du ministre chargé de l'urbanisme, vice-président ;
 
-- le représentant du ministre chargé de la recherche ;
+b) Un représentant du ministre chargé de l'aménagement du territoire, rapporteur ;
 
-- le représentant du ministre de l'intérieur ;
+c) Un représentant du préfet de la région d'Ile-de-France, rapporteur ;
 
-- le représentant du ministre chargé du budget ;
+d) Un représentant du ministre de l'intérieur ;
 
-- le représentant du ministre chargé de l'industrie ;
+e) Un représentant du ministre chargé du budget et du ministre chargé de l'économie ;
 
-- le représentant du commissaire de la République de la région d'Ile-de-France ;
+f) Un représentant du ministre chargé du logement ;
 
-- le représentant du secrétaire général du groupe central des villes nouvelles.
+g) Un représentant du secrétaire général du Gouvernement.
 
-2° Sept personnalités, dont deux fonctionnaires au moins, choisies en fonction de leur compétence ou de leur connaissance des
-problèmes d'aménagement du territoire.
+2° Trois élus des collectivités territoriales, dont un conseiller régional d'Ile-de-France.
 
-Ces personnalités sont nommées par arrêté du Premier ministre, sur proposition du ministre chargé de l'aménagement du
-territoire et du ministre chargé de l'urbanisme.
+3° Trois personnalités choisies en fonction de leur compétence ou de leur connaissance des problèmes d'aménagement du
+territoire.
 
-Leur mandat, renouvelable deux fois, a une durée de trois ans.
+Les membres du comité de décentralisation mentionnés aux 2° et 3° du présent article ainsi que leurs suppléants sont nommés
+par arrêté du Premier ministre, sur proposition du ministre chargé de l'aménagement du territoire et du ministre chargé de
+l'urbanisme.
 
-3° Pour toutes les affaires intéressant les services et établissements publics de l'Etat, le représentant du secrétaire
-général du Gouvernement.
+Leur mandat, d'une durée de trois ans, est renouvelable deux fois.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 1992-08-24 art. 1 JORF 26 août 1992
+  - Arrêté 1995-05-09 art. 1 JORF 11 mai 1995
 
 _Codifié par_:
 
@@ -57029,71 +57119,20 @@ _Codifié par_:
 
 ###### Article A510-3
 
-Le président du comité [*de décentralisation*] est nommé par arrêté du Premier ministre, sur proposition du ministre chargé
-de l'aménagement du territoire et du ministre chargé de l'urbanisme.
+Le président du comité est nommé par arrêté du Premier ministre parmi les membres du comité de décentralisation ayant la
+qualité de personnalité qualifiée et sur proposition du ministre chargé de l'aménagement du territoire et du ministre chargé
+de l'urbanisme. Il ne doit pas détenir de mandat électif.
+
+En cas d'absence ou d'empêchement de toute nature de son président, le comité de décentralisation est présidé par le
+représentant du ministre chargé de l'urbanisme, vice-président.
+
+La voix du président est prépondérante en cas de partage des voix.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 1986-02-28  art. 1 JORF 2 mars 1986
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
-
-
-###### Article A510-4
-
-Le comité de décentralisation comprend une section permanente ainsi composée :
-
-- le président du comité de décentralisation ;
-
-- le représentant du ministre chargé de l'aménagement du territoire ;
-
-- le représentant du ministre chargé de l'urbanisme ;
-
-- le représentant du ministre chargé de l'industrie ;
-
-- le représentant du commissaire de la République de la région d'Ile-de-France ;
-
-- un membre du comité nommé par arrêté du Premier ministre pour une durée d'un an renouvelable parmi les personnalités
-désignées en application du paragraphe 2° de l'article A. 510-1.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 1986-02-28  art. 1 JORF 2 mars 1986
-
-_Abrogé par_:
-
-  - Arrêté 1995-05-09 art. 3 JORF 11 mai 1995
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
-
-_Cite_:
-
-  - Code de l'urbanisme - art. A510-1 (M)
-
-
-###### Article A510-5
-
-La section permanente prépare les délibérations du comité.
-
-Par délégation du comité, elle peut prendre des décisions ou émettre des avis sur les demandes d'agrément portant :
-
-- sur des surfaces développées de planchers inférieures à certains plafonds ;
-
-- sur des créations ou extensions de petites et moyennes entreprises industrielles.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 1986-02-28  art. 1 JORF 2 mars 1986) A(Arrêté 1995-05-09 art. 3 JORF 11 mai 1995
+  - Arrêté 1995-05-09 art. 2 JORF 11 mai 1995
 
 _Codifié par_:
 
@@ -57120,20 +57159,24 @@ _Codifié par_:
 
 ###### Article A510-7
 
-La délégation  à l'aménagement du territoire et à l'action régional et les départements ministériels intéressés sont chargés
+La délégation à l'aménagement du territoire et à l'action régionale et les départements ministériels intéressés sont chargés
 d'instruire les affaires soumises au comité.
 
-La délégation à l'aménagement du territoire et à l'action régionale et la préfecture de la région d'Ile-de-France rapportent
-lesdites affaires devant le comité.
+Chaque département ministériel non représenté au sein du comité de décentralisation peut nommer un rapporteur adjoint.
 
-Des rapporteurs particuliers peuvent être nommés par arrêté du Premier ministre, sur proposition du ministre chargé de
-l'aménagement du territoire.
+Le rapporteur adjoint est destinataire des ordres du jour des réunions du comité de décentralisation. Il assiste les
+rapporteurs en participant à l'instruction et à la présentation de toute demande d'agrément concernant le ministère dont il
+relève. Il n'a pas voix délibérative.
+
+Le président ou, le cas échéant, le vice-président du comité, peuvent, sur leur initiative ou à la demande d'un ou plusieurs
+membres du comité, inviter toute personnalité à une séance du comité pour évoquer une demande d'agrément particulière ou un
+aspect de la politique d'aménagement du territoire.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté 1986-02-28 art. 1 JORF 2 mars 1986
+  - Arrêté 1995-05-09 art. 3, art. 4 JORF 11 mai 1995
 
 _Codifié par_:
 

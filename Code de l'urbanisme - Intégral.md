@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1985-10-19
+Version Consolidée au 1985-12-05
 ## Contenu: 
   - [Partie législative (art. L121-10 à L550-1)](#1)
     - [Règles générales d'aménagement et d'urbanisme (art. L121-10)](#2)
@@ -1085,31 +1085,40 @@ _Codifié par_:
 
 ###### Article L111-2
 
-Les propriétés riveraines des voies spécialisées non ouvertes à la circulation générale et, notamment, des autoroutes, pistes
-pour cyclistes et sentiers de touristes ne jouissent pas des droits reconnus aux riverains des voies publiques.
+Les propriétés riveraines des voies spécialisées non ouvertes à la circulation générale et, notamment, des autoroutes, voies
+de défense de la forêt contre l'incendie, pistes pour cyclistes et sentiers de touristes ne jouissent pas des droits reconnus
+aux riverains des voies publiques.
 
 Les dispositions applicables auxdites voies et notamment les conditions dans lesquelles l'exercice de certains droits pourra
 être accordé aux riverains sont déterminées, soit par l'acte déclarant d'utilité publique l'ouverture de la voie, soit par
-des règlements d'administration publique.
+des décrets en Conseil d'Etat.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+_Modifié par_:
+
+  - Loi n°85-1273 du 4 décembre 1985 - art. 56 () JORF 5 décembre 1985
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 _Anciens textes_:
 
   - Code de l'urbanisme - art. L110-2 (T)
   - Code de l'urbanisme 152
 
-**Liens**:
+_Nouveaux textes_:
 
-  - TXT_ASSOCIE: Code de l'urbanisme - art. R160-1 (V)
+  - Code de l'urbanisme - art. L111-13 (VD)
 
 _Cité par_:
 
   - Code du domaine de l'Etat et des collectivités pub - art. L213-3 (Ab)
-
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L111-3

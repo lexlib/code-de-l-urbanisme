@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1986-01-04
+Version Consolidée au 1986-01-06
 ## Contenu: 
   - [Partie législative (art. L121-10 à L550-1)](#1)
     - [Règles générales d'aménagement et d'urbanisme (art. L121-10)](#2)
@@ -524,7 +524,7 @@ Version Consolidée au 1986-01-04
           - [Dispositions applicables dans l'ensemble des communes (art. R*410-9 à R*410-17)](#521)
       - [Permis de construire (art. R421-1 à R422-4)](#522)
         - [Régime général (art. R421-1 à R*421-52)](#523)
-          - [Présentation de la demande. (art. R*421-1-1 à R421-3)](#524)
+          - [Présentation de la demande. (art. R421-3)](#524)
           - [Instruction de la demande (art. R*421-15 à R421-16)](#525)
             - [Dispositions applicables dans l'ensemble des communes. (art. R*421-15 à R421-16)](#526)
           - [Décision (art. R*421-36)](#527)
@@ -41735,6 +41735,50 @@ _Cite_:
   - Code de l'urbanisme R315-5, R315-6
 
 
+###### Article R421-1-1
+
+La demande de permis de construire est présentée soit par le propriétaire du terrain ou son mandataire, soit par une personne
+justifiant d'un titre l'habilitant à construire sur le terrain, soit par une personne ayant qualité pour bénéficier de
+l'expropriation dudit terrain pour cause d'utilité publique.
+
+La demande précise [*contenu*] l'identité du demandeur, l'identité et la qualité de l'auteur du projet, la situation et la
+superficie du terrain, l'identité de son propriétaire au cas où celui-ci n'est pas l'auteur de la demande, la nature des
+travaux et la destination des constructions et la densité de construction.
+
+Lorsque la construction est subordonnée à une autorisation d'occupation du domaine public, l'autorisation est jointe à la
+demande de permis de construire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+_Cite_:
+
+  - Décret n°77-190 du 3 mars 1977 - art. 1 (V)
+
+_Créé par_:
+
+  - Décret n°86-72 1986-01-15 art. 1 JORF 16 janvier 1986
+
+_Abrogé par_:
+
+  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. A421-1 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. R*421-1-2 (Ab)
+
+_Anciens textes_:
+
+  - Code de l'urbanisme - art. R421-1 (M)
+
+
 ###### Article R421-2
 
 Le dossier joint à la demande de permis de construire est constitué par le plan de situation du terrain, le plan de masse des
@@ -45783,53 +45827,6 @@ _Codifié par_:
 
 
 ##### Présentation de la demande.<a id=524></a>
-
-###### Article R*421-1-1
-
-Conformément à l'article 1er du décret n° 77-190 du 3 mars 1977 modifié, ne sont pas tenues de recourir à un architecte pour
-établir le projet architectural à joindre à la demande d'autorisation de construire les personnes physiques qui déclarent
-vouloir édifier ou modifier pour elles-mêmes :
-
-a) Une construction à usage autre qu'agricole dont la surface de plancher hors oeuvre brute n'excède pas /M/250 mètres
-carrés/M/DECR.0898 : 170 mètres carrés// ;
-
-b) Une construction à usage agricole dont la surface de plancher hors oeuvre brute n'excède pas 800 mètres carrés ;
-
-c) Des serres de production dont le pied-droit a une hauteur inférieure à 4 mètres et dont la surface de plancher hors oeuvre
-brute n'excède pas 2000 mètres carrés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
-_Cite_:
-
-  - Décret n°77-190 du 3 mars 1977 - art. 1 (V)
-
-_Créé par_:
-
-  - Décret n°77-752 1977-07-07 ART. 3 JORF 10 JUILLET 1977 date d'entrée en vigueur 1 JUILLET 1977
-
-_Modifié par_:
-
-  - Décret n°79-898 1979-10-15 ART. 2 JORF 20 OCTOBRE 1979
-  - Décret n°83-1261 1983-12-30 ART. 1 JORF 7 JANVIER 1983 date d'entrée en vigueur 1 AVRIL 1984
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°79-898 1979-10-15 ART. 3 : *les dispositions de l'article R421-1-1 modifié ne sont applicables qu'aux demandes de permis de construire déposées postérieurement au 20 octobre 1979*
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. A421-1 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de l'urbanisme - art. R*421-1-2 (Ab)
-  - Code de l'urbanisme R421-1-2
-
 
 ###### Article R421-3
 

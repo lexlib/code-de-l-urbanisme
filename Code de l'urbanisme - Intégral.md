@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2001-12-12
+Version Consolidée au 2001-12-14
 ## Contenu: 
   - [Partie législative (art. L110 à L600-4-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)

@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1986-01-14
+Version Consolidée au 1986-01-16
 ## Contenu: 
   - [Partie législative (art. L121-10 à L550-1)](#1)
     - [Règles générales d'aménagement et d'urbanisme (art. L121-10)](#2)
@@ -449,9 +449,9 @@ Version Consolidée au 1986-01-14
           - [Paragraphe 1 : Dispositions applicables dans l'ensemble des communes. (art. R*410-12 à R*410-18)](#446)
           - [Paragraphe 2 : Dispositions applicables dans les communes où un plan d'occupation des sols a été approuvé. (art. R*410-19 à R*410-21)](#447)
         - [Section 4 : Dispositions diverses. (art. R*410-24)](#448)
-      - [TITRE II : Permis de construire (art. R*421-7 à R*424-3)](#449)
-        - [CHAPITRE I : Régime général (art. R*421-7 à R421-58)](#450)
-          - [Section 1 : Présentation de la demande. (art. R*421-7 à R421-8)](#451)
+      - [TITRE II : Permis de construire (art. R421-1 à R*424-3)](#449)
+        - [CHAPITRE I : Régime général (art. R421-1 à R421-58)](#450)
+          - [Section 1 : Présentation de la demande. (art. R*421-1-2 à R421-8)](#451)
           - [Section 2 : Dépôt et transmission de la demande (art. R*421-10)](#452)
           - [Section 3 : Instruction de la demande (art. R*421-12 à R*421-28)](#453)
             - [Paragraphe 1 : Dispositions applicables dans l'ensemble des communes. (art. R*421-12 à R421-20)](#454)
@@ -517,8 +517,8 @@ Version Consolidée au 1986-01-14
       - [Certificat d'urbanisme (art. R*410-9 à R*410-17)](#514)
         - [Délivrance. (art. R*410-9 à R*410-17)](#515)
           - [Dispositions applicables dans l'ensemble des communes (art. R*410-9 à R*410-17)](#516)
-      - [Permis de construire (art. R421-1 à R422-4)](#517)
-        - [Régime général (art. R421-1 à R*421-52)](#518)
+      - [Permis de construire (art. R421-3 à R422-4)](#517)
+        - [Régime général (art. R421-3 à R*421-52)](#518)
           - [Présentation de la demande. (art. R421-3)](#519)
           - [Instruction de la demande (art. R*421-15 à R421-16)](#520)
             - [Dispositions applicables dans l'ensemble des communes. (art. R*421-15 à R421-16)](#521)
@@ -42068,7 +42068,115 @@ _Abrogé par_:
 
 #### CHAPITRE I : Régime général<a id=450></a>
 
+###### Article R421-1
+
+En vertu du quatrième alinéa de l'article L. 421-1 n'entrent pas dans le champ d'application du permis de construire,
+notamment, les travaux ou ouvrages suivants :
+
+1. Lorsqu'ils sont souterrains, les ouvrages ou installations de stockage de gaz ou fluides et les canalisations, lignes ou
+câbles ;
+
+2. Les ouvrages d'infrastructure des voies de communication ferroviaires, fluviales, routières ou piétonnières, publiques ou
+privées, ainsi que les ouvrages d'infrastructure portuaire ou aéroportuaire ;
+
+3. Les installations temporaires implantées sur les chantiers et directement nécessaires à la conduite des travaux ainsi que
+les installations temporaires liées à la commercialisation d'un bâtiment en cours de construction ;
+
+4. Les modèles de construction implantés temporairement dans le cadre de foires-expositions et pendant leur durée ;
+
+5. Le mobilier urbain implanté sur le domaine public ;
+
+6. Les statues, monuments ou oeuvres d'art, lorsqu'ils ont une hauteur inférieure ou égale à 12 mètres au-dessus du sol et
+moins de 40 mètres cubes de volume ;
+
+7. Les terrasses dont la hauteur au-dessus du sol n'excède pas 0,60 mètre ;
+
+8. Les poteaux, pylônes, candélabres ou éoliennes d'une hauteur inférieure ou égale à 12 mètres au-dessus du sol, ainsi que
+les antennes d'émission ou de réception de signaux radio-électriques dont aucune dimension n'excède 4 mètres ;
+
+9. Sans préjudice du régime propre aux clôtures, les murs d'une hauteur inférieure à 2 mètres ;
+
+10. Les ouvrages non prévus aux 1 à 9 ci-dessus dont la surface au sol est inférieure à 2 mètres carrés et dont la hauteur ne
+dépasse pas 1,50 mètre au-dessus du sol.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°85-1373 du 24 décembre 1985 - art. 8 (V)
+  - Décret n°2018-1054 du 29 novembre 2018 - art. 23
+  - Code de justice administrative - art. R311-4 (V)
+  - Code de l'environnement - art. R341-10 (M)
+  - Code de l'urbanisme - art. A421-1 (M)
+  - Code de l'urbanisme - art. A422-11 (Ab)
+  - Code de l'urbanisme - art. A422-15 (Ab)
+  - Code de l'urbanisme - art. A422-24 (Ab)
+  - Code de l'urbanisme - art. A431-4 (V)
+  - Code de l'urbanisme - art. R*421-41 (Ab)
+  - Code de l'urbanisme - art. R*441-11 (Ab)
+  - Code de l'urbanisme - art. R421-43 (T)
+  - Décret n°88-1124 du 15 décembre 1988 - art. 2 (Ab)
+
+_Modifié par_:
+
+  - Décret n°86-72 1986-01-15 art. 2 JORF 16 janvier 1986
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L421-1 (M)
+  - Décret n°77-190 du 3 mars 1977 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. R421-1-1 (Ab)
+
+_Anciens textes_:
+
+  - Décret n°70-446 1970-05-26 ART. 1
+  - Décret n°70-446 1970-05-26 art. 1
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+
 ##### Section 1 : Présentation de la demande.<a id=451></a>
+
+###### Article R*421-1-2
+
+Conformément à l'article 1er du décret n° 77-190 du 3 mars 1977 modifié, ne sont pas tenues de recourir à un architecte pour
+établir le projet architectural à joindre à la demande d'autorisation de construire les personnes physiques qui déclarent
+vouloir édifier ou modifier pour elles-mêmes :
+
+a) Une construction à usage autre qu'agricole dont la surface de plancher hors oeuvre nette n'excède pas 170 mètres carrés ;
+
+b) Une construction à usage agricole dont la surface de plancher hors oeuvre brute n'excède pas 800 mètres carrés ;
+
+c) Des serres de production dont le pied-droit a une hauteur inférieure à 4 mètres et dont la surface de plancher hors oeuvre
+brute n'excède pas 2000 mètres carrés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+_Cite_:
+
+  - Décret n°77-190 du 3 mars 1977 - art. 1 (V)
+
+_Créé par_:
+
+  - Décret n°86-72 1986-01-15 art. 1 JORF 16 janvier 1986
+
+_Abrogé par_:
+
+  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+_Anciens textes_:
+
+  - Code de l'urbanisme - art. R*421-1-1 (M)
+
 
 ###### Article R*421-7
 
@@ -46183,61 +46291,6 @@ _Codifié par_:
 
 #### Régime général<a id=518></a>
 
-###### Article R421-1
-
-La demande de permis de construire est présentée soit par le propriétaire du terrain ou son mandataire, soit par une personne
-justifiant d'un titre l'habilitant à construire sur le terrain, soit par une personne ayant qualité pour bénéficier de
-l'expropriation dudit terrain pour cause d'utilité publique.
-
-La demande précise l'identité du demandeur, //DECRET 752 ART. 1 : l'identité et la qualité de l'auteur du projet,// la
-situation et la superficie du terrain, l'identité de son propriétaire au cas où celui-ci n'est pas l'auteur de la demande, la
-nature des travaux et la destination des constructions, la densité de construction et, le cas échéant, tous éléments
-nécessaires au calcul de la taxe locale d'équipement instituée à l'article 1585 A du code général des impôts.
-
-//DECRET 752 ART. 2 : Lorsque la construction est subordonnée à une autorisation d'occupation du domaine public,
-l'autorisation est jointe à la demande de permis de construire//.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1585 A
-  - Décret n°77-190 du 3 mars 1977 - art. 1 (V)
-
-_Anciens textes_:
-
-  - Décret n°70-446 1970-05-26 ART. 1
-  - Décret n°70-446 1970-05-26 art. 1
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 50 (V)
-
-_Cité par_:
-
-  - Décret n°85-1373 du 24 décembre 1985 - art. 8 (V)
-  - Décret n°88-1124 du 15 décembre 1988 - art. 2 (Ab)
-  - Décret n°2018-1054 du 29 novembre 2018 - art. 23
-  - Code de justice administrative - art. R311-4 (V)
-  - Code de l'environnement - art. R341-10 (M)
-  - Code de l'urbanisme - art. A421-1 (M)
-  - Code de l'urbanisme - art. A422-11 (Ab)
-  - Code de l'urbanisme - art. A422-15 (Ab)
-  - Code de l'urbanisme - art. A422-24 (Ab)
-  - Code de l'urbanisme - art. A431-4 (V)
-  - Code de l'urbanisme - art. R*421-41 (Ab)
-  - Code de l'urbanisme - art. R*441-11 (Ab)
-  - Code de l'urbanisme - art. R421-43 (T)
-
-_Nouveaux textes_:
-
-  - Code de l'urbanisme - art. R421-1-1 (Ab)
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
-
 ##### Présentation de la demande.<a id=519></a>
 
 ###### Article R421-3
@@ -46761,8 +46814,7 @@ d) Les ouvrages techniques nécessaires au maintien de la sécurité de la circu
 aérienne ;
 
 e) En ce qui concerne le service public des télécommunications, les ouvrages techniques dont la surface hors oeuvre brute ne
-dépasse pas 100 mètres carrés, les poteaux et les pylônes dont la hauteur est inférieure à 12 mètres, les cabines
-téléphoniques ;
+dépasse pas 100 mètres carrés, les cabines téléphoniques ;
 
 f) En ce qui concerne les installations techniques nécessaires au fonctionnement du service public de distribution du gaz,
 les postes de sectionnement, de coupure, de détente et de livraison ;
@@ -46770,12 +46822,10 @@ les postes de sectionnement, de coupure, de détente et de livraison ;
 g) En ce qui concerne les installations techniques nécessaires au fonctionnement du service public de distribution d'énergie
 électrique, les ouvrages et accessoires des lignes dont la tension est inférieure à 63 kV et dont la longueur ne dépasse pas
 un kilomètre, les postes de transformation dont la surface au sol est inférieure à 6 mètres carrés et la hauteur inférieure à
-3 mètres, les poteaux et les pylônes dont la hauteur est inférieure à 12 mètres ;
+3 mètres ;
 
 h) Les classes démontables mises à la disposition des établissements d'enseignement pour pallier les insuffisances
 temporaires d'accueil, dans la limite d'une surface hors oeuvre brute totale de 150 mètres carrés.
-
-DECR. 694 4 septembre 1980 :
 
 "i) Les travaux consistant à installer, dans les opérations prévues à l'article R. 444-3 b, une habitation légère de loisirs
 telle qu'elle est définie à l'article R. 444-2 au lieu et place d'une habitation légère de loisirs de même superficie de
@@ -46785,12 +46835,7 @@ plancher hors oeuvre."
 
 _Modifié par_:
 
-  - Décret n°83-1261 1983-12-30 ART. 36 JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 :
-  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
+  - Décret n°86-72 1986-01-15 art. 3 JORF 16 janvier 1986
 
 _Cité par_:
 
@@ -46805,7 +46850,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme R444-2
+  - Code de l'urbanisme R444-3 B
 
 _Codifié par_:
 

@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1984-12-15
+Version Consolidée au 1984-12-22
 ## Contenu: 
   - [Partie législative (art. L121-10 à L550-1)](#1)
     - [Règles générales d'aménagement et d'urbanisme (art. L121-10 à L122-1-4)](#2)
@@ -345,7 +345,7 @@ Version Consolidée au 1984-12-15
         - [Chapitre I : Sociétés d'économie mixte et établissements publics (art. R*321-1 à R*321-25)](#342)
           - [Section 1 : Opérations d'aménagement (art. R*321-1)](#343)
           - [Section 2 : Modalités de constitution et de fonctionnement des établissements publics et des sociétés d'économie mixte (art. R*321-2 à R*321-25)](#344)
-            - [Paragraphe 1 : Etablissements publics (art. R*321-2 à R*321-11)](#345)
+            - [Paragraphe 1 : Etablissements publics (art. R*321-2 à R321-4)](#345)
             - [Paragraphe 2 : Sociétés d'économie mixte (art. R*321-13 à R*321-19)](#346)
             - [Paragraphe 3 : Dispositions communes (art. R*321-20 à R*321-25)](#347)
         - [Chapitre II : Associations foncières urbaines (art. R*322-1 à R322-34)](#348)
@@ -31512,6 +31512,78 @@ _Cité par_:
 _Cite_:
 
   - Code de l'urbanisme - art. L321-7 (M)
+
+
+###### Article R321-4
+
+Pour l'application du dernier alinéa de l'article L. 321-5 du code de l'urbanisme une commune est regardée comme liée à un
+établissement public d'aménagement lorsqu'elle a passé avec cet établissement une convention de délégation de maîtrise
+d'ouvrage répondant aux conditions suivantes :
+
+1° La convention doit avoir été signée avant la date d'installation ou de renouvellement du conseil d'administration de
+l'établissement et couvrir une période d'au moins trois années [*durée*] pleines à compter de celle-ci ;
+
+2° Elle doit s'appliquer à tous les équipements et aménagements relevant de la maîtrise d'ouvrage communale qui sont soit
+prévus dans le cadre de la convention mentionnée à l'article 10 de la loi du 13 juillet 1983 susvisée, soit, à défaut de
+convention, rendus nécessaires par le développement de l'urbanisation sous forme d'une zone d'aménagement concerté où de
+lotissements ou d'opérations groupées comprenant chacune plus de trente logements ;
+
+3° Elle doit confier à l'établissement public un ensemble de missions comprenant notamment ;
+
+a) La définition, dans la limite du programme des opérations et de l'enveloppe financière prévisionnelle que la commune aura
+arrêtées, des conditions administratives et techniques selon lesquelles les ouvrages seront étudiés et exécutés ;
+
+b) Le choix des maîtres d'oeuvre ;
+
+c) La signature des contrats de maîtrise d'oeuvre ;
+
+d) Le choix des entreprises ;
+
+e) La signature des contrats de travaux ;
+
+f) Le paiement de la maîtrise d'oeuvre et des travaux ;
+
+g) La réception des ouvrages.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret  1959-05-19 ART. 3
+  - Décret n°1959-05-19 art. 3
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+_Cité par_:
+
+  - Décret n°68-376 du 26 avril 1968 - art. 5 (V)
+  - Décret n°72-27 du 10 janvier 1972 - art. 5 (V)
+  - Décret n°72-770 du 17 août 1972 - art. 5 (V)
+  - Décret n°73-250 du 7 mars 1973 - art. 5 (V)
+  - Décret n°90-1154 du 19 décembre 1990 - art. 6 (V)
+  - Décret n°95-1102 du 13 octobre 1995 - art. 5 (V)
+  - Décret n°98-923 du 14 octobre 1998 - art. 7 (V)
+  - Décret n°2001-1234 du 20 décembre 2001 - art. 5 (V)
+  - Décret n°2006-1140 du 13 septembre 2006 - art. 6 (V)
+  - Décret n°2007-88 du 24 janvier 2007 - art. 5 (V)
+  - Décret n°2007-785 du 10 mai 2007 - art. 6 (VD)
+  - Décret n°2008-645 du 30 juin 2008 - art. 5 (V)
+  - Décret n°2008-670 du 2 juillet 2008 - art. 5 (V)
+  - Décret n°2008-773 du 30 juillet 2008 - art. 5 (V)
+  - Décret n°2009-636 du 8 juin 2009 - art. 6 (V)
+  - Décret n°2010-306 du 22 mars 2010 - art. 5 (V)
+  - Décret n°2010-503 du 18 mai 2010 - art. 4 (V)
+  - Décret n°2012-327  du 6 mars 2012 - art. 5 (V)
+  - Décret n°2012-764 du 9 mai 2012 - art. 5 (V)
+  - Décret n°2015-980 du 31 juillet 2015 - art. 4 (VD)
+  - Décret n°2016-1865 du 23 décembre 2016 - art. 5 (VD)
+
+_Cite_:
+
+  - Loi n°83-636 1983-07-13
+  - Code de l'urbanisme - art. L321-5 (M)
 
 
 ##### Paragraphe 2 : Sociétés d'économie mixte<a id=346></a>

@@ -1,15 +1,18 @@
 # Code de l'urbanisme  
-Version Consolidée au 1973-03-27
+Version Consolidée au 1973-04-01
 ## Contenu: 
   - [Partie législative (art. L451-6)](#1)
     - [Livre IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol (art. L451-6)](#2)
       - [TITRE V :Dispositions diverses (art. L451-6)](#3)
         - [CHAPITRE I : Dispositions propres à certaines utilisations de surfaces baties (art. L451-6)](#4)
           - [Section 3 : Création et construction de magasins de grande surface. (art. L451-6)](#5)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*124-3)](#6)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*124-3 à R*215-2)](#6)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. R*124-3)](#7)
       - [Titre II : Prévisions et règles d'urbanisme (art. R*124-3)](#8)
         - [Chapitre IV : Dispositions transitoires relatives aux projets d'aménagement et aux plans d'urbanisme. (art. R*124-3)](#9)
+    - [Droit de préemption (art. R*215-2)](#10)
+      - [Dispositions applicables aux zones à urbaniser en priorité (art. R*215-2)](#11)
+        - [Suppression d'une zone à urbaniser en priorité ou réduction de son périmètre. (art. R*215-2)](#12)
 # Partie législative<a id=1></a>
 
 ## Livre IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol<a id=2></a>
@@ -84,5 +87,28 @@ _Codifié par_:
 _Abrogé par_:
 
   - Décret n°98-913 du 12 octobre 1998 - art. 41 (V) JORF 13 octobre 1998
+
+
+## Droit de préemption<a id=10></a>
+
+### Dispositions applicables aux zones à urbaniser en priorité<a id=11></a>
+
+#### Suppression d'une zone à urbaniser en priorité ou réduction de son périmètre.<a id=12></a>
+
+###### Article R*215-2
+
+Lorsque la zone pour laquelle une mesure de réduction du périmètre ou de suppression est envisagée se trouve située en région
+parisienne et revêt un intérêt régional, le préfet de région est consulté préalablement à la décision de suppression de la
+zone ou de réduction de son périmètre.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Code de l'urbanisme - art. R142-5 (Ab)
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
 
 

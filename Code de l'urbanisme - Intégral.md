@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1999-07-10
+Version Consolidée au 1999-07-13
 ## Contenu: 
   - [Partie législative (art. L110 à L600-5)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -16,15 +16,15 @@ Version Consolidée au 1999-07-10
         - [Chapitre VI : Servitudes d'utilité publique affectant l'utilisation du sol. (art. L126-1)](#13)
         - [Chapitre VII : Dispositions favorisant la diversité de l'habitat. (art. L127-1 à L127-2)](#14)
       - [Titre III : Espaces boisés. (art. L130-1 à L130-6)](#15)
-      - [TITRE IV : Dispositions particulières à certaines parties du territoire (art. L143-1 à L147-5)](#16)
+      - [TITRE IV : Dispositions particulières à certaines parties du territoire (art. L143-1 à L147-7)](#16)
         - [Chapitre III : Protection de certaines communes. (art. L143-1)](#17)
         - [CHAPITRE IV : Dispositions particulières à la collectivité territoriale de Corse. (art. L144-1 à L144-6)](#18)
         - [CHAPITRE V : Dispositions particulières aux zones de montagne. (art. L145-2 à L145-12)](#19)
           - [Section 1 : Principes d'aménagement et de protection en zone de montagne. (art. L145-3 à L145-7)](#20)
           - [Section 2 : Unités touristiques nouvelles. (art. L145-9 à L145-12)](#21)
         - [CHAPITRE VI : Dispositions particulières au littoral. (art. L146-1 à L146-7)](#22)
-        - [Chapitre VII : Dispositions particulières aux zones de bruit des aérodromes. (art. L147-1 à L147-5)](#23)
-      - [Titre IV : Dispositions particulières à certaines parties du territoire (art. L141-1 à L147-6)](#24)
+        - [Chapitre VII : Dispositions particulières aux zones de bruit des aérodromes. (art. L147-1 à L147-7)](#23)
+      - [Titre IV : Dispositions particulières à certaines parties du territoire (art. L141-1 à L147-8)](#24)
         - [Chapitre Ier : Dispositions particulières à Paris et à la région d'Ile-de-France (art. L141-1 à L141-3)](#25)
           - [Section 1 : Schéma directeur. (art. L141-1 à L141-3)](#26)
         - [Chapitre II : Espaces naturels sensibles des départements. (art. L*142-2 à L142-13)](#27)
@@ -32,7 +32,7 @@ Version Consolidée au 1999-07-10
           - [Section 1 : Principes d'aménagement et de protection en zone de montagne. (art. L145-6 à L145-8)](#29)
           - [Section 2 : Unités touristiques nouvelles. (art. L145-10 à L145-13)](#30)
         - [Chapitre VI : Dispositions particulières au littoral. (art. L146-3 à L146-9)](#31)
-        - [Chapitre VII : dispositions particulières aux zones de bruit des aérodromes. (art. L147-2 à L147-6)](#32)
+        - [Chapitre VII : dispositions particulières aux zones de bruit des aérodromes. (art. L147-2 à L147-8)](#32)
       - [Titre V : Application aux départements d'outre-mer (art. L150-1 à L156-4)](#33)
         - [Chapitre VI : Dispositions particulières au littoral dans les départements d'outre-mer. (art. L156-1 à L156-4)](#34)
       - [Titre VI : Sanctions et servitudes. (art. L160-1 à L160-8)](#35)
@@ -5921,9 +5921,15 @@ _Codifié par_:
 
 ###### Article L147-3
 
-Pour l'application des prescriptions édictées par le présent chapitre, un plan d'exposition au bruit est établi par
-l'autorité administrative, après consultation des communes intéressées et de la commission consultative de l'environnement
-concernée lorsqu'elle existe, pour chacun des aérodromes mentionnés à l'article L. 147-2.
+Pour l'application des prescriptions édictées par le présent chapitre, un plan d'exposition au bruit est établi pour chacun
+des aérodromes mentionnés à l'article L. 147-2. Ce plan est établi par l'autorité administrative, après consultation :
+
+- des communes intéressées ;
+
+- de l'Autorité de contrôle des nuisances sonores aéroportuaires pour les aérodromes visés au 3 de l'article 266 septies du
+code des douanes, qui recueille au préalable l'avis de la commission consultative de l'environnement concernée ;
+
+- de la commission consultative de l'environnement concernée, lorsqu'elle existe, pour les autres aérodromes.
 
 Il est soumis à enquête publique suivant les modalités de la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation
 des enquêtes publiques et à la protection de l'environnement.
@@ -5940,16 +5946,17 @@ en Conseil d'Etat prévu au troisième alinéa du présent article.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
 _Cite_:
 
   - Loi n°83-630 1983-07-12
   - Loi n°85-696 1985-07-11
+  - Code des douanes - art. 266 septies (M)
   - Code de l'urbanisme - art. L147-2 (V)
   - Code de l'urbanisme - art. L147-5 (M)
-
-_Créé par_:
-
-  - Loi n°85-696 1985-07-11 art. 1 JORF 12 juillet 1985
 
 **Liens**:
 
@@ -5969,9 +5976,9 @@ _Cité par_:
   - Code de l'environnement - art. R571-73 (M)
   - Code de l'urbanisme - art. R147-9 (VT)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+  - Loi n°99-588 du 12 juillet 1999 - art. 4 () JORF 13 juillet 1999
 
 
 ###### Article L147-5
@@ -5990,7 +5997,9 @@ l'activité agricole ;
 
 - en zone C, des constructions individuelles non groupées situées dans des secteurs déjà urbanisés et desservis par des
 équipements publics dès lors qu'elles n'entraînent qu'un faible accroissement de la capacité d'accueil d'habitants exposés
-aux nuisances.
+aux nuisances, ainsi que des constructions d'immeubles collectifs à usage d'habitation si elles s'accompagnent d'une
+réduction équivalente, dans un délai n'excédant pas un an, de la capacité d'accueil d'habitants dans des constructions
+existantes situées dans la même zone.
 
 2° Les opérations de rénovation des quartiers ou de réhabilitation de l'habitat existant, ainsi que l'amélioration,
 l'extension mesurée ou la reconstruction des constructions existantes, ne peuvent être admises que lorsqu'elles n'entraînent
@@ -6001,11 +6010,15 @@ accroissement de la capacité d'accueil d'habitants exposés aux nuisances.
 3° Dans les zones A et B, les équipements publics ou collectifs ne sont admis que lorsqu'ils sont nécessaires à l'activité
 aéronautique ou indispensables aux populations existantes.
 
+4° Les plans d'exposition au bruit peuvent délimiter une zone D à l'intérieur de laquelle les constructions sont autorisées
+mais doivent faire l'objet des mesures d'isolation acoustique prévues à l'article L. 147-6. La délimitation d'une zone D est
+obligatoire pour les aérodromes visés au 3 de l'article 266 septies du code des douanes.
+
+Le contrat de location d'immeuble à usage d'habitation ayant pour objet un bien immobilier situé dans l'une des zones de
+bruit définies par un plan d'exposition au bruit comporte une clause claire et lisible précisant la zone de bruit où se
+trouve localisé ledit bien.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°85-696 1985-07-11 art. 1 JORF 12 juillet 1985
 
 _Cité par_:
 
@@ -6013,8 +6026,38 @@ _Cité par_:
   - Arrêté du 11 janvier 2016 - art. 2
   - Code de l'urbanisme - art. L147-3 (V)
   - Code de l'urbanisme - art. L147-4-1 (VT)
-  - Code de l'urbanisme - art. L147-6 (VT)
   - Code de l'urbanisme - art. L147-7 (VT)
+
+_Modifié par_:
+
+  - Loi n°99-588 du 12 juillet 1999 - art. 5 () JORF 13 juillet 1999
+  - Loi n°99-588 du 12 juillet 1999 - art. 6 () JORF 13 juillet 1999
+
+_Cite_:
+
+  - Code des douanes - art. 266 septies (M)
+  - Code de l'urbanisme - art. L147-6 (V)
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L147-7
+
+A compter de la décision d'élaborer ou de réviser un plan d'exposition au bruit, l'autorité administrative peut, par arrêté,
+délimiter les territoires à l'intérieur desquels s'appliqueront par anticipation, pour une durée maximale de deux ans, les
+dispositions de l'article L. 147-5 concernant les zones C et D.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°99-588 du 12 juillet 1999 - art. 7 () JORF 13 juillet 1999
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L147-5 (M)
 
 _Codifié par_:
 
@@ -7288,6 +7331,29 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°85-696 1985-07-11 art. 1 JORF 12 juillet 1985
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+
+###### Article L147-8
+
+Un décret en Conseil d'Etat fixe, en tant que de besoin, les modalités d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. L171-1 (VD)
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+_Créé par_:
+
+  - Loi n°99-588 du 12 juillet 1999 - art. 7 () JORF 13 juillet 1999
 
 _Abrogé par_:
 

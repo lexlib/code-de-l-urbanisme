@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1986-01-31
+Version Consolidée au 1986-02-03
 ## Contenu: 
   - [Partie législative (art. L121-10 à L550-1)](#1)
     - [Règles générales d'aménagement et d'urbanisme (art. L121-10)](#2)
@@ -669,7 +669,7 @@ Version Consolidée au 1986-01-31
         - [Section 1 : Déclaration d'achèvement des travaux et certificat de conformité. (art. A460-1 à A460-2)](#666)
       - [TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres Ier à IV et VI du présent livre (art. A490-1)](#667)
     - [Livre  V : Implantation des services, établissements et entreprises (art. A510-1 à A520-11)](#668)
-      - [TITRE I : Dispositions administratives générales. (art. A510-1 à A510-13)](#669)
+      - [TITRE I : Dispositions administratives générales. (art. A510-1 à A510-12)](#669)
       - [Titre  II : Dispositions financières concernant la région d'Ile-de-France (art. A520-1 à A520-11)](#670)
         - [Section 1 : Dispositions générales (art. A520-1 à A520-11)](#671)
           - [Sous-section 1 : Perception des redevances (art. A520-1 à A520-3)](#672)
@@ -53544,25 +53544,6 @@ _Cite_:
 **Liens**:
 
   - TXT_ASSOCIE: Code de l'urbanisme - art. A510-10 (Ab)
-
-
-###### Article A510-13
-
-Les dispositions des articles A. 510-1 à A. 510-12 ne peuvent être modifiées que par arrêté du Premier ministre.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Arrêté 1986-02-28 art. 1 JORF 2 mars 1986
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
-
-_Cite_:
-
-  - CODE DE L'URBANISME A510-1 à A510-12
 
 
 ### Titre  II : Dispositions financières concernant la région d'Ile-de-France<a id=670></a>

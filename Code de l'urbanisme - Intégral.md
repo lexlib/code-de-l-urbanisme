@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2002-02-08
+Version Consolidée au 2002-02-28
 ## Contenu: 
   - [Partie législative (art. L110 à L600-4-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -2223,6 +2223,8 @@ l'article L. 4424-9 du code général  des collectivités territoriales et, jusq
 d'aménagement de la Corse maintenu en vigueur par l'article 13 de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse
 ont valeur de schéma de cohérence territoriale.
 
+Les dispositions du présent article sont applicables à compter du 1er juillet 2002.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -2235,7 +2237,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2002-92 du 22 janvier 2002 - art. 13 () JORF 23 janvier 2002
+  - Loi n°2002-276 du 27 février 2002 - art. 153 () JORF 28 février 2002
 
 _Cité par_:
 
@@ -2263,7 +2265,9 @@ I. - Le schéma de cohérence territoriale est élaboré à l'initiative des com
 
 II. - Le périmètre du schéma de cohérence territoriale délimite un territoire d'un seul tenant et sans enclave. Lorsque ce
 périmètre concerne des établissements publics de coopération intercommunale compétents en matière de schémas de cohérence
-territoriale, il recouvre la totalité du périmètre de ces établissements.
+territoriale, il recouvre la totalité du périmètre de ces établissements. Toutefois, lorsque le périmètre d'un de ces
+établissements n'est pas d'un seul tenant, le périmètre du schéma peut ne pas comprendre la totalité des communes membres de
+cet établissement à condition de comprendre la totalité de la partie ou des parties d'un seul tenant qui le concerne.
 
 Il tient notamment compte des périmètres des groupements de communes, des agglomérations nouvelles, des pays et des parcs
 naturels, ainsi que des périmètres déjà définis des plans de déplacements urbains, des schémas de développement commercial,
@@ -2302,12 +2306,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 3 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
-  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
+  - Loi n°2002-276 du 27 février 2002 - art. 154 () JORF 28 février 2002
 
 _Codifié par_:
 
@@ -2829,29 +2828,29 @@ _Codifié par_:
 
 ###### Article L122-15
 
-La déclaration d'utilité publique d'une opération qui n'est pas compatible avec les dispositions d'un schéma de cohérence
-territoriale ne peut intervenir que si :
+La déclaration d'utilité publique ou, si une déclaration d'utilité publique n'est pas requise, la déclaration de projet d'une
+opération qui n'est pas compatible avec les dispositions d'un schéma de cohérence territoriale ne peut intervenir que si :
 
-1° L'enquête publique concernant cette opération, ouverte par le préfet, a porté à la fois sur l'utilité publique de
-l'opération et sur la mise en compatibilité du schéma qui en est la conséquence ;
+1° L'enquête publique concernant cette opération a porté à la fois sur l'utilité publique ou l'intérêt général de l'opération
+et sur la mise en compatibilité du schéma qui en est la conséquence ;
 
-2° L'acte déclaratif d'utilité publique est pris après que les dispositions proposées par l'Etat pour assurer la mise en
-compatibilité du schéma ont fait l'objet d'un examen conjoint de l'Etat, de l'établissement public prévu à l'article L.
-122-4, de la région, du département et des organismes mentionnés à l'article L. 121-4 et a été soumis, pour avis, aux
-communes et groupements de communes compétents situés dans le périmètre du schéma de cohérence territoriale.
+2° L'acte déclaratif d'utilité publique ou la déclaration de projet est pris après que les dispositions proposées pour
+assurer la mise en compatibilité du schéma ont fait l'objet d'un examen conjoint de l'Etat, de l'établissement public prévu à
+l'article L. 122-4, de la région, du département et des organismes mentionnés à l'article L. 121-4 et a été soumis, pour
+avis, aux communes et groupements de communes compétents situés dans le périmètre du schéma de cohérence territoriale.
 
 La déclaration d'utilité publique emporte approbation des nouvelles dispositions du schéma de cohérence territoriale.
 
+La déclaration de projet emporte approbation des nouvelles dispositions du schéma de cohérence territoriale lorsqu'elle est
+prise par l'établissement public prévu à l'article L. 122-4. Lorsqu'elle est prise par une autre personne publique, elle ne
+peut intervenir qu'après mise en compatibilité du schéma par l'établissement public prévu à l'article L. 122-4 ou, en cas de
+désaccord, par arrêté préfectoral.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 3 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
-  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
+  - Loi n°2002-276 du 27 février 2002 - art. 150 () JORF 28 février 2002
 
 _Cité par_:
 
@@ -2878,7 +2877,7 @@ _Cite_:
 
 _Codifié par_:
 
-  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L122-16
@@ -3991,29 +3990,29 @@ _Cité par_:
 
 ###### Article L123-16
 
-La déclaration d'utilité publique d'une opération qui n'est pas compatible avec les dispositions d'un plan local d'urbanisme
-ne peut intervenir que si :
+La déclaration d'utilité publique ou, si une déclaration d'utilité publique n'est pas requise, la déclaration de projet d'une
+opération qui n'est pas compatible avec les dispositions d'un plan local d'urbanisme ne peut intervenir que si :
 
-a) L'enquête publique concernant cette opération, ouverte par le préfet, a porté à la fois sur l'utilité publique de
-l'opération et sur la mise en compatibilité du plan qui en est la conséquence ;
+a) L'enquête publique concernant cette opération a porté à la fois sur l'utilité publique ou l'intérêt général de l'opération
+et sur la mise en compatibilité du plan qui en est la conséquence ;
 
-b) L'acte déclaratif d'utilité publique est pris après que les dispositions proposées par l'Etat pour assurer la mise en
-compatibilité du plan ont fait l'objet d'un examen conjoint de l'Etat, de la commune, de l'établissement public mentionné à
-l'article L. 122-4, s'il en existe un, de la région, du département et des organismes mentionnés à l'article L. 121-4, et
+b) L'acte déclaratif d'utilité publique ou la déclaration de projet est pris après que les dispositions proposées pour
+assurer la mise en compatibilité du plan ont fait l'objet d'un examen conjoint de l'Etat, de l'établissement public mentionné
+à l'article L. 122-4, s'il en existe un, de la région, du département et des organismes mentionnés à l'article L. 121-4, et
 après avis du conseil municipal.
 
 La déclaration d'utilité publique emporte approbation des nouvelles dispositions du plan.
 
+La déclaration de projet emporte approbation des nouvelles dispositions du plan local d'urbanisme lorsqu'elle est prise par
+la commune ou l'établissement public de coopération intercommunale compétent. Lorsqu'elle est prise par une autre personne
+publique, elle ne peut intervenir qu'après mise en compatibilité du plan par la commune ou l'établissement public de
+coopération intercommunale compétent, ou, en cas de désaccord, par arrêté préfectoral.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 4 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
-  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
+  - Loi n°2002-276 du 27 février 2002 - art. 150 () JORF 28 février 2002
 
 _Cité par_:
 
@@ -4045,7 +4044,7 @@ _Cite_:
 
 _Codifié par_:
 
-  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L123-17
@@ -5417,16 +5416,21 @@ Cette taxe tient lieu de participation forfaitaire aux dépenses du département
 ainsi que pour l'aménagement et l'entretien de tout espace naturel, boisé ou non, appartenant au département, sous réserve de
 son ouverture au public dans les conditions prévues à l'article L. 142-10 ;
 
-- pour sa participation à l'acquisition de terrains par le Conservatoire de l'espace littoral et des rivages lacustres, par
-une commune ou par un établissement public de coopération intercommunale compétent, ainsi qu'à l'entretien des terrains
-acquis par l'une ou l'autre de ces personnes publiques ou par l'agence des espaces verts de la région d'Ile-de-France dans
-l'exercice du droit de préemption, par délégation ou par substitution, prévu à l'article L. 142-3.
+- pour sa participation à l'acquisition, à l'aménagement et la gestion des terrains du Conservatoire de l'espace littoral et
+des rivages lacustres, pour sa participation à l'acquisition de terrains par une commune ou par un établissement public de
+coopération intercommunale compétent, ainsi qu'à l'entretien des terrains acquis par l'une et l'autre de ces personnes
+publiques ou par l'agence des espaces verts de la région d'Ile-de-France dans l'exercice du droit de préemption, par
+délégation ou par substitution, prévu à l'article L. 142-3.
 
 Le produit de la taxe peut également être utilisé :
 
 - pour l'aménagement et l'entretien d'espaces naturels, boisés ou non, appartenant aux collectivités publiques ou à leurs
 établissements publics et ouverts au public, ou appartenant à des propriétaires privés à la condition qu'ils aient fait
 l'objet d'une convention passée en application de l'article L. 130-5 ;
+
+- pour l'aménagement et la gestion des parties naturelles de la zone dite des cinquante pas géométriques, définie par la loi
+n° 96-1241 du 30 décembre 1996 relative à l'aménagement, la protection et la mise en valeur de la zone dite des cinquante pas
+géométriques dans les départements d'outre-mer ;
 
 - pour l'acquisition, l'aménagement et la gestion des sentiers figurant sur un plan départemental des itinéraires de
 promenade et de randonnée, établi dans les conditions prévues à l'article 56 de la loi n° 83-663 du 22 juillet 1983
@@ -5460,7 +5464,7 @@ II de l'article 1585 D du code général des impôts.
 
 f) Les installations et travaux divers qui sont destinés à être affectés à un service public ou d'utilité publique et
 réalisés par l'Etat, les collectivités locales ou leurs groupements ou l'un des services et organismes enumérés par le décret
-pris pour l'application du 1° du I de l'article 1585 C du code général des impôts.
+pris pour l'application du 1° du I de l'article 1585 C du code général des imp<cb>ts.
 
 Le conseil général peut exonérer de la taxe départementale des espaces naturels sensibles, les locaux à usage d'habitation
 principale édifiés pour leur compte ou à titre de prestation de services par les organismes mentionnés à l'article L. 411-2
@@ -5498,6 +5502,8 @@ La taxe constitue, du point de vue fiscal, un élément du prix de revient de l'
 La taxe est perçue au profit du département en tant que recette grevée d'affectation spéciale et a le caractère d'une recette
 de fonctionnement.
 
+</cb>
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -5506,6 +5512,7 @@ _Cite_:
   - Loi n°83-8 1983-01-07
   - Loi n°83-597 1983-07-07
   - Loi n°83-663 1983-07-22 art. 56
+  - Loi n°96-1241 1996-12-30
   - Code de l'urbanisme - art. L130-5 (M)
   - Code de l'urbanisme - art. L142-1 (M)
   - Code de l'urbanisme - art. L142-10 (V)
@@ -5544,8 +5551,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2001-602 du 9 juillet 2001 - art. 10 () JORF 11 juillet 2001
-  - Loi n°2001-602 du 9 juillet 2001 - art. 4 (V) JORF 11 juillet 2001
+  - Loi n°2002-276 du 27 février 2002 - art. 164 () JORF 28 février 2002
 
 _Codifié par_:
 
@@ -5615,13 +5621,19 @@ concernées, ces zones ne peuvent être créées par le conseil général qu'ave
 département.
 
 A l'intérieur de ces zones, le département dispose d'un droit de préemption sur tout terrain ou ensemble de droits sociaux
-donnant vocation à l'attribution en propriété ou en jouissance de terrains qui font l'objet d'une aliénation volontaire, à
-titre onéreux, sous quelque forme que ce soit.
+donnant vocation à l'attribution en propriété ou en jouissance de terrains qui font l'objet d'une aliénation, à titre
+onéreux, sous quelque forme que ce soit.
 
 A titre exceptionnel, l'existence d'une construction ne fait pas obstacle à l'exercice du droit de préemption dès lors que le
 terrain est de dimension suffisante pour justifier son ouverture au public et qu'il est, par sa localisation, nécessaire à la
 mise en oeuvre de la politique des espaces naturels sensibles des départements. Dans le cas où la construction acquise est
 conservée, elle est affectée à un usage permettant la fréquentation du public et la connaissance des milieux naturels.
+
+Lorsque la mise en oeuvre de la politique prévue à l'article L. 142-1 le justifie, le droit de préemption peut s'exercer pour
+acquérir la fraction d'une unité foncière comprise à l'intérieur de la zone de préemption. Dans ce cas, le propriétaire peut
+exiger que le titulaire du droit de préemption se porte acquéreur de l'ensemble de l'unité foncière. Le prix d'acquisition
+fixé par la juridiction compétente en matière d'expropriation tient compte de l'éventuelle dépréciation subie, du fait de la
+préemption partielle, par la fraction restante de l'unité foncière.
 
 En cas d'adjudication, lorsque cette procédure est rendue obligatoire par une disposition législative ou réglementaire,
 l'acquisition par le titulaire du droit de préemption a lieu au prix de la dernière enchère, par substitution à
@@ -5639,6 +5651,16 @@ cas échéant, au Conservatoire de l'espace littoral et des rivages lacustres, s
 préemption. Pour un parc naturel régional, l'exercice de ce droit de préemption est subordonné à l'accord explicite du
 département. Au cas où ni le conservatoire ni l'établissement public chargé d'un parc national ou d'un parc naturel régional
 n'est compétent, la commune peut se substituer au département si celui-ci n'exerce pas son droit de préemption.
+
+Lorsqu'il est territorialement compétent, le Conservatoire de l'espace littoral et des rivages lacustres peut prendre
+l'initiative de l'institution de zones de préemption à l'extérieur des zones délimitées par le département en application du
+présent article, des zones urbaines ou à urbaniser délimitées par les plans d'urbanisme locaux et des zones constructibles
+délimitées par les cartes communales. Le projet de périmètre est adressé pour avis au département et à la commune ou à
+l'établissement public de coopération intercommunale compétent. Ces avis sont réputés favorables s'ils n'interviennent pas
+dans un délai de trois mois après transmission du projet. Le périmètre est délimité par arrêté préfectoral. En cas d'avis
+défavorable de la commune ou de l'établissement public de coopération intercommunale compétent, il ne peut être délimité que
+par décret en Conseil d'Etat. A l'intérieur des périmètres ainsi délimités, le conservatoire exerce les compétences
+attribuées au département par le présent article.
 
 Lorsque la commune fait partie d'un établissement public de coopération intercommunale y ayant vocation, elle peut, en accord
 avec cet établissement, lui déléguer ce droit.
@@ -5714,8 +5736,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 18 () JORF 14 décembre 2000
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+  - Loi n°2002-276 du 27 février 2002 - art. 165 () JORF 28 février 2002
 
 _Cite_:
 
@@ -10483,24 +10504,31 @@ sursis à statuer dans les conditions et délai prévus à l'article L. 111-8.
 
 L'autorisation énonce les prescriptions auxquelles le propriétaire doit se conformer.
 
-En cas de désaccord entre l'architecte des Bâtiments de France et le maire ou l'autorité compétente pour délivrer
-l'autorisation sur la compatibilité des travaux avec le plan de sauvegarde et de mise en valeur ou sur les prescriptions
-imposées au propriétaire, le représentant de l'Etat dans la région émet, après consultation de la commission régionale du
-patrimoine et des sites, un avis qui se substitue à celui de l'architecte des Bâtiments de France.
+En cas de désaccord entre, d'une part, l'architecte des Bâtiments de France et, d'autre part, soit le maire ou l'autorité
+compétente pour délivrer l'autorisation, soit le pétitionnaire, sur la compatibilité des travaux avec le plan de sauvegarde
+et de mise en valeur ou sur les prescriptions imposées au propriétaire, le représentant de l'Etat dans la région émet, après
+consultation de la section de la commission régionale du patrimoine et des sites, un avis qui se substitue à celui de
+l'architecte des Bâtiments de France. Le recours du pétitionnaire s'exerce à l'occasion du refus d'autorisation de travaux.
+Les délais de saisine du préfet de région et ceux impartis à la section et au préfet pour statuer sont fixés par décret en
+Conseil d'Etat.
 
 Le ministre chargé de la culture peut évoquer tout dossier dont l'architecte des Bâtiments de France ou le représentant de
 l'Etat dans la région est saisi en application du présent article. L'autorisation ne peut alors être délivrée qu'avec son
 accord.
+
+**Nota:**
+
+NOTA : Ordonnance n° 2005-864 2005-07-28 art. 4 III : "Les dispositions de l'article L. 313-2 du code de l'urbanisme, dans sa
+rédaction antérieure à la publication de la présente ordonnance, restent applicables aux travaux ayant pour effet de modifier
+l'état des immeubles situés dans les secteurs sauvegardés, jusqu'à l'entrée en vigueur de l'ordonnance relative aux
+déclarations et autorisations d'utiliser le sol prévue par l'article 20 de la loi n° 2004-1343 du 9 décembre 2004 de
+simplification du droit et au plus tard jusqu'au 31 décembre 2006."
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°62-903 1962-08-04 art. 2
-
-_Modifié par_:
-
-  - Loi n°97-179 du 28 février 1997 - art. 3 () JORF 1er mars 1997
 
 _Cité par_:
 
@@ -10527,15 +10555,17 @@ _Cité par_:
   - Code du patrimoine - art. R612-3 (Ab)
   - Code du patrimoine. - art. L641-1 (VD)
 
-**Liens**:
+_Modifié par_:
 
-  - TXT_ASSOCIE: Code de l'urbanisme - art. L111-7 (M)
-  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-5 (M)
-  - PILOTE_SUIVEUR: Code du patrimoine - art. L641-1 (MMN)
+  - Loi n°2002-276 du 27 février 2002 - art. 112 () JORF 28 février 2002
 
 _Cite_:
 
   - Code de l'urbanisme - art. L111-8 (M)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code du patrimoine - art. L641-1 (MMN)
 
 _Codifié par_:
 

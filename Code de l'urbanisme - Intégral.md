@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2003-07-22
+Version Consolidée au 2003-07-31
 ## Contenu: 
   - [Partie législative (art. L110 à L600-4-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -64,7 +64,7 @@ Version Consolidée au 2003-07-22
           - [Section 3 : Equipements propres dont la réalisation peut être exigée des bénéficiaires d'autorisations d'occuper ou d'utiliser le sol (art. L332-15 à L332-16)](#61)
           - [Section 5 : Dispositions diverses (art. L332-28 à L332-30)](#62)
       - [Titre IV : Dispositions particulières aux départements d'outre-mer. (art. L340-1 à L340-2)](#63)
-    - [Livre IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol (art. L410-1 à L480-13)](#64)
+    - [Livre IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol (art. L410-1 à L480-14)](#64)
       - [Titre I : Certificat d'urbanisme. (art. L410-1)](#65)
       - [Titre II : Permis de construire (art. L421-1 à L423-5)](#66)
         - [Chapitre I : Régime général. (art. L421-1 à L421-9)](#67)
@@ -83,7 +83,7 @@ Version Consolidée au 2003-07-22
           - [Section 3 : Création et construction de magasins de grande surface. (art. L451-5 à L451-6)](#80)
       - [Titre VI : Contrôle. (art. L460-1 à L460-2)](#81)
       - [Titre VII : Départements d'outre-mer. (art. L470-1)](#82)
-      - [TITRE VIII : Infractions. (art. L480-1 à L480-13)](#83)
+      - [TITRE VIII : Infractions. (art. L480-1 à L480-14)](#83)
     - [Livre V : Implantation des services, établissements et entreprises (art. L510-1 à L550-1)](#84)
       - [Titre Ier : Dispositions administratives générales (art. L510-1 à L510-4)](#85)
       - [Titre II : Dispositions financières concernant la région parisienne. (art. L520-1 à L520-11)](#86)
@@ -3526,11 +3526,20 @@ l'ouverture des installations classées appartenant aux catégories déterminée
 Ces travaux ou opérations doivent en outre être compatibles, lorsqu'elles existent, avec les orientations d'aménagement
 mentionnées au troisième alinéa de l'article L. 123-1 et avec leurs documents graphiques.
 
+L'autorité compétente pour délivrer le permis de construire peut, par décision motivée, accorder des dérogations à une ou
+plusieurs règles du plan local d'urbanisme pour permettre la reconstruction de bâtiments détruits ou endommagés à la suite
+d'une catastrophe naturelle survenue depuis moins d'un an, lorsque les prescriptions imposées aux constructeurs en vue
+d'assurer la sécurité des biens et des personnes sont contraires à ces règles.
+
+L'autorité compétente recueille l'accord du préfet et du maire ou du président de l'établissement public de coopération
+intercommunale compétent en matière de plan local d'urbanisme, lorsqu'ils ne sont pas ceux qui délivrent le permis de
+construire.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2003-590 du 2 juillet 2003 - art. 19 () JORF 3 juillet 2003
+  - Loi n°2003-699 du 30 juillet 2003 - art. 51 () JORF 31 juillet 2003
 
 **Liens**:
 
@@ -3563,7 +3572,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L123-6
@@ -5376,7 +5385,11 @@ II de l'article 1585 D du code général des impôts.
 
 f) Les installations et travaux divers qui sont destinés à être affectés à un service public ou d'utilité publique et
 réalisés par l'Etat, les collectivités locales ou leurs groupements ou l'un des services et organismes enumérés par le décret
-pris pour l'application du 1° du I de l'article 1585 C du code général des imp<cb>ts.
+pris pour l'application du 1° du I de l'article 1585 C du code général des impôts.
+
+g) Les aménagements prescrits par un plan de prévention des risques naturels prévisibles ou un plan de prévention des risques
+technologiques sur des biens construits ou aménagés conformément aux dispositions du présent code avant l'approbation de ce
+plan et mis à la charge des propriétaires ou exploitants de ces biens.
 
 Le conseil général peut exonérer de la taxe départementale des espaces naturels sensibles, les locaux à usage d'habitation
 principale édifiés pour leur compte ou à titre de prestation de services par les organismes mentionnés à l'article L. 411-2
@@ -5414,28 +5427,13 @@ La taxe constitue, du point de vue fiscal, un élément du prix de revient de l'
 La taxe est perçue au profit du département en tant que recette grevée d'affectation spéciale et a le caractère d'une recette
 de fonctionnement.
 
-</cb>
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1585 C, 1585 D
-  - Loi n°83-8 1983-01-07
-  - Loi n°83-597 1983-07-07
-  - Loi n°83-663 1983-07-22 art. 56
-  - Loi n°96-1241 1996-12-30
-  - Code de l'urbanisme - art. L130-5 (M)
-  - Code de l'urbanisme - art. L142-1 (M)
-  - Code de l'urbanisme - art. L142-10 (V)
-  - Code de l'urbanisme - art. L442-1 (M)
-  - Code de la construction et de l'habitation. - art. L411-2 (M)
 
 _Cité par_:
 
-  - Loi n°89-936 du 29 décembre 1989 - art. 118 (V)
   - Arrêté du 2 octobre 1995 - art. 7 (V)
   - Arrêté du 29 avril 1997 - art. 8 (V)
+  - Loi n°89-936 du 29 décembre 1989 - art. 118 (V)
   - Décret n°98-1239 du 29 décembre 1998 - art. 1 (V)
   - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
   - Décret n°2014-551 du 27 mai 2014 (V)
@@ -5453,6 +5451,19 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1599 B (VT)
   - Code général des impôts, CGI. - art. 302 septies B (VD)
 
+_Cite_:
+
+  - CGI 1585 C, 1585 D
+  - Loi n°83-8 1983-01-07
+  - Loi n°83-597 1983-07-07
+  - Loi n°83-663 1983-07-22 art. 56
+  - Loi n°96-1241 1996-12-30
+  - Code de l'urbanisme - art. L130-5 (M)
+  - Code de l'urbanisme - art. L142-1 (M)
+  - Code de l'urbanisme - art. L142-10 (V)
+  - Code de l'urbanisme - art. L442-1 (M)
+  - Code de la construction et de l'habitation. - art. L411-2 (M)
+
 **Liens**:
 
   - TXT_SOURCE: Décret n°98-1239 du 29 décembre 1998
@@ -5463,18 +5474,19 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2002-276 du 27 février 2002 - art. 164 () JORF 28 février 2002
+  - Loi n°2003-699 du 30 juillet 2003 - art. 80 () JORF 31 juillet 2003
 
 _Codifié par_:
 
-  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L142-1
 
-Afin de préserver la qualité des sites, des paysages, des milieux naturels et d'assurer la sauvegarde des habitats naturels
-selon les principes posés à l'article L. 110, le département est compétent pour élaborer et mettre en oeuvre une politique de
-protection, de gestion et d'ouverture au public des espaces naturels sensibles, boisés ou non.
+Afin de préserver la qualité des sites, des paysages, des milieux naturels et des champs naturels d'expansion des crues et
+d'assurer la sauvegarde des habitats naturels selon les principes posés à l'article L. 110, le département est compétent pour
+élaborer et mettre en oeuvre une politique de protection, de gestion et d'ouverture au public des espaces naturels sensibles,
+boisés ou non. 
 
 La politique du département prévue à l'alinéa précédent doit être compatible avec les orientations des schémas de cohérence
 territoriale et des chartes intercommunales de développement et d'aménagement, lorsqu'ils existent, ou avec les directives
@@ -5486,7 +5498,7 @@ les lois d'aménagement et d'urbanisme prévues au même article.
 _Cité par_:
 
   - Loi n°75-602 du 10 juillet 1975 - art. 2 (M)
-  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (V)
+  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (VD)
   - Code de l'environnement - art. L581-41 (V)
   - Code de l'urbanisme - art. L142-12 (VT)
   - Code de l'urbanisme - art. L142-2 (VT)
@@ -5506,12 +5518,21 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+  - Loi n°2003-699 du 30 juillet 2003 - art. 67 () JORF 31 juillet 2003
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L110 (M)
-  - Code de l'urbanisme - art. L111-1-1 (M)
+  - Code de l'urbanisme - art. L110 (VT)
+  - Code de l'urbanisme - art. L111-1-1
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. L113-8 (VD)
+  - Code de l'urbanisme - art. L113-9 (VD)
 
 **Liens**:
 
@@ -5519,7 +5540,7 @@ _Cite_:
 
 _Codifié par_:
 
-  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L142-3
@@ -8103,9 +8124,11 @@ _Codifié par_:
 
 Les communes dotées d'un plan d'occupation des sols rendu public ou d'un plan local d'urbanisme approuvé peuvent, par
 délibération, instituer un droit de préemption urbain sur tout ou partie des zones urbaines et des zones d'urbanisation
-future délémitées par ce plan ainsi que sur tout ou partie de leur territoire couvert par un plan de sauvegarde et de mise en
-valeur rendu public ou approuvé en application de l'article L. 313-1 lorsqu'il n'a pas été créé de zone d'aménagement différé
-ou de périmètre provisoire de zone d'aménagement différé sur ces territoires.
+future délimitées par ce plan, dans les périmètres définis par un plan de prévention des risques technologiques en
+application du I de l'article L. 515-16 du code de l'environnement, dans les zones soumises aux servitudes prévues au II de
+l'article L. 211-12 du même code, ainsi que sur tout ou partie de leur territoire couvert par un plan de sauvegarde et de
+mise en valeur rendu public ou approuvé en application de l'article L. 313-1 lorsqu'il n'a pas été créé de zone d'aménagement
+différé ou de périmètre provisoire de zone d'aménagement différé sur ces territoires.
 
 Les conseils municipaux des communes dotées d'une carte communale approuvée peuvent, en vue de la réalisation d'un équipement
 ou d'une opération d'aménagement, instituer un droit de préemption dans un ou plusieurs périmètres délimités par la carte. La
@@ -8123,7 +8146,7 @@ de cinq ans à compter du jour où la délibération est éxécutoire.
 
 _Codifié par_:
 
-  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 _Cité par_:
 
@@ -8166,7 +8189,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-590 du 2 juillet 2003 - art. 41 () JORF 3 juillet 2003
+  - Loi n°2003-699 du 30 juillet 2003 - art. 79 () JORF 31 juillet 2003
 
 _Cite_:
 
@@ -19237,6 +19260,39 @@ _Cité par_:
   - Code de l'urbanisme - art. L600-6 (M)
   - Code de l'urbanisme - art. R*421-32 (Ab)
   - Code de l'urbanisme - art. R*424-19 (VD)
+
+
+###### Article L480-14
+
+La commune ou l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme peut saisir
+le tribunal de grande instance en vue de faire ordonner la démolition ou la mise en conformité d'un ouvrage édifié sans
+l'autorisation exigée par le présent livre ou en méconnaissance de cette autorisation dans un secteur soumis à des risques
+naturels prévisibles. L'action civile se prescrit en pareil cas par dix ans à compter de l'achèvement des travaux.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2003-699 du 30 juillet 2003 - art. 65 () JORF 31 juillet 2003
+
+_Cité par_:
+
+  - Code de l'environnement - art. L562-5 (V)
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ## Livre V : Implantation des services, établissements et entreprises<a id=84></a>

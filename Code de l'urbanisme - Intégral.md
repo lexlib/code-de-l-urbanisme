@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1988-12-17
+Version Consolidée au 1988-12-30
 ## Contenu: 
   - [Partie législative (art. L110 à L550-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -18358,7 +18358,7 @@ _Codifié par_:
 ###### Article L520-3
 
 Le montant de la redevance due par mètre carré de surface utile de plancher peut varier selon les périmètres considérés, sans
-pouvoir excéder 1300 F. Ce montant et ces périmètres sont fixés par décret en Conseil d'Etat en fonction du taux d'emploi et
+pouvoir excéder 1 600 F. Ce montant et ces périmètres sont fixés par décret en Conseil d'Etat en fonction du taux d'emploi et
 de son évolution.
 
 **Liens relatifs à cet article**
@@ -18369,7 +18369,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°86-1318 du 30 décembre 1986 - art. 46 () JORF 31 DECEMBRE 1986
+  - Loi n°88-1193 du 29 décembre 1988 - art. 48 () JORF 30 décembre 1988
 
 _Cité par_:
 

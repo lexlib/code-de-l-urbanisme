@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1995-10-11
+Version Consolidée au 1995-10-14
 ## Contenu: 
   - [Partie législative (art. L110 à L600-5)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -53627,6 +53627,9 @@ autonomes du Havre, de Bordeaux et de Dunkerque ;
 
 d) A l'aménagement de la zone de Fos-sur-Mer, dans un périmètre défini par décret en Conseil d'Etat.
 
+e) A l'opération d'aménagement Euroméditerranée dans la commune de Marseille dans le périmètre de compétence de
+l'établissement public d'aménagement Euroméditerranée.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -53641,7 +53644,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°86-669 1986-03-18 art. 2 JORF 20 mars 1986
+  - Décret n°95-1103 du 13 octobre 1995 - art. 1 () JORF 14 octobre 1995
 
 
 ## Livre V : Implantation des services, établissements et entreprises<a id=405></a>

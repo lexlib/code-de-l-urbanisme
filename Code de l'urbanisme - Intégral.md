@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1977-03-01
+Version Consolidée au 1977-03-24
 ## Contenu: 
   - [Partie législative (art. L122-1 à L550-1)](#1)
     - [Règles générales d'aménagement et d'urbanisme (art. L122-1 à L122-3)](#2)
@@ -32959,30 +32959,32 @@ _Codifié par_:
 
 ###### Article R421-41
 
-Par dérogation aux dispositions des articles R. 421-9, R. 421-15 et R. 421-17, tous les exemplaires d'une demande de permis
-de construire concernant des bâtiments à édifier sur le territoire de la ville de Paris sont adressés au préfet de Paris et
-celui-ci assure l'instruction de ladite demande.
-
-En outre, conformément aux dispositions en vigueur, la compétence du maire prévue à l'article R. 421-32 est exercée par le
-préfet de Paris.
+Par dérogation aux dispositions du dernier alinéa de l'article R. 421-40, à Paris, la réglementation nouvelle résultant de
+l'arrêté du préfet mentionné à l'article R. 421-22 [*conférant le pouvoir d'instruction au maire*] est applicable à toutes
+les demandes de permis de construire sur lesquelles il n'a pas encore été statué, à l'exception de celles qui sont
+mentionnées à l'article R. 421-23.
 
 **Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°83-1261 1983-12-30 ART. 40 II JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R421-15 (M)
-
-_Cite_:
-
-  - Code de l'urbanisme - art. R421-17 (Ab)
-  - Code de l'urbanisme - art. R421-32 (M)
-  - Code de l'urbanisme - art. R421-9 (M)
 
 **Liens**:
 
   - TXT_ASSOCIE: Code de l'urbanisme - art. R421-17 (M)
   - TXT_ASSOCIE: Code de l'urbanisme - art. R421-32 (M)
   - TXT_ASSOCIE: Code de l'urbanisme - art. R421-9 (M)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R421-22 (M)
+  - Code de l'urbanisme - art. R421-23 (M)
+  - Code de l'urbanisme R421-40 DERNIER ALINEA
 
 _Anciens textes_:
 

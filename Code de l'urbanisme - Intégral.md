@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1993-01-05
+Version Consolidée au 1993-01-09
 ## Contenu: 
   - [Partie législative (art. L110 à L550-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -91,8 +91,8 @@ Version Consolidée au 1993-01-05
       - [Titre III : Permis de démolir. (art. L430-1 à L430-9)](#88)
       - [TITRE IV : Dispositions relatives aux modes particuliers d'utilisation du sol (art. L441-1 à L445-4)](#89)
         - [CHAPITRE I : Clôtures. (art. L441-1 à L441-3)](#90)
-        - [Chapitre II : Installations et travaux divers. (art. L442-1)](#91)
-        - [CHAPITRE III : Camping et stationnement des caravanes. (art. L443-1)](#92)
+        - [Chapitre II : Installations et travaux divers. (art. L442-1 à L442-2)](#91)
+        - [CHAPITRE III : Camping et stationnement des caravanes. (art. L443-1 à L443-2)](#92)
         - [Chapitre V : Remontées mécaniques et aménagements de domaine skiable. (art. L445-1 à L445-4)](#93)
       - [TITRE V :Dispositions diverses (art. L451-4 à L451-3)](#94)
         - [CHAPITRE I : Dispositions propres à certaines utilisations de surfaces baties (art. L451-4 à L451-6)](#95)
@@ -2878,7 +2878,8 @@ Les plans d'occupation des sols fixent, dans le cadre des orientations des sché
 en existe, les règles générales et les servitudes d'utilisation des sols, qui peuvent notamment comporter l'interdiction de
 construire.
 
-A cette fin, ils doivent :
+Les plans d'occupation des sols doivent, à cette fin, en prenant en compte la préservation de la qualité des paysages et la
+maîtrise de leur évolution :
 
 1° Délimiter des zones urbaines ou à urbaniser prenant notamment en compte les besoins en matière d'habitat, d'emploi, de
 services et de transport des populations actuelles et futures. La délimitation de ces zones prend en considération la valeur
@@ -2906,21 +2907,24 @@ ou immeubles à restaurer ou à réhabiliter ;
 6° préciser le tracé et les caractéristiques des voies de circulation à conserver, à modifier ou à créer, y compris les rues
 ou sentiers piétonniers et les pistes cyclables et délimiter les zones qui sont ou peuvent être aménagées en vue de la
 pratique du ski et les secteurs réservés aux remontées mécaniques en indiquant, le cas échéant, les équipements et
-aménagements qui peuvent y être prévus ;    7° délimiter les quartiers, rues, monuments, sites et secteurs à protéger ou à
-mettre en valeur pour des motifs d'ordre esthétique, historique ou écologique ;
+aménagements qui peuvent y être prévus ;
+
+7° Identifier et délimiter les quartiers, rues, monuments, sites, éléments de paysage et secteurs à protéger ou à mettre en
+valeur pour des motifs d'ordre esthétique, historique ou écologique et définir, le cas échéant, les prescriptions de nature à
+assurer leur protection ;
 
 8° fixer les emplacements réservés aux voies et ouvrages publics, aux installations d'intérêt général ainsi qu'aux espaces
 verts ;
 
 9° localiser, dans les zones urbaines, les terrains cultivés à protéger et inconstructibles quels que soient les équipements
-éventuels qui les desservent.
+éventuels qui les desservent ;
 
-10° Délimiter les secteurs dans lesquels la délivrance du permis de construire peut être surbordonnée à la démolition de tout
-ou partie des bâtiments existants sur le terrain où l'implantation de la construction est envisagée.
+10° Délimiter les secteurs dans lesquels la délivrance du permis de construire peut être subordonnée à la démolition de tout
+ou partie des bâtiments existants sur le terrain où l'implantation de la construction est envisagée ;
 
 11° Délimiter les zones dans lesquelles pourront s'implanter les magasins de commerce de détail dont l'octroi du permis de
 construire ou la réalisation est soumis à autorisation préalable de la commission départementale d'urbanisme commercial par
-l'article L. 451-5 du présent code.
+l'article L. 451-5 du présent code ;
 
 12° Délimiter les zones visées à l'article L. 372-3 du code des communes.
 
@@ -3016,7 +3020,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°92-3 du 3 janvier 1992 - art. 38 () JORF 4 janvier 1992
+  - Loi n°93-24 du 8 janvier 1993 - art. 3 () JORF 9 janvier 1993
 
 _Cite_:
 
@@ -4333,8 +4337,9 @@ _Codifié par_:
 
 ###### Article L130-1
 
-Les plans d'occupation des sols peuvent classer comme espaces boisés [*définition*], les bois, forêts, parcs à conserver, à
-protéger ou à créer, qu'ils soient soumis ou non au régime forestier, enclos ou non, attenant ou non à des habitations.
+Les plans d'occupation des sols peuvent classer comme espaces boisés, les bois, forêts, parcs à conserver, à protéger ou à
+créer, qu'ils soient soumis ou non au régime forestier, enclos ou non, attenant ou non à des habitations. Ce classement peut
+s'appliquer également à des arbres isolés, des haies ou réseaux de haies, des plantations d'alignements.
 
 Le classement interdit tout changement d'affectation ou tout mode d'occupation du sol de nature à compromettre la
 conservation, la protection ou la création des boisements.
@@ -4447,7 +4452,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°83-663 du 22 juillet 1983 - art. 105 () JORF 23 JUILLET 1983
+  - Loi n°93-24 du 8 janvier 1993 - art. 3 () JORF 9 janvier 1993
 
 _Nouveaux textes_:
 
@@ -9846,15 +9851,18 @@ _Cite_:
 
 Il est établi, dans chaque zone d'aménagement concerté, un plan d'aménagement de zone compatible avec les orientations du
 schéma directeur, s'il en existe un. Ce plan prend en considération les dispositions du programme local de l'habitat
-lorsqu'il existe. Il comporte tout ou partie des éléments énumérés aux articles L. 123-1 et L. 130-1. Il est élaboré par la
-personne publique qui a pris l'initiative de la création de la zone. "
+lorsqu'il existe. Il comporte tout ou partie des éléments énumérés aux articles L. 123-1 et L. 130-1. et précise les mesures
+destinées à préserver la qualité des paysages. Il est élaboré par la personne publique qui a pris l'initiative de la création
+de la zone. "
 
 Sont associés à cette élaboration l'Etat et la commune et, à leur demande, et dans les formes que la personne publique qui a
 prix l'initiative de la création de la zone détermine, la région et le département ; l'autorité compétente pour créer la zone
 d'aménagement concerté peut demander que soit recueilli l'avis de tout organisme ou association ayant compétence en matière
-de construction, d'aménagement ou d'urbanisme.    Le représentant de l'Etat porte à la connaissance de la personne publique
-qui a pris l'initiative de la création, les prescriptions, servitudes et dispositions mentionnées au dernier alinéa de
-l'article L. 123-1 et lui communique toute autre information qu'il juge utile à l'élaboration du plan d'aménagement de zone.
+de construction, d'aménagement ou d'urbanisme.
+
+Le représentant de l'Etat porte à la connaissance de la personne publique qui a pris l'initiative de la création, les
+prescriptions, servitudes et dispositions mentionnées au dernier alinéa de l'article L. 123-1 et lui communique toute autre
+information qu'il juge utile à l'élaboration du plan d'aménagement de zone.
 
 Le plan d'aménagement de zone est soumis à enquête publique par le maire lorsque la commune est compétente pour créer la zone
 et par le représentant de l'Etat dans le département lorsqu'il a cette compétence. Le plan d'aménagement de zone est ensuite
@@ -9908,16 +9916,13 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. L5112-6-1 (V)
   - Code général des collectivités territoriales - art. L2122-22 (M)
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°93-24 1993-01-08 art. 3 II
+
 _Modifié par_:
 
-  - Loi - art. 11 ()
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L111-1-1 (M)
-  - Code de l'urbanisme - art. L121-12 (Ab)
-  - Code de l'urbanisme - art. L123-1 (M)
-  - Code de l'urbanisme - art. L130-1 (M)
+  - Loi n°93-24 du 8 janvier 1993 - art. 5 (V) JORF 9 janvier 1993
 
 _Anciens textes_:
 
@@ -11718,28 +11723,28 @@ _Anciens textes_:
 
 ###### Article L316-4
 
-Sans préjudice, le cas échéant, de l'application de peines plus fortes prévues aux articles 209 à 233 du code pénal,
+Sans préjudice, le cas échéant, de l'application de peines plus fortes prévues aux articles 433-7 et 433-8 du code pénal,
 quiconque met obstacle à l'exercice du droit appartenant, pour l'application de la réglementation en matière de lotissements,
 au préfet, au maire, au directeur départemental de l'équipement ou à leurs délégués, de procéder à tout moment à la visite
-des lieux et aux vérifications qu'ils jugent utiles, sera puni d'une amende de 2000 à 15000 F. En outre, un emprisonnement de
-onze jours à un mois pourra être prononcé.
+des lieux et aux vérifications qu'ils jugent utiles, sera puni d'une amende de 25000 F. En outre, un emprisonnement de un
+mois pourra être prononcé.
 
-Si les vérifications faites relèvent que les travaux exécutés ne sont pas conformes aux prescriptions de l'arrêté
+Si les vérifications faites révèlent qu les travaux exécutés ne sont pas conformes aux prescriptions de l'arrêté
 d'autorisation, il est dressé procès-verbal de l'infraction.
 
 Lorsque les prescriptions imposées par l'arrêté d'autorisation n'auront pas été respectées, le tribunal pourra prononcer les
 peines prévues à l'article L. 316-2 et en outre impartir un délai au lotisseur pour mettre les travaux en conformité avec
-lesdites prescriptions, sous peine d'une astreinte de 50 à 500 F par jour de retard. L'astreinte prononcée court à partir de
-l'expiration dudit délai [*point de départ*] jusqu'au jour où les travaux sont définitivement achevés [*durée*].
+lesdites prescriptions, sous peine d'une astreinte de 50 à 500 F par jour de retard; l'astreinte prononcée court à partir de
+l'expiration dudit délai [*point de départ*] jusqu'au jour où les travaux sont définitivement achevés.
 
 L'autorité compétente pour autoriser la création d'un lotissement peut faire effectuer les travaux d'office aux frais et
 risques financiers du lotisseur si, à l'expiration du délai fixé par le jugement, les travaux n'ont pas été mis en conformité
 avec les prescriptions de l'arrêté d'autorisation.
 
-Les astreintes prononcées sont recouvrées par les comptables directs du trésor sur la réquisition du préfet pour le compte de
+Les astreintes prononcées sont recouvrées par les comptables directs du Trésor sur la réquisition du préfet pour le compte de
 la ou des communes aux caisses desquelles sont versées les sommes recouvrées.
 
-Après achèvement des travaux le tribunal peut autoriser le reversement d'une partie des astreintes si le lotisseur établit
+Après l'achèvement des travaux le tribunal peut autoriser le reversement d'une partie des astreintes si le lotisseur établit
 qu'il a été empêché d'observer, par des circonstances indépendantes de sa volonté, le délai qui lui avait été imparti.
 
 **Liens relatifs à cet article**
@@ -11748,13 +11753,14 @@ _Codifié par_:
 
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
-_Modifié par_:
-
-  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 JANVIER 1983
-
 **Liens**:
 
-  - SPEC_APPLI: Décret n°83-851 1983-09-23
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
 
 _Cite_:
 
@@ -16353,8 +16359,11 @@ conception. Cette obligation n'exclut pas le recours à un architecte pour des m
 Le projet architectural mentionné ci-dessus définit, par des plans et documents écrits, l'implantation des bâtiments, leur
 composition, leur organisation et l'expression de leur volume ainsi que le choix des matériaux et des couleurs.
 
+" Le projet architectural précise, par des documents graphiques ou photographiques, l'insertion dans l'environnement et
+l'impact visuel des bâtiments ainsi que le traitement de leurs accès et de leurs abords. "
+
 Conformément aux dispositions de l'article 4 de la loi n° 77-2 du 3 janvier 1977 sur l'architecture, par dérogation au
-deuxième alinéa ci-dessus, ne sont pas tenues de recourir à un architecte les personnes physiques qui déclarent vouloir
+quatrième alinéa ci-dessus, ne sont pas tenues de recourir à un architecte les personnes physiques qui déclarent vouloir
 édifier ou modifier, pour elles-mêmes, une construction de faible importance dont les caractéristiques, et notamment la
 surface maximale de plancher, sont déterminées par décret en conseil d'Etat. Ces caractéristiques peuvent être différentes
 selon la destination des constructions.
@@ -16384,7 +16393,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°83-663 du 22 juillet 1983 - art. 102 () JORF 23 JUILLET 1983
+  - Loi n°93-24 du 8 janvier 1993 - art. 4 () JORF 9 janvier 1993
 
 _Cité par_:
 
@@ -18293,6 +18302,32 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
+###### Article L442-2
+
+Tous travaux ayant pour effet de détruire un élément de paysage identifié par un plan d'occupation des sols en application du
+7° de l'article L. 123-1 et non soumis à un régime d'autorisation doivent faire l'objet d'une autorisation préalable au titre
+des installations et travaux divers dans les conditions prévues par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°93-24 du 8 janvier 1993 - art. 3 () JORF 9 janvier 1993
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L123-1 (M)
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. L442-1 (M)
+  - Code rural - art. R341-7 (M)
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
 #### CHAPITRE III : Camping et stationnement des caravanes.<a id=92></a>
 
 ###### Article L443-1
@@ -18337,6 +18372,40 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L443-2
+
+Dans les zones soumises à un risque naturel ou technologique prévisible, définies par le préfet de département, l'autorité
+compétente pour délivrer les autorisations d'aménagement de terrains de camping et de stationnement de caravanes fixe, après
+consultation du propriétaire et de l'exploitant et après avis motivé du préfet, les prescriptions d'information, d'alerte et
+d'évacuation permettant d'assurer la sécurité des occupants de ces terrains et le délai dans lequel elles devront être
+réalisées.
+
+A l'issue du délai imparti, si l'autorité compétente pour délivrer l'autorisation d'aménager constate que ces prescriptions
+ne sont pas respectées, elle peut ordonner la fermeture du terrain et l'évacuation des occupants jusqu'à exécution des
+prescriptions.
+
+En cas de carence de l'autorité compétente, le préfet de département peut se substituer à elle après mise en demeure restée
+sans effet.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+_Modifié par_:
+
+  - Loi n°93-24 du 8 janvier 1993 - art. 7 () JORF 9 janvier 1993
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. R*443-10 (V)
+  - Code de l'urbanisme - art. R*443-8-3 (Ab)
+  - Code de l'urbanisme - art. R443-9 (V)
 
 
 #### Chapitre V : Remontées mécaniques et aménagements de domaine skiable.<a id=93></a>

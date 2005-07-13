@@ -1,12 +1,12 @@
 # Code de l'urbanisme  
-Version Consolidée au 2005-07-01
+Version Consolidée au 2005-07-14
 ## Contenu: 
   - [Partie législative (art. L110 à L600-4-1)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
       - [Titre Ier : Règles générales d'utilisation du sol. (art. L110 à L112-6)](#3)
         - [Chapitre Ier : Règles générales de l'urbanisme. (art. L111-1 à L111-11)](#4)
         - [Chapitre II : Surface hors oeuvre des constructions. (art. L112-1 à L112-6)](#5)
-      - [Titre II : Prévisions et règles d'urbanisme (art. L121-1 à L127-2)](#6)
+      - [Titre II : Prévisions et règles d'urbanisme (art. L121-1 à L128-2)](#6)
         - [Chapitre Ier : Dispositions générales communes aux schémas de cohérence territoriale, aux plans locaux d'urbanisme et aux cartes communales (art. L121-1 à L121-15)](#7)
           - [Section 1 : Dispositions générales. (art. L121-1 à L121-9)](#8)
           - [Section 2 : Evaluation environnementale. (art. L121-10 à L121-15)](#9)
@@ -15,442 +15,443 @@ Version Consolidée au 2005-07-01
         - [Chapitre IV : Cartes communales. (art. L124-1 à L124-4)](#12)
         - [Chapitre VI : Servitudes d'utilité publique affectant l'utilisation du sol. (art. L126-1)](#13)
         - [Chapitre VII : Dispositions favorisant la diversité de l'habitat. (art. L127-1 à L127-2)](#14)
-      - [Titre III : Espaces boisés. (art. L130-1 à L130-6)](#15)
-      - [Titre IV : Dispositions particulières à certaines parties du territoire (art. L141-1 à L147-8)](#16)
-        - [Chapitre Ier : Dispositions particulières à Paris et à la région d'Ile-de-France (art. L141-1 à L141-2)](#17)
-          - [Section 1 : Schéma directeur. (art. L141-1 à L141-2)](#18)
-        - [Chapitre II : Espaces naturels sensibles des départements. (art. L*142-2 à L142-13)](#19)
-        - [Chapitre III : Protection et mise en valeur des espaces agricoles et naturels périurbains. (art. L143-1 à L143-6)](#20)
-        - [Chapitre V : Dispositions particulières aux zones de montagne. (art. L145-1 à L145-13)](#21)
-          - [Section 1 : Principes d'aménagement et de protection en zone de montagne. (art. L145-3 à L145-8)](#22)
-          - [Section 2 : Unités touristiques nouvelles. (art. L145-9 à L145-13)](#23)
-        - [Chapitre VI : Dispositions particulières au littoral. (art. L146-1 à L146-9)](#24)
-        - [Chapitre VII : dispositions particulières aux zones de bruit des aérodromes. (art. L147-1 à L147-8)](#25)
-      - [Titre V : Application aux départements d'outre-mer (art. L150-1 à L156-4)](#26)
-        - [Chapitre VI : Dispositions particulières au littoral dans les départements d'outre-mer. (art. L156-1 à L156-4)](#27)
-      - [Titre VI : Sanctions et servitudes. (art. L160-1 à L160-8)](#28)
-    - [Livre II : Préemption et réserves foncières (art. L210-1 à L230-6)](#29)
-      - [Titre Ier : Droits de préemption (art. L210-1 à L216-1)](#30)
-        - [Chapitre Ier : Droit de préemption urbain (art. L211-1 à L211-7)](#31)
-        - [Chapitre II : Zones d'aménagement différé et périmètres provisoires (art. L212-1 à L212-5)](#32)
-        - [Chapitre III : Dispositions communes au droit de préemption urbain, aux zones d'aménagement différé et aux périmètres provisoires (art. L213-1 à L213-18)](#33)
-        - [Chapitre VI : Dispositions particulières aux jardins familiaux (art. L216-1)](#34)
-      - [Titre II : Réserves foncières (art. L221-1 à L221-3)](#35)
-        - [Chapitre Ier : Réserves foncières (art. L221-1 à L221-3)](#36)
-      - [Titre III : Droits de délaissement (art. L230-1 à L230-6)](#37)
-    - [Livre III : Aménagement foncier (art. L300-1 à L340-2)](#38)
-      - [Titre Ier : Opérations d'aménagement (art. L311-1 à L318-9)](#39)
-        - [Chapitre Ier : Zones d'aménagement concerté (art. L311-1 à L311-8)](#40)
-        - [Chapitre III : Restauration immobilière et secteurs sauvegardés (art. L313-1 à L313-15)](#41)
-          - [Section 1 : Secteurs sauvegardés (art. L313-1 à L313-3)](#42)
-          - [Section 2 : Restauration immobilière (art. L313-4 à L313-4-3)](#43)
-          - [Section 3 : Dispositions communes (art. L313-5 à L313-15)](#44)
-        - [Chapitre IV : Protection des occupants (art. L314-1 à L314-9)](#45)
-        - [Chapitre V : Lotissements. (art. L315-1 à L315-9)](#46)
-        - [Chapitre VI : Sanctions pénales relatives aux lotissements. (art. L316-1 à L316-4)](#47)
-        - [Chapitre VIII : Dispositions relatives à certaines opérations (art. L318-1 à L318-9)](#48)
-          - [Section 1 : Déclassements et transferts de propriété (art. L318-1 à L318-4)](#49)
-          - [Section 2 : Opérations de réhabilitation de l'immobilier de loisir (art. L318-5)](#50)
-          - [Section 3 : Dispositions particulières aux commerçants et artisans (art. L318-8)](#51)
-          - [Section 4 : Dispositions particulières. (art. L318-9)](#52)
-      - [Titre II : Organismes d'exécution (art. L321-1 à L326-7)](#53)
-        - [Chapitre I : Etablissements publics fonciers et d'aménagement. (art. L321-1 à L321-9)](#54)
-        - [Chapitre II : Associations foncières urbaines (art. L322-1 à L322-11)](#55)
-        - [Chapitre IV : Etablissements publics fonciers locaux (art. L324-1 à L324-10)](#56)
-        - [Chapitre V : Etablissement public d'aménagement et de restructuration des espaces commerciaux et artisanaux (art. L325-1 à L325-4)](#57)
-        - [Chapitre VI : Etablissements publics locaux d'aménagement (art. L326-1 à L326-7)](#58)
-      - [Titre III : Dispositions financières (art. L332-6 à L332-30)](#59)
-        - [Chapitre II : Participation des constructeurs et des lotisseurs (art. L332-6 à L332-30)](#60)
-          - [Section 2 : Participations à la réalisation d'équipements publics exigibles à l'occasion de la délivrance d'autorisations de construire ou d'utiliser le sol (art. L332-6 à L332-14)](#61)
-          - [Section 3 : Equipements propres dont la réalisation peut être exigée des bénéficiaires d'autorisations d'occuper ou d'utiliser le sol (art. L332-15 à L332-16)](#62)
-          - [Section 5 : Dispositions diverses (art. L332-28 à L332-30)](#63)
-      - [Titre IV : Dispositions particulières aux départements d'outre-mer. (art. L340-1 à L340-2)](#64)
-    - [Livre IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol (art. L410-1 à L480-14)](#65)
-      - [Titre I : Certificat d'urbanisme. (art. L410-1)](#66)
-      - [Titre II : Permis de construire (art. L421-1 à L423-5)](#67)
-        - [Chapitre I : Régime général. (art. L421-1 à L421-9)](#68)
-        - [Chapitre II : Exceptions au régime général. (art. L422-1 à L422-5)](#69)
-        - [Chapitre III : Permis de construire à titre précaire. (art. L423-1 à L423-5)](#70)
-      - [Titre III : Permis de démolir. (art. L430-1 à L430-9)](#71)
-      - [TITRE IV : Dispositions relatives aux modes particuliers d'utilisation du sol (art. L441-1 à L445-4)](#72)
-        - [CHAPITRE I : Clôtures. (art. L441-1 à L441-3)](#73)
-        - [Chapitre II : Installations et travaux divers. (art. L442-1 à L442-2)](#74)
-        - [CHAPITRE III : Camping et stationnement des caravanes. (art. L443-1 à L443-3)](#75)
-        - [Chapitre V : Remontées mécaniques et aménagements de domaine skiable. (art. L445-1 à L445-4)](#76)
-      - [TITRE V :Dispositions diverses (art. L451-1 à L451-6)](#77)
-        - [Chapitre I : Dispositions propres à certaines utilisations des surfaces bâties (art. L451-1 à L451-6)](#78)
-          - [Section 1 : Cours communes. (art. L451-1 à L451-3)](#79)
-          - [Section 2 : Constructions industrielles en dehors des plans locaux d'urbanisme. (art. L451-4)](#80)
-          - [Section 3 : Création et construction de magasins de grande surface. (art. L451-5 à L451-6)](#81)
-      - [Titre VI : Contrôle. (art. L460-1 à L460-2)](#82)
-      - [Titre VII : Départements d'outre-mer. (art. L470-1)](#83)
-      - [TITRE VIII : Infractions. (art. L480-2 à L480-14)](#84)
-    - [Livre IV : Régime applicable aux constructions, aménagements et démolitions (art. L480-1)](#85)
-      - [Titre VIII : Infractions (art. L480-1)](#86)
-    - [Livre V : Implantation des services, établissements et entreprises (art. L510-1 à L550-1)](#87)
-      - [Titre Ier : Dispositions administratives générales (art. L510-1 à L510-4)](#88)
-      - [Titre II : Dispositions financières concernant la région parisienne. (art. L520-1 à L520-11)](#89)
-      - [Titre III : Implantation hors de la région parisienne de certaines activités (art. L530-1 à L530-4)](#90)
-      - [Titre IV : Construction ou aménagement des immeubles à usage industriel en vue de leur revente (art. L540-1 à L540-3)](#91)
-      - [Titre V : Sanctions (art. L550-1)](#92)
-    - [Livre VI : Dispositions relatives au contentieux de l'urbanisme (art. L600-1 à L600-4-1)](#93)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*111-1 à R*620-1)](#94)
-    - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. R*111-1 à R*160-33)](#95)
-      - [Titre Ier : Règles générales d'utilisation du sol (art. R*111-1 à R*112-2)](#96)
-        - [Chapitre Ier : Règles générales de l'urbanisme (art. R*111-1 à R*111-29)](#97)
-          - [Section 1 : Localisation et desserte des constructions. (art. **R111-3-1 à R111-14-2)](#98)
-          - [Section 2 : Implantation et volume des constructions. (art. R*111-20 à R111-19)](#99)
-          - [Section 3 : Aspect des constructions. (art. R111-21 à R111-24)](#100)
-          - [Section 4 : Dispositions diverses. (art. R111-25 à R111-26-2)](#101)
-          - [Section 5 : Directives territoriales d'aménagement et prescriptions particulières de massif (art. R*111-27 à R*111-29)](#102)
-        - [Chapitre II : Plafond légal de densité. (art. R*112-1 à R*112-2)](#103)
-      - [Titre II : Prévisions et règles d'urbanisme (art. R*121-1 à R*127-3)](#104)
-        - [Chapitre Ier : Dispositions générales communes aux documents d'urbanisme (art. R*121-1 à R*121-17)](#105)
-          - [Section 1 : Informations portées par l'Etat à la connaissance des communes ou de leurs groupements (art. R*121-1 à R*121-2)](#106)
-          - [Section 3 : Associations locales d'usagers (art. R*121-5)](#107)
-          - [Section 4 : Commission de conciliation (art. R*121-6 à R*121-13)](#108)
-          - [Section 5 : Evaluation environnementale. (art. R*121-14 à R*121-17)](#109)
-        - [Chapitre II : Schémas de cohérence territoriale (art. R*122-2 à R*122-14)](#110)
-          - [Section 1 : Contenu des schémas de cohérence territoriale (art. R*122-2 à R*122-5)](#111)
-          - [Section 2 : Elaboration et révision des schémas de cohérence territoriale (art. R*122-6 à R*122-14)](#112)
-        - [Chapitre III : Plans locaux d'urbanisme (art. R*123-1 à R*123-25)](#113)
-          - [Section 1 : Contenu des plans locaux d'urbanisme (art. R*123-1 à R*123-14)](#114)
-          - [Section 2 : Elaboration, modification, révision et mise à jour des plans locaux d'urbanisme (art. R*123-15 à R*123-25)](#115)
-        - [Chapitre IV : Cartes communales (art. R*124-1 à R*124-8)](#116)
-          - [Section 1 : Contenu des cartes communales (art. R*124-1 à R*124-3)](#117)
-          - [Section 2 : Elaboration et révision des cartes communales (art. R*124-4 à R*124-8)](#118)
-        - [Chapitre VI : Servitudes d'utilité publique affectant l'utilisation du sol. (art. R*126-1 à R*126-3)](#119)
-        - [Chapitre VII : Dispositions favorisant la diversité de l'habitat. (art. R*127-1 à R*127-3)](#120)
-      - [Titre III : Espaces boisés (art. R*130-1 à R*130-23)](#121)
-        - [Section 1 : Champ d'application de l'autorisation de coupe et d'abattage d'arbres. (art. R*130-1)](#122)
-        - [Section 2 : Utilisation du sol, défrichements, coupes et abattages d'arbres dans les espaces boisés classés (art. R*130-2 à R*130-12)](#123)
-          - [Paragraphe 1 : Présentation de la demande. (art. R*130-2 à R*130-3)](#124)
-          - [Paragraphe 2 : Instruction de la demande. (art. R*130-4)](#125)
-          - [Paragraphe 3 : Décision (art. R*130-5 à R*130-12)](#126)
-            - [I : Dispositions générales. (art. R*130-5 à R*130-8)](#127)
-            - [II : Dispositions particulières applicables dans les communes où un plan local d'urbanisme a été approuvé. (art. R*130-9 à R*130-10)](#128)
-            - [III : Dispositions particulières applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé. (art. R*130-11 à R*130-12)](#129)
-        - [Section 3 : Régime des coupes et abattages d'arbres dans les bois, forêts ou parcs situés sur le territoire de communes ou parties de communes où l'établissement d'un plan local d'urbanisme a été prescrit. (art. R*130-13 à R*130-15)](#130)
-        - [Section 4 : Compensation entre terrains boisés et terrains à bâtir et autorisation de construire sur une partie d'un terrain classé. (art. R*130-16 à R*130-19)](#131)
-        - [Section 5 : Dispositions diverses. (art. R*130-20 à R*130-23)](#132)
-      - [Titre IV : Dispositions spéciales à certaines parties du territoire (art. R*141-1 à R147-11)](#133)
-        - [Chapitre Ier : Dispositions particulières à la région d'Ile-de-France, Paris, Marseille, Lyon et aux communes issues d'une fusion comportant une ou plusieurs communes associées (art. R*141-1 à R*141-6)](#134)
-          - [Section 1 : Schéma de cohérence territoriale de la région Ile-de-France. (art. R*141-1 à R*141-2)](#135)
-          - [Section 2 : Schémas de cohérence territoriale, schémas de secteurs et plans locaux d'urbanisme en région Ile-de-France (art. R*141-3 à R*141-4)](#136)
-          - [Section 3 : Plans locaux d'urbanisme des communes de Paris, Marseille, Lyon ou des communes issues d'une fusion comportant une ou plusieurs communes associées (art. R*141-5 à R*141-6)](#137)
-        - [Chapitre II : Espaces naturels sensibles des départements (art. R142-1 à R142-19)](#138)
-          - [Section 1 : Taxe départementale des espaces naturels sensibles (art. R142-1)](#139)
-          - [Section 2 : Mesures de protection (art. R142-2 à R142-3)](#140)
-          - [Section 3 : Zones de préemption (art. R142-4 à R142-7)](#141)
-          - [Section 4 : Procédure de préemption (art. R142-8 à R142-19)](#142)
-            - [Sous-Section 1 : Cas général (art. R142-8 à R142-11)](#143)
-            - [Sous-section 2 : Cas des ventes par adjudication lorsque cette procédure est rendue obligatoire de par la loi ou le règlement (art. R142-12 à R142-14)](#144)
-            - [Sous-section 3 : Dispositions communes (art. R142-15 à R142-19)](#145)
-        - [Chapitre V : Dispositions particulières aux zones de montagne (art. R145-1 à R145-10)](#146)
-        - [Chapitre VI : Dispositions particulières au littoral (art. R*146-2 à R146-1)](#147)
-        - [Chapitre VII : Dispositions particulières aux zones de bruit des aérodromes (art. R147-1 à R147-11)](#148)
-          - [Section 1 : Détermination des valeurs d'indices à prendre en compte pour la délimitation des zones de bruit des aérodromes (art. R147-1 à R147-2)](#149)
-          - [Section 2 : Etablissement des plans d'exposition au bruit des aérodromes (art. R147-5 à R147-11)](#150)
-      - [Titre V : Départements d'outre-mer. (art. R150-1 à R150-3)](#151)
-      - [Titre VI : Sanctions et servitudes (art. R160-1 à R*160-33)](#152)
-        - [Section 1 : Assermentation des agents chargés de constater les infractions (art. R160-1 à R160-3)](#153)
-        - [Section 3 : Agrément des associations de protection et d'amélioration du cadre de vie et de l'environnement (art. R*160-7)](#154)
-        - [Section 4 : Servitudes de passage sur le littoral (art. R*160-8 à R*160-33)](#155)
-          - [Sous-section 1 : Détermination du tracé et des caractéristiques de la servitude de passage longitudinale mentionnée à l'article L. 160-6 (art. R*160-8 à R*160-15)](#156)
-          - [Sous-section 2 : Détermination du tracé et des caractéristiques de la servitude de passage transversale mentionnée à l'article L. 160-6-1 (art. R*160-16 à R*160-16-1)](#157)
-          - [Sous-section 3 : Dispositions communes aux servitudes de passage sur le littoral (art. R*160-17 à R*160-33)](#158)
-    - [Livre II : Préemption et réserves foncières (art. R*211-1 à R216-1)](#159)
-      - [Titre Ier : Droits de préemption (art. R*211-1 à R216-1)](#160)
-        - [Chapitre Ier : Droit de préemption urbain (art. R*211-1 à R211-8)](#161)
-        - [Chapitre II : Zones d'aménagement différé et périmètres provisoires (art. R212-1 à R212-6)](#162)
-        - [Chapitre III : Dispositions communes au droit de préemption urbain, aux zones d'aménagement différé et aux périmètres provisoires (art. R213-1 à R213-30)](#163)
-          - [Section 1 : Délégation du droit de préemption (art. R213-1 à R213-3)](#164)
-          - [Section 2 : Procédure de préemption (art. R213-4 à R213-15)](#165)
-            - [Sous-section 1 : Cas général (art. R213-4 à R213-13)](#166)
-            - [Sous-section 2 : Cas de ventes par adjudication lorsque cette procédure est rendue obligatoire de par la loi ou le règlement (art. R213-14 à R213-15)](#167)
-          - [Section 3 : Utilisation des biens acquis par la voie de la préemption (art. R213-16 à R213-20)](#168)
-          - [Section 4 : Dispositions diverses (art. R213-21 à R213-26)](#169)
-          - [Section 5 : Dispositions particulières applicables aux communes de Paris, Marseille et Lyon ainsi qu'aux communes issues d'une fusion comportant création d'une ou plusieurs communes associées (art. R213-27 à R213-30)](#170)
-        - [CHAPITRE VI : Dispositions particulières aux jardins familiaux (art. R216-1)](#171)
-    - [Livre III : Aménagement foncier (art. R300-1 à R340-6)](#172)
-      - [Titre Ier : Opérations d'aménagement (art. R*311-1 à R*318-22)](#173)
-        - [Chapitre Ier : Zones d'aménagement concerté (art. R*311-1 à R*311-12)](#174)
-          - [Section 1 : Création des zones d'aménagement concerté (art. R*311-1 à R*311-5)](#175)
-          - [Section 2 : Réalisation des zones d'aménagement concerté (art. R*311-6 à R*311-11)](#176)
-          - [Section 3 : Suppression ou modification d'une zone d'aménagement concerté (art. R*311-12)](#177)
-        - [Chapitre III : Restauration immobilière et secteurs sauvegardés (art. R313-1 à R313-38)](#178)
-          - [Section 1 : Secteurs sauvegardés (art. R313-1 à R313-23)](#179)
-            - [Sous-section 1 : Création des secteurs sauvegardés (art. R313-1 à R313-4)](#180)
-            - [Sous-section 2 : Instruction du plan de sauvegarde et de mise en valeur (art. R*313-6 à R313-9)](#181)
-            - [Sous-section 3 : Contenu du plan de sauvegarde et de mise en valeur (art. R313-11)](#182)
-            - [Sous-section 4 : Effets du plan de sauvegarde et de mise en valeur (art. R*313-14 à R313-19-6)](#183)
-              - [Paragraphe 1 : Mesures applicables entre la délimitation du secteur sauvegardé et la publication du plan de sauvegarde et de mise en valeur (art. R*313-14 à R313-18)](#184)
-              - [Paragraphe 2 : Mesures applicables une fois le plan de sauvegarde et de mise en valeur rendu public (art. R313-19 à R313-19-6)](#185)
-            - [Sous-section 5 : Modification, révision et mise à jour du plan de sauvegarde (art. R313-20 à R313-20-2)](#186)
-            - [Sous-section 6 : Dispositions diverses (art. R313-21 à R313-23)](#187)
-          - [Section 2 : Restauration immobilière (art. R*313-24 à R313-32)](#188)
-          - [Section 3 : Visite des bâtiments par des hommes de l'art (art. R313-33 à R313-37)](#189)
-          - [Section 4 : Prestation de serment des hommes de l'art (art. R313-38)](#190)
-        - [CHAPITRE V : Lotissements et divisions de propriété (art. R*315-1 à R315-61)](#191)
-          - [Section 1 : Dispositions générales relatives aux lotissements (art. R*315-1 à R*315-3)](#192)
-          - [Section 2 : Présentation, dépôt et transmission de la demande d'autorisation (art. R*315-4 à R*315-11)](#193)
-          - [Section 3 : Instruction des demandes (art. R*315-15 à R*315-25-4)](#194)
-            - [Paragraphe 1 : Dispositions applicables dans l'ensemble des communes (art. R*315-15 à R*315-21-1)](#195)
-            - [Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme a été approuvé. (art. R*315-22 à R*315-25)](#196)
-            - [Paragraphe 3 : Dispositions applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé. (art. R*315-25-1 à R*315-25-4)](#197)
-          - [Section 4 : Décision (art. R*315-26 à R*315-31-4)](#198)
-            - [Paragraphe 1 : Dispositions générales (art. R*315-26 à R*315-31)](#199)
-            - [Paragraphe 2 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme a été approuvé. (art. R*315-31-1 à R*315-31-3)](#200)
-            - [Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé (art. R*315-31-4)](#201)
-          - [Section 5 : Cession des lots et édification des constructions (art. R*315-32 à R*315-39-1)](#202)
-          - [Section 6 : Dispositions diverses (art. R*315-40 à R*315-44)](#203)
-          - [Section 7 : Modifications apportées aux documents du lotissement et subdivisions de lots provenant d'un lotissement (art. R*315-44-1 à R315-52)](#204)
-          - [Section 8 : Modalités d'incorporation au plan local d'urbanisme du règlement des lotissements (art. R315-53)](#205)
-          - [Section 9 : Dispositions en vue de l'implantation de bâtiments qui ne constituent pas des lotissements (art. R*315-54)](#206)
-          - [Section 10 : Divisions soumises à déclaration préalable (art. R315-55 à R315-61)](#207)
-        - [CHAPITRE VI : Sanctions relatives aux lotissements (art. R*316-2 à R316-1)](#208)
-        - [CHAPITRE VII : Amélioration de certains lotissements (art. R317-1 à R317-54)](#209)
-          - [Section 1 : Dispositions générales (art. R317-1 à R317-2)](#210)
-          - [Section 2 : Associations syndicales et comités syndicaux (art. R317-3 à R317-18)](#211)
-            - [Paragraphe 1 : Associations syndicales (art. R317-3 à R317-8)](#212)
-            - [Paragraphe 2 : Comités syndicaux (art. R317-9 à R317-17)](#213)
-            - [Paragraphe 3 : Des syndicats et des syndics de la loi du 22 juillet 1912 (art. R317-18)](#214)
-          - [Section 3 : Caisses départementales de prêts (art. R317-19 à R317-35)](#215)
-            - [Paragraphe 1 : Création et administration (art. R317-19 à R317-29)](#216)
-            - [Paragraphe 2 : Prêts de la caisse départementale (art. R317-30 à R317-35)](#217)
-          - [Section 4 : Subventions de l'Etat (art. R317-36 à R317-40)](#218)
-          - [Section 5 : Dispositions communes aux prêts et aux subventions (art. R317-41 à R317-43)](#219)
-          - [Section 6 : Exécution des travaux (art. R317-44 à R317-47)](#220)
-          - [Section 7 : Action en responsabilité (art. R317-48 à R317-54)](#221)
-        - [Chapitre VIII : Dispositions relatives à certaines opérations (art. R*318-1 à R*318-22)](#222)
-          - [Section 1 : Déclassements et transferts de propriété (art. R*318-1 à R*318-11)](#223)
-          - [Section 4 : Dispositions particulières à certaines opérations (art. R*318-14 à R318-15)](#224)
-          - [Section 5 : Dispositions applicables aux communes de Paris, Marseille et Lyon ainsi qu'aux communes issues d'une fusion et comportant une ou plusieurs communes associées (art. R*318-16 à R*318-22)](#225)
-      - [Titre II : Organismes d'exécution (art. R*321-1 à R325-10)](#226)
-        - [Chapitre I : Sociétés d'économie mixte et établissements publics (art. R*321-1 à R*321-25)](#227)
-          - [Section 1 : Opérations d'aménagement (art. R*321-1)](#228)
-          - [Section 2 : Modalités de constitution et de fonctionnement des établissements publics et des sociétés d'économie mixte (art. R*321-2 à R*321-25)](#229)
-            - [Paragraphe 1 : Etablissements publics (art. R*321-2 à R321-4)](#230)
-            - [Paragraphe 2 : Sociétés d'économie mixte (art. R*321-16)](#231)
-            - [Paragraphe 3 : Dispositions communes (art. R*321-20 à R*321-25)](#232)
-        - [Chapitre II : Associations foncières urbaines (art. R*322-1 à R322-40)](#233)
-          - [Section 1 : Dispositions générales (art. R*322-2 à R*322-5)](#234)
-          - [Section 2 : Dispositions concernant les associations foncières urbaines de remembrement (art. R*322-6 à R*322-24)](#235)
-            - [Paragraphe 1 : Constitution de l'association autorisée (art. R*322-6)](#236)
-            - [Paragraphe 2 : Redistribution parcellaire et fixation de l'état nouveau (art. R*322-7 à R*322-19)](#237)
-            - [Paragraphe 3 : Mesures de publicité foncière (art. R*322-20 à R*322-22)](#238)
-            - [Paragraphe 4 : Dispositions concernant les associations foncières urbaines de remembrement constituées d'office (art. R*322-23 à R*322-24)](#239)
-          - [Section 3 : Dispositions relatives aux associations foncières urbaines de groupement de parcelles (art. R*322-25 à R*322-30)](#240)
-            - [Paragraphe 1 : Constitution des associations autorisées (art. R*322-25)](#241)
-            - [Paragraphe 2 : Modalités de groupement de parcelles (art. R*322-26 à R*322-28-3)](#242)
-            - [Paragraphe 3 : Dispositions spéciales (art. R*322-29 à R*322-30)](#243)
-          - [Section 4 : Dispositions concernant les associations foncières urbaines de conservation, de restauration et de mise en valeur des secteurs sauvegardés ainsi que de restauration immobilière (art. R*322-31 à R*322-33)](#244)
-            - [Paragraphe 1 : Associations autorisées (art. R*322-31 à R*322-32)](#245)
-            - [Paragraphe 2 : Associations constituées d'office (art. R*322-33)](#246)
-          - [Section 5 : Commission consultative (art. R322-34 à R322-37)](#247)
-          - [Section 6 : Dispositions diverses (art. R322-38 à R322-40)](#248)
-        - [Chapitre IV : Etablissements publics fonciers (art. R324-1 à R324-15)](#249)
-          - [Section 1 : Création et compétences de l'établissement public foncier (art. R324-1 à R324-4)](#250)
-          - [Section 2 : Administration et fonctionnement de l'établissement public foncier (art. R324-5 à R324-11)](#251)
-          - [Section 3 : Modification des conditions initiales de composition et de fonctionnement de l'établissement public foncier (art. R324-12 à R324-13)](#252)
-          - [Section 4 : Transformation d'un établissement public de coopération intercommunale à vocation unique foncière en établissement public foncier (art. R324-14)](#253)
-          - [Section 5 : Dissolution de l'établissement public foncier (art. R324-15)](#254)
-        - [Chapitre V : Etablissement public national d'aménagement et de restructuration des espaces commerciaux et artisanaux (art. R325-1 à R325-10)](#255)
-          - [Section 1 : Organisation administrative (art. R325-1 à R325-7)](#256)
-          - [Section 2 : Organisation financière (art. R325-8 à R325-9)](#257)
-          - [Section 3 : Contrôle de l'établissement (art. R325-10)](#258)
-      - [Titre III : Dispositions financières (art. R*331-1 à R*333-33)](#259)
-        - [CHAPITRE I : Fonds national d'aménagement foncier et d'urbanisme (art. R*331-1 à R*331-17)](#260)
-          - [Section 1 : Dispositions générales (art. R*331-1)](#261)
-          - [Section 2 : Avances (art. R*331-2 à R*331-4)](#262)
-          - [Section 3 : Bonifications d'intérêt (art. R*331-5 à R*331-7)](#263)
-          - [Section 4 : Opérations réalisées par l'Etat (art. R*331-8 à R*331-12)](#264)
-          - [Section 5 : Opérations en participation (art. R*331-13 à R*331-15)](#265)
-          - [Section 6 : Dispositions communes (art. R*331-16 à R*331-17)](#266)
-        - [Chapitre II : Participation des constructeurs et des lotisseurs (art. R*332-1 à R332-41)](#267)
-          - [Section 1 : Participation en cas de dépassement du coefficient d'occupation du sol (art. R*332-1 à R*332-14)](#268)
-          - [Section 2 : Autres participations (art. R*332-15 à R*332-25)](#269)
-            - [Sous-section 1 : Cessions de terrains ou de locaux (art. R*332-15 à R*332-16)](#270)
-            - [Sous-section 2 : Participation en cas de non-réalisation d'aires de stationnement (art. R*332-17 à R*332-23)](#271)
-            - [Sous-section 3 : Participation à la réalisation d'équipements publics instituée dans les secteurs d'aménagement (art. R*332-25)](#272)
-          - [Section 5 : Dispositions diverses (art. R*332-42 à R332-41)](#273)
-        - [Chapitre III : Versement résultant du dépassement du plafond légal de densité (art. R*333-1 à R*333-33)](#274)
-          - [Section 1 : Dispositions générales (art. R*333-1 à R*333-13-1)](#275)
-          - [Section 2 : Application du plafond légal de densité dans les zones d'aménagement concerté, les zones de rénovation urbaine et les zones de résorption de l'habitat insalubre (art. R*333-14 à R*333-33)](#276)
-            - [Sous-section 1 : Dispositions communes (art. R*333-14 à R*333-16)](#277)
-            - [Sous-section 2 : Zones dont l'aménagement est réalisé en régie directe (art. R*333-17 à R*333-23)](#278)
-            - [Sous-section 3 : Zones dont l'aménagement n'est pas réalisé en régie directe (art. R*333-24 à R*333-33)](#279)
-      - [Titre IV : Départements d'outre-mer (art. R340-1 à R340-6)](#280)
-    - [Livre IV : Régime applicable aux constructions, aménagements et démolitions (art. R*443-6 à R480-5)](#281)
-      - [Titre IV : Dispositions propres aux aménagements (art. R*443-6 à R443-9)](#282)
-        - [Chapitre III : Dispositions propres aux terrains de camping et aux autres terrains aménagés pour l'hébergement touristique (art. R*443-6 à R443-9)](#283)
-          - [Section 2 : Permis d'aménager (art. R*443-6)](#284)
-          - [Section 3 : Dispositions applicables dans les zones soumises à un risque naturel ou technologique prévisible (art. R*443-10 à R443-9)](#285)
-      - [Titre VIII : Sanctions (art. R480-3 à R480-5)](#286)
-    - [LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol (art. R*410-1 à R490-8)](#287)
-      - [TITRE I : Certificat d'urbanisme (art. R*410-1 à R*410-24)](#288)
-        - [Section 1 : Présentation, dépôt et transmission de la demande. (art. R*410-1 à R*410-3)](#289)
-        - [Section 2 : Instruction de la demande (art. R*410-4 à R*410-8)](#290)
-          - [Paragraphe 1 : Dispositions applicables dans l'ensemble des communes. (art. R*410-4)](#291)
-          - [Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme ou une carte communale a été approuvé, à l'exception de celles qui ont pris la délibération mentionnée au premier alinéa de l'article L. 421-2-1 (art. R*410-5 à R*410-7)](#292)
-          - [Paragraphe 3 : Dispositions applicables dans les autres communes (art. R*410-8)](#293)
-        - [Section 3 : Délivrance (art. R*410-9 à R*410-23)](#294)
-          - [Paragraphe 1 : Dispositions applicables dans l'ensemble des communes. (art. R*410-9 à R*410-18)](#295)
-          - [Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme ou une carte communale a été approuvé, à l'exception de celles qui ont pris la délibération mentionnée au premier alinéa de l'article L. 421-2-1 (art. R*410-19 à R*410-21)](#296)
-          - [Paragraphe 3 : Dispositions applicables dans les autres communes (art. R*410-22 à R*410-23)](#297)
-        - [Section 4 : Dispositions diverses. (art. R*410-24)](#298)
-      - [TITRE II : Permis de construire (art. R421-1 à R*424-3)](#299)
-        - [CHAPITRE I : Régime général (art. R421-1 à R421-58)](#300)
-          - [Section 1 : Présentation de la demande. (art. R*421-1-2 à R421-8)](#301)
-          - [Section 2 : Dépôt et transmission de la demande (art. R*421-10 à R421-11)](#302)
-          - [Section 3 : Instruction de la demande (art. R*421-12 à R*421-28)](#303)
-            - [Paragraphe 1 : Dispositions applicables dans l'ensemble des communes. (art. R*421-12 à R421-20)](#304)
-            - [Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme a été approuvé. (art. R*421-21 à R421-24)](#305)
-            - [Paragraphe 3 : Dispositions applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé. (art. R*421-25 à R*421-28)](#306)
-          - [Section 4 : Décision (art. R*421-29 à R*421-38)](#307)
-            - [Paragraphe 1 : Dispositions générales. (art. R*421-29 à R*421-32)](#308)
-            - [Paragraphe 2 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme a été approuvé. (art. R*421-33 à R*421-35)](#309)
-            - [Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé. (art. R*421-36 à R*421-38)](#310)
-          - [Section 5 : Dispositions applicables aux constructions et travaux soumis au régime du permis de construire et à un autre régime d'autorisation (art. R421-38-1 à R421-38-20)](#311)
-            - [A - Protection des monuments historiques, des sites et de l'environnement (art. R*421-38-4 à R421-38-10-1)](#312)
-            - [B - Protection d'ouvrages militaires, maritimes et aériens. (art. R*421-38-11 à R*421-38-13)](#313)
-            - [C - Dispositions relatives aux eaux intérieures et aux périmètres submersibles. (art. R*421-38-15 à R421-38-16)](#314)
-            - [D - Réserve en bordure du domaine public maritime (art. R*421-38-17)](#315)
-            - [E - Zones agricoles protégées (art. R421-38-18)](#316)
-            - [F - Zone de servitude à proximité d'un cimetière (art. R421-38-19)](#317)
-            - [G - Accessibilité des établissements recevant du public aux personnes handicapées. (art. R421-38-20)](#318)
-          - [Section 6 : Formalités postérieures à la délivrance du permis de construire (art. R*421-39 à R*421-40)](#319)
-          - [Section 7 : Dispositions diverses (art. R*421-41 à R421-58)](#320)
-            - [Paragraphe 1 : Dispositions diverses (art. R*421-41 à R*421-42)](#321)
-            - [Paragraphe 2 : Dispositions particulières aux immeubles de grande hauteur (art. R421-47 à R421-50)](#322)
-            - [Paragraphe 3 : Dispositions particulières aux immeubles situés au voisinage d'installations classées (art. R*421-52)](#323)
-            - [Paragraphe 4 : Dispositions particulières aux établissements recevant du public. (art. R421-53)](#324)
-            - [Paragraphe 5 : Dispositions relatives à la modification du présent chapitre (art. R421-58)](#325)
-        - [CHAPITRE II : Exceptions au régime général (art. R*422-1 à R422-4)](#326)
-        - [CHAPITRE IV : Dispositions générales relatives aux impositions dont la délivrance du permis de construire constitue le fait générateur. (art. R*424-1 à R*424-3)](#327)
-      - [TITRE III : Permis de démolir (art. R*430-1 à R*430-27)](#328)
-        - [Section 1 : La demande (art. R*430-1 à R*430-6)](#329)
-        - [Section 2 : L'instruction (art. R*430-7 à R*430-11)](#330)
-          - [Paragraphe 1 : Dispositions applicables dans l'ensemble des communes. (art. R*430-7 à R*430-10)](#331)
-          - [Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme a été approuvé. (art. R*430-10-1 à R*430-10-5)](#332)
-          - [Paragraphe 3 : Dispositions applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé. (art. R*430-10-6 à R*430-11)](#333)
-        - [Section 3 : La décision (art. R*430-12 à R*430-15-7)](#334)
-          - [Paragraphe 1 : Dispositions générales (art. R*430-12 à R*430-15)](#335)
-          - [Paragraphe 2 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme a été approuvé. (art. R*430-15-1 à R*430-15-3)](#336)
-          - [Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé. (art. R*430-15-4 à R*430-15-7)](#337)
-        - [Section 4 : Formalités postérieures à la délivrance du permis de démolir (art. R*430-16 à R*430-20)](#338)
-        - [Section 5 : Dispositions particulières aux immeubles menaçant ruine et aux immeubles insalubres (art. R*430-26 à R*430-27)](#339)
-      - [Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol. (art. R*441-1 à R446-1)](#340)
-        - [CHAPITRE I : Clôture (art. R*441-1 à R*441-11)](#341)
-        - [CHAPITRE II : Installations et travaux divers (art. R442-1 à R442-13)](#342)
-          - [Section 1 : Champ d'application de la règlementation (art. R442-1 à R442-3-1)](#343)
-          - [Section 2 : Présentation, dépôt et transmission de la demande (art. R*442-4 à R442-4-2)](#344)
-          - [Section 3 : Instruction de la demande (art. R442-4-4 à R442-4-17)](#345)
-            - [Paragraphe 1 : Dispositions applicables dans l'ensemble des communes. (art. R442-4-4 à R442-4-9)](#346)
-            - [Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme a été approuvé. (art. R442-4-10 à R442-4-13)](#347)
-            - [Paragraphe 3 : Dispositions applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé. (art. R442-4-14 à R442-4-17)](#348)
-          - [Section 4 : Décision (art. R*442-5 à R*442-6-6)](#349)
-            - [Paragraphe 1 : Dispositions générales (art. R*442-5 à R442-6)](#350)
-            - [Paragraphe 2 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme a été approuvé. (art. R*442-6-1 à R*442-6-3)](#351)
-            - [Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé. (art. R*442-6-4 à R*442-6-6)](#352)
-          - [Section 5 : Formalités postérieures à la délivrance de l'autorisation. (art. R442-8)](#353)
-          - [Section 6 : Dispositions particulières (art. R*442-9 à R442-13)](#354)
-        - [CHAPITRE III : Camping et stationnement des caravanes (art. R443-1 à R*443-16)](#355)
-          - [Section 1 : Camping et stationnement des caravanes hors terrain aménagé (art. R*443-3 à R*443-6-4)](#356)
-            - [Paragraphe 1 : Stationnement des caravanes (art. R*443-3 à R*443-5-3)](#357)
-            - [Paragraphe 2 : Camping (art. R*443-6-1 à R*443-6-4)](#358)
-          - [Section 2 : Terrains aménagés pour l'accueil des campeurs et des caravanes (art. R*443-7 à R443-8-5)](#359)
-            - [Paragraphe 1 : Terrains aménagés permanents (art. R*443-7 à R*443-8)](#360)
-            - [Paragraphe 2 : Terrains aménagés saisonniers (art. R*443-8-1)](#361)
-            - [Paragraphe 3 : Dispositions communes à la section 2 (art. R*443-8-2 à R443-8-5)](#362)
-          - [Section 3 : Dispositions générales (art. R*443-9-1 à R*443-16)](#363)
-        - [CHAPITRE IV : Habitations légères de loisirs (art. R*444-1 à R*444-4)](#364)
-        - [CHAPITRE V : Remontées mécaniques et aménagements de domaine skiable (art. R445-1 à R445-16)](#365)
-          - [Section 1 : Remontées mécaniques (art. R445-1 à R445-9)](#366)
-            - [Sous-section 1 : Autorisation d'exécution des travaux (art. R445-1 à R445-5)](#367)
-            - [Sous-section 2 : Autorisation de mise en exploitation des remontées mécaniques (art. R445-6 à R445-9)](#368)
-          - [Section 2 : Aménagements de domaine skiable (art. R445-10 à R445-14)](#369)
-          - [Section 3 : Dispositions diverses (art. R445-15 à R445-16)](#370)
-        - [CHAPITRE VI : Dispositions diverses (art. R*446-2 à R446-1)](#371)
-      - [TITRE V : Dispositions diverses (art. R451-1 à R451-4)](#372)
-        - [CHAPITRE I : Dispositions propres à certaines utilisations de surfaces bâties (art. R451-1 à R451-4)](#373)
-          - [Section 1 : Cours communes (art. R451-1 à R451-4)](#374)
-      - [TITRE VI : Contrôle (art. R*460-3-1 à R460-7)](#375)
-        - [Section 1 : Déclaration d'achèvement des travaux et certificat de conformité (art. R*460-3-1 à R460-6)](#376)
-        - [Section 2 : Dispositions spéciales aux immeubles de grande hauteur. (art. R460-7)](#377)
-      - [TITRE VIII : Sanctions. (art. R*480-7 à R480-2)](#378)
-      - [TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres Ier à IV et VI du présent livre (art. R*490-1 à R490-8)](#379)
-    - [Livre V : Implantation des services, établissements et entreprises (art. R*510-1 à R550-1)](#380)
-      - [Titre Ier : Dispositions administratives générales (art. R*510-1 à R*510-15)](#381)
-      - [Titre II : Dispositions financières concernant la région parisienne (art. R520-1 à R*520-12)](#382)
-        - [Section 1 : Dispositions générales (art. R520-1 à R520-11)](#383)
-        - [Section 2 : Montant des redevances (art. R*520-12)](#384)
-      - [Titre III : Implantation hors de la région parisienne de certaines activités (art. R530-3 à R530-5)](#385)
-      - [Titre V : Sanctions (art. R550-1)](#386)
-    - [Livre VI : Dispositions relatives au contentieux de l'urbanisme et dispositions diverses (art. R*600-1 à R*620-1)](#387)
-      - [Titre II : Dispositions diverses (art. R*620-1)](#388)
-  - [Partie réglementaire - Arrêtés (art. A121-4 à A614-4)](#389)
-    - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. A121-4 à A160-1)](#390)
-      - [Titre  II : Prévisions et règles d'urbanisme (art. A121-4 à A126-1)](#391)
-        - [Chapitre Ier : Dispositions générales communes aux schémas directeurs et aux plans d'occupation des sols (art. A121-4)](#392)
-        - [Chapitre  III : Plans d'occupation des sols (art. A123-1 à A123-2)](#393)
-          - [Section 3 : Contenu du plan d'occupation des sols (art. A123-1 à A123-2)](#394)
-        - [Chapitre  VI : Servitudes d'utilité publique affectant l'utilisation du sol (art. A126-1)](#395)
-      - [Titre  III : Espaces boisés (art. A130-1 à A130-3)](#396)
-      - [Titre  IV : Dispositions spéciales à certaines parties du territoire (art. A142-1)](#397)
-        - [Chapitre  II : Espaces naturels sensibles des départements (art. A142-1)](#398)
-      - [Titre  VI : Sanctions et servitudes (art. A160-1)](#399)
-        - [Section 3 : Agrément des associations exerçant leurs activités dans le domaine de la protection de la nature et de l'environnement et de l'amélioration du cadre de vie (art. A160-1)](#400)
-    - [Livre  II : Préemption et réserves foncières (art. A211-1 à A214-1)](#401)
-      - [Titre  Ier : Droits de préemption (art. A211-1 à A214-1)](#402)
-        - [Chapitre  Ier : Droit de préemption urbain (art. A211-1)](#403)
-        - [Chapitre  II : Zones d'aménagement différé (art. A212-1)](#404)
-        - [Chapitre  III : Dispositions communes au droit de préemption urbain et aux zones d'aménagement différé (art. A213-1)](#405)
-        - [CHAPITRE IV : Dispositions communes aux zones d'aménagement différé et aux périmètres provisoires de zones d'aménagement différé créés avant le 1er juin 1987 (art. A214-1)](#406)
-    - [Livre  III : Aménagement foncier (art. A315-2 à A332-1)](#407)
-      - [Titre Ier : Opérations d'aménagement (art. A315-2 à A315-5)](#408)
-        - [CHAPITRE V : Lotissements (art. A315-2 à A315-5)](#409)
-      - [Titre  III : Dispositions financières (art. A332-1)](#410)
-        - [Chapitre  II : Participation des constructeurs et des lotisseurs (art. A332-1)](#411)
-    - [LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol (art. A410-1 à A490-1)](#412)
-      - [TITRE I : Certificat d'urbanisme. (art. A410-1 à A410-3)](#413)
-      - [TITRE II : Permis de construire (art. A421-1 à A424-6)](#414)
-        - [CHAPITRE I : Régime général (art. A421-1 à A421-9)](#415)
-          - [Section 1 : Présentation de la demande. (art. A421-1 à A421-3)](#416)
-          - [Section 4 : Décision (art. A421-6-1)](#417)
-          - [Section 6 : Formalités postérieures à la délivrance du permis de construire. (art. A421-7 à A421-9)](#418)
-        - [CHAPITRE II : Exceptions au régime général (art. A422-1 à A422-2)](#419)
-          - [Section 1 : Déclarations de travaux exemptés du permis de construire. (art. A422-1 à A422-1-2)](#420)
-          - [Section 2 : Grands camps à l'intérieur desquels les constructions et installations sont exemptées du permis de construire (art. A422-2)](#421)
-        - [CHAPITRE IV : Etablissement de l'assiette et liquidation des impositions dont le permis de construire constitue le fait générateur (art. A424-1 à A424-6)](#422)
-          - [Section 1 : Déconcentration auprès du maire. (art. A424-1 à A424-6)](#423)
-      - [TITRE III : Permis de démolir (art. A430-1 à A430-4)](#424)
-        - [Section 1 : La demande (art. A430-1 à A430-2)](#425)
-        - [Section 4 : Formalités postérieures à la délivrance du permis de démolir. (art. A430-3 à A430-4)](#426)
-      - [Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol. (art. A441-1 à A443-9)](#427)
-        - [CHAPITRE I : Clôture (art. A441-1 à A441-2)](#428)
-        - [CHAPITRE II : Installations et travaux divers. (art. A442-1 à A442-3)](#429)
-          - [Section 2 : Présentation, dépôt et transmission de la demande (art. A442-1)](#430)
-          - [Section 5 : Formalités postérieures à la délivrance de l'autorisation. (art. A442-2 à A442-3)](#431)
-        - [CHAPITRE III : Stationnement des caravanes (art. A443-1 à A443-9)](#432)
-          - [Paragraphe 1 : Stationnement en dehors des terrains aménagés (art. A443-1 à A443-4)](#433)
-          - [Paragraphe 2 : Stationnement sur des terrains aménagés (art. A443-6 à A443-9)](#434)
-      - [TITRE VI : Contrôle (art. A460-1 à A460-2)](#435)
-        - [Section 1 : Déclaration d'achèvement des travaux et certificat de conformité. (art. A460-1 à A460-2)](#436)
-      - [TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres Ier à IV et VI du présent livre (art. A490-1)](#437)
-    - [Livre  V : Implantation des services, établissements et entreprises (art. A510-1 à A520-11)](#438)
-      - [TITRE I : Dispositions administratives générales. (art. A510-1 à A510-8)](#439)
-      - [Titre  II : Dispositions financières concernant la région d'Ile-de-France (art. A520-1 à A520-11)](#440)
-        - [Section 1 : Dispositions générales (art. A520-1 à A520-11)](#441)
-          - [Sous-section 1 : Perception des redevances (art. A520-1 à A520-3)](#442)
-          - [Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance (art. A520-4 à A520-11)](#443)
-    - [Livre  VI : Organismes consultatifs et dispositions diverses (art. A614-1 à A614-4)](#444)
-      - [Titre Ier : Organismes consultatifs (art. A614-1 à A614-4)](#445)
-        - [Chapitre  IV : Architectes-conseils et paysagistes-conseils (art. A614-1 à A614-4)](#446)
-  - [Annexes (art. R*126-1, Annexe à R127-3, Annexe 2)](#447)
-    - [Liste des servitudes d'utilité publique affectant l'utilisation du sol. (art. R*126-1, Annexe)](#448)
-    - [Liste des communes comprises dans la zone 1 (art. R127-3, Annexe 1)](#449)
-    - [Liste des communes comprises dans la zone 2 (art. R127-3, Annexe 2)](#450)
+        - [Chapitre VIII : Dispositions favorisant la performance énergétique et les énergies renouvelables dans l'habitat (art. L128-1 à L128-2)](#15)
+      - [Titre III : Espaces boisés. (art. L130-1 à L130-6)](#16)
+      - [Titre IV : Dispositions particulières à certaines parties du territoire (art. L141-1 à L147-8)](#17)
+        - [Chapitre Ier : Dispositions particulières à Paris et à la région d'Ile-de-France (art. L141-1 à L141-2)](#18)
+          - [Section 1 : Schéma directeur. (art. L141-1 à L141-2)](#19)
+        - [Chapitre II : Espaces naturels sensibles des départements. (art. L*142-2 à L142-13)](#20)
+        - [Chapitre III : Protection et mise en valeur des espaces agricoles et naturels périurbains. (art. L143-1 à L143-6)](#21)
+        - [Chapitre V : Dispositions particulières aux zones de montagne. (art. L145-1 à L145-13)](#22)
+          - [Section 1 : Principes d'aménagement et de protection en zone de montagne. (art. L145-3 à L145-8)](#23)
+          - [Section 2 : Unités touristiques nouvelles. (art. L145-9 à L145-13)](#24)
+        - [Chapitre VI : Dispositions particulières au littoral. (art. L146-1 à L146-9)](#25)
+        - [Chapitre VII : dispositions particulières aux zones de bruit des aérodromes. (art. L147-1 à L147-8)](#26)
+      - [Titre V : Application aux départements d'outre-mer (art. L150-1 à L156-4)](#27)
+        - [Chapitre VI : Dispositions particulières au littoral dans les départements d'outre-mer. (art. L156-1 à L156-4)](#28)
+      - [Titre VI : Sanctions et servitudes. (art. L160-1 à L160-8)](#29)
+    - [Livre II : Préemption et réserves foncières (art. L210-1 à L230-6)](#30)
+      - [Titre Ier : Droits de préemption (art. L210-1 à L216-1)](#31)
+        - [Chapitre Ier : Droit de préemption urbain (art. L211-1 à L211-7)](#32)
+        - [Chapitre II : Zones d'aménagement différé et périmètres provisoires (art. L212-1 à L212-5)](#33)
+        - [Chapitre III : Dispositions communes au droit de préemption urbain, aux zones d'aménagement différé et aux périmètres provisoires (art. L213-1 à L213-18)](#34)
+        - [Chapitre VI : Dispositions particulières aux jardins familiaux (art. L216-1)](#35)
+      - [Titre II : Réserves foncières (art. L221-1 à L221-3)](#36)
+        - [Chapitre Ier : Réserves foncières (art. L221-1 à L221-3)](#37)
+      - [Titre III : Droits de délaissement (art. L230-1 à L230-6)](#38)
+    - [Livre III : Aménagement foncier (art. L300-1 à L340-2)](#39)
+      - [Titre Ier : Opérations d'aménagement (art. L311-1 à L318-9)](#40)
+        - [Chapitre Ier : Zones d'aménagement concerté (art. L311-1 à L311-8)](#41)
+        - [Chapitre III : Restauration immobilière et secteurs sauvegardés (art. L313-1 à L313-15)](#42)
+          - [Section 1 : Secteurs sauvegardés (art. L313-1 à L313-3)](#43)
+          - [Section 2 : Restauration immobilière (art. L313-4 à L313-4-3)](#44)
+          - [Section 3 : Dispositions communes (art. L313-5 à L313-15)](#45)
+        - [Chapitre IV : Protection des occupants (art. L314-1 à L314-9)](#46)
+        - [Chapitre V : Lotissements. (art. L315-1 à L315-9)](#47)
+        - [Chapitre VI : Sanctions pénales relatives aux lotissements. (art. L316-1 à L316-4)](#48)
+        - [Chapitre VIII : Dispositions relatives à certaines opérations (art. L318-1 à L318-9)](#49)
+          - [Section 1 : Déclassements et transferts de propriété (art. L318-1 à L318-4)](#50)
+          - [Section 2 : Opérations de réhabilitation de l'immobilier de loisir (art. L318-5)](#51)
+          - [Section 3 : Dispositions particulières aux commerçants et artisans (art. L318-8)](#52)
+          - [Section 4 : Dispositions particulières. (art. L318-9)](#53)
+      - [Titre II : Organismes d'exécution (art. L321-1 à L326-7)](#54)
+        - [Chapitre I : Etablissements publics fonciers et d'aménagement. (art. L321-1 à L321-9)](#55)
+        - [Chapitre II : Associations foncières urbaines (art. L322-1 à L322-11)](#56)
+        - [Chapitre IV : Etablissements publics fonciers locaux (art. L324-1 à L324-10)](#57)
+        - [Chapitre V : Etablissement public d'aménagement et de restructuration des espaces commerciaux et artisanaux (art. L325-1 à L325-4)](#58)
+        - [Chapitre VI : Etablissements publics locaux d'aménagement (art. L326-1 à L326-7)](#59)
+      - [Titre III : Dispositions financières (art. L332-6 à L332-30)](#60)
+        - [Chapitre II : Participation des constructeurs et des lotisseurs (art. L332-6 à L332-30)](#61)
+          - [Section 2 : Participations à la réalisation d'équipements publics exigibles à l'occasion de la délivrance d'autorisations de construire ou d'utiliser le sol (art. L332-6 à L332-14)](#62)
+          - [Section 3 : Equipements propres dont la réalisation peut être exigée des bénéficiaires d'autorisations d'occuper ou d'utiliser le sol (art. L332-15 à L332-16)](#63)
+          - [Section 5 : Dispositions diverses (art. L332-28 à L332-30)](#64)
+      - [Titre IV : Dispositions particulières aux départements d'outre-mer. (art. L340-1 à L340-2)](#65)
+    - [Livre IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol (art. L410-1 à L480-14)](#66)
+      - [Titre I : Certificat d'urbanisme. (art. L410-1)](#67)
+      - [Titre II : Permis de construire (art. L421-1 à L423-5)](#68)
+        - [Chapitre I : Régime général. (art. L421-1 à L421-9)](#69)
+        - [Chapitre II : Exceptions au régime général. (art. L422-1 à L422-5)](#70)
+        - [Chapitre III : Permis de construire à titre précaire. (art. L423-1 à L423-5)](#71)
+      - [Titre III : Permis de démolir. (art. L430-1 à L430-9)](#72)
+      - [TITRE IV : Dispositions relatives aux modes particuliers d'utilisation du sol (art. L441-1 à L445-4)](#73)
+        - [CHAPITRE I : Clôtures. (art. L441-1 à L441-3)](#74)
+        - [Chapitre II : Installations et travaux divers. (art. L442-1 à L442-2)](#75)
+        - [CHAPITRE III : Camping et stationnement des caravanes. (art. L443-1 à L443-3)](#76)
+        - [Chapitre V : Remontées mécaniques et aménagements de domaine skiable. (art. L445-1 à L445-4)](#77)
+      - [TITRE V :Dispositions diverses (art. L451-1 à L451-6)](#78)
+        - [Chapitre I : Dispositions propres à certaines utilisations des surfaces bâties (art. L451-1 à L451-6)](#79)
+          - [Section 1 : Cours communes. (art. L451-1 à L451-3)](#80)
+          - [Section 2 : Constructions industrielles en dehors des plans locaux d'urbanisme. (art. L451-4)](#81)
+          - [Section 3 : Création et construction de magasins de grande surface. (art. L451-5 à L451-6)](#82)
+      - [Titre VI : Contrôle. (art. L460-1 à L460-2)](#83)
+      - [Titre VII : Départements d'outre-mer. (art. L470-1)](#84)
+      - [TITRE VIII : Infractions. (art. L480-2 à L480-14)](#85)
+    - [Livre IV : Régime applicable aux constructions, aménagements et démolitions (art. L480-1)](#86)
+      - [Titre VIII : Infractions (art. L480-1)](#87)
+    - [Livre V : Implantation des services, établissements et entreprises (art. L510-1 à L550-1)](#88)
+      - [Titre Ier : Dispositions administratives générales (art. L510-1 à L510-4)](#89)
+      - [Titre II : Dispositions financières concernant la région parisienne. (art. L520-1 à L520-11)](#90)
+      - [Titre III : Implantation hors de la région parisienne de certaines activités (art. L530-1 à L530-4)](#91)
+      - [Titre IV : Construction ou aménagement des immeubles à usage industriel en vue de leur revente (art. L540-1 à L540-3)](#92)
+      - [Titre V : Sanctions (art. L550-1)](#93)
+    - [Livre VI : Dispositions relatives au contentieux de l'urbanisme (art. L600-1 à L600-4-1)](#94)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*111-1 à R*620-1)](#95)
+    - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. R*111-1 à R*160-33)](#96)
+      - [Titre Ier : Règles générales d'utilisation du sol (art. R*111-1 à R*112-2)](#97)
+        - [Chapitre Ier : Règles générales de l'urbanisme (art. R*111-1 à R*111-29)](#98)
+          - [Section 1 : Localisation et desserte des constructions. (art. **R111-3-1 à R111-14-2)](#99)
+          - [Section 2 : Implantation et volume des constructions. (art. R*111-20 à R111-19)](#100)
+          - [Section 3 : Aspect des constructions. (art. R111-21 à R111-24)](#101)
+          - [Section 4 : Dispositions diverses. (art. R111-25 à R111-26-2)](#102)
+          - [Section 5 : Directives territoriales d'aménagement et prescriptions particulières de massif (art. R*111-27 à R*111-29)](#103)
+        - [Chapitre II : Plafond légal de densité. (art. R*112-1 à R*112-2)](#104)
+      - [Titre II : Prévisions et règles d'urbanisme (art. R*121-1 à R*127-3)](#105)
+        - [Chapitre Ier : Dispositions générales communes aux documents d'urbanisme (art. R*121-1 à R*121-17)](#106)
+          - [Section 1 : Informations portées par l'Etat à la connaissance des communes ou de leurs groupements (art. R*121-1 à R*121-2)](#107)
+          - [Section 3 : Associations locales d'usagers (art. R*121-5)](#108)
+          - [Section 4 : Commission de conciliation (art. R*121-6 à R*121-13)](#109)
+          - [Section 5 : Evaluation environnementale. (art. R*121-14 à R*121-17)](#110)
+        - [Chapitre II : Schémas de cohérence territoriale (art. R*122-2 à R*122-14)](#111)
+          - [Section 1 : Contenu des schémas de cohérence territoriale (art. R*122-2 à R*122-5)](#112)
+          - [Section 2 : Elaboration et révision des schémas de cohérence territoriale (art. R*122-6 à R*122-14)](#113)
+        - [Chapitre III : Plans locaux d'urbanisme (art. R*123-1 à R*123-25)](#114)
+          - [Section 1 : Contenu des plans locaux d'urbanisme (art. R*123-1 à R*123-14)](#115)
+          - [Section 2 : Elaboration, modification, révision et mise à jour des plans locaux d'urbanisme (art. R*123-15 à R*123-25)](#116)
+        - [Chapitre IV : Cartes communales (art. R*124-1 à R*124-8)](#117)
+          - [Section 1 : Contenu des cartes communales (art. R*124-1 à R*124-3)](#118)
+          - [Section 2 : Elaboration et révision des cartes communales (art. R*124-4 à R*124-8)](#119)
+        - [Chapitre VI : Servitudes d'utilité publique affectant l'utilisation du sol. (art. R*126-1 à R*126-3)](#120)
+        - [Chapitre VII : Dispositions favorisant la diversité de l'habitat. (art. R*127-1 à R*127-3)](#121)
+      - [Titre III : Espaces boisés (art. R*130-1 à R*130-23)](#122)
+        - [Section 1 : Champ d'application de l'autorisation de coupe et d'abattage d'arbres. (art. R*130-1)](#123)
+        - [Section 2 : Utilisation du sol, défrichements, coupes et abattages d'arbres dans les espaces boisés classés (art. R*130-2 à R*130-12)](#124)
+          - [Paragraphe 1 : Présentation de la demande. (art. R*130-2 à R*130-3)](#125)
+          - [Paragraphe 2 : Instruction de la demande. (art. R*130-4)](#126)
+          - [Paragraphe 3 : Décision (art. R*130-5 à R*130-12)](#127)
+            - [I : Dispositions générales. (art. R*130-5 à R*130-8)](#128)
+            - [II : Dispositions particulières applicables dans les communes où un plan local d'urbanisme a été approuvé. (art. R*130-9 à R*130-10)](#129)
+            - [III : Dispositions particulières applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé. (art. R*130-11 à R*130-12)](#130)
+        - [Section 3 : Régime des coupes et abattages d'arbres dans les bois, forêts ou parcs situés sur le territoire de communes ou parties de communes où l'établissement d'un plan local d'urbanisme a été prescrit. (art. R*130-13 à R*130-15)](#131)
+        - [Section 4 : Compensation entre terrains boisés et terrains à bâtir et autorisation de construire sur une partie d'un terrain classé. (art. R*130-16 à R*130-19)](#132)
+        - [Section 5 : Dispositions diverses. (art. R*130-20 à R*130-23)](#133)
+      - [Titre IV : Dispositions spéciales à certaines parties du territoire (art. R*141-1 à R147-11)](#134)
+        - [Chapitre Ier : Dispositions particulières à la région d'Ile-de-France, Paris, Marseille, Lyon et aux communes issues d'une fusion comportant une ou plusieurs communes associées (art. R*141-1 à R*141-6)](#135)
+          - [Section 1 : Schéma de cohérence territoriale de la région Ile-de-France. (art. R*141-1 à R*141-2)](#136)
+          - [Section 2 : Schémas de cohérence territoriale, schémas de secteurs et plans locaux d'urbanisme en région Ile-de-France (art. R*141-3 à R*141-4)](#137)
+          - [Section 3 : Plans locaux d'urbanisme des communes de Paris, Marseille, Lyon ou des communes issues d'une fusion comportant une ou plusieurs communes associées (art. R*141-5 à R*141-6)](#138)
+        - [Chapitre II : Espaces naturels sensibles des départements (art. R142-1 à R142-19)](#139)
+          - [Section 1 : Taxe départementale des espaces naturels sensibles (art. R142-1)](#140)
+          - [Section 2 : Mesures de protection (art. R142-2 à R142-3)](#141)
+          - [Section 3 : Zones de préemption (art. R142-4 à R142-7)](#142)
+          - [Section 4 : Procédure de préemption (art. R142-8 à R142-19)](#143)
+            - [Sous-Section 1 : Cas général (art. R142-8 à R142-11)](#144)
+            - [Sous-section 2 : Cas des ventes par adjudication lorsque cette procédure est rendue obligatoire de par la loi ou le règlement (art. R142-12 à R142-14)](#145)
+            - [Sous-section 3 : Dispositions communes (art. R142-15 à R142-19)](#146)
+        - [Chapitre V : Dispositions particulières aux zones de montagne (art. R145-1 à R145-10)](#147)
+        - [Chapitre VI : Dispositions particulières au littoral (art. R*146-2 à R146-1)](#148)
+        - [Chapitre VII : Dispositions particulières aux zones de bruit des aérodromes (art. R147-1 à R147-11)](#149)
+          - [Section 1 : Détermination des valeurs d'indices à prendre en compte pour la délimitation des zones de bruit des aérodromes (art. R147-1 à R147-2)](#150)
+          - [Section 2 : Etablissement des plans d'exposition au bruit des aérodromes (art. R147-5 à R147-11)](#151)
+      - [Titre V : Départements d'outre-mer. (art. R150-1 à R150-3)](#152)
+      - [Titre VI : Sanctions et servitudes (art. R160-1 à R*160-33)](#153)
+        - [Section 1 : Assermentation des agents chargés de constater les infractions (art. R160-1 à R160-3)](#154)
+        - [Section 3 : Agrément des associations de protection et d'amélioration du cadre de vie et de l'environnement (art. R*160-7)](#155)
+        - [Section 4 : Servitudes de passage sur le littoral (art. R*160-8 à R*160-33)](#156)
+          - [Sous-section 1 : Détermination du tracé et des caractéristiques de la servitude de passage longitudinale mentionnée à l'article L. 160-6 (art. R*160-8 à R*160-15)](#157)
+          - [Sous-section 2 : Détermination du tracé et des caractéristiques de la servitude de passage transversale mentionnée à l'article L. 160-6-1 (art. R*160-16 à R*160-16-1)](#158)
+          - [Sous-section 3 : Dispositions communes aux servitudes de passage sur le littoral (art. R*160-17 à R*160-33)](#159)
+    - [Livre II : Préemption et réserves foncières (art. R*211-1 à R216-1)](#160)
+      - [Titre Ier : Droits de préemption (art. R*211-1 à R216-1)](#161)
+        - [Chapitre Ier : Droit de préemption urbain (art. R*211-1 à R211-8)](#162)
+        - [Chapitre II : Zones d'aménagement différé et périmètres provisoires (art. R212-1 à R212-6)](#163)
+        - [Chapitre III : Dispositions communes au droit de préemption urbain, aux zones d'aménagement différé et aux périmètres provisoires (art. R213-1 à R213-30)](#164)
+          - [Section 1 : Délégation du droit de préemption (art. R213-1 à R213-3)](#165)
+          - [Section 2 : Procédure de préemption (art. R213-4 à R213-15)](#166)
+            - [Sous-section 1 : Cas général (art. R213-4 à R213-13)](#167)
+            - [Sous-section 2 : Cas de ventes par adjudication lorsque cette procédure est rendue obligatoire de par la loi ou le règlement (art. R213-14 à R213-15)](#168)
+          - [Section 3 : Utilisation des biens acquis par la voie de la préemption (art. R213-16 à R213-20)](#169)
+          - [Section 4 : Dispositions diverses (art. R213-21 à R213-26)](#170)
+          - [Section 5 : Dispositions particulières applicables aux communes de Paris, Marseille et Lyon ainsi qu'aux communes issues d'une fusion comportant création d'une ou plusieurs communes associées (art. R213-27 à R213-30)](#171)
+        - [CHAPITRE VI : Dispositions particulières aux jardins familiaux (art. R216-1)](#172)
+    - [Livre III : Aménagement foncier (art. R300-1 à R340-6)](#173)
+      - [Titre Ier : Opérations d'aménagement (art. R*311-1 à R*318-22)](#174)
+        - [Chapitre Ier : Zones d'aménagement concerté (art. R*311-1 à R*311-12)](#175)
+          - [Section 1 : Création des zones d'aménagement concerté (art. R*311-1 à R*311-5)](#176)
+          - [Section 2 : Réalisation des zones d'aménagement concerté (art. R*311-6 à R*311-11)](#177)
+          - [Section 3 : Suppression ou modification d'une zone d'aménagement concerté (art. R*311-12)](#178)
+        - [Chapitre III : Restauration immobilière et secteurs sauvegardés (art. R313-1 à R313-38)](#179)
+          - [Section 1 : Secteurs sauvegardés (art. R313-1 à R313-23)](#180)
+            - [Sous-section 1 : Création des secteurs sauvegardés (art. R313-1 à R313-4)](#181)
+            - [Sous-section 2 : Instruction du plan de sauvegarde et de mise en valeur (art. R*313-6 à R313-9)](#182)
+            - [Sous-section 3 : Contenu du plan de sauvegarde et de mise en valeur (art. R313-11)](#183)
+            - [Sous-section 4 : Effets du plan de sauvegarde et de mise en valeur (art. R*313-14 à R313-19-6)](#184)
+              - [Paragraphe 1 : Mesures applicables entre la délimitation du secteur sauvegardé et la publication du plan de sauvegarde et de mise en valeur (art. R*313-14 à R313-18)](#185)
+              - [Paragraphe 2 : Mesures applicables une fois le plan de sauvegarde et de mise en valeur rendu public (art. R313-19 à R313-19-6)](#186)
+            - [Sous-section 5 : Modification, révision et mise à jour du plan de sauvegarde (art. R313-20 à R313-20-2)](#187)
+            - [Sous-section 6 : Dispositions diverses (art. R313-21 à R313-23)](#188)
+          - [Section 2 : Restauration immobilière (art. R*313-24 à R313-32)](#189)
+          - [Section 3 : Visite des bâtiments par des hommes de l'art (art. R313-33 à R313-37)](#190)
+          - [Section 4 : Prestation de serment des hommes de l'art (art. R313-38)](#191)
+        - [CHAPITRE V : Lotissements et divisions de propriété (art. R*315-1 à R315-61)](#192)
+          - [Section 1 : Dispositions générales relatives aux lotissements (art. R*315-1 à R*315-3)](#193)
+          - [Section 2 : Présentation, dépôt et transmission de la demande d'autorisation (art. R*315-4 à R*315-11)](#194)
+          - [Section 3 : Instruction des demandes (art. R*315-15 à R*315-25-4)](#195)
+            - [Paragraphe 1 : Dispositions applicables dans l'ensemble des communes (art. R*315-15 à R*315-21-1)](#196)
+            - [Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme a été approuvé. (art. R*315-22 à R*315-25)](#197)
+            - [Paragraphe 3 : Dispositions applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé. (art. R*315-25-1 à R*315-25-4)](#198)
+          - [Section 4 : Décision (art. R*315-26 à R*315-31-4)](#199)
+            - [Paragraphe 1 : Dispositions générales (art. R*315-26 à R*315-31)](#200)
+            - [Paragraphe 2 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme a été approuvé. (art. R*315-31-1 à R*315-31-3)](#201)
+            - [Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé (art. R*315-31-4)](#202)
+          - [Section 5 : Cession des lots et édification des constructions (art. R*315-32 à R*315-39-1)](#203)
+          - [Section 6 : Dispositions diverses (art. R*315-40 à R*315-44)](#204)
+          - [Section 7 : Modifications apportées aux documents du lotissement et subdivisions de lots provenant d'un lotissement (art. R*315-44-1 à R315-52)](#205)
+          - [Section 8 : Modalités d'incorporation au plan local d'urbanisme du règlement des lotissements (art. R315-53)](#206)
+          - [Section 9 : Dispositions en vue de l'implantation de bâtiments qui ne constituent pas des lotissements (art. R*315-54)](#207)
+          - [Section 10 : Divisions soumises à déclaration préalable (art. R315-55 à R315-61)](#208)
+        - [CHAPITRE VI : Sanctions relatives aux lotissements (art. R*316-2 à R316-1)](#209)
+        - [CHAPITRE VII : Amélioration de certains lotissements (art. R317-1 à R317-54)](#210)
+          - [Section 1 : Dispositions générales (art. R317-1 à R317-2)](#211)
+          - [Section 2 : Associations syndicales et comités syndicaux (art. R317-3 à R317-18)](#212)
+            - [Paragraphe 1 : Associations syndicales (art. R317-3 à R317-8)](#213)
+            - [Paragraphe 2 : Comités syndicaux (art. R317-9 à R317-17)](#214)
+            - [Paragraphe 3 : Des syndicats et des syndics de la loi du 22 juillet 1912 (art. R317-18)](#215)
+          - [Section 3 : Caisses départementales de prêts (art. R317-19 à R317-35)](#216)
+            - [Paragraphe 1 : Création et administration (art. R317-19 à R317-29)](#217)
+            - [Paragraphe 2 : Prêts de la caisse départementale (art. R317-30 à R317-35)](#218)
+          - [Section 4 : Subventions de l'Etat (art. R317-36 à R317-40)](#219)
+          - [Section 5 : Dispositions communes aux prêts et aux subventions (art. R317-41 à R317-43)](#220)
+          - [Section 6 : Exécution des travaux (art. R317-44 à R317-47)](#221)
+          - [Section 7 : Action en responsabilité (art. R317-48 à R317-54)](#222)
+        - [Chapitre VIII : Dispositions relatives à certaines opérations (art. R*318-1 à R*318-22)](#223)
+          - [Section 1 : Déclassements et transferts de propriété (art. R*318-1 à R*318-11)](#224)
+          - [Section 4 : Dispositions particulières à certaines opérations (art. R*318-14 à R318-15)](#225)
+          - [Section 5 : Dispositions applicables aux communes de Paris, Marseille et Lyon ainsi qu'aux communes issues d'une fusion et comportant une ou plusieurs communes associées (art. R*318-16 à R*318-22)](#226)
+      - [Titre II : Organismes d'exécution (art. R*321-1 à R325-10)](#227)
+        - [Chapitre I : Sociétés d'économie mixte et établissements publics (art. R*321-1 à R*321-25)](#228)
+          - [Section 1 : Opérations d'aménagement (art. R*321-1)](#229)
+          - [Section 2 : Modalités de constitution et de fonctionnement des établissements publics et des sociétés d'économie mixte (art. R*321-2 à R*321-25)](#230)
+            - [Paragraphe 1 : Etablissements publics (art. R*321-2 à R321-4)](#231)
+            - [Paragraphe 2 : Sociétés d'économie mixte (art. R*321-16)](#232)
+            - [Paragraphe 3 : Dispositions communes (art. R*321-20 à R*321-25)](#233)
+        - [Chapitre II : Associations foncières urbaines (art. R*322-1 à R322-40)](#234)
+          - [Section 1 : Dispositions générales (art. R*322-2 à R*322-5)](#235)
+          - [Section 2 : Dispositions concernant les associations foncières urbaines de remembrement (art. R*322-6 à R*322-24)](#236)
+            - [Paragraphe 1 : Constitution de l'association autorisée (art. R*322-6)](#237)
+            - [Paragraphe 2 : Redistribution parcellaire et fixation de l'état nouveau (art. R*322-7 à R*322-19)](#238)
+            - [Paragraphe 3 : Mesures de publicité foncière (art. R*322-20 à R*322-22)](#239)
+            - [Paragraphe 4 : Dispositions concernant les associations foncières urbaines de remembrement constituées d'office (art. R*322-23 à R*322-24)](#240)
+          - [Section 3 : Dispositions relatives aux associations foncières urbaines de groupement de parcelles (art. R*322-25 à R*322-30)](#241)
+            - [Paragraphe 1 : Constitution des associations autorisées (art. R*322-25)](#242)
+            - [Paragraphe 2 : Modalités de groupement de parcelles (art. R*322-26 à R*322-28-3)](#243)
+            - [Paragraphe 3 : Dispositions spéciales (art. R*322-29 à R*322-30)](#244)
+          - [Section 4 : Dispositions concernant les associations foncières urbaines de conservation, de restauration et de mise en valeur des secteurs sauvegardés ainsi que de restauration immobilière (art. R*322-31 à R*322-33)](#245)
+            - [Paragraphe 1 : Associations autorisées (art. R*322-31 à R*322-32)](#246)
+            - [Paragraphe 2 : Associations constituées d'office (art. R*322-33)](#247)
+          - [Section 5 : Commission consultative (art. R322-34 à R322-37)](#248)
+          - [Section 6 : Dispositions diverses (art. R322-38 à R322-40)](#249)
+        - [Chapitre IV : Etablissements publics fonciers (art. R324-1 à R324-15)](#250)
+          - [Section 1 : Création et compétences de l'établissement public foncier (art. R324-1 à R324-4)](#251)
+          - [Section 2 : Administration et fonctionnement de l'établissement public foncier (art. R324-5 à R324-11)](#252)
+          - [Section 3 : Modification des conditions initiales de composition et de fonctionnement de l'établissement public foncier (art. R324-12 à R324-13)](#253)
+          - [Section 4 : Transformation d'un établissement public de coopération intercommunale à vocation unique foncière en établissement public foncier (art. R324-14)](#254)
+          - [Section 5 : Dissolution de l'établissement public foncier (art. R324-15)](#255)
+        - [Chapitre V : Etablissement public national d'aménagement et de restructuration des espaces commerciaux et artisanaux (art. R325-1 à R325-10)](#256)
+          - [Section 1 : Organisation administrative (art. R325-1 à R325-7)](#257)
+          - [Section 2 : Organisation financière (art. R325-8 à R325-9)](#258)
+          - [Section 3 : Contrôle de l'établissement (art. R325-10)](#259)
+      - [Titre III : Dispositions financières (art. R*331-1 à R*333-33)](#260)
+        - [CHAPITRE I : Fonds national d'aménagement foncier et d'urbanisme (art. R*331-1 à R*331-17)](#261)
+          - [Section 1 : Dispositions générales (art. R*331-1)](#262)
+          - [Section 2 : Avances (art. R*331-2 à R*331-4)](#263)
+          - [Section 3 : Bonifications d'intérêt (art. R*331-5 à R*331-7)](#264)
+          - [Section 4 : Opérations réalisées par l'Etat (art. R*331-8 à R*331-12)](#265)
+          - [Section 5 : Opérations en participation (art. R*331-13 à R*331-15)](#266)
+          - [Section 6 : Dispositions communes (art. R*331-16 à R*331-17)](#267)
+        - [Chapitre II : Participation des constructeurs et des lotisseurs (art. R*332-1 à R332-41)](#268)
+          - [Section 1 : Participation en cas de dépassement du coefficient d'occupation du sol (art. R*332-1 à R*332-14)](#269)
+          - [Section 2 : Autres participations (art. R*332-15 à R*332-25)](#270)
+            - [Sous-section 1 : Cessions de terrains ou de locaux (art. R*332-15 à R*332-16)](#271)
+            - [Sous-section 2 : Participation en cas de non-réalisation d'aires de stationnement (art. R*332-17 à R*332-23)](#272)
+            - [Sous-section 3 : Participation à la réalisation d'équipements publics instituée dans les secteurs d'aménagement (art. R*332-25)](#273)
+          - [Section 5 : Dispositions diverses (art. R*332-42 à R332-41)](#274)
+        - [Chapitre III : Versement résultant du dépassement du plafond légal de densité (art. R*333-1 à R*333-33)](#275)
+          - [Section 1 : Dispositions générales (art. R*333-1 à R*333-13-1)](#276)
+          - [Section 2 : Application du plafond légal de densité dans les zones d'aménagement concerté, les zones de rénovation urbaine et les zones de résorption de l'habitat insalubre (art. R*333-14 à R*333-33)](#277)
+            - [Sous-section 1 : Dispositions communes (art. R*333-14 à R*333-16)](#278)
+            - [Sous-section 2 : Zones dont l'aménagement est réalisé en régie directe (art. R*333-17 à R*333-23)](#279)
+            - [Sous-section 3 : Zones dont l'aménagement n'est pas réalisé en régie directe (art. R*333-24 à R*333-33)](#280)
+      - [Titre IV : Départements d'outre-mer (art. R340-1 à R340-6)](#281)
+    - [Livre IV : Régime applicable aux constructions, aménagements et démolitions (art. R*443-6 à R480-5)](#282)
+      - [Titre IV : Dispositions propres aux aménagements (art. R*443-6 à R443-9)](#283)
+        - [Chapitre III : Dispositions propres aux terrains de camping et aux autres terrains aménagés pour l'hébergement touristique (art. R*443-6 à R443-9)](#284)
+          - [Section 2 : Permis d'aménager (art. R*443-6)](#285)
+          - [Section 3 : Dispositions applicables dans les zones soumises à un risque naturel ou technologique prévisible (art. R*443-10 à R443-9)](#286)
+      - [Titre VIII : Sanctions (art. R480-3 à R480-5)](#287)
+    - [LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol (art. R*410-1 à R490-8)](#288)
+      - [TITRE I : Certificat d'urbanisme (art. R*410-1 à R*410-24)](#289)
+        - [Section 1 : Présentation, dépôt et transmission de la demande. (art. R*410-1 à R*410-3)](#290)
+        - [Section 2 : Instruction de la demande (art. R*410-4 à R*410-8)](#291)
+          - [Paragraphe 1 : Dispositions applicables dans l'ensemble des communes. (art. R*410-4)](#292)
+          - [Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme ou une carte communale a été approuvé, à l'exception de celles qui ont pris la délibération mentionnée au premier alinéa de l'article L. 421-2-1 (art. R*410-5 à R*410-7)](#293)
+          - [Paragraphe 3 : Dispositions applicables dans les autres communes (art. R*410-8)](#294)
+        - [Section 3 : Délivrance (art. R*410-9 à R*410-23)](#295)
+          - [Paragraphe 1 : Dispositions applicables dans l'ensemble des communes. (art. R*410-9 à R*410-18)](#296)
+          - [Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme ou une carte communale a été approuvé, à l'exception de celles qui ont pris la délibération mentionnée au premier alinéa de l'article L. 421-2-1 (art. R*410-19 à R*410-21)](#297)
+          - [Paragraphe 3 : Dispositions applicables dans les autres communes (art. R*410-22 à R*410-23)](#298)
+        - [Section 4 : Dispositions diverses. (art. R*410-24)](#299)
+      - [TITRE II : Permis de construire (art. R421-1 à R*424-3)](#300)
+        - [CHAPITRE I : Régime général (art. R421-1 à R421-58)](#301)
+          - [Section 1 : Présentation de la demande. (art. R*421-1-2 à R421-8)](#302)
+          - [Section 2 : Dépôt et transmission de la demande (art. R*421-10 à R421-11)](#303)
+          - [Section 3 : Instruction de la demande (art. R*421-12 à R*421-28)](#304)
+            - [Paragraphe 1 : Dispositions applicables dans l'ensemble des communes. (art. R*421-12 à R421-20)](#305)
+            - [Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme a été approuvé. (art. R*421-21 à R421-24)](#306)
+            - [Paragraphe 3 : Dispositions applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé. (art. R*421-25 à R*421-28)](#307)
+          - [Section 4 : Décision (art. R*421-29 à R*421-38)](#308)
+            - [Paragraphe 1 : Dispositions générales. (art. R*421-29 à R*421-32)](#309)
+            - [Paragraphe 2 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme a été approuvé. (art. R*421-33 à R*421-35)](#310)
+            - [Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé. (art. R*421-36 à R*421-38)](#311)
+          - [Section 5 : Dispositions applicables aux constructions et travaux soumis au régime du permis de construire et à un autre régime d'autorisation (art. R421-38-1 à R421-38-20)](#312)
+            - [A - Protection des monuments historiques, des sites et de l'environnement (art. R*421-38-4 à R421-38-10-1)](#313)
+            - [B - Protection d'ouvrages militaires, maritimes et aériens. (art. R*421-38-11 à R*421-38-13)](#314)
+            - [C - Dispositions relatives aux eaux intérieures et aux périmètres submersibles. (art. R*421-38-15 à R421-38-16)](#315)
+            - [D - Réserve en bordure du domaine public maritime (art. R*421-38-17)](#316)
+            - [E - Zones agricoles protégées (art. R421-38-18)](#317)
+            - [F - Zone de servitude à proximité d'un cimetière (art. R421-38-19)](#318)
+            - [G - Accessibilité des établissements recevant du public aux personnes handicapées. (art. R421-38-20)](#319)
+          - [Section 6 : Formalités postérieures à la délivrance du permis de construire (art. R*421-39 à R*421-40)](#320)
+          - [Section 7 : Dispositions diverses (art. R*421-41 à R421-58)](#321)
+            - [Paragraphe 1 : Dispositions diverses (art. R*421-41 à R*421-42)](#322)
+            - [Paragraphe 2 : Dispositions particulières aux immeubles de grande hauteur (art. R421-47 à R421-50)](#323)
+            - [Paragraphe 3 : Dispositions particulières aux immeubles situés au voisinage d'installations classées (art. R*421-52)](#324)
+            - [Paragraphe 4 : Dispositions particulières aux établissements recevant du public. (art. R421-53)](#325)
+            - [Paragraphe 5 : Dispositions relatives à la modification du présent chapitre (art. R421-58)](#326)
+        - [CHAPITRE II : Exceptions au régime général (art. R*422-1 à R422-4)](#327)
+        - [CHAPITRE IV : Dispositions générales relatives aux impositions dont la délivrance du permis de construire constitue le fait générateur. (art. R*424-1 à R*424-3)](#328)
+      - [TITRE III : Permis de démolir (art. R*430-1 à R*430-27)](#329)
+        - [Section 1 : La demande (art. R*430-1 à R*430-6)](#330)
+        - [Section 2 : L'instruction (art. R*430-7 à R*430-11)](#331)
+          - [Paragraphe 1 : Dispositions applicables dans l'ensemble des communes. (art. R*430-7 à R*430-10)](#332)
+          - [Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme a été approuvé. (art. R*430-10-1 à R*430-10-5)](#333)
+          - [Paragraphe 3 : Dispositions applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé. (art. R*430-10-6 à R*430-11)](#334)
+        - [Section 3 : La décision (art. R*430-12 à R*430-15-7)](#335)
+          - [Paragraphe 1 : Dispositions générales (art. R*430-12 à R*430-15)](#336)
+          - [Paragraphe 2 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme a été approuvé. (art. R*430-15-1 à R*430-15-3)](#337)
+          - [Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé. (art. R*430-15-4 à R*430-15-7)](#338)
+        - [Section 4 : Formalités postérieures à la délivrance du permis de démolir (art. R*430-16 à R*430-20)](#339)
+        - [Section 5 : Dispositions particulières aux immeubles menaçant ruine et aux immeubles insalubres (art. R*430-26 à R*430-27)](#340)
+      - [Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol. (art. R*441-1 à R446-1)](#341)
+        - [CHAPITRE I : Clôture (art. R*441-1 à R*441-11)](#342)
+        - [CHAPITRE II : Installations et travaux divers (art. R442-1 à R442-13)](#343)
+          - [Section 1 : Champ d'application de la règlementation (art. R442-1 à R442-3-1)](#344)
+          - [Section 2 : Présentation, dépôt et transmission de la demande (art. R*442-4 à R442-4-2)](#345)
+          - [Section 3 : Instruction de la demande (art. R442-4-4 à R442-4-17)](#346)
+            - [Paragraphe 1 : Dispositions applicables dans l'ensemble des communes. (art. R442-4-4 à R442-4-9)](#347)
+            - [Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme a été approuvé. (art. R442-4-10 à R442-4-13)](#348)
+            - [Paragraphe 3 : Dispositions applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé. (art. R442-4-14 à R442-4-17)](#349)
+          - [Section 4 : Décision (art. R*442-5 à R*442-6-6)](#350)
+            - [Paragraphe 1 : Dispositions générales (art. R*442-5 à R442-6)](#351)
+            - [Paragraphe 2 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme a été approuvé. (art. R*442-6-1 à R*442-6-3)](#352)
+            - [Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé. (art. R*442-6-4 à R*442-6-6)](#353)
+          - [Section 5 : Formalités postérieures à la délivrance de l'autorisation. (art. R442-8)](#354)
+          - [Section 6 : Dispositions particulières (art. R*442-9 à R442-13)](#355)
+        - [CHAPITRE III : Camping et stationnement des caravanes (art. R443-1 à R*443-16)](#356)
+          - [Section 1 : Camping et stationnement des caravanes hors terrain aménagé (art. R*443-3 à R*443-6-4)](#357)
+            - [Paragraphe 1 : Stationnement des caravanes (art. R*443-3 à R*443-5-3)](#358)
+            - [Paragraphe 2 : Camping (art. R*443-6-1 à R*443-6-4)](#359)
+          - [Section 2 : Terrains aménagés pour l'accueil des campeurs et des caravanes (art. R*443-7 à R443-8-5)](#360)
+            - [Paragraphe 1 : Terrains aménagés permanents (art. R*443-7 à R*443-8)](#361)
+            - [Paragraphe 2 : Terrains aménagés saisonniers (art. R*443-8-1)](#362)
+            - [Paragraphe 3 : Dispositions communes à la section 2 (art. R*443-8-2 à R443-8-5)](#363)
+          - [Section 3 : Dispositions générales (art. R*443-9-1 à R*443-16)](#364)
+        - [CHAPITRE IV : Habitations légères de loisirs (art. R*444-1 à R*444-4)](#365)
+        - [CHAPITRE V : Remontées mécaniques et aménagements de domaine skiable (art. R445-1 à R445-16)](#366)
+          - [Section 1 : Remontées mécaniques (art. R445-1 à R445-9)](#367)
+            - [Sous-section 1 : Autorisation d'exécution des travaux (art. R445-1 à R445-5)](#368)
+            - [Sous-section 2 : Autorisation de mise en exploitation des remontées mécaniques (art. R445-6 à R445-9)](#369)
+          - [Section 2 : Aménagements de domaine skiable (art. R445-10 à R445-14)](#370)
+          - [Section 3 : Dispositions diverses (art. R445-15 à R445-16)](#371)
+        - [CHAPITRE VI : Dispositions diverses (art. R*446-2 à R446-1)](#372)
+      - [TITRE V : Dispositions diverses (art. R451-1 à R451-4)](#373)
+        - [CHAPITRE I : Dispositions propres à certaines utilisations de surfaces bâties (art. R451-1 à R451-4)](#374)
+          - [Section 1 : Cours communes (art. R451-1 à R451-4)](#375)
+      - [TITRE VI : Contrôle (art. R*460-3-1 à R460-7)](#376)
+        - [Section 1 : Déclaration d'achèvement des travaux et certificat de conformité (art. R*460-3-1 à R460-6)](#377)
+        - [Section 2 : Dispositions spéciales aux immeubles de grande hauteur. (art. R460-7)](#378)
+      - [TITRE VIII : Sanctions. (art. R*480-7 à R480-2)](#379)
+      - [TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres Ier à IV et VI du présent livre (art. R*490-1 à R490-8)](#380)
+    - [Livre V : Implantation des services, établissements et entreprises (art. R*510-1 à R550-1)](#381)
+      - [Titre Ier : Dispositions administratives générales (art. R*510-1 à R*510-15)](#382)
+      - [Titre II : Dispositions financières concernant la région parisienne (art. R520-1 à R*520-12)](#383)
+        - [Section 1 : Dispositions générales (art. R520-1 à R520-11)](#384)
+        - [Section 2 : Montant des redevances (art. R*520-12)](#385)
+      - [Titre III : Implantation hors de la région parisienne de certaines activités (art. R530-3 à R530-5)](#386)
+      - [Titre V : Sanctions (art. R550-1)](#387)
+    - [Livre VI : Dispositions relatives au contentieux de l'urbanisme et dispositions diverses (art. R*600-1 à R*620-1)](#388)
+      - [Titre II : Dispositions diverses (art. R*620-1)](#389)
+  - [Partie réglementaire - Arrêtés (art. A121-4 à A614-4)](#390)
+    - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. A121-4 à A160-1)](#391)
+      - [Titre  II : Prévisions et règles d'urbanisme (art. A121-4 à A126-1)](#392)
+        - [Chapitre Ier : Dispositions générales communes aux schémas directeurs et aux plans d'occupation des sols (art. A121-4)](#393)
+        - [Chapitre  III : Plans d'occupation des sols (art. A123-1 à A123-2)](#394)
+          - [Section 3 : Contenu du plan d'occupation des sols (art. A123-1 à A123-2)](#395)
+        - [Chapitre  VI : Servitudes d'utilité publique affectant l'utilisation du sol (art. A126-1)](#396)
+      - [Titre  III : Espaces boisés (art. A130-1 à A130-3)](#397)
+      - [Titre  IV : Dispositions spéciales à certaines parties du territoire (art. A142-1)](#398)
+        - [Chapitre  II : Espaces naturels sensibles des départements (art. A142-1)](#399)
+      - [Titre  VI : Sanctions et servitudes (art. A160-1)](#400)
+        - [Section 3 : Agrément des associations exerçant leurs activités dans le domaine de la protection de la nature et de l'environnement et de l'amélioration du cadre de vie (art. A160-1)](#401)
+    - [Livre  II : Préemption et réserves foncières (art. A211-1 à A214-1)](#402)
+      - [Titre  Ier : Droits de préemption (art. A211-1 à A214-1)](#403)
+        - [Chapitre  Ier : Droit de préemption urbain (art. A211-1)](#404)
+        - [Chapitre  II : Zones d'aménagement différé (art. A212-1)](#405)
+        - [Chapitre  III : Dispositions communes au droit de préemption urbain et aux zones d'aménagement différé (art. A213-1)](#406)
+        - [CHAPITRE IV : Dispositions communes aux zones d'aménagement différé et aux périmètres provisoires de zones d'aménagement différé créés avant le 1er juin 1987 (art. A214-1)](#407)
+    - [Livre  III : Aménagement foncier (art. A315-2 à A332-1)](#408)
+      - [Titre Ier : Opérations d'aménagement (art. A315-2 à A315-5)](#409)
+        - [CHAPITRE V : Lotissements (art. A315-2 à A315-5)](#410)
+      - [Titre  III : Dispositions financières (art. A332-1)](#411)
+        - [Chapitre  II : Participation des constructeurs et des lotisseurs (art. A332-1)](#412)
+    - [LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol (art. A410-1 à A490-1)](#413)
+      - [TITRE I : Certificat d'urbanisme. (art. A410-1 à A410-3)](#414)
+      - [TITRE II : Permis de construire (art. A421-1 à A424-6)](#415)
+        - [CHAPITRE I : Régime général (art. A421-1 à A421-9)](#416)
+          - [Section 1 : Présentation de la demande. (art. A421-1 à A421-3)](#417)
+          - [Section 4 : Décision (art. A421-6-1)](#418)
+          - [Section 6 : Formalités postérieures à la délivrance du permis de construire. (art. A421-7 à A421-9)](#419)
+        - [CHAPITRE II : Exceptions au régime général (art. A422-1 à A422-2)](#420)
+          - [Section 1 : Déclarations de travaux exemptés du permis de construire. (art. A422-1 à A422-1-2)](#421)
+          - [Section 2 : Grands camps à l'intérieur desquels les constructions et installations sont exemptées du permis de construire (art. A422-2)](#422)
+        - [CHAPITRE IV : Etablissement de l'assiette et liquidation des impositions dont le permis de construire constitue le fait générateur (art. A424-1 à A424-6)](#423)
+          - [Section 1 : Déconcentration auprès du maire. (art. A424-1 à A424-6)](#424)
+      - [TITRE III : Permis de démolir (art. A430-1 à A430-4)](#425)
+        - [Section 1 : La demande (art. A430-1 à A430-2)](#426)
+        - [Section 4 : Formalités postérieures à la délivrance du permis de démolir. (art. A430-3 à A430-4)](#427)
+      - [Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol. (art. A441-1 à A443-9)](#428)
+        - [CHAPITRE I : Clôture (art. A441-1 à A441-2)](#429)
+        - [CHAPITRE II : Installations et travaux divers. (art. A442-1 à A442-3)](#430)
+          - [Section 2 : Présentation, dépôt et transmission de la demande (art. A442-1)](#431)
+          - [Section 5 : Formalités postérieures à la délivrance de l'autorisation. (art. A442-2 à A442-3)](#432)
+        - [CHAPITRE III : Stationnement des caravanes (art. A443-1 à A443-9)](#433)
+          - [Paragraphe 1 : Stationnement en dehors des terrains aménagés (art. A443-1 à A443-4)](#434)
+          - [Paragraphe 2 : Stationnement sur des terrains aménagés (art. A443-6 à A443-9)](#435)
+      - [TITRE VI : Contrôle (art. A460-1 à A460-2)](#436)
+        - [Section 1 : Déclaration d'achèvement des travaux et certificat de conformité. (art. A460-1 à A460-2)](#437)
+      - [TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres Ier à IV et VI du présent livre (art. A490-1)](#438)
+    - [Livre  V : Implantation des services, établissements et entreprises (art. A510-1 à A520-11)](#439)
+      - [TITRE I : Dispositions administratives générales. (art. A510-1 à A510-8)](#440)
+      - [Titre  II : Dispositions financières concernant la région d'Ile-de-France (art. A520-1 à A520-11)](#441)
+        - [Section 1 : Dispositions générales (art. A520-1 à A520-11)](#442)
+          - [Sous-section 1 : Perception des redevances (art. A520-1 à A520-3)](#443)
+          - [Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance (art. A520-4 à A520-11)](#444)
+    - [Livre  VI : Organismes consultatifs et dispositions diverses (art. A614-1 à A614-4)](#445)
+      - [Titre Ier : Organismes consultatifs (art. A614-1 à A614-4)](#446)
+        - [Chapitre  IV : Architectes-conseils et paysagistes-conseils (art. A614-1 à A614-4)](#447)
+  - [Annexes (art. R*126-1, Annexe à R127-3, Annexe 2)](#448)
+    - [Liste des servitudes d'utilité publique affectant l'utilisation du sol. (art. R*126-1, Annexe)](#449)
+    - [Liste des communes comprises dans la zone 1 (art. R127-3, Annexe 1)](#450)
+    - [Liste des communes comprises dans la zone 2 (art. R127-3, Annexe 2)](#451)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Règles générales d'aménagement et d'urbanisme<a id=2></a>
@@ -3629,7 +3630,10 @@ pour préserver l'urbanisation traditionnelle ou l'intérêt paysager de la zone
 
 - dans les zones à protéger en raison de la qualité de leurs paysages et de leurs écosystèmes pour permettre, dans les
 conditions précisées par l'article L. 123-4, des transferts de constructibilité en vue de favoriser un regroupement des
-constructions.
+constructions ;
+
+14° Recommander l'utilisation des énergies renouvelables pour l'approvisionnement énergétique des constructions neuves, en
+fonction des caractéristiques de ces constructions, sous réserve de la protection des sites et des paysages.
 
 Les documents graphiques du plan local d'urbanisme peuvent contenir des indications relatives au relief des espaces auxquels
 il s'applique.
@@ -3737,7 +3741,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2004-338 2004-04-21 art. 7 2°, 3° JORF 22 avril 2004
+  - Loi n°2005-781 du 13 juillet 2005 - art. 31 () JORF 14 juillet 2005
 
 _Codifié par_:
 
@@ -5185,7 +5189,72 @@ _Cite_:
   - Code de l'urbanisme - art. L127-1
 
 
-### Titre III : Espaces boisés.<a id=15></a>
+#### Chapitre VIII : Dispositions favorisant la performance énergétique et les énergies renouvelables dans l'habitat<a id=15></a>
+
+###### Article L128-1
+
+Le dépassement du coefficient d'occupation des sols est autorisé, dans la limite de 20 % et dans le respect des autres règles
+du plan local d'urbanisme, pour les constructions remplissant des critères de performance énergétique ou comportant des
+équipements de production d'énergie renouvelable.
+
+Un décret en Conseil d'Etat détermine les critères de performance et les équipements pris en compte.
+
+La partie de la construction en dépassement n'est pas assujettie au versement résultant du dépassement du plafond légal de
+densité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2005-781 du 13 juillet 2005 - art. 30 () JORF 14 juillet 2005
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. *R442-10 (M)
+  - Code de l'urbanisme - art. L123-1-1 (T)
+  - Code de l'urbanisme - art. L123-1-11 (VT)
+  - Code de l'urbanisme - art. L123-13-2 (VT)
+  - Code de l'urbanisme - art. L123-13-3 (VT)
+  - Code de l'urbanisme - art. L128-2 (VT)
+  - Code de l'urbanisme - art. L128-3 (M)
+  - Code de l'urbanisme - art. L710-1 (VT)
+  - Code de l'urbanisme - art. R*123-13 (V)
+  - Code de l'urbanisme - art. R*128-1 (Ab)
+  - Code de l'urbanisme - art. R*421-7-2 (V)
+  - Code de l'urbanisme - art. R*431-18 (M)
+  - Code de l'énergie - art. L231-3 (VD)
+  - Code de la construction et de l'habitation. - art. R111-21 (M)
+  - Code de la construction et de l'habitation. - art. R111-21-1 (M)
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L128-2
+
+Les dispositions de l'article L. 128-1 sont rendues applicables dans la commune par décision de son conseil municipal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+_Créé par_:
+
+  - Loi n°2005-781 du 13 juillet 2005 - art. 30 () JORF 14 juillet 2005
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L128-1 (V)
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. R*128-1 (Ab)
+
+
+### Titre III : Espaces boisés.<a id=16></a>
 
 ###### Article L130-1
 
@@ -5584,11 +5653,11 @@ _Abrogé par_:
   - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 
-### Titre IV : Dispositions particulières à certaines parties du territoire<a id=16></a>
+### Titre IV : Dispositions particulières à certaines parties du territoire<a id=17></a>
 
-#### Chapitre Ier : Dispositions particulières à Paris et à la région d'Ile-de-France<a id=17></a>
+#### Chapitre Ier : Dispositions particulières à Paris et à la région d'Ile-de-France<a id=18></a>
 
-##### Section 1 : Schéma directeur.<a id=18></a>
+##### Section 1 : Schéma directeur.<a id=19></a>
 
 ###### Article L141-1
 
@@ -5793,7 +5862,7 @@ _Anciens textes_:
   - Code de l'urbanisme 24
 
 
-#### Chapitre II : Espaces naturels sensibles des départements.<a id=19></a>
+#### Chapitre II : Espaces naturels sensibles des départements.<a id=20></a>
 
 ###### Article L*142-2
 
@@ -6612,7 +6681,7 @@ _Nouveaux textes_:
   - Code de l'urbanisme - art. L171-1 (VD)
 
 
-#### Chapitre III : Protection et mise en valeur des espaces agricoles et naturels périurbains.<a id=20></a>
+#### Chapitre III : Protection et mise en valeur des espaces agricoles et naturels périurbains.<a id=21></a>
 
 ###### Article L143-1
 
@@ -6867,7 +6936,7 @@ _Cite_:
   - Code de l'urbanisme - art. L143-3 (VT)
 
 
-#### Chapitre V : Dispositions particulières aux zones de montagne.<a id=21></a>
+#### Chapitre V : Dispositions particulières aux zones de montagne.<a id=22></a>
 
 ###### Article L145-1
 
@@ -6940,7 +7009,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-##### Section 1 : Principes d'aménagement et de protection en zone de montagne.<a id=22></a>
+##### Section 1 : Principes d'aménagement et de protection en zone de montagne.<a id=23></a>
 
 ###### Article L145-3
 
@@ -7271,7 +7340,7 @@ _Nouveaux textes_:
   - Code de l'urbanisme - art. L122-3 (VD)
 
 
-##### Section 2 : Unités touristiques nouvelles.<a id=23></a>
+##### Section 2 : Unités touristiques nouvelles.<a id=24></a>
 
 ###### Article L145-9
 
@@ -7464,7 +7533,7 @@ _Nouveaux textes_:
   - PILOTE_SUIVEUR: Code du tourisme. - art. L342-6 (V)
 
 
-#### Chapitre VI : Dispositions particulières au littoral.<a id=24></a>
+#### Chapitre VI : Dispositions particulières au littoral.<a id=25></a>
 
 ###### Article L146-1
 
@@ -7975,7 +8044,7 @@ _Cité par_:
   - Code du tourisme. - art. L331-1 (V)
 
 
-#### Chapitre VII : dispositions particulières aux zones de bruit des aérodromes.<a id=25></a>
+#### Chapitre VII : dispositions particulières aux zones de bruit des aérodromes.<a id=26></a>
 
 ###### Article L147-1
 
@@ -8316,7 +8385,7 @@ _Abrogé par_:
   - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 
-### Titre V : Application aux départements d'outre-mer<a id=26></a>
+### Titre V : Application aux départements d'outre-mer<a id=27></a>
 
 ###### Article L150-1
 
@@ -8359,7 +8428,7 @@ _Cité par_:
   - Code de l'urbanisme - art. L160-1 (V)
 
 
-#### Chapitre VI : Dispositions particulières au littoral dans les départements d'outre-mer.<a id=27></a>
+#### Chapitre VI : Dispositions particulières au littoral dans les départements d'outre-mer.<a id=28></a>
 
 ###### Article L156-1
 
@@ -8531,7 +8600,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5112-3 (M)
 
 
-### Titre VI : Sanctions et servitudes.<a id=28></a>
+### Titre VI : Sanctions et servitudes.<a id=29></a>
 
 ###### Article L160-1
 
@@ -8979,9 +9048,9 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-## Livre II : Préemption et réserves foncières<a id=29></a>
+## Livre II : Préemption et réserves foncières<a id=30></a>
 
-### Titre Ier : Droits de préemption<a id=30></a>
+### Titre Ier : Droits de préemption<a id=31></a>
 
 ###### Article L210-1
 
@@ -9032,7 +9101,7 @@ _Cite_:
   - Code de l'urbanisme - art. L300-1 (M)
 
 
-#### Chapitre Ier : Droit de préemption urbain<a id=31></a>
+#### Chapitre Ier : Droit de préemption urbain<a id=32></a>
 
 ###### Article L211-1
 
@@ -9329,7 +9398,7 @@ _Cité par_:
   - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
 
 
-#### Chapitre II : Zones d'aménagement différé et périmètres provisoires<a id=32></a>
+#### Chapitre II : Zones d'aménagement différé et périmètres provisoires<a id=33></a>
 
 ###### Article L212-1
 
@@ -9643,7 +9712,7 @@ _Modifié par_:
   - Loi - art. 34 () JORF 19 juillet 1991
 
 
-#### Chapitre III : Dispositions communes au droit de préemption urbain, aux zones d'aménagement différé et aux périmètres provisoires<a id=33></a>
+#### Chapitre III : Dispositions communes au droit de préemption urbain, aux zones d'aménagement différé et aux périmètres provisoires<a id=34></a>
 
 ###### Article L213-1
 
@@ -10482,7 +10551,7 @@ _Modifié par_:
   - Loi - art. 34 () JORF 19 juillet 1991
 
 
-#### Chapitre VI : Dispositions particulières aux jardins familiaux<a id=34></a>
+#### Chapitre VI : Dispositions particulières aux jardins familiaux<a id=35></a>
 
 ###### Article L216-1
 
@@ -10509,9 +10578,9 @@ _Modifié par_:
   - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
 
 
-### Titre II : Réserves foncières<a id=35></a>
+### Titre II : Réserves foncières<a id=36></a>
 
-#### Chapitre Ier : Réserves foncières<a id=36></a>
+#### Chapitre Ier : Réserves foncières<a id=37></a>
 
 ###### Article L221-1
 
@@ -10662,7 +10731,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-### Titre III : Droits de délaissement<a id=37></a>
+### Titre III : Droits de délaissement<a id=38></a>
 
 ###### Article L230-1
 
@@ -10871,7 +10940,7 @@ _Créé par_:
   - Loi n°2000-1208 du 13 décembre 2000 - art. 22 () JORF 14 décembre 2000
 
 
-## Livre III : Aménagement foncier<a id=38></a>
+## Livre III : Aménagement foncier<a id=39></a>
 
 ###### Article L300-1
 
@@ -11312,9 +11381,9 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-### Titre Ier : Opérations d'aménagement<a id=39></a>
+### Titre Ier : Opérations d'aménagement<a id=40></a>
 
-#### Chapitre Ier : Zones d'aménagement concerté<a id=40></a>
+#### Chapitre Ier : Zones d'aménagement concerté<a id=41></a>
 
 ###### Article L311-1
 
@@ -11648,9 +11717,9 @@ _Créé par_:
   - Loi n°2000-1208 du 13 décembre 2000 - art. 7
 
 
-#### Chapitre III : Restauration immobilière et secteurs sauvegardés<a id=41></a>
+#### Chapitre III : Restauration immobilière et secteurs sauvegardés<a id=42></a>
 
-##### Section 1 : Secteurs sauvegardés<a id=42></a>
+##### Section 1 : Secteurs sauvegardés<a id=43></a>
 
 ###### Article L313-1
 
@@ -11941,7 +12010,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-##### Section 2 : Restauration immobilière<a id=43></a>
+##### Section 2 : Restauration immobilière<a id=44></a>
 
 ###### Article L313-4
 
@@ -12167,7 +12236,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-##### Section 3 : Dispositions communes<a id=44></a>
+##### Section 3 : Dispositions communes<a id=45></a>
 
 ###### Article L313-5
 
@@ -12445,7 +12514,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-#### Chapitre IV : Protection des occupants<a id=45></a>
+#### Chapitre IV : Protection des occupants<a id=46></a>
 
 ###### Article L314-1
 
@@ -12847,7 +12916,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-#### Chapitre V : Lotissements.<a id=46></a>
+#### Chapitre V : Lotissements.<a id=47></a>
 
 ###### Article L315-1
 
@@ -13423,7 +13492,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-#### Chapitre VI : Sanctions pénales relatives aux lotissements.<a id=47></a>
+#### Chapitre VI : Sanctions pénales relatives aux lotissements.<a id=48></a>
 
 ###### Article L316-1
 
@@ -13682,9 +13751,9 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-#### Chapitre VIII : Dispositions relatives à certaines opérations<a id=48></a>
+#### Chapitre VIII : Dispositions relatives à certaines opérations<a id=49></a>
 
-##### Section 1 : Déclassements et transferts de propriété<a id=49></a>
+##### Section 1 : Déclassements et transferts de propriété<a id=50></a>
 
 ###### Article L318-1
 
@@ -13824,7 +13893,7 @@ _Anciens textes_:
   - Loi n°65-503 1965-06-29 art. 5
 
 
-##### Section 2 : Opérations de réhabilitation de l'immobilier de loisir<a id=50></a>
+##### Section 2 : Opérations de réhabilitation de l'immobilier de loisir<a id=51></a>
 
 ###### Article L318-5
 
@@ -13882,7 +13951,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-##### Section 3 : Dispositions particulières aux commerçants et artisans<a id=51></a>
+##### Section 3 : Dispositions particulières aux commerçants et artisans<a id=52></a>
 
 ###### Article L318-8
 
@@ -13907,7 +13976,7 @@ _Cite_:
   - Loi n°73-1193 du 27 décembre 1973 - art. 52 (V)
 
 
-##### Section 4 : Dispositions particulières.<a id=52></a>
+##### Section 4 : Dispositions particulières.<a id=53></a>
 
 ###### Article L318-9
 
@@ -13938,9 +14007,9 @@ _Anciens textes_:
   - Code de l'urbanisme - art. L123-12 (T)
 
 
-### Titre II : Organismes d'exécution<a id=53></a>
+### Titre II : Organismes d'exécution<a id=54></a>
 
-#### Chapitre I : Etablissements publics fonciers et d'aménagement.<a id=54></a>
+#### Chapitre I : Etablissements publics fonciers et d'aménagement.<a id=55></a>
 
 ###### Article L321-1
 
@@ -14384,7 +14453,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-#### Chapitre II : Associations foncières urbaines<a id=55></a>
+#### Chapitre II : Associations foncières urbaines<a id=56></a>
 
 ###### Article L322-1
 
@@ -15117,7 +15186,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-#### Chapitre IV : Etablissements publics fonciers locaux<a id=56></a>
+#### Chapitre IV : Etablissements publics fonciers locaux<a id=57></a>
 
 ###### Article L324-1
 
@@ -15446,7 +15515,7 @@ _Abrogé par_:
   - Loi n°2014-366 du 24 mars 2014 - art. 146
 
 
-#### Chapitre V : Etablissement public d'aménagement et de restructuration des espaces commerciaux et artisanaux<a id=57></a>
+#### Chapitre V : Etablissement public d'aménagement et de restructuration des espaces commerciaux et artisanaux<a id=58></a>
 
 ###### Article L325-1
 
@@ -15560,7 +15629,7 @@ _Codifié par_:
   - décret 73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-#### Chapitre VI : Etablissements publics locaux d'aménagement<a id=58></a>
+#### Chapitre VI : Etablissements publics locaux d'aménagement<a id=59></a>
 
 ###### Article L326-1
 
@@ -15733,11 +15802,11 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1617-5 (M)
 
 
-### Titre III : Dispositions financières<a id=59></a>
+### Titre III : Dispositions financières<a id=60></a>
 
-#### Chapitre II : Participation des constructeurs et des lotisseurs<a id=60></a>
+#### Chapitre II : Participation des constructeurs et des lotisseurs<a id=61></a>
 
-##### Section 2 : Participations à la réalisation d'équipements publics exigibles à l'occasion de la délivrance d'autorisations de construire ou d'utiliser le sol<a id=61></a>
+##### Section 2 : Participations à la réalisation d'équipements publics exigibles à l'occasion de la délivrance d'autorisations de construire ou d'utiliser le sol<a id=62></a>
 
 ###### Article L332-6
 
@@ -16330,7 +16399,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 52 (V)
 
 
-##### Section 3 : Equipements propres dont la réalisation peut être exigée des bénéficiaires d'autorisations d'occuper ou d'utiliser le sol<a id=62></a>
+##### Section 3 : Equipements propres dont la réalisation peut être exigée des bénéficiaires d'autorisations d'occuper ou d'utiliser le sol<a id=63></a>
 
 ###### Article L332-15
 
@@ -16397,7 +16466,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 52 (V)
 
 
-##### Section 5 : Dispositions diverses<a id=63></a>
+##### Section 5 : Dispositions diverses<a id=64></a>
 
 ###### Article L332-28
 
@@ -16507,7 +16576,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-### Titre IV : Dispositions particulières aux départements d'outre-mer.<a id=64></a>
+### Titre IV : Dispositions particulières aux départements d'outre-mer.<a id=65></a>
 
 ###### Article L340-1
 
@@ -16588,9 +16657,9 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-## Livre IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol<a id=65></a>
+## Livre IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol<a id=66></a>
 
-### Titre I : Certificat d'urbanisme.<a id=66></a>
+### Titre I : Certificat d'urbanisme.<a id=67></a>
 
 ###### Article L410-1
 
@@ -16699,9 +16768,9 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-### Titre II : Permis de construire<a id=67></a>
+### Titre II : Permis de construire<a id=68></a>
 
-#### Chapitre I : Régime général.<a id=68></a>
+#### Chapitre I : Régime général.<a id=69></a>
 
 ###### Article L421-1
 
@@ -17821,7 +17890,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-#### Chapitre II : Exceptions au régime général.<a id=69></a>
+#### Chapitre II : Exceptions au régime général.<a id=70></a>
 
 ###### Article L422-1
 
@@ -18112,7 +18181,7 @@ _Cite_:
   - Code de l'urbanisme - art. L430-4-2 (M)
 
 
-#### Chapitre III : Permis de construire à titre précaire.<a id=70></a>
+#### Chapitre III : Permis de construire à titre précaire.<a id=71></a>
 
 ###### Article L423-1
 
@@ -18334,7 +18403,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-### Titre III : Permis de démolir.<a id=71></a>
+### Titre III : Permis de démolir.<a id=72></a>
 
 ###### Article L430-1
 
@@ -18929,9 +18998,9 @@ _Abrogé par_:
   - TXT_SOURCE: Règlement CE 974-98 1998-05-03
 
 
-### TITRE IV : Dispositions relatives aux modes particuliers d'utilisation du sol<a id=72></a>
+### TITRE IV : Dispositions relatives aux modes particuliers d'utilisation du sol<a id=73></a>
 
-#### CHAPITRE I : Clôtures.<a id=73></a>
+#### CHAPITRE I : Clôtures.<a id=74></a>
 
 ###### Article L441-1
 
@@ -19071,7 +19140,7 @@ _Modifié par_:
   - Loi n°95-101 du 2 février 1995 - art. 82 () JORF 3 février 1995
 
 
-#### Chapitre II : Installations et travaux divers.<a id=74></a>
+#### Chapitre II : Installations et travaux divers.<a id=75></a>
 
 ###### Article L442-1
 
@@ -19186,7 +19255,7 @@ _Modifié par_:
   - Loi n°2003-590 du 2 juillet 2003 - art. 59 () JORF 3 juillet 2003
 
 
-#### CHAPITRE III : Camping et stationnement des caravanes.<a id=75></a>
+#### CHAPITRE III : Camping et stationnement des caravanes.<a id=76></a>
 
 ###### Article L443-1
 
@@ -19325,7 +19394,7 @@ _Cite_:
   - Code de l'urbanisme - art. L443-1 (M)
 
 
-#### Chapitre V : Remontées mécaniques et aménagements de domaine skiable.<a id=76></a>
+#### Chapitre V : Remontées mécaniques et aménagements de domaine skiable.<a id=77></a>
 
 ###### Article L445-1
 
@@ -19503,11 +19572,11 @@ _Abrogé par_:
   - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 
-### TITRE V :Dispositions diverses<a id=77></a>
+### TITRE V :Dispositions diverses<a id=78></a>
 
-#### Chapitre I : Dispositions propres à certaines utilisations des surfaces bâties<a id=78></a>
+#### Chapitre I : Dispositions propres à certaines utilisations des surfaces bâties<a id=79></a>
 
-##### Section 1 : Cours communes.<a id=79></a>
+##### Section 1 : Cours communes.<a id=80></a>
 
 ###### Article L451-1
 
@@ -19615,7 +19684,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973)
 
 
-##### Section 2 : Constructions industrielles en dehors des plans locaux d'urbanisme.<a id=80></a>
+##### Section 2 : Constructions industrielles en dehors des plans locaux d'urbanisme.<a id=81></a>
 
 ###### Article L451-4
 
@@ -19662,7 +19731,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-##### Section 3 : Création et construction de magasins de grande surface.<a id=81></a>
+##### Section 3 : Création et construction de magasins de grande surface.<a id=82></a>
 
 ###### Article L451-5
 
@@ -19789,7 +19858,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-### Titre VI : Contrôle.<a id=82></a>
+### Titre VI : Contrôle.<a id=83></a>
 
 ###### Article L460-1
 
@@ -19907,7 +19976,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R422-7-2 (Ab)
 
 
-### Titre VII : Départements d'outre-mer.<a id=83></a>
+### Titre VII : Départements d'outre-mer.<a id=84></a>
 
 ###### Article L470-1
 
@@ -19953,7 +20022,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-### TITRE VIII : Infractions.<a id=84></a>
+### TITRE VIII : Infractions.<a id=85></a>
 
 ###### Article L480-2
 
@@ -20668,9 +20737,9 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-## Livre IV : Régime applicable aux constructions, aménagements et démolitions<a id=85></a>
+## Livre IV : Régime applicable aux constructions, aménagements et démolitions<a id=86></a>
 
-### Titre VIII : Infractions<a id=86></a>
+### Titre VIII : Infractions<a id=87></a>
 
 ###### Article L480-1
 
@@ -20769,9 +20838,9 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-## Livre V : Implantation des services, établissements et entreprises<a id=87></a>
+## Livre V : Implantation des services, établissements et entreprises<a id=88></a>
 
-### Titre Ier : Dispositions administratives générales<a id=88></a>
+### Titre Ier : Dispositions administratives générales<a id=89></a>
 
 ###### Article L510-1
 
@@ -20943,7 +21012,7 @@ _Anciens textes_:
   - Code de l'urbanisme 152-5
 
 
-### Titre II : Dispositions financières concernant la région parisienne.<a id=89></a>
+### Titre II : Dispositions financières concernant la région parisienne.<a id=90></a>
 
 ###### Article L520-1
 
@@ -21334,7 +21403,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-### Titre III : Implantation hors de la région parisienne de certaines activités<a id=90></a>
+### Titre III : Implantation hors de la région parisienne de certaines activités<a id=91></a>
 
 ###### Article L530-1
 
@@ -21418,7 +21487,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-### Titre IV : Construction ou aménagement des immeubles à usage industriel en vue de leur revente<a id=91></a>
+### Titre IV : Construction ou aménagement des immeubles à usage industriel en vue de leur revente<a id=92></a>
 
 ###### Article L540-1
 
@@ -21488,7 +21557,7 @@ _Cite_:
   - Code de l'urbanisme - art. L540-2 (V)
 
 
-### Titre V : Sanctions<a id=92></a>
+### Titre V : Sanctions<a id=93></a>
 
 ###### Article L550-1
 
@@ -21506,7 +21575,7 @@ _Codifié par_:
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-## Livre VI : Dispositions relatives au contentieux de l'urbanisme<a id=93></a>
+## Livre VI : Dispositions relatives au contentieux de l'urbanisme<a id=94></a>
 
 ###### Article L600-1
 
@@ -21621,13 +21690,13 @@ _Créé par_:
   - Loi n°2000-1208 du 13 décembre 2000 - art. 37 () JORF 14 décembre 2000 en vigueur le 14 janvier 2001
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=94></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=95></a>
 
-## Livre Ier : Règles générales d'aménagement et d'urbanisme<a id=95></a>
+## Livre Ier : Règles générales d'aménagement et d'urbanisme<a id=96></a>
 
-### Titre Ier : Règles générales d'utilisation du sol<a id=96></a>
+### Titre Ier : Règles générales d'utilisation du sol<a id=97></a>
 
-#### Chapitre Ier : Règles générales de l'urbanisme<a id=97></a>
+#### Chapitre Ier : Règles générales de l'urbanisme<a id=98></a>
 
 ###### Article R*111-1
 
@@ -21675,7 +21744,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 1 : Localisation et desserte des constructions.<a id=98></a>
+##### Section 1 : Localisation et desserte des constructions.<a id=99></a>
 
 ###### Article **R111-3-1
 
@@ -22188,7 +22257,7 @@ _Cite_:
   - Loi n°76-628 1976-07-10 art. 1
 
 
-##### Section 2 : Implantation et volume des constructions.<a id=99></a>
+##### Section 2 : Implantation et volume des constructions.<a id=100></a>
 
 ###### Article R*111-20
 
@@ -22366,7 +22435,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 3 : Aspect des constructions.<a id=100></a>
+##### Section 3 : Aspect des constructions.<a id=101></a>
 
 ###### Article R111-21
 
@@ -22461,7 +22530,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 4 : Dispositions diverses.<a id=101></a>
+##### Section 4 : Dispositions diverses.<a id=102></a>
 
 ###### Article R111-25
 
@@ -22562,7 +22631,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 5 : Directives territoriales d'aménagement et prescriptions particulières de massif<a id=102></a>
+##### Section 5 : Directives territoriales d'aménagement et prescriptions particulières de massif<a id=103></a>
 
 ###### Article R*111-27
 
@@ -22672,7 +22741,7 @@ _Cite_:
   - Code de l'urbanisme - art. L111-1-1 (M)
 
 
-#### Chapitre II : Plafond légal de densité.<a id=103></a>
+#### Chapitre II : Plafond légal de densité.<a id=104></a>
 
 ###### Article R*112-1
 
@@ -22746,11 +22815,11 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-### Titre II : Prévisions et règles d'urbanisme<a id=104></a>
+### Titre II : Prévisions et règles d'urbanisme<a id=105></a>
 
-#### Chapitre Ier : Dispositions générales communes aux documents d'urbanisme<a id=105></a>
+#### Chapitre Ier : Dispositions générales communes aux documents d'urbanisme<a id=106></a>
 
-##### Section 1 : Informations portées par l'Etat à la connaissance des communes ou de leurs groupements<a id=106></a>
+##### Section 1 : Informations portées par l'Etat à la connaissance des communes ou de leurs groupements<a id=107></a>
 
 ###### Article R*121-1
 
@@ -22823,7 +22892,7 @@ _Cite_:
   - Code de l'urbanisme - art. L121-2
 
 
-##### Section 3 : Associations locales d'usagers<a id=107></a>
+##### Section 3 : Associations locales d'usagers<a id=108></a>
 
 ###### Article R*121-5
 
@@ -22877,7 +22946,7 @@ _Abrogé par_:
   - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
-##### Section 4 : Commission de conciliation<a id=108></a>
+##### Section 4 : Commission de conciliation<a id=109></a>
 
 ###### Article R*121-6
 
@@ -23147,7 +23216,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 5 : Evaluation environnementale.<a id=109></a>
+##### Section 5 : Evaluation environnementale.<a id=110></a>
 
 ###### Article R*121-14
 
@@ -23327,9 +23396,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-#### Chapitre II : Schémas de cohérence territoriale<a id=110></a>
+#### Chapitre II : Schémas de cohérence territoriale<a id=111></a>
 
-##### Section 1 : Contenu des schémas de cohérence territoriale<a id=111></a>
+##### Section 1 : Contenu des schémas de cohérence territoriale<a id=112></a>
 
 ###### Article R*122-2
 
@@ -23525,7 +23594,7 @@ _Cite_:
   - Code de l'urbanisme - art. L122-1 (M)
 
 
-##### Section 2 : Elaboration et révision des schémas de cohérence territoriale<a id=112></a>
+##### Section 2 : Elaboration et révision des schémas de cohérence territoriale<a id=113></a>
 
 ###### Article R*122-6
 
@@ -23960,9 +24029,9 @@ _Cite_:
   - Code de l'urbanisme - art. L122-4 (M)
 
 
-#### Chapitre III : Plans locaux d'urbanisme<a id=113></a>
+#### Chapitre III : Plans locaux d'urbanisme<a id=114></a>
 
-##### Section 1 : Contenu des plans locaux d'urbanisme<a id=114></a>
+##### Section 1 : Contenu des plans locaux d'urbanisme<a id=115></a>
 
 ###### Article R*123-1
 
@@ -24694,7 +24763,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 2 : Elaboration, modification, révision et mise à jour des plans locaux d'urbanisme<a id=115></a>
+##### Section 2 : Elaboration, modification, révision et mise à jour des plans locaux d'urbanisme<a id=116></a>
 
 ###### Article R*123-15
 
@@ -25341,9 +25410,9 @@ _Cite_:
   - Code de l'urbanisme R123-24, L123-1-1
 
 
-#### Chapitre IV : Cartes communales<a id=116></a>
+#### Chapitre IV : Cartes communales<a id=117></a>
 
-##### Section 1 : Contenu des cartes communales<a id=117></a>
+##### Section 1 : Contenu des cartes communales<a id=118></a>
 
 ###### Article R*124-1
 
@@ -25432,7 +25501,7 @@ _Modifié par_:
   - Décret n°2004-531 du 9 juin 2004 - art. 3 () JORF 13 juin 2004
 
 
-##### Section 2 : Elaboration et révision des cartes communales<a id=118></a>
+##### Section 2 : Elaboration et révision des cartes communales<a id=119></a>
 
 ###### Article R*124-4
 
@@ -25581,7 +25650,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-#### Chapitre VI : Servitudes d'utilité publique affectant l'utilisation du sol.<a id=119></a>
+#### Chapitre VI : Servitudes d'utilité publique affectant l'utilisation du sol.<a id=120></a>
 
 ###### Article R*126-1
 
@@ -25656,7 +25725,7 @@ _Modifié par_:
   - Décret n°2001-260 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
 
 
-#### Chapitre VII : Dispositions favorisant la diversité de l'habitat.<a id=120></a>
+#### Chapitre VII : Dispositions favorisant la diversité de l'habitat.<a id=121></a>
 
 ###### Article R*127-1
 
@@ -25759,9 +25828,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-### Titre III : Espaces boisés<a id=121></a>
+### Titre III : Espaces boisés<a id=122></a>
 
-#### Section 1 : Champ d'application de l'autorisation de coupe et d'abattage d'arbres.<a id=122></a>
+#### Section 1 : Champ d'application de l'autorisation de coupe et d'abattage d'arbres.<a id=123></a>
 
 ###### Article R*130-1
 
@@ -25815,9 +25884,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-#### Section 2 : Utilisation du sol, défrichements, coupes et abattages d'arbres dans les espaces boisés classés<a id=123></a>
+#### Section 2 : Utilisation du sol, défrichements, coupes et abattages d'arbres dans les espaces boisés classés<a id=124></a>
 
-##### Paragraphe 1 : Présentation de la demande.<a id=124></a>
+##### Paragraphe 1 : Présentation de la demande.<a id=125></a>
 
 ###### Article R*130-2
 
@@ -25926,7 +25995,7 @@ _Nouveaux textes_:
   - Code de l'urbanisme - art. R*130-2 (M)
 
 
-##### Paragraphe 2 : Instruction de la demande.<a id=125></a>
+##### Paragraphe 2 : Instruction de la demande.<a id=126></a>
 
 ###### Article R*130-4
 
@@ -25984,9 +26053,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Paragraphe 3 : Décision<a id=126></a>
+##### Paragraphe 3 : Décision<a id=127></a>
 
-##### I : Dispositions générales.<a id=127></a>
+##### I : Dispositions générales.<a id=128></a>
 
 ###### Article R*130-5
 
@@ -26164,7 +26233,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### II : Dispositions particulières applicables dans les communes où un plan local d'urbanisme a été approuvé.<a id=128></a>
+##### II : Dispositions particulières applicables dans les communes où un plan local d'urbanisme a été approuvé.<a id=129></a>
 
 ###### Article R*130-9
 
@@ -26238,7 +26307,7 @@ _Nouveaux textes_:
   - Code de l'urbanisme - art. R*130-19 (V)
 
 
-##### III : Dispositions particulières applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé.<a id=129></a>
+##### III : Dispositions particulières applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé.<a id=130></a>
 
 ###### Article R*130-11
 
@@ -26306,7 +26375,7 @@ _Nouveaux textes_:
   - Code de l'urbanisme - art. R*130-21 (VT)
 
 
-#### Section 3 : Régime des coupes et abattages d'arbres dans les bois, forêts ou parcs situés sur le territoire de communes ou parties de communes où l'établissement d'un plan local d'urbanisme a été prescrit.<a id=130></a>
+#### Section 3 : Régime des coupes et abattages d'arbres dans les bois, forêts ou parcs situés sur le territoire de communes ou parties de communes où l'établissement d'un plan local d'urbanisme a été prescrit.<a id=131></a>
 
 ###### Article R*130-13
 
@@ -26414,7 +26483,7 @@ _Anciens textes_:
   - Code de l'urbanisme - art. R130-6 (M)
 
 
-#### Section 4 : Compensation entre terrains boisés et terrains à bâtir et autorisation de construire sur une partie d'un terrain classé.<a id=131></a>
+#### Section 4 : Compensation entre terrains boisés et terrains à bâtir et autorisation de construire sur une partie d'un terrain classé.<a id=132></a>
 
 ###### Article R*130-16
 
@@ -26570,7 +26639,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-#### Section 5 : Dispositions diverses.<a id=132></a>
+#### Section 5 : Dispositions diverses.<a id=133></a>
 
 ###### Article R*130-20
 
@@ -26695,11 +26764,11 @@ _Abrogé par_:
   - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
-### Titre IV : Dispositions spéciales à certaines parties du territoire<a id=133></a>
+### Titre IV : Dispositions spéciales à certaines parties du territoire<a id=134></a>
 
-#### Chapitre Ier : Dispositions particulières à la région d'Ile-de-France, Paris, Marseille, Lyon et aux communes issues d'une fusion comportant une ou plusieurs communes associées<a id=134></a>
+#### Chapitre Ier : Dispositions particulières à la région d'Ile-de-France, Paris, Marseille, Lyon et aux communes issues d'une fusion comportant une ou plusieurs communes associées<a id=135></a>
 
-##### Section 1 : Schéma de cohérence territoriale de la région Ile-de-France.<a id=135></a>
+##### Section 1 : Schéma de cohérence territoriale de la région Ile-de-France.<a id=136></a>
 
 ###### Article R*141-1
 
@@ -26801,7 +26870,7 @@ _Modifié par_:
   - Décret n°2001-260 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
 
 
-##### Section 2 : Schémas de cohérence territoriale, schémas de secteurs et plans locaux d'urbanisme en région Ile-de-France<a id=136></a>
+##### Section 2 : Schémas de cohérence territoriale, schémas de secteurs et plans locaux d'urbanisme en région Ile-de-France<a id=137></a>
 
 ###### Article R*141-3
 
@@ -26848,7 +26917,7 @@ _Modifié par_:
   - Décret n°2001-260 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
 
 
-##### Section 3 : Plans locaux d'urbanisme des communes de Paris, Marseille, Lyon ou des communes issues d'une fusion comportant une ou plusieurs communes associées<a id=137></a>
+##### Section 3 : Plans locaux d'urbanisme des communes de Paris, Marseille, Lyon ou des communes issues d'une fusion comportant une ou plusieurs communes associées<a id=138></a>
 
 ###### Article R*141-5
 
@@ -26924,9 +26993,9 @@ _Nouveaux textes_:
   - Code de l'urbanisme - art. R134-1 (V)
 
 
-#### Chapitre II : Espaces naturels sensibles des départements<a id=138></a>
+#### Chapitre II : Espaces naturels sensibles des départements<a id=139></a>
 
-##### Section 1 : Taxe départementale des espaces naturels sensibles<a id=139></a>
+##### Section 1 : Taxe départementale des espaces naturels sensibles<a id=140></a>
 
 ###### Article R142-1
 
@@ -26961,7 +27030,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 2 : Mesures de protection<a id=140></a>
+##### Section 2 : Mesures de protection<a id=141></a>
 
 ###### Article R142-2
 
@@ -27062,7 +27131,7 @@ _Nouveaux textes_:
   - Code de l'urbanisme - art. R113-17 (V)
 
 
-##### Section 3 : Zones de préemption<a id=141></a>
+##### Section 3 : Zones de préemption<a id=142></a>
 
 ###### Article R142-4
 
@@ -27221,9 +27290,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 4 : Procédure de préemption<a id=142></a>
+##### Section 4 : Procédure de préemption<a id=143></a>
 
-##### Sous-Section 1 : Cas général<a id=143></a>
+##### Sous-Section 1 : Cas général<a id=144></a>
 
 ###### Article R142-8
 
@@ -27394,7 +27463,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Sous-section 2 : Cas des ventes par adjudication lorsque cette procédure est rendue obligatoire de par la loi ou le règlement<a id=144></a>
+##### Sous-section 2 : Cas des ventes par adjudication lorsque cette procédure est rendue obligatoire de par la loi ou le règlement<a id=145></a>
 
 ###### Article R142-12
 
@@ -27515,7 +27584,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Sous-section 3 : Dispositions communes<a id=145></a>
+##### Sous-section 3 : Dispositions communes<a id=146></a>
 
 ###### Article R142-15
 
@@ -27701,7 +27770,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-#### Chapitre V : Dispositions particulières aux zones de montagne<a id=146></a>
+#### Chapitre V : Dispositions particulières aux zones de montagne<a id=147></a>
 
 ###### Article R145-1
 
@@ -28023,7 +28092,7 @@ _Modifié par_:
   - Décret n°2002-748 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
 
 
-#### Chapitre VI : Dispositions particulières au littoral<a id=147></a>
+#### Chapitre VI : Dispositions particulières au littoral<a id=148></a>
 
 ###### Article R*146-2
 
@@ -28154,9 +28223,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-#### Chapitre VII : Dispositions particulières aux zones de bruit des aérodromes<a id=148></a>
+#### Chapitre VII : Dispositions particulières aux zones de bruit des aérodromes<a id=149></a>
 
-##### Section 1 : Détermination des valeurs d'indices à prendre en compte pour la délimitation des zones de bruit des aérodromes<a id=149></a>
+##### Section 1 : Détermination des valeurs d'indices à prendre en compte pour la délimitation des zones de bruit des aérodromes<a id=150></a>
 
 ###### Article R147-1
 
@@ -28242,7 +28311,7 @@ _Modifié par_:
   - Décret n°2002-626 du 26 avril 2002 - art. 1 () JORF 28 avril 2002 en vigueur le 1er novembre 2002
 
 
-##### Section 2 : Etablissement des plans d'exposition au bruit des aérodromes<a id=150></a>
+##### Section 2 : Etablissement des plans d'exposition au bruit des aérodromes<a id=151></a>
 
 ###### Article R147-5
 
@@ -28525,7 +28594,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-### Titre V : Départements d'outre-mer.<a id=151></a>
+### Titre V : Départements d'outre-mer.<a id=152></a>
 
 ###### Article R150-1
 
@@ -28589,9 +28658,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-### Titre VI : Sanctions et servitudes<a id=152></a>
+### Titre VI : Sanctions et servitudes<a id=153></a>
 
-#### Section 1 : Assermentation des agents chargés de constater les infractions<a id=153></a>
+#### Section 1 : Assermentation des agents chargés de constater les infractions<a id=154></a>
 
 ###### Article R160-1
 
@@ -28706,7 +28775,7 @@ _Abrogé par_:
   - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
-#### Section 3 : Agrément des associations de protection et d'amélioration du cadre de vie et de l'environnement<a id=154></a>
+#### Section 3 : Agrément des associations de protection et d'amélioration du cadre de vie et de l'environnement<a id=155></a>
 
 ###### Article R*160-7
 
@@ -28734,9 +28803,9 @@ _Nouveaux textes_:
   - Code de l'urbanisme - art. R620-2 (V)
 
 
-#### Section 4 : Servitudes de passage sur le littoral<a id=155></a>
+#### Section 4 : Servitudes de passage sur le littoral<a id=156></a>
 
-##### Sous-section 1 : Détermination du tracé et des caractéristiques de la servitude de passage longitudinale mentionnée à l'article L. 160-6<a id=156></a>
+##### Sous-section 1 : Détermination du tracé et des caractéristiques de la servitude de passage longitudinale mentionnée à l'article L. 160-6<a id=157></a>
 
 ###### Article R*160-8
 
@@ -29014,7 +29083,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Sous-section 2 : Détermination du tracé et des caractéristiques de la servitude de passage transversale mentionnée à l'article L. 160-6-1<a id=157></a>
+##### Sous-section 2 : Détermination du tracé et des caractéristiques de la servitude de passage transversale mentionnée à l'article L. 160-6-1<a id=158></a>
 
 ###### Article R*160-16
 
@@ -29096,7 +29165,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Sous-section 3 : Dispositions communes aux servitudes de passage sur le littoral<a id=158></a>
+##### Sous-section 3 : Dispositions communes aux servitudes de passage sur le littoral<a id=159></a>
 
 ###### Article R*160-17
 
@@ -29556,11 +29625,11 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-## Livre II : Préemption et réserves foncières<a id=159></a>
+## Livre II : Préemption et réserves foncières<a id=160></a>
 
-### Titre Ier : Droits de préemption<a id=160></a>
+### Titre Ier : Droits de préemption<a id=161></a>
 
-#### Chapitre Ier : Droit de préemption urbain<a id=161></a>
+#### Chapitre Ier : Droit de préemption urbain<a id=162></a>
 
 ###### Article R*211-1
 
@@ -29764,7 +29833,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-#### Chapitre II : Zones d'aménagement différé et périmètres provisoires<a id=162></a>
+#### Chapitre II : Zones d'aménagement différé et périmètres provisoires<a id=163></a>
 
 ###### Article R212-1
 
@@ -29950,9 +30019,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-#### Chapitre III : Dispositions communes au droit de préemption urbain, aux zones d'aménagement différé et aux périmètres provisoires<a id=163></a>
+#### Chapitre III : Dispositions communes au droit de préemption urbain, aux zones d'aménagement différé et aux périmètres provisoires<a id=164></a>
 
-##### Section 1 : Délégation du droit de préemption<a id=164></a>
+##### Section 1 : Délégation du droit de préemption<a id=165></a>
 
 ###### Article R213-1
 
@@ -30024,9 +30093,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 2 : Procédure de préemption<a id=165></a>
+##### Section 2 : Procédure de préemption<a id=166></a>
 
-##### Sous-section 1 : Cas général<a id=166></a>
+##### Sous-section 1 : Cas général<a id=167></a>
 
 ###### Article R213-4
 
@@ -30318,7 +30387,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Sous-section 2 : Cas de ventes par adjudication lorsque cette procédure est rendue obligatoire de par la loi ou le règlement<a id=167></a>
+##### Sous-section 2 : Cas de ventes par adjudication lorsque cette procédure est rendue obligatoire de par la loi ou le règlement<a id=168></a>
 
 ###### Article R213-14
 
@@ -30381,7 +30450,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 3 : Utilisation des biens acquis par la voie de la préemption<a id=168></a>
+##### Section 3 : Utilisation des biens acquis par la voie de la préemption<a id=169></a>
 
 ###### Article R213-16
 
@@ -30520,7 +30589,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 4 : Dispositions diverses<a id=169></a>
+##### Section 4 : Dispositions diverses<a id=170></a>
 
 ###### Article R213-21
 
@@ -30631,7 +30700,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 5 : Dispositions particulières applicables aux communes de Paris, Marseille et Lyon ainsi qu'aux communes issues d'une fusion comportant création d'une ou plusieurs communes associées<a id=170></a>
+##### Section 5 : Dispositions particulières applicables aux communes de Paris, Marseille et Lyon ainsi qu'aux communes issues d'une fusion comportant création d'une ou plusieurs communes associées<a id=171></a>
 
 ###### Article R213-27
 
@@ -30718,7 +30787,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-#### CHAPITRE VI : Dispositions particulières aux jardins familiaux<a id=171></a>
+#### CHAPITRE VI : Dispositions particulières aux jardins familiaux<a id=172></a>
 
 ###### Article R216-1
 
@@ -30751,7 +30820,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-## Livre III : Aménagement foncier<a id=172></a>
+## Livre III : Aménagement foncier<a id=173></a>
 
 ###### Article R300-1
 
@@ -30875,11 +30944,11 @@ _Créé par_:
   - Décret n°86-521 1986-03-15 art. 1 JORF 16 mars 1986
 
 
-### Titre Ier : Opérations d'aménagement<a id=173></a>
+### Titre Ier : Opérations d'aménagement<a id=174></a>
 
-#### Chapitre Ier : Zones d'aménagement concerté<a id=174></a>
+#### Chapitre Ier : Zones d'aménagement concerté<a id=175></a>
 
-##### Section 1 : Création des zones d'aménagement concerté<a id=175></a>
+##### Section 1 : Création des zones d'aménagement concerté<a id=176></a>
 
 ###### Article R*311-1
 
@@ -31045,7 +31114,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 2 : Réalisation des zones d'aménagement concerté<a id=176></a>
+##### Section 2 : Réalisation des zones d'aménagement concerté<a id=177></a>
 
 ###### Article R*311-6
 
@@ -31212,7 +31281,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 3 : Suppression ou modification d'une zone d'aménagement concerté<a id=177></a>
+##### Section 3 : Suppression ou modification d'une zone d'aménagement concerté<a id=178></a>
 
 ###### Article R*311-12
 
@@ -31241,11 +31310,11 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-#### Chapitre III : Restauration immobilière et secteurs sauvegardés<a id=178></a>
+#### Chapitre III : Restauration immobilière et secteurs sauvegardés<a id=179></a>
 
-##### Section 1 : Secteurs sauvegardés<a id=179></a>
+##### Section 1 : Secteurs sauvegardés<a id=180></a>
 
-##### Sous-section 1 : Création des secteurs sauvegardés<a id=180></a>
+##### Sous-section 1 : Création des secteurs sauvegardés<a id=181></a>
 
 ###### Article R313-1
 
@@ -31373,7 +31442,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Sous-section 2 : Instruction du plan de sauvegarde et de mise en valeur<a id=181></a>
+##### Sous-section 2 : Instruction du plan de sauvegarde et de mise en valeur<a id=182></a>
 
 ###### Article R*313-6
 
@@ -31627,7 +31696,7 @@ _Cite_:
   - Loi n°1930-05-02
 
 
-##### Sous-section 3 : Contenu du plan de sauvegarde et de mise en valeur<a id=182></a>
+##### Sous-section 3 : Contenu du plan de sauvegarde et de mise en valeur<a id=183></a>
 
 ###### Article R313-11
 
@@ -31665,9 +31734,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Sous-section 4 : Effets du plan de sauvegarde et de mise en valeur<a id=183></a>
+##### Sous-section 4 : Effets du plan de sauvegarde et de mise en valeur<a id=184></a>
 
-##### Paragraphe 1 : Mesures applicables entre la délimitation du secteur sauvegardé et la publication du plan de sauvegarde et de mise en valeur<a id=184></a>
+##### Paragraphe 1 : Mesures applicables entre la délimitation du secteur sauvegardé et la publication du plan de sauvegarde et de mise en valeur<a id=185></a>
 
 ###### Article R*313-14
 
@@ -31991,7 +32060,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Paragraphe 2 : Mesures applicables une fois le plan de sauvegarde et de mise en valeur rendu public<a id=185></a>
+##### Paragraphe 2 : Mesures applicables une fois le plan de sauvegarde et de mise en valeur rendu public<a id=186></a>
 
 ###### Article R313-19
 
@@ -32169,7 +32238,7 @@ _Cite_:
   - Code de l'urbanisme R123-32, R123-32-1, R123-33
 
 
-##### Sous-section 5 : Modification, révision et mise à jour du plan de sauvegarde<a id=186></a>
+##### Sous-section 5 : Modification, révision et mise à jour du plan de sauvegarde<a id=187></a>
 
 ###### Article R313-20
 
@@ -32296,7 +32365,7 @@ _Cite_:
   - Code de l'urbanisme R123-36 al. 2, al. 5
 
 
-##### Sous-section 6 : Dispositions diverses<a id=187></a>
+##### Sous-section 6 : Dispositions diverses<a id=188></a>
 
 ###### Article R313-21
 
@@ -32393,7 +32462,7 @@ _Abrogé par_:
   - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
 
 
-##### Section 2 : Restauration immobilière<a id=188></a>
+##### Section 2 : Restauration immobilière<a id=189></a>
 
 ###### Article R*313-24
 
@@ -32650,7 +32719,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 3 : Visite des bâtiments par des hommes de l'art<a id=189></a>
+##### Section 3 : Visite des bâtiments par des hommes de l'art<a id=190></a>
 
 ###### Article R313-33
 
@@ -32773,7 +32842,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 4 : Prestation de serment des hommes de l'art<a id=190></a>
+##### Section 4 : Prestation de serment des hommes de l'art<a id=191></a>
 
 ###### Article R313-38
 
@@ -32801,9 +32870,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-#### CHAPITRE V : Lotissements et divisions de propriété<a id=191></a>
+#### CHAPITRE V : Lotissements et divisions de propriété<a id=192></a>
 
-##### Section 1 : Dispositions générales relatives aux lotissements<a id=192></a>
+##### Section 1 : Dispositions générales relatives aux lotissements<a id=193></a>
 
 ###### Article R*315-1
 
@@ -32931,7 +33000,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-##### Section 2 : Présentation, dépôt et transmission de la demande d'autorisation<a id=193></a>
+##### Section 2 : Présentation, dépôt et transmission de la demande d'autorisation<a id=194></a>
 
 ###### Article R*315-4
 
@@ -33265,9 +33334,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 3 : Instruction des demandes<a id=194></a>
+##### Section 3 : Instruction des demandes<a id=195></a>
 
-##### Paragraphe 1 : Dispositions applicables dans l'ensemble des communes<a id=195></a>
+##### Paragraphe 1 : Dispositions applicables dans l'ensemble des communes<a id=196></a>
 
 ###### Article R*315-15
 
@@ -33723,7 +33792,7 @@ _Modifié par_:
   - Décret n°87-885 du 30 octobre 1987 - art. 2 () JORF 31 octobre 1987
 
 
-##### Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme a été approuvé.<a id=196></a>
+##### Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme a été approuvé.<a id=197></a>
 
 ###### Article R*315-22
 
@@ -33882,7 +33951,7 @@ _Cite_:
   - Code de l'urbanisme - art. L421-2-1 (M)
 
 
-##### Paragraphe 3 : Dispositions applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé.<a id=197></a>
+##### Paragraphe 3 : Dispositions applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé.<a id=198></a>
 
 ###### Article R*315-25-1
 
@@ -33993,9 +34062,9 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-##### Section 4 : Décision<a id=198></a>
+##### Section 4 : Décision<a id=199></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=199></a>
+##### Paragraphe 1 : Dispositions générales<a id=200></a>
 
 ###### Article R*315-26
 
@@ -34298,7 +34367,7 @@ _Cite_:
   - Code de l'urbanisme R315-30, R315-33
 
 
-##### Paragraphe 2 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme a été approuvé.<a id=200></a>
+##### Paragraphe 2 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme a été approuvé.<a id=201></a>
 
 ###### Article R*315-31-1
 
@@ -34390,7 +34459,7 @@ _Cite_:
   - Code de l'urbanisme - art. L421-2-4 (M)
 
 
-##### Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé<a id=201></a>
+##### Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé<a id=202></a>
 
 ###### Article R*315-31-4
 
@@ -34418,7 +34487,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-##### Section 5 : Cession des lots et édification des constructions<a id=202></a>
+##### Section 5 : Cession des lots et édification des constructions<a id=203></a>
 
 ###### Article R*315-32
 
@@ -34790,7 +34859,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 6 : Dispositions diverses<a id=203></a>
+##### Section 6 : Dispositions diverses<a id=204></a>
 
 ###### Article R*315-40
 
@@ -34952,7 +35021,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 7 : Modifications apportées aux documents du lotissement et subdivisions de lots provenant d'un lotissement<a id=204></a>
+##### Section 7 : Modifications apportées aux documents du lotissement et subdivisions de lots provenant d'un lotissement<a id=205></a>
 
 ###### Article R*315-44-1
 
@@ -35346,7 +35415,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-##### Section 8 : Modalités d'incorporation au plan local d'urbanisme du règlement des lotissements<a id=205></a>
+##### Section 8 : Modalités d'incorporation au plan local d'urbanisme du règlement des lotissements<a id=206></a>
 
 ###### Article R315-53
 
@@ -35376,7 +35445,7 @@ _Cite_:
   - Code de l'urbanisme L315-4 AL. 6
 
 
-##### Section 9 : Dispositions en vue de l'implantation de bâtiments qui ne constituent pas des lotissements<a id=206></a>
+##### Section 9 : Dispositions en vue de l'implantation de bâtiments qui ne constituent pas des lotissements<a id=207></a>
 
 ###### Article R*315-54
 
@@ -35407,7 +35476,7 @@ _Cite_:
   - Code de l'urbanisme R315-1, R315-2
 
 
-##### Section 10 : Divisions soumises à déclaration préalable<a id=207></a>
+##### Section 10 : Divisions soumises à déclaration préalable<a id=208></a>
 
 ###### Article R315-55
 
@@ -35642,7 +35711,7 @@ _Cite_:
   - Code de l'urbanisme - art. L111-5-2 (M)
 
 
-#### CHAPITRE VI : Sanctions relatives aux lotissements<a id=208></a>
+#### CHAPITRE VI : Sanctions relatives aux lotissements<a id=209></a>
 
 ###### Article R*316-2
 
@@ -35703,9 +35772,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-#### CHAPITRE VII : Amélioration de certains lotissements<a id=209></a>
+#### CHAPITRE VII : Amélioration de certains lotissements<a id=210></a>
 
-##### Section 1 : Dispositions générales<a id=210></a>
+##### Section 1 : Dispositions générales<a id=211></a>
 
 ###### Article R317-1
 
@@ -35766,9 +35835,9 @@ _Cité par_:
   - Code de l'urbanisme - art. R317-14 (Ab)
 
 
-##### Section 2 : Associations syndicales et comités syndicaux<a id=211></a>
+##### Section 2 : Associations syndicales et comités syndicaux<a id=212></a>
 
-##### Paragraphe 1 : Associations syndicales<a id=212></a>
+##### Paragraphe 1 : Associations syndicales<a id=213></a>
 
 ###### Article R317-3
 
@@ -35933,7 +36002,7 @@ _Abrogé par_:
   - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 
-##### Paragraphe 2 : Comités syndicaux<a id=213></a>
+##### Paragraphe 2 : Comités syndicaux<a id=214></a>
 
 ###### Article R317-9
 
@@ -36175,7 +36244,7 @@ _Abrogé par_:
   - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 
-##### Paragraphe 3 : Des syndicats et des syndics de la loi du 22 juillet 1912<a id=214></a>
+##### Paragraphe 3 : Des syndicats et des syndics de la loi du 22 juillet 1912<a id=215></a>
 
 ###### Article R317-18
 
@@ -36209,9 +36278,9 @@ _Cite_:
   - Loi n°1912-07-22
 
 
-##### Section 3 : Caisses départementales de prêts<a id=215></a>
+##### Section 3 : Caisses départementales de prêts<a id=216></a>
 
-##### Paragraphe 1 : Création et administration<a id=216></a>
+##### Paragraphe 1 : Création et administration<a id=217></a>
 
 ###### Article R317-19
 
@@ -36550,7 +36619,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Paragraphe 2 : Prêts de la caisse départementale<a id=217></a>
+##### Paragraphe 2 : Prêts de la caisse départementale<a id=218></a>
 
 ###### Article R317-30
 
@@ -36722,7 +36791,7 @@ _Anciens textes_:
   - Code de l'urbanisme 130
 
 
-##### Section 4 : Subventions de l'Etat<a id=218></a>
+##### Section 4 : Subventions de l'Etat<a id=219></a>
 
 ###### Article R317-36
 
@@ -36864,7 +36933,7 @@ _Cité par_:
   - Code de l'urbanisme - art. R317-18 (Ab)
 
 
-##### Section 5 : Dispositions communes aux prêts et aux subventions<a id=219></a>
+##### Section 5 : Dispositions communes aux prêts et aux subventions<a id=220></a>
 
 ###### Article R317-41
 
@@ -36945,7 +37014,7 @@ _Abrogé par_:
   - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 
-##### Section 6 : Exécution des travaux<a id=220></a>
+##### Section 6 : Exécution des travaux<a id=221></a>
 
 ###### Article R317-44
 
@@ -37049,7 +37118,7 @@ _Abrogé par_:
   - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 
-##### Section 7 : Action en responsabilité<a id=221></a>
+##### Section 7 : Action en responsabilité<a id=222></a>
 
 ###### Article R317-48
 
@@ -37229,9 +37298,9 @@ _Abrogé par_:
   - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 
-#### Chapitre VIII : Dispositions relatives à certaines opérations<a id=222></a>
+#### Chapitre VIII : Dispositions relatives à certaines opérations<a id=223></a>
 
-##### Section 1 : Déclassements et transferts de propriété<a id=223></a>
+##### Section 1 : Déclassements et transferts de propriété<a id=224></a>
 
 ###### Article R*318-1
 
@@ -37570,7 +37639,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 4 : Dispositions particulières à certaines opérations<a id=224></a>
+##### Section 4 : Dispositions particulières à certaines opérations<a id=225></a>
 
 ###### Article R*318-14
 
@@ -37639,7 +37708,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 5 : Dispositions applicables aux communes de Paris, Marseille et Lyon ainsi qu'aux communes issues d'une fusion et comportant une ou plusieurs communes associées<a id=225></a>
+##### Section 5 : Dispositions applicables aux communes de Paris, Marseille et Lyon ainsi qu'aux communes issues d'une fusion et comportant une ou plusieurs communes associées<a id=226></a>
 
 ###### Article R*318-16
 
@@ -37765,11 +37834,11 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-### Titre II : Organismes d'exécution<a id=226></a>
+### Titre II : Organismes d'exécution<a id=227></a>
 
-#### Chapitre I : Sociétés d'économie mixte et établissements publics<a id=227></a>
+#### Chapitre I : Sociétés d'économie mixte et établissements publics<a id=228></a>
 
-##### Section 1 : Opérations d'aménagement<a id=228></a>
+##### Section 1 : Opérations d'aménagement<a id=229></a>
 
 ###### Article R*321-1
 
@@ -37809,9 +37878,9 @@ _Cite_:
   - TXT_ASSOCIE: Code de l'urbanisme R321-13
 
 
-##### Section 2 : Modalités de constitution et de fonctionnement des établissements publics et des sociétés d'économie mixte<a id=229></a>
+##### Section 2 : Modalités de constitution et de fonctionnement des établissements publics et des sociétés d'économie mixte<a id=230></a>
 
-##### Paragraphe 1 : Etablissements publics<a id=230></a>
+##### Paragraphe 1 : Etablissements publics<a id=231></a>
 
 ###### Article R*321-2
 
@@ -38205,7 +38274,7 @@ _Cite_:
   - Code de l'urbanisme - art. L321-5 (M)
 
 
-##### Paragraphe 2 : Sociétés d'économie mixte<a id=231></a>
+##### Paragraphe 2 : Sociétés d'économie mixte<a id=232></a>
 
 ###### Article R*321-16
 
@@ -38228,7 +38297,7 @@ _Cité par_:
   - Décret n°96-325 du 10 avril 1996 - art. 3 (V)
 
 
-##### Paragraphe 3 : Dispositions communes<a id=232></a>
+##### Paragraphe 3 : Dispositions communes<a id=233></a>
 
 ###### Article R*321-20
 
@@ -38380,7 +38449,7 @@ _Abrogé par_:
   - Décret n°2011-1900 du 20 décembre 2011 - art. 1
 
 
-#### Chapitre II : Associations foncières urbaines<a id=233></a>
+#### Chapitre II : Associations foncières urbaines<a id=234></a>
 
 ###### Article R*322-1
 
@@ -38414,7 +38483,7 @@ _Cité par_:
   - Code de l'urbanisme - art. R*730-1 (Ab)
 
 
-##### Section 1 : Dispositions générales<a id=234></a>
+##### Section 1 : Dispositions générales<a id=235></a>
 
 ###### Article R*322-2
 
@@ -38558,9 +38627,9 @@ _Cite_:
   - Code de l'urbanisme - art. L322-10 (V)
 
 
-##### Section 2 : Dispositions concernant les associations foncières urbaines de remembrement<a id=235></a>
+##### Section 2 : Dispositions concernant les associations foncières urbaines de remembrement<a id=236></a>
 
-##### Paragraphe 1 : Constitution de l'association autorisée<a id=236></a>
+##### Paragraphe 1 : Constitution de l'association autorisée<a id=237></a>
 
 ###### Article R*322-6
 
@@ -38596,7 +38665,7 @@ _Modifié par_:
   - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
 
 
-##### Paragraphe 2 : Redistribution parcellaire et fixation de l'état nouveau<a id=237></a>
+##### Paragraphe 2 : Redistribution parcellaire et fixation de l'état nouveau<a id=238></a>
 
 ###### Article R*322-7
 
@@ -39156,7 +39225,7 @@ _Modifié par_:
   - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
 
 
-##### Paragraphe 3 : Mesures de publicité foncière<a id=238></a>
+##### Paragraphe 3 : Mesures de publicité foncière<a id=239></a>
 
 ###### Article R*322-20
 
@@ -39304,7 +39373,7 @@ _Cité par_:
   - Code de l'urbanisme - art. R*322-24 (V)
 
 
-##### Paragraphe 4 : Dispositions concernant les associations foncières urbaines de remembrement constituées d'office<a id=239></a>
+##### Paragraphe 4 : Dispositions concernant les associations foncières urbaines de remembrement constituées d'office<a id=240></a>
 
 ###### Article R*322-23
 
@@ -39366,9 +39435,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 3 : Dispositions relatives aux associations foncières urbaines de groupement de parcelles<a id=240></a>
+##### Section 3 : Dispositions relatives aux associations foncières urbaines de groupement de parcelles<a id=241></a>
 
-##### Paragraphe 1 : Constitution des associations autorisées<a id=241></a>
+##### Paragraphe 1 : Constitution des associations autorisées<a id=242></a>
 
 ###### Article R*322-25
 
@@ -39416,7 +39485,7 @@ _Modifié par_:
   - Décret n°86-517 du 14 mars 1986 - art. 38 () JORF 1er avril 1986
 
 
-##### Paragraphe 2 : Modalités de groupement de parcelles<a id=242></a>
+##### Paragraphe 2 : Modalités de groupement de parcelles<a id=243></a>
 
 ###### Article R*322-26
 
@@ -39660,7 +39729,7 @@ _Modifié par_:
   - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
-##### Paragraphe 3 : Dispositions spéciales<a id=243></a>
+##### Paragraphe 3 : Dispositions spéciales<a id=244></a>
 
 ###### Article R*322-29
 
@@ -39718,9 +39787,9 @@ _Modifié par_:
   - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
 
 
-##### Section 4 : Dispositions concernant les associations foncières urbaines de conservation, de restauration et de mise en valeur des secteurs sauvegardés ainsi que de restauration immobilière<a id=244></a>
+##### Section 4 : Dispositions concernant les associations foncières urbaines de conservation, de restauration et de mise en valeur des secteurs sauvegardés ainsi que de restauration immobilière<a id=245></a>
 
-##### Paragraphe 1 : Associations autorisées<a id=245></a>
+##### Paragraphe 1 : Associations autorisées<a id=246></a>
 
 ###### Article R*322-31
 
@@ -39793,7 +39862,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Paragraphe 2 : Associations constituées d'office<a id=246></a>
+##### Paragraphe 2 : Associations constituées d'office<a id=247></a>
 
 ###### Article R*322-33
 
@@ -39824,7 +39893,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 5 : Commission consultative<a id=247></a>
+##### Section 5 : Commission consultative<a id=248></a>
 
 ###### Article R322-34
 
@@ -39945,7 +40014,7 @@ _Abrogé par_:
   - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 
-##### Section 6 : Dispositions diverses<a id=248></a>
+##### Section 6 : Dispositions diverses<a id=249></a>
 
 ###### Article R322-38
 
@@ -40017,9 +40086,9 @@ _Créé par_:
   - Décret n°86-517 du 14 mars 1986 - art. 44 () JORF 16 mars 1986 en vigueur le 1er avril 1986
 
 
-#### Chapitre IV : Etablissements publics fonciers<a id=249></a>
+#### Chapitre IV : Etablissements publics fonciers<a id=250></a>
 
-##### Section 1 : Création et compétences de l'établissement public foncier<a id=250></a>
+##### Section 1 : Création et compétences de l'établissement public foncier<a id=251></a>
 
 ###### Article R324-1
 
@@ -40125,7 +40194,7 @@ _Cite_:
   - Code de l'urbanisme - art. L324-1 (M)
 
 
-##### Section 2 : Administration et fonctionnement de l'établissement public foncier<a id=251></a>
+##### Section 2 : Administration et fonctionnement de l'établissement public foncier<a id=252></a>
 
 ###### Article R324-5
 
@@ -40311,7 +40380,7 @@ _Abrogé par_:
   - Décret n°2011-696 du 20 juin 2011 - art. 1
 
 
-##### Section 3 : Modification des conditions initiales de composition et de fonctionnement de l'établissement public foncier<a id=252></a>
+##### Section 3 : Modification des conditions initiales de composition et de fonctionnement de l'établissement public foncier<a id=253></a>
 
 ###### Article R324-12
 
@@ -40360,7 +40429,7 @@ _Abrogé par_:
   - Décret n°2011-696 du 20 juin 2011 - art. 1
 
 
-##### Section 4 : Transformation d'un établissement public de coopération intercommunale à vocation unique foncière en établissement public foncier<a id=253></a>
+##### Section 4 : Transformation d'un établissement public de coopération intercommunale à vocation unique foncière en établissement public foncier<a id=254></a>
 
 ###### Article R324-14
 
@@ -40388,7 +40457,7 @@ _Cite_:
   - Code de l'urbanisme - art. L324-8
 
 
-##### Section 5 : Dissolution de l'établissement public foncier<a id=254></a>
+##### Section 5 : Dissolution de l'établissement public foncier<a id=255></a>
 
 ###### Article R324-15
 
@@ -40419,9 +40488,9 @@ _Abrogé par_:
   - Décret n°2011-696 du 20 juin 2011 - art. 1
 
 
-#### Chapitre V : Etablissement public national d'aménagement et de restructuration des espaces commerciaux et artisanaux<a id=255></a>
+#### Chapitre V : Etablissement public national d'aménagement et de restructuration des espaces commerciaux et artisanaux<a id=256></a>
 
-##### Section 1 : Organisation administrative<a id=256></a>
+##### Section 1 : Organisation administrative<a id=257></a>
 
 ###### Article R325-1
 
@@ -40624,7 +40693,7 @@ _Créé par_:
   - Décret n°97-130 du 12 février 1997 - art. 1 () JORF 13 février 1997
 
 
-##### Section 2 : Organisation financière<a id=257></a>
+##### Section 2 : Organisation financière<a id=258></a>
 
 ###### Article R325-8
 
@@ -40691,7 +40760,7 @@ _Créé par_:
   - Décret n°97-130 du 12 février 1997 - art. 1 () JORF 13 février 1997
 
 
-##### Section 3 : Contrôle de l'établissement<a id=258></a>
+##### Section 3 : Contrôle de l'établissement<a id=259></a>
 
 ###### Article R325-10
 
@@ -40719,11 +40788,11 @@ _Abrogé par_:
   - Décret n°2012-1247 du 7 novembre 2012 - art. 46
 
 
-### Titre III : Dispositions financières<a id=259></a>
+### Titre III : Dispositions financières<a id=260></a>
 
-#### CHAPITRE I : Fonds national d'aménagement foncier et d'urbanisme<a id=260></a>
+#### CHAPITRE I : Fonds national d'aménagement foncier et d'urbanisme<a id=261></a>
 
-##### Section 1 : Dispositions générales<a id=261></a>
+##### Section 1 : Dispositions générales<a id=262></a>
 
 ###### Article R*331-1
 
@@ -40765,7 +40834,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-##### Section 2 : Avances<a id=262></a>
+##### Section 2 : Avances<a id=263></a>
 
 ###### Article R*331-2
 
@@ -40848,7 +40917,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-##### Section 3 : Bonifications d'intérêt<a id=263></a>
+##### Section 3 : Bonifications d'intérêt<a id=264></a>
 
 ###### Article R*331-5
 
@@ -40930,7 +40999,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-##### Section 4 : Opérations réalisées par l'Etat<a id=264></a>
+##### Section 4 : Opérations réalisées par l'Etat<a id=265></a>
 
 ###### Article R*331-8
 
@@ -41113,7 +41182,7 @@ _Cité par_:
   - Code de l'urbanisme - art. R331-23 (V)
 
 
-##### Section 5 : Opérations en participation<a id=265></a>
+##### Section 5 : Opérations en participation<a id=266></a>
 
 ###### Article R*331-13
 
@@ -41201,7 +41270,7 @@ _Cite_:
   - TXT_ASSOCIE: Code de l'urbanisme R331-16
 
 
-##### Section 6 : Dispositions communes<a id=266></a>
+##### Section 6 : Dispositions communes<a id=267></a>
 
 ###### Article R*331-16
 
@@ -41300,9 +41369,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-#### Chapitre II : Participation des constructeurs et des lotisseurs<a id=267></a>
+#### Chapitre II : Participation des constructeurs et des lotisseurs<a id=268></a>
 
-##### Section 1 : Participation en cas de dépassement du coefficient d'occupation du sol<a id=268></a>
+##### Section 1 : Participation en cas de dépassement du coefficient d'occupation du sol<a id=269></a>
 
 ###### Article R*332-1
 
@@ -41803,9 +41872,9 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-##### Section 2 : Autres participations<a id=269></a>
+##### Section 2 : Autres participations<a id=270></a>
 
-##### Sous-section 1 : Cessions de terrains ou de locaux<a id=270></a>
+##### Sous-section 1 : Cessions de terrains ou de locaux<a id=271></a>
 
 ###### Article R*332-15
 
@@ -41866,7 +41935,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Sous-section 2 : Participation en cas de non-réalisation d'aires de stationnement<a id=271></a>
+##### Sous-section 2 : Participation en cas de non-réalisation d'aires de stationnement<a id=272></a>
 
 ###### Article R*332-17
 
@@ -42026,7 +42095,7 @@ _Abrogé par_:
   - Décret n°2016-6 du 5 janvier 2016 - art. 1
 
 
-##### Sous-section 3 : Participation à la réalisation d'équipements publics instituée dans les secteurs d'aménagement<a id=272></a>
+##### Sous-section 3 : Participation à la réalisation d'équipements publics instituée dans les secteurs d'aménagement<a id=273></a>
 
 ###### Article R*332-25
 
@@ -42068,7 +42137,7 @@ _Cité par_:
   - Code de l'urbanisme - art. R*700-2 (Ab)
 
 
-##### Section 5 : Dispositions diverses<a id=273></a>
+##### Section 5 : Dispositions diverses<a id=274></a>
 
 ###### Article R*332-42
 
@@ -42140,9 +42209,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-#### Chapitre III : Versement résultant du dépassement du plafond légal de densité<a id=274></a>
+#### Chapitre III : Versement résultant du dépassement du plafond légal de densité<a id=275></a>
 
-##### Section 1 : Dispositions générales<a id=275></a>
+##### Section 1 : Dispositions générales<a id=276></a>
 
 ###### Article R*333-1
 
@@ -42796,9 +42865,9 @@ _Cite_:
   - Code de l'urbanisme - art. L421-4
 
 
-##### Section 2 : Application du plafond légal de densité dans les zones d'aménagement concerté, les zones de rénovation urbaine et les zones de résorption de l'habitat insalubre<a id=276></a>
+##### Section 2 : Application du plafond légal de densité dans les zones d'aménagement concerté, les zones de rénovation urbaine et les zones de résorption de l'habitat insalubre<a id=277></a>
 
-##### Sous-section 1 : Dispositions communes<a id=277></a>
+##### Sous-section 1 : Dispositions communes<a id=278></a>
 
 ###### Article R*333-14
 
@@ -42916,7 +42985,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Sous-section 2 : Zones dont l'aménagement est réalisé en régie directe<a id=278></a>
+##### Sous-section 2 : Zones dont l'aménagement est réalisé en régie directe<a id=279></a>
 
 ###### Article R*333-17
 
@@ -43218,7 +43287,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Sous-section 3 : Zones dont l'aménagement n'est pas réalisé en régie directe<a id=279></a>
+##### Sous-section 3 : Zones dont l'aménagement n'est pas réalisé en régie directe<a id=280></a>
 
 ###### Article R*333-24
 
@@ -43572,7 +43641,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-### Titre IV : Départements d'outre-mer<a id=280></a>
+### Titre IV : Départements d'outre-mer<a id=281></a>
 
 ###### Article R340-1
 
@@ -43793,13 +43862,13 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-## Livre IV : Régime applicable aux constructions, aménagements et démolitions<a id=281></a>
+## Livre IV : Régime applicable aux constructions, aménagements et démolitions<a id=282></a>
 
-### Titre IV : Dispositions propres aux aménagements<a id=282></a>
+### Titre IV : Dispositions propres aux aménagements<a id=283></a>
 
-#### Chapitre III : Dispositions propres aux terrains de camping et aux autres terrains aménagés pour l'hébergement touristique<a id=283></a>
+#### Chapitre III : Dispositions propres aux terrains de camping et aux autres terrains aménagés pour l'hébergement touristique<a id=284></a>
 
-##### Section 2 : Permis d'aménager<a id=284></a>
+##### Section 2 : Permis d'aménager<a id=285></a>
 
 ###### Article R*443-6
 
@@ -43833,7 +43902,7 @@ _Anciens textes_:
   - Code de l'urbanisme - art. R440-13 (T)
 
 
-##### Section 3 : Dispositions applicables dans les zones soumises à un risque naturel ou technologique prévisible<a id=285></a>
+##### Section 3 : Dispositions applicables dans les zones soumises à un risque naturel ou technologique prévisible<a id=286></a>
 
 ###### Article R*443-10
 
@@ -43955,7 +44024,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-### Titre VIII : Sanctions<a id=286></a>
+### Titre VIII : Sanctions<a id=287></a>
 
 ###### Article R480-3
 
@@ -44028,11 +44097,11 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-## LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol<a id=287></a>
+## LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol<a id=288></a>
 
-### TITRE I : Certificat d'urbanisme<a id=288></a>
+### TITRE I : Certificat d'urbanisme<a id=289></a>
 
-#### Section 1 : Présentation, dépôt et transmission de la demande.<a id=289></a>
+#### Section 1 : Présentation, dépôt et transmission de la demande.<a id=290></a>
 
 ###### Article R*410-1
 
@@ -44134,9 +44203,9 @@ _Cite_:
   - Code de l'urbanisme - art. L421-2-3 (M)
 
 
-#### Section 2 : Instruction de la demande<a id=290></a>
+#### Section 2 : Instruction de la demande<a id=291></a>
 
-##### Paragraphe 1 : Dispositions applicables dans l'ensemble des communes.<a id=291></a>
+##### Paragraphe 1 : Dispositions applicables dans l'ensemble des communes.<a id=292></a>
 
 ###### Article R*410-4
 
@@ -44161,7 +44230,7 @@ _Modifié par_:
   - Décret n°2001-262 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
 
 
-##### Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme ou une carte communale a été approuvé, à l'exception de celles qui ont pris la délibération mentionnée au premier alinéa de l'article L. 421-2-1<a id=292></a>
+##### Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme ou une carte communale a été approuvé, à l'exception de celles qui ont pris la délibération mentionnée au premier alinéa de l'article L. 421-2-1<a id=293></a>
 
 ###### Article R*410-5
 
@@ -44244,7 +44313,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Paragraphe 3 : Dispositions applicables dans les autres communes<a id=293></a>
+##### Paragraphe 3 : Dispositions applicables dans les autres communes<a id=294></a>
 
 ###### Article R*410-8
 
@@ -44277,9 +44346,9 @@ _Cite_:
   - Code de l'urbanisme - art. L421-5 (M)
 
 
-#### Section 3 : Délivrance<a id=294></a>
+#### Section 3 : Délivrance<a id=295></a>
 
-##### Paragraphe 1 : Dispositions applicables dans l'ensemble des communes.<a id=295></a>
+##### Paragraphe 1 : Dispositions applicables dans l'ensemble des communes.<a id=296></a>
 
 ###### Article R*410-9
 
@@ -44465,7 +44534,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme ou une carte communale a été approuvé, à l'exception de celles qui ont pris la délibération mentionnée au premier alinéa de l'article L. 421-2-1<a id=296></a>
+##### Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme ou une carte communale a été approuvé, à l'exception de celles qui ont pris la délibération mentionnée au premier alinéa de l'article L. 421-2-1<a id=297></a>
 
 ###### Article R*410-19
 
@@ -44532,7 +44601,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Paragraphe 3 : Dispositions applicables dans les autres communes<a id=297></a>
+##### Paragraphe 3 : Dispositions applicables dans les autres communes<a id=298></a>
 
 ###### Article R*410-22
 
@@ -44576,7 +44645,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-#### Section 4 : Dispositions diverses.<a id=298></a>
+#### Section 4 : Dispositions diverses.<a id=299></a>
 
 ###### Article R*410-24
 
@@ -44601,9 +44670,9 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-### TITRE II : Permis de construire<a id=299></a>
+### TITRE II : Permis de construire<a id=300></a>
 
-#### CHAPITRE I : Régime général<a id=300></a>
+#### CHAPITRE I : Régime général<a id=301></a>
 
 ###### Article R421-1
 
@@ -44678,7 +44747,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 1 : Présentation de la demande.<a id=301></a>
+##### Section 1 : Présentation de la demande.<a id=302></a>
 
 ###### Article R*421-1-2
 
@@ -45359,7 +45428,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 2 : Dépôt et transmission de la demande<a id=302></a>
+##### Section 2 : Dépôt et transmission de la demande<a id=303></a>
 
 ###### Article R*421-10
 
@@ -45515,9 +45584,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 3 : Instruction de la demande<a id=303></a>
+##### Section 3 : Instruction de la demande<a id=304></a>
 
-##### Paragraphe 1 : Dispositions applicables dans l'ensemble des communes.<a id=304></a>
+##### Paragraphe 1 : Dispositions applicables dans l'ensemble des communes.<a id=305></a>
 
 ###### Article R*421-12
 
@@ -46041,7 +46110,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme a été approuvé.<a id=305></a>
+##### Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme a été approuvé.<a id=306></a>
 
 ###### Article R*421-21
 
@@ -46230,7 +46299,7 @@ _Modifié par_:
   - Décret n°2001-260 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
 
 
-##### Paragraphe 3 : Dispositions applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé.<a id=306></a>
+##### Paragraphe 3 : Dispositions applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé.<a id=307></a>
 
 ###### Article R*421-25
 
@@ -46369,9 +46438,9 @@ _Cité par_:
   - Code de l'urbanisme - art. R442-5 (M)
 
 
-##### Section 4 : Décision<a id=307></a>
+##### Section 4 : Décision<a id=308></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=308></a>
+##### Paragraphe 1 : Dispositions générales.<a id=309></a>
 
 ###### Article R*421-29
 
@@ -46576,7 +46645,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Paragraphe 2 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme a été approuvé.<a id=309></a>
+##### Paragraphe 2 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme a été approuvé.<a id=310></a>
 
 ###### Article R*421-33
 
@@ -46682,7 +46751,7 @@ _Cité par_:
   - Code de l'urbanisme - art. R445-8 (Ab)
 
 
-##### Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé.<a id=310></a>
+##### Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé.<a id=311></a>
 
 ###### Article R*421-36
 
@@ -46845,7 +46914,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 5 : Dispositions applicables aux constructions et travaux soumis au régime du permis de construire et à un autre régime d'autorisation<a id=311></a>
+##### Section 5 : Dispositions applicables aux constructions et travaux soumis au régime du permis de construire et à un autre régime d'autorisation<a id=312></a>
 
 ###### Article R421-38-1
 
@@ -46872,7 +46941,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### A - Protection des monuments historiques, des sites et de l'environnement<a id=312></a>
+##### A - Protection des monuments historiques, des sites et de l'environnement<a id=313></a>
 
 ###### Article R*421-38-4
 
@@ -47287,7 +47356,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-##### B - Protection d'ouvrages militaires, maritimes et aériens.<a id=313></a>
+##### B - Protection d'ouvrages militaires, maritimes et aériens.<a id=314></a>
 
 ###### Article R*421-38-11
 
@@ -47379,7 +47448,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### C - Dispositions relatives aux eaux intérieures et aux périmètres submersibles.<a id=314></a>
+##### C - Dispositions relatives aux eaux intérieures et aux périmètres submersibles.<a id=315></a>
 
 ###### Article R*421-38-15
 
@@ -47484,7 +47553,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-##### D - Réserve en bordure du domaine public maritime<a id=315></a>
+##### D - Réserve en bordure du domaine public maritime<a id=316></a>
 
 ###### Article R*421-38-17
 
@@ -47517,7 +47586,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-##### E - Zones agricoles protégées<a id=316></a>
+##### E - Zones agricoles protégées<a id=317></a>
 
 ###### Article R421-38-18
 
@@ -47547,7 +47616,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-##### F - Zone de servitude à proximité d'un cimetière<a id=317></a>
+##### F - Zone de servitude à proximité d'un cimetière<a id=318></a>
 
 ###### Article R421-38-19
 
@@ -47584,7 +47653,7 @@ _Cité par_:
   - Code de l'urbanisme - art. R*422-8 (Ab)
 
 
-##### G - Accessibilité des établissements recevant du public aux personnes handicapées.<a id=318></a>
+##### G - Accessibilité des établissements recevant du public aux personnes handicapées.<a id=319></a>
 
 ###### Article R421-38-20
 
@@ -47615,7 +47684,7 @@ _Créé par_:
   - Décret n°94-86 du 26 janvier 1994 - art. 6 () JORF 28 janvier 1994
 
 
-##### Section 6 : Formalités postérieures à la délivrance du permis de construire<a id=319></a>
+##### Section 6 : Formalités postérieures à la délivrance du permis de construire<a id=320></a>
 
 ###### Article R*421-39
 
@@ -47771,9 +47840,9 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-##### Section 7 : Dispositions diverses<a id=320></a>
+##### Section 7 : Dispositions diverses<a id=321></a>
 
-##### Paragraphe 1 : Dispositions diverses<a id=321></a>
+##### Paragraphe 1 : Dispositions diverses<a id=322></a>
 
 ###### Article R*421-41
 
@@ -47871,7 +47940,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-##### Paragraphe 2 : Dispositions particulières aux immeubles de grande hauteur<a id=322></a>
+##### Paragraphe 2 : Dispositions particulières aux immeubles de grande hauteur<a id=323></a>
 
 ###### Article R421-47
 
@@ -48017,7 +48086,7 @@ _Cité par_:
   - Code de l'urbanisme - art. R421-5 (M)
 
 
-##### Paragraphe 3 : Dispositions particulières aux immeubles situés au voisinage d'installations classées<a id=323></a>
+##### Paragraphe 3 : Dispositions particulières aux immeubles situés au voisinage d'installations classées<a id=324></a>
 
 ###### Article R*421-52
 
@@ -48051,7 +48120,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-##### Paragraphe 4 : Dispositions particulières aux établissements recevant du public.<a id=324></a>
+##### Paragraphe 4 : Dispositions particulières aux établissements recevant du public.<a id=325></a>
 
 ###### Article R421-53
 
@@ -48093,7 +48162,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-##### Paragraphe 5 : Dispositions relatives à la modification du présent chapitre<a id=325></a>
+##### Paragraphe 5 : Dispositions relatives à la modification du présent chapitre<a id=326></a>
 
 ###### Article R421-58
 
@@ -48125,7 +48194,7 @@ _Anciens textes_:
   - Code de l'urbanisme - art. R421-57 (M)
 
 
-#### CHAPITRE II : Exceptions au régime général<a id=326></a>
+#### CHAPITRE II : Exceptions au régime général<a id=327></a>
 
 ###### Article R*422-1
 
@@ -48676,7 +48745,7 @@ _Cité par_:
   - Code de l'urbanisme - art. R*422-5 (M)
 
 
-#### CHAPITRE IV : Dispositions générales relatives aux impositions dont la délivrance du permis de construire constitue le fait générateur.<a id=327></a>
+#### CHAPITRE IV : Dispositions générales relatives aux impositions dont la délivrance du permis de construire constitue le fait générateur.<a id=328></a>
 
 ###### Article R*424-1
 
@@ -48794,9 +48863,9 @@ _Cité par_:
   - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
 
 
-### TITRE III : Permis de démolir<a id=328></a>
+### TITRE III : Permis de démolir<a id=329></a>
 
-#### Section 1 : La demande<a id=329></a>
+#### Section 1 : La demande<a id=330></a>
 
 ###### Article R*430-1
 
@@ -48988,9 +49057,9 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-#### Section 2 : L'instruction<a id=330></a>
+#### Section 2 : L'instruction<a id=331></a>
 
-##### Paragraphe 1 : Dispositions applicables dans l'ensemble des communes.<a id=331></a>
+##### Paragraphe 1 : Dispositions applicables dans l'ensemble des communes.<a id=332></a>
 
 ###### Article R*430-7
 
@@ -49203,7 +49272,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme a été approuvé.<a id=332></a>
+##### Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme a été approuvé.<a id=333></a>
 
 ###### Article R*430-10-1
 
@@ -49342,7 +49411,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-##### Paragraphe 3 : Dispositions applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé.<a id=333></a>
+##### Paragraphe 3 : Dispositions applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé.<a id=334></a>
 
 ###### Article R*430-10-6
 
@@ -49433,9 +49502,9 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-#### Section 3 : La décision<a id=334></a>
+#### Section 3 : La décision<a id=335></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=335></a>
+##### Paragraphe 1 : Dispositions générales<a id=336></a>
 
 ###### Article R*430-12
 
@@ -49628,7 +49697,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-##### Paragraphe 2 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme a été approuvé.<a id=336></a>
+##### Paragraphe 2 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme a été approuvé.<a id=337></a>
 
 ###### Article R*430-15-1
 
@@ -49712,7 +49781,7 @@ _Cite_:
   - Code de l'urbanisme - art. L421-2-4 (M)
 
 
-##### Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé.<a id=337></a>
+##### Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé.<a id=338></a>
 
 ###### Article R*430-15-4
 
@@ -49805,7 +49874,7 @@ _Cite_:
   - Code de l'urbanisme R430-12
 
 
-#### Section 4 : Formalités postérieures à la délivrance du permis de démolir<a id=338></a>
+#### Section 4 : Formalités postérieures à la délivrance du permis de démolir<a id=339></a>
 
 ###### Article R*430-16
 
@@ -49959,7 +50028,7 @@ _Cite_:
   - Code de l'urbanisme R430-16
 
 
-#### Section 5 : Dispositions particulières aux immeubles menaçant ruine et aux immeubles insalubres<a id=339></a>
+#### Section 5 : Dispositions particulières aux immeubles menaçant ruine et aux immeubles insalubres<a id=340></a>
 
 ###### Article R*430-26
 
@@ -50037,9 +50106,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-### Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.<a id=340></a>
+### Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.<a id=341></a>
 
-#### CHAPITRE I : Clôture<a id=341></a>
+#### CHAPITRE I : Clôture<a id=342></a>
 
 ###### Article R*441-1
 
@@ -50193,9 +50262,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-#### CHAPITRE II : Installations et travaux divers<a id=342></a>
+#### CHAPITRE II : Installations et travaux divers<a id=343></a>
 
-##### Section 1 : Champ d'application de la règlementation<a id=343></a>
+##### Section 1 : Champ d'application de la règlementation<a id=344></a>
 
 ###### Article R442-1
 
@@ -50405,7 +50474,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-##### Section 2 : Présentation, dépôt et transmission de la demande<a id=344></a>
+##### Section 2 : Présentation, dépôt et transmission de la demande<a id=345></a>
 
 ###### Article R*442-4
 
@@ -50557,9 +50626,9 @@ _Anciens textes_:
   - Code de l'urbanisme R441-5
 
 
-##### Section 3 : Instruction de la demande<a id=345></a>
+##### Section 3 : Instruction de la demande<a id=346></a>
 
-##### Paragraphe 1 : Dispositions applicables dans l'ensemble des communes.<a id=346></a>
+##### Paragraphe 1 : Dispositions applicables dans l'ensemble des communes.<a id=347></a>
 
 ###### Article R442-4-4
 
@@ -50883,7 +50952,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme a été approuvé.<a id=347></a>
+##### Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme a été approuvé.<a id=348></a>
 
 ###### Article R442-4-10
 
@@ -51025,7 +51094,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-##### Paragraphe 3 : Dispositions applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé.<a id=348></a>
+##### Paragraphe 3 : Dispositions applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé.<a id=349></a>
 
 ###### Article R442-4-14
 
@@ -51138,9 +51207,9 @@ _Anciens textes_:
   - Code de l'urbanisme R441-6-13
 
 
-##### Section 4 : Décision<a id=349></a>
+##### Section 4 : Décision<a id=350></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=350></a>
+##### Paragraphe 1 : Dispositions générales<a id=351></a>
 
 ###### Article R*442-5
 
@@ -51230,7 +51299,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Paragraphe 2 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme a été approuvé.<a id=351></a>
+##### Paragraphe 2 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme a été approuvé.<a id=352></a>
 
 ###### Article R*442-6-1
 
@@ -51310,7 +51379,7 @@ _Cite_:
   - Code de l'urbanisme - art. L421-2-4 (M)
 
 
-##### Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé.<a id=352></a>
+##### Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé.<a id=353></a>
 
 ###### Article R*442-6-4
 
@@ -51413,7 +51482,7 @@ _Cite_:
   - Code de l'urbanisme R442-6-4 1
 
 
-##### Section 5 : Formalités postérieures à la délivrance de l'autorisation.<a id=353></a>
+##### Section 5 : Formalités postérieures à la délivrance de l'autorisation.<a id=354></a>
 
 ###### Article R442-8
 
@@ -51461,7 +51530,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 6 : Dispositions particulières<a id=354></a>
+##### Section 6 : Dispositions particulières<a id=355></a>
 
 ###### Article R*442-9
 
@@ -51626,7 +51695,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-#### CHAPITRE III : Camping et stationnement des caravanes<a id=355></a>
+#### CHAPITRE III : Camping et stationnement des caravanes<a id=356></a>
 
 ###### Article R443-1
 
@@ -51687,9 +51756,9 @@ _Nouveaux textes_:
   - Code de l'urbanisme - art. R443-1 (M)
 
 
-##### Section 1 : Camping et stationnement des caravanes hors terrain aménagé<a id=356></a>
+##### Section 1 : Camping et stationnement des caravanes hors terrain aménagé<a id=357></a>
 
-##### Paragraphe 1 : Stationnement des caravanes<a id=357></a>
+##### Paragraphe 1 : Stationnement des caravanes<a id=358></a>
 
 ###### Article R*443-3
 
@@ -51974,7 +52043,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-##### Paragraphe 2 : Camping<a id=358></a>
+##### Paragraphe 2 : Camping<a id=359></a>
 
 ###### Article R*443-6-1
 
@@ -52098,9 +52167,9 @@ _Cite_:
   - Code de l'urbanisme R443-7 à R443-8-2
 
 
-##### Section 2 : Terrains aménagés pour l'accueil des campeurs et des caravanes<a id=359></a>
+##### Section 2 : Terrains aménagés pour l'accueil des campeurs et des caravanes<a id=360></a>
 
-##### Paragraphe 1 : Terrains aménagés permanents<a id=360></a>
+##### Paragraphe 1 : Terrains aménagés permanents<a id=361></a>
 
 ###### Article R*443-7
 
@@ -52414,7 +52483,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Paragraphe 2 : Terrains aménagés saisonniers<a id=361></a>
+##### Paragraphe 2 : Terrains aménagés saisonniers<a id=362></a>
 
 ###### Article R*443-8-1
 
@@ -52447,7 +52516,7 @@ _Cite_:
   - Code de l'urbanisme R443-7-4, R443-7 à R443-8
 
 
-##### Paragraphe 3 : Dispositions communes à la section 2<a id=362></a>
+##### Paragraphe 3 : Dispositions communes à la section 2<a id=363></a>
 
 ###### Article R*443-8-2
 
@@ -52557,7 +52626,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-##### Section 3 : Dispositions générales<a id=363></a>
+##### Section 3 : Dispositions générales<a id=364></a>
 
 ###### Article R*443-9-1
 
@@ -52713,7 +52782,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-#### CHAPITRE IV : Habitations légères de loisirs<a id=364></a>
+#### CHAPITRE IV : Habitations légères de loisirs<a id=365></a>
 
 ###### Article R*444-1
 
@@ -52864,11 +52933,11 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-#### CHAPITRE V : Remontées mécaniques et aménagements de domaine skiable<a id=365></a>
+#### CHAPITRE V : Remontées mécaniques et aménagements de domaine skiable<a id=366></a>
 
-##### Section 1 : Remontées mécaniques<a id=366></a>
+##### Section 1 : Remontées mécaniques<a id=367></a>
 
-##### Sous-section 1 : Autorisation d'exécution des travaux<a id=367></a>
+##### Sous-section 1 : Autorisation d'exécution des travaux<a id=368></a>
 
 ###### Article R445-1
 
@@ -53125,7 +53194,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Sous-section 2 : Autorisation de mise en exploitation des remontées mécaniques<a id=368></a>
+##### Sous-section 2 : Autorisation de mise en exploitation des remontées mécaniques<a id=369></a>
 
 ###### Article R445-6
 
@@ -53290,7 +53359,7 @@ _Cite_:
   - Code de l'urbanisme - art. R445-8 (M)
 
 
-##### Section 2 : Aménagements de domaine skiable<a id=369></a>
+##### Section 2 : Aménagements de domaine skiable<a id=370></a>
 
 ###### Article R445-10
 
@@ -53449,7 +53518,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 3 : Dispositions diverses<a id=370></a>
+##### Section 3 : Dispositions diverses<a id=371></a>
 
 ###### Article R445-15
 
@@ -53502,7 +53571,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-#### CHAPITRE VI : Dispositions diverses<a id=371></a>
+#### CHAPITRE VI : Dispositions diverses<a id=372></a>
 
 ###### Article R*446-2
 
@@ -53561,11 +53630,11 @@ _Anciens textes_:
   - Code de l'urbanisme - art. R445-1 (T)
 
 
-### TITRE V : Dispositions diverses<a id=372></a>
+### TITRE V : Dispositions diverses<a id=373></a>
 
-#### CHAPITRE I : Dispositions propres à certaines utilisations de surfaces bâties<a id=373></a>
+#### CHAPITRE I : Dispositions propres à certaines utilisations de surfaces bâties<a id=374></a>
 
-##### Section 1 : Cours communes<a id=374></a>
+##### Section 1 : Cours communes<a id=375></a>
 
 ###### Article R451-1
 
@@ -53701,9 +53770,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-### TITRE VI : Contrôle<a id=375></a>
+### TITRE VI : Contrôle<a id=376></a>
 
-#### Section 1 : Déclaration d'achèvement des travaux et certificat de conformité<a id=376></a>
+#### Section 1 : Déclaration d'achèvement des travaux et certificat de conformité<a id=377></a>
 
 ###### Article R*460-3-1
 
@@ -54117,7 +54186,7 @@ _Cite_:
   - Code de l'urbanisme - art. R460-5 (M)
 
 
-#### Section 2 : Dispositions spéciales aux immeubles de grande hauteur.<a id=377></a>
+#### Section 2 : Dispositions spéciales aux immeubles de grande hauteur.<a id=378></a>
 
 ###### Article R460-7
 
@@ -54144,7 +54213,7 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-### TITRE VIII : Sanctions.<a id=378></a>
+### TITRE VIII : Sanctions.<a id=379></a>
 
 ###### Article R*480-7
 
@@ -54263,7 +54332,7 @@ _Cite_:
   - Code de l'urbanisme - art. R421-49 (M)
 
 
-### TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres Ier à IV et VI du présent livre<a id=379></a>
+### TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres Ier à IV et VI du présent livre<a id=380></a>
 
 ###### Article R*490-1
 
@@ -54589,9 +54658,9 @@ _Abrogé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-## Livre V : Implantation des services, établissements et entreprises<a id=380></a>
+## Livre V : Implantation des services, établissements et entreprises<a id=381></a>
 
-### Titre Ier : Dispositions administratives générales<a id=381></a>
+### Titre Ier : Dispositions administratives générales<a id=382></a>
 
 ###### Article R*510-1
 
@@ -55115,9 +55184,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-### Titre II : Dispositions financières concernant la région parisienne<a id=382></a>
+### Titre II : Dispositions financières concernant la région parisienne<a id=383></a>
 
-#### Section 1 : Dispositions générales<a id=383></a>
+#### Section 1 : Dispositions générales<a id=384></a>
 
 ###### Article R520-1
 
@@ -55501,7 +55570,7 @@ _Modifié par_:
   - Décret n°2002-676 du 30 avril 2002 - art. 2 () JORF 2 mai 2002
 
 
-#### Section 2 : Montant des redevances<a id=384></a>
+#### Section 2 : Montant des redevances<a id=385></a>
 
 ###### Article R*520-12
 
@@ -55603,7 +55672,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-### Titre III : Implantation hors de la région parisienne de certaines activités<a id=385></a>
+### Titre III : Implantation hors de la région parisienne de certaines activités<a id=386></a>
 
 ###### Article R530-3
 
@@ -55666,7 +55735,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-### Titre V : Sanctions<a id=386></a>
+### Titre V : Sanctions<a id=387></a>
 
 ###### Article R550-1
 
@@ -55691,7 +55760,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-## Livre VI : Dispositions relatives au contentieux de l'urbanisme et dispositions diverses<a id=387></a>
+## Livre VI : Dispositions relatives au contentieux de l'urbanisme et dispositions diverses<a id=388></a>
 
 ###### Article R*600-1
 
@@ -55731,7 +55800,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-### Titre II : Dispositions diverses<a id=388></a>
+### Titre II : Dispositions diverses<a id=389></a>
 
 ###### Article R*620-1
 
@@ -55753,13 +55822,13 @@ _Modifié par_:
   - Décret n°94-701 du 16 août 1994 - art. 1 () JORF 18 août 1994
 
 
-# Partie réglementaire - Arrêtés<a id=389></a>
+# Partie réglementaire - Arrêtés<a id=390></a>
 
-## Livre Ier : Règles générales d'aménagement et d'urbanisme<a id=390></a>
+## Livre Ier : Règles générales d'aménagement et d'urbanisme<a id=391></a>
 
-### Titre  II : Prévisions et règles d'urbanisme<a id=391></a>
+### Titre  II : Prévisions et règles d'urbanisme<a id=392></a>
 
-#### Chapitre Ier : Dispositions générales communes aux schémas directeurs et aux plans d'occupation des sols<a id=392></a>
+#### Chapitre Ier : Dispositions générales communes aux schémas directeurs et aux plans d'occupation des sols<a id=393></a>
 
 ###### Article A121-4
 
@@ -55774,9 +55843,9 @@ _Cite_:
   - Code de l'urbanisme - art. L121-8 (V)
 
 
-#### Chapitre  III : Plans d'occupation des sols<a id=393></a>
+#### Chapitre  III : Plans d'occupation des sols<a id=394></a>
 
-##### Section 3 : Contenu du plan d'occupation des sols<a id=394></a>
+##### Section 3 : Contenu du plan d'occupation des sols<a id=395></a>
 
 ###### Article A123-1
 
@@ -55933,7 +56002,7 @@ _Cite_:
   - Code de l'urbanisme - art. R*123-21 (V)
 
 
-#### Chapitre  VI : Servitudes d'utilité publique affectant l'utilisation du sol<a id=395></a>
+#### Chapitre  VI : Servitudes d'utilité publique affectant l'utilisation du sol<a id=396></a>
 
 ###### Article A126-1
 
@@ -55960,7 +56029,7 @@ _Cite_:
   - Code de l'urbanisme - art. R*126-1 (V)
 
 
-### Titre  III : Espaces boisés<a id=396></a>
+### Titre  III : Espaces boisés<a id=397></a>
 
 ###### Article A130-1
 
@@ -56037,9 +56106,9 @@ _Cite_:
   - Loi n°78-753 du 17 juillet 1978 (V)
 
 
-### Titre  IV : Dispositions spéciales à certaines parties du territoire<a id=397></a>
+### Titre  IV : Dispositions spéciales à certaines parties du territoire<a id=398></a>
 
-#### Chapitre  II : Espaces naturels sensibles des départements<a id=398></a>
+#### Chapitre  II : Espaces naturels sensibles des départements<a id=399></a>
 
 ###### Article A142-1
 
@@ -56064,9 +56133,9 @@ _Cite_:
   - Code de l'urbanisme - art. R142-9 (V)
 
 
-### Titre  VI : Sanctions et servitudes<a id=399></a>
+### Titre  VI : Sanctions et servitudes<a id=400></a>
 
-#### Section 3 : Agrément des associations exerçant leurs activités dans le domaine de la protection de la nature et de l'environnement et de l'amélioration du cadre de vie<a id=400></a>
+#### Section 3 : Agrément des associations exerçant leurs activités dans le domaine de la protection de la nature et de l'environnement et de l'amélioration du cadre de vie<a id=401></a>
 
 ###### Article A160-1
 
@@ -56087,11 +56156,11 @@ _Cite_:
   - Code de l'urbanisme - art. L480-1 (V)
 
 
-## Livre  II : Préemption et réserves foncières<a id=401></a>
+## Livre  II : Préemption et réserves foncières<a id=402></a>
 
-### Titre  Ier : Droits de préemption<a id=402></a>
+### Titre  Ier : Droits de préemption<a id=403></a>
 
-#### Chapitre  Ier : Droit de préemption urbain<a id=403></a>
+#### Chapitre  Ier : Droit de préemption urbain<a id=404></a>
 
 ###### Article A211-1
 
@@ -56115,7 +56184,7 @@ _Cite_:
   - Code de l'urbanisme - art. R211-7 (V)
 
 
-#### Chapitre  II : Zones d'aménagement différé<a id=404></a>
+#### Chapitre  II : Zones d'aménagement différé<a id=405></a>
 
 ###### Article A212-1
 
@@ -56139,7 +56208,7 @@ _Cite_:
   - Code de l'urbanisme - art. R212-4 (V)
 
 
-#### Chapitre  III : Dispositions communes au droit de préemption urbain et aux zones d'aménagement différé<a id=405></a>
+#### Chapitre  III : Dispositions communes au droit de préemption urbain et aux zones d'aménagement différé<a id=406></a>
 
 ###### Article A213-1
 
@@ -56171,7 +56240,7 @@ _Cite_:
   - Code de l'urbanisme - art. R213-5 (V)
 
 
-#### CHAPITRE IV : Dispositions communes aux zones d'aménagement différé et aux périmètres provisoires de zones d'aménagement différé créés avant le 1er juin 1987<a id=406></a>
+#### CHAPITRE IV : Dispositions communes aux zones d'aménagement différé et aux périmètres provisoires de zones d'aménagement différé créés avant le 1er juin 1987<a id=407></a>
 
 ###### Article A214-1
 
@@ -56191,11 +56260,11 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-## Livre  III : Aménagement foncier<a id=407></a>
+## Livre  III : Aménagement foncier<a id=408></a>
 
-### Titre Ier : Opérations d'aménagement<a id=408></a>
+### Titre Ier : Opérations d'aménagement<a id=409></a>
 
-#### CHAPITRE V : Lotissements<a id=409></a>
+#### CHAPITRE V : Lotissements<a id=410></a>
 
 ###### Article A315-2
 
@@ -56324,9 +56393,9 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-### Titre  III : Dispositions financières<a id=410></a>
+### Titre  III : Dispositions financières<a id=411></a>
 
-#### Chapitre  II : Participation des constructeurs et des lotisseurs<a id=411></a>
+#### Chapitre  II : Participation des constructeurs et des lotisseurs<a id=412></a>
 
 ###### Article A332-1
 
@@ -56347,9 +56416,9 @@ _Cite_:
   - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
-## LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol<a id=412></a>
+## LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol<a id=413></a>
 
-### TITRE I : Certificat d'urbanisme.<a id=413></a>
+### TITRE I : Certificat d'urbanisme.<a id=414></a>
 
 ###### Article A410-1
 
@@ -56432,11 +56501,11 @@ _Cite_:
   - Code de l'urbanisme - art. A410-2 (M)
 
 
-### TITRE II : Permis de construire<a id=414></a>
+### TITRE II : Permis de construire<a id=415></a>
 
-#### CHAPITRE I : Régime général<a id=415></a>
+#### CHAPITRE I : Régime général<a id=416></a>
 
-##### Section 1 : Présentation de la demande.<a id=416></a>
+##### Section 1 : Présentation de la demande.<a id=417></a>
 
 ###### Article A421-1
 
@@ -56573,7 +56642,7 @@ _Cite_:
   - Code de l'urbanisme - art. A421-1 (M)
 
 
-##### Section 4 : Décision<a id=417></a>
+##### Section 4 : Décision<a id=418></a>
 
 ###### Article A421-6-1
 
@@ -56633,7 +56702,7 @@ _Cite_:
   - Code de l'urbanisme - art. R421-7-1 (M)
 
 
-##### Section 6 : Formalités postérieures à la délivrance du permis de construire.<a id=418></a>
+##### Section 6 : Formalités postérieures à la délivrance du permis de construire.<a id=419></a>
 
 ###### Article A421-7
 
@@ -56729,9 +56798,9 @@ _Cite_:
   - Code de l'urbanisme - art. R421-40 (Ab)
 
 
-#### CHAPITRE II : Exceptions au régime général<a id=419></a>
+#### CHAPITRE II : Exceptions au régime général<a id=420></a>
 
-##### Section 1 : Déclarations de travaux exemptés du permis de construire.<a id=420></a>
+##### Section 1 : Déclarations de travaux exemptés du permis de construire.<a id=421></a>
 
 ###### Article A422-1
 
@@ -56844,7 +56913,7 @@ _Cité par_:
   - Code de l'urbanisme - art. A441-2 (M)
 
 
-##### Section 2 : Grands camps à l'intérieur desquels les constructions et installations sont exemptées du permis de construire<a id=421></a>
+##### Section 2 : Grands camps à l'intérieur desquels les constructions et installations sont exemptées du permis de construire<a id=422></a>
 
 ###### Article A422-2
 
@@ -56877,9 +56946,9 @@ _Cite_:
   - Code de l'urbanisme R422-1 al. 2
 
 
-#### CHAPITRE IV : Etablissement de l'assiette et liquidation des impositions dont le permis de construire constitue le fait générateur<a id=422></a>
+#### CHAPITRE IV : Etablissement de l'assiette et liquidation des impositions dont le permis de construire constitue le fait générateur<a id=423></a>
 
-##### Section 1 : Déconcentration auprès du maire.<a id=423></a>
+##### Section 1 : Déconcentration auprès du maire.<a id=424></a>
 
 ###### Article A424-1
 
@@ -57071,9 +57140,9 @@ _Codifié par_:
   - TXT_SOURCE: Code de l'urbanisme R424-1
 
 
-### TITRE III : Permis de démolir<a id=424></a>
+### TITRE III : Permis de démolir<a id=425></a>
 
-#### Section 1 : La demande<a id=425></a>
+#### Section 1 : La demande<a id=426></a>
 
 ###### Article A430-1
 
@@ -57140,7 +57209,7 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-#### Section 4 : Formalités postérieures à la délivrance du permis de démolir.<a id=426></a>
+#### Section 4 : Formalités postérieures à la délivrance du permis de démolir.<a id=427></a>
 
 ###### Article A430-3
 
@@ -57203,9 +57272,9 @@ _Cite_:
   - Loi n°78-753 1978-07-11
 
 
-### Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.<a id=427></a>
+### Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.<a id=428></a>
 
-#### CHAPITRE I : Clôture<a id=428></a>
+#### CHAPITRE I : Clôture<a id=429></a>
 
 ###### Article A441-1
 
@@ -57253,9 +57322,9 @@ _Cite_:
   - Code de l'urbanisme - art. A422-1-2 (Ab)
 
 
-#### CHAPITRE II : Installations et travaux divers.<a id=429></a>
+#### CHAPITRE II : Installations et travaux divers.<a id=430></a>
 
-##### Section 2 : Présentation, dépôt et transmission de la demande<a id=430></a>
+##### Section 2 : Présentation, dépôt et transmission de la demande<a id=431></a>
 
 ###### Article A442-1
 
@@ -57287,7 +57356,7 @@ _Cite_:
   - Code de l'urbanisme - art. R442-4 (M)
 
 
-##### Section 5 : Formalités postérieures à la délivrance de l'autorisation.<a id=431></a>
+##### Section 5 : Formalités postérieures à la délivrance de l'autorisation.<a id=432></a>
 
 ###### Article A442-2
 
@@ -57356,9 +57425,9 @@ _Cite_:
   - Loi n°78-753 1978-07-17
 
 
-#### CHAPITRE III : Stationnement des caravanes<a id=432></a>
+#### CHAPITRE III : Stationnement des caravanes<a id=433></a>
 
-##### Paragraphe 1 : Stationnement en dehors des terrains aménagés<a id=433></a>
+##### Paragraphe 1 : Stationnement en dehors des terrains aménagés<a id=434></a>
 
 ###### Article A443-1
 
@@ -57474,7 +57543,7 @@ _Cite_:
   - Code de l'urbanisme - art. A443-3 (M)
 
 
-##### Paragraphe 2 : Stationnement sur des terrains aménagés<a id=434></a>
+##### Paragraphe 2 : Stationnement sur des terrains aménagés<a id=435></a>
 
 ###### Article A443-6
 
@@ -57613,9 +57682,9 @@ _Codifié par_:
   - Décret n°77-38 1977-12-28 JORF 18 JANVIER 1977
 
 
-### TITRE VI : Contrôle<a id=435></a>
+### TITRE VI : Contrôle<a id=436></a>
 
-#### Section 1 : Déclaration d'achèvement des travaux et certificat de conformité.<a id=436></a>
+#### Section 1 : Déclaration d'achèvement des travaux et certificat de conformité.<a id=437></a>
 
 ###### Article A460-1
 
@@ -57669,7 +57738,7 @@ _Cite_:
   - Code de l'urbanisme - art. A460-1 (M)
 
 
-### TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres Ier à IV et VI du présent livre<a id=437></a>
+### TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres Ier à IV et VI du présent livre<a id=438></a>
 
 ###### Article A490-1
 
@@ -57705,9 +57774,9 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-## Livre  V : Implantation des services, établissements et entreprises<a id=438></a>
+## Livre  V : Implantation des services, établissements et entreprises<a id=439></a>
 
-### TITRE I : Dispositions administratives générales.<a id=439></a>
+### TITRE I : Dispositions administratives générales.<a id=440></a>
 
 ###### Article A510-1
 
@@ -57895,11 +57964,11 @@ _Cite_:
   - Code de l'urbanisme A510-1 à A510-7
 
 
-### Titre  II : Dispositions financières concernant la région d'Ile-de-France<a id=440></a>
+### Titre  II : Dispositions financières concernant la région d'Ile-de-France<a id=441></a>
 
-#### Section 1 : Dispositions générales<a id=441></a>
+#### Section 1 : Dispositions générales<a id=442></a>
 
-##### Sous-section 1 : Perception des redevances<a id=442></a>
+##### Sous-section 1 : Perception des redevances<a id=443></a>
 
 ###### Article A520-1
 
@@ -57981,7 +58050,7 @@ _Cite_:
   - Code de l'urbanisme - art. A520-2 (VT)
 
 
-##### Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance<a id=443></a>
+##### Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance<a id=444></a>
 
 ###### Article A520-4
 
@@ -58094,11 +58163,11 @@ _Cite_:
   - Code de l'urbanisme - art. A520-4 (V)
 
 
-## Livre  VI : Organismes consultatifs et dispositions diverses<a id=444></a>
+## Livre  VI : Organismes consultatifs et dispositions diverses<a id=445></a>
 
-### Titre Ier : Organismes consultatifs<a id=445></a>
+### Titre Ier : Organismes consultatifs<a id=446></a>
 
-#### Chapitre  IV : Architectes-conseils et paysagistes-conseils<a id=446></a>
+#### Chapitre  IV : Architectes-conseils et paysagistes-conseils<a id=447></a>
 
 ###### Article A614-1
 
@@ -58194,9 +58263,9 @@ _Cite_:
   - Code de l'urbanisme - art. A614-1 (V)
 
 
-# Annexes<a id=447></a>
+# Annexes<a id=448></a>
 
-## Liste des servitudes d'utilité publique affectant l'utilisation du sol.<a id=448></a>
+## Liste des servitudes d'utilité publique affectant l'utilisation du sol.<a id=449></a>
 
 ###### Article R*126-1, Annexe
 
@@ -58473,7 +58542,7 @@ _Modifié par_:
   - Décret n°2005-491 du 18 mai 2005 - art. 5 () JORF 19 mai 2005
 
 
-## Liste des communes comprises dans la zone 1<a id=449></a>
+## Liste des communes comprises dans la zone 1<a id=450></a>
 
 ###### Article R127-3, Annexe 1
 
@@ -58559,7 +58628,7 @@ _Abrogé par_:
   - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
-## Liste des communes comprises dans la zone 2<a id=450></a>
+## Liste des communes comprises dans la zone 2<a id=451></a>
 
 ###### Article R127-3, Annexe 2
 

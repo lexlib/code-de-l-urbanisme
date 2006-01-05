@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-01-06
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -2479,8 +2479,8 @@ _Abrogé par_:
 ###### Article L122-1
 
 Les schémas de cohérence territoriale exposent le diagnostic établi au regard des prévisions économiques et démographiques et
-des besoins répertoriés en matière de développement économique, d'aménagement de l'espace, d'environnement, d'équilibre
-social de l'habitat, de transports, d'équipements et de services.
+des besoins répertoriés en matière de développement économique, d'agriculture, d'aménagement de l'espace, d'environnement,
+d'équilibre social de l'habitat, de transports, d'équipements et de services.
 
 Ils présentent le projet d'aménagement et de développement durable retenu, qui fixe les objectifs des politiques publiques
 d'urbanisme en matière d'habitat, de développement économique, de loisirs, de déplacements des personnes et des marchandises,
@@ -2497,7 +2497,8 @@ logements sociaux, à l'équilibre entre l'urbanisation et la création de desse
 commercial et artisanal, aux localisations préférentielles des commerces, à la protection des paysages, à la mise en valeur
 des entrées de ville et à la prévention des risques.
 
-Ils déterminent les espaces et sites naturels ou urbains à protéger et peuvent en définir la localisation ou la délimitation.
+Ils déterminent les espaces et sites naturels, agricoles ou urbains à protéger et peuvent en définir la localisation ou la
+délimitation.
 
 Ils peuvent définir les grands projets d'équipements et de services, en particulier de transport, nécessaires à la mise en
 oeuvre de ces objectifs. Ils précisent les conditions permettant de favoriser le développement de l'urbanisation prioritaire
@@ -2588,8 +2589,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-157 du 23 février 2005 - art. 190 () JORF 24 février 2005
-  - Loi n°2005-157 du 23 février 2005 - art. 74 () JORF 24 février 2005
+  - Loi n°2006-11 2006-01-05 art. 36 II, III JORF 6 janvier 2006
+  - Loi n°2006-11 du 5 janvier 2006 - art. 36 () JORF 6 janvier 2006
 
 
 ###### Article L122-2
@@ -3553,8 +3554,8 @@ _Nouveaux textes_:
 ###### Article L123-1
 
 Les plans locaux d'urbanisme exposent le diagnostic établi au regard des prévisions économiques et démographiques et
-précisent les besoins répertoriés en matière de développement économique, d'aménagement de l'espace, d'environnement,
-d'équilibre social de l'habitat, de transports, d'équipements et de services.
+précisent les besoins répertoriés en matière de développement économique, d'agriculture, d'aménagement de l'espace,
+d'environnement, d'équilibre social de l'habitat, de transports, d'équipements et de services.
 
 Ils comportent un projet d'aménagement et de développement durable qui définit les orientations générales d'aménagement et
 d'urbanisme retenues pour l'ensemble de la commune.
@@ -3753,7 +3754,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2005-781 du 13 juillet 2005 - art. 31 () JORF 14 juillet 2005
+  - Loi n°2006-11 du 5 janvier 2006 - art. 36 () JORF 6 janvier 2006
 
 _Codifié par_:
 
@@ -8376,6 +8377,46 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code de l'urbanisme - art. L147-5
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L147-7-1
+
+A compter de la publication de l'acte administratif portant mise en révision d'un plan d'exposition au bruit, l'autorité
+administrative peut décider d'appliquer les dispositions de l'article L. 147-5 concernant la zone C, pour la durée de la
+procédure de révision, dans les communes et parties de communes incluses dans le périmètre d'un plan de gêne sonore institué
+en vertu de l'article L. 571-15 du code de l'environnement, mais non comprises dans le périmètre des zones A, B et C du plan
+d'exposition au bruit jusque-là en vigueur. 
+
+Les dispositions du présent article ne s'appliquent pas aux aérodromes dont le nombre de créneaux horaires attribuables fait
+l'objet d'une limitation réglementaire sur l'ensemble des plages horaires d'ouverture.
+
+**Nota:**
+
+Loi n° 2006-10 du 5 janvier 2006, art. 8 II : " Les dispositions du présent article s'appliquent aux procédures de révision
+d'un plan d'exposition au bruit engagées à la date d'entrée en vigueur de la présente loi. "
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2006-10 du 5 janvier 2006 - art. 8 (V)
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. L112-15 (VD)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L147-5 (VT)
+  - Code de l'environnement - art. L571-15
 
 _Codifié par_:
 

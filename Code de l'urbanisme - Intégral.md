@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2006-05-18
+Version Consolidée au 2006-05-25
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -5590,11 +5590,10 @@ groupement, le projet est soumis pour avis à la ou aux collectivités intéress
 favorable si un refus n'est pas intervenu dans un délai de trois mois. Dans ce cadre, ces collectivités peuvent prendre en
 charge tout ou partie du financement des dépenses d'aménagement, d'entretien, de réparation et des coûts d'assurances
 nécessités par l'ouverture au public de ces espaces. Les conventions peuvent également prévoir le versement au propriétaire
-d'une rémunération pour service rendu.
+d'une rémunération pour service rendu. 
 
 Les collectivités territoriales et leurs groupements peuvent passer, dans les mêmes conditions, des conventions pour
-l'exercice des sports de nature, notamment en application du titre III de la loi n° 84-610 du 16 juillet 1984 relative à
-l'organisation et à la promotion des activités physiques et sportives.
+l'exercice des sports de nature, notamment en application du titre Ier du livre III du code du sport. 
 
 Les mêmes dispositions sont applicables au conservatoire de l'espace littoral et des rivages lacustres dans les territoires
 définis à l'article 1er de la loi n° 75-602 du 10 juillet 1975.
@@ -5603,15 +5602,14 @@ définis à l'article 1er de la loi n° 75-602 du 10 juillet 1975.
 
 _Cite_:
 
-  - Loi n°75-602 du 10 juillet 1975 - art. 1 (M)
-  - Loi n°84-610 1984-07-16
+  - Loi n°75-602 du 10 juillet 1975 - art. 1
 
 _Cité par_:
 
   - Décret n°76-908 du 2 octobre 1976 - art. 1 (Ab)
   - Loi n°84-610 du 16 juillet 1984 - art. 50-2 (Ab)
   - Décret n°85-317 du 8 mars 1985 - art. 1 (Ab)
-  - Code de l'urbanisme - art. L142-2 (V)
+  - Code de l'urbanisme - art. L142-2 (VT)
   - Code du sport. - art. L311-3 (V)
   - Code du tourisme. - art. L343-8 (T)
   - Code du tourisme. - art. L343-9 (V)
@@ -5621,8 +5619,18 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2001-602 2001-07-09 art. 4 II 2°, 3°, 4° JORF 11 juillet 2001
-  - Loi n°2001-602 du 9 juillet 2001 - art. 4 (V) JORF 11 juillet 2001
+  - Ordonnance n°2006-596 du 23 mai 2006 - art. 3 (V) JORF 25 mai 2006
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. L113-6 (VD)
+  - Code de l'urbanisme - art. L113-7 (VD)
+  - Code de l'urbanisme - art. R113-14 (V)
+  - Code forestier (nouveau) - art. L111-3 (VD)
 
 _Anciens textes_:
 
@@ -5915,9 +5923,9 @@ l'attribution en propriété ou en jouissance de bois et forêts, sous réserve 
 prévues à l'article L. 142-10 ;
 
 - pour l'acquisition, l'aménagement et la gestion des espaces, sites et itinéraires figurant au plan départemental des
-espaces, sites et itinéraires relatifs aux sports de nature établi dans les conditions prévues à l'article 50-2 de la loi n°
-84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives, sous réserve que
-l'aménagement ou la gestion envisagés maintiennent ou améliorent la qualité des sites, des paysages et des milieux naturels ;
+espaces, sites et itinéraires relatifs aux sports de nature établi dans les conditions prévues au livre III du code du sport,
+sous réserve que l'aménagement ou la gestion envisagés maintiennent ou améliorent la qualité des sites, des paysages et des
+milieux naturels ;
 
 - pour l'acquisition, la gestion et l'entretien des sites Natura 2000 désignés à l'article L. 414-1 du code de
 l'environnement et des territoires classés en réserve naturelle au sens de l'article L. 332-1 du même code ;
@@ -5987,11 +5995,6 @@ La taxe constitue, du point de vue fiscal, un élément du prix de revient de l'
 La taxe est perçue au profit du département en tant que recette grevée d'affectation spéciale et a le caractère d'une recette
 de fonctionnement.
 
-**Nota:**
-
-NOTA : Ordonnance 2005-1527 du 8 décembre 2005 art. 41 : La présente ordonnance entrera en vigueur à des dates fixées par
-décret en Conseil d'Etat et au plus tard le 1er juillet 2007.
-
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -6000,7 +6003,6 @@ _Cite_:
   - Loi n°83-8 1983-01-07
   - Loi n°83-597 1983-07-07
   - Loi n°83-663 1983-07-22 art. 56
-  - Loi n°84-610 du 16 juillet 1984 - art. 50-2 (M)
   - Loi n°96-1241 1996-12-30
   - Code de l'urbanisme - art. L130-5 (M)
   - Code de l'urbanisme - art. L142-1 (M)
@@ -6009,6 +6011,10 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L411-2 (M)
   - Code de l'environnement - art. L332-1 (V)
   - Code de l'environnement - art. L414-1 (M)
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 _Cité par_:
 
@@ -6044,10 +6050,7 @@ _Modifié par_:
 
   - Loi n°2005-157 du 23 février 2005 - art. 138 () JORF 24 février 2005
   - Loi n°2005-157 du 23 février 2005 - art. 139 () JORF 24 février 2005
-
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+  - Ordonnance n°2006-596 du 23 mai 2006 - art. 3 (V) JORF 25 mai 2006
 
 
 ###### Article L142-1

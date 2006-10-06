@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2006-08-05
+Version Consolidée au 2006-10-07
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -368,7 +368,7 @@ Version Consolidée au 2006-08-05
             - [Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme n'a pas été approuvé. (art. R*442-6-4 à R*442-6-6)](#365)
           - [Section 5 : Formalités postérieures à la délivrance de l'autorisation. (art. R442-8)](#366)
           - [Section 6 : Dispositions particulières (art. R*442-9 à R442-13)](#367)
-        - [CHAPITRE III : Camping et stationnement des caravanes (art. R443-1 à R*443-16)](#368)
+        - [CHAPITRE III : Camping et stationnement des caravanes (art. R443-1 à R*443-15)](#368)
           - [Section 1 : Camping et stationnement des caravanes hors terrain aménagé (art. R*443-3 à R*443-6-4)](#369)
             - [Paragraphe 1 : Stationnement des caravanes (art. R*443-3 à R*443-5-3)](#370)
             - [Paragraphe 2 : Camping (art. R*443-6-1 à R*443-6-4)](#371)
@@ -376,7 +376,7 @@ Version Consolidée au 2006-08-05
             - [Paragraphe 1 : Terrains aménagés permanents (art. R*443-7 à R*443-8)](#373)
             - [Paragraphe 2 : Terrains aménagés saisonniers (art. R*443-8-1)](#374)
             - [Paragraphe 3 : Dispositions communes à la section 2 (art. R*443-8-2 à R443-8-5)](#375)
-          - [Section 3 : Dispositions générales (art. R*443-9-1 à R*443-16)](#376)
+          - [Section 3 : Dispositions générales (art. R*443-9-1 à R*443-15)](#376)
         - [CHAPITRE IV : Habitations légères de loisirs (art. R*444-1 à R*444-4)](#377)
         - [CHAPITRE V : Remontées mécaniques et aménagements de domaine skiable (art. R445-1 à R445-16)](#378)
           - [Section 1 : Remontées mécaniques (art. R445-1 à R445-9)](#379)
@@ -54163,39 +54163,6 @@ _Cite_:
 
   - Code de l'urbanisme - art. R443-7 (M)
   - Code de l'urbanisme R443-7, R443-8-1, R443-8-2
-
-
-###### Article R*443-16
-
-Sans préjudice de l'article 184 du Code pénal, sera puni de l'amende prévue pour les contraventions de la cinquième classe
-celui qui, sans l'autorisation de son propriétaire ou de son utilisateur, ouvrira une tente, une caravane, ou d'une manière
-générale, un abri de camping ou y pénétrera[*sanctions*].
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-_Abrogé par_:
-
-  - Décret n°2006-1229 du 6 octobre 2006 - art. 5 () JORF 7 octobre 2006
-
-_Cite_:
-
-  - Code pénal 184
-
-_Nouveaux textes_:
-
-  - Code du tourisme. - art. R331-11 (V)
-
-_Anciens textes_:
-
-  - Code de l'urbanisme - art. R440-23 (T)
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
 
 
 #### CHAPITRE IV : Habitations légères de loisirs<a id=377></a>

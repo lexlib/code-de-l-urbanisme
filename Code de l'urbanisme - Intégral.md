@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2007-05-12
+Version Consolidée au 2007-05-15
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -57455,7 +57455,12 @@ Milly-la-Forêt.
 
 Val-d'Oise
 
-Magny-en-Vexin.
+Magny-en-Vexin ;
+
+- dans le périmètre de l'opération d'intérêt national de La Défense tel que défini au b de l'article R. 490-5 du code de
+l'urbanisme pour les opérations de reconstruction, dans la limite de la création de 40 000 mètres carrés de surface hors
+oeuvre nette de planchers supplémentaires ou lorsque l'extension de surface est inférieure ou égale à 0,5 fois la surface
+initiale.
 
 2. Lorsque ces opérations portent sur des locaux à usage :
 
@@ -57497,12 +57502,6 @@ _Anciens textes_:
 
   - Décret n°67-944 1967-10-24 art. 6
 
-_Cité par_:
-
-  - Code de l'urbanisme - art. R*510-1 (V)
-  - Code du cinéma et de l'image animée - art. R212-8 (V)
-  - Code du cinéma et de l'image animée - art. R212-9 (Ab)
-
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
@@ -57510,10 +57509,17 @@ _Codifié par_:
 _Cite_:
 
   - Loi n°83-636 du 13 juillet 1983 - art. 10 (Ab)
+  - Code de l'urbanisme R490-5
 
 _Modifié par_:
 
-  - Décret n°2000-368 du 26 avril 2000 - art. 3 () JORF 29 avril 2000
+  - Décret n°2007-864 du 14 mai 2007 - art. 1 () JORF 15 mai 2007
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. R*510-1 (V)
+  - Code du cinéma et de l'image animée - art. R212-8 (V)
+  - Code du cinéma et de l'image animée - art. R212-9 (Ab)
 
 
 ###### Article R*510-7

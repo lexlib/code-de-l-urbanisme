@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2007-11-10
+Version Consolidée au 2007-11-14
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -453,21 +453,20 @@ Version Consolidée au 2007-11-10
         - [Chapitre  II : Achèvement des travaux de construction ou d'aménagement (art. A462-1 à A462-4)](#450)
           - [Section 1 : Dispositions communes (art. A462-1)](#451)
           - [Section 2 : Dispositions applicables aux constructions soumises à des règles parasismiques (art. A462-2 à A462-4)](#452)
-    - [Livre  V : Implantation des services, établissements et entreprises (art. A510-1 à A520-11)](#453)
-      - [TITRE I : Dispositions administratives générales. (art. A510-1 à A510-8)](#454)
-      - [Titre  II : Dispositions financières concernant la région d'Ile-de-France (art. A520-1 à A520-11)](#455)
-        - [Section 1 : Dispositions générales (art. A520-1 à A520-11)](#456)
-          - [Sous-section 1 : Perception des redevances (art. A520-1 à A520-3)](#457)
-          - [Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance (art. A520-4 à A520-11)](#458)
-    - [Livre  VI : Organismes consultatifs et dispositions diverses (art. A614-1 à A614-4)](#459)
-      - [Titre Ier : Organismes consultatifs (art. A614-1 à A614-4)](#460)
-        - [Chapitre  IV : Architectes-conseils et paysagistes-conseils (art. A614-1 à A614-4)](#461)
-  - [Annexes (art. R*126-1, Annexe à A462-4 Annexe)](#462)
-    - [Liste des servitudes d'utilité publique affectant l'utilisation du sol. (art. R*126-1, Annexe)](#463)
-    - [Liste des communes comprises dans la zone 1 (art. R127-3, Annexe 1)](#464)
-    - [Liste des communes comprises dans la zone 2 (art. R127-3, Annexe 2)](#465)
-    - [Attestation du contrôleur technique établissant qu'il a fait connaître au maître d'ouvrage de la construction son avis sur la prise en compte au stade de la conception des règles parasismiques. (art. A431-10 Annexe)](#466)
-    - [Attestation du contrôleur technique justifiant de la prise en compte de ses avis par le maître d'ouvrage de la construction sur le respect des règles de construction parasismique (art. A462-4 Annexe)](#467)
+    - [Livre  V : Implantation des services, établissements et entreprises (art. A520-1 à A520-11)](#453)
+      - [Titre  II : Dispositions financières concernant la région d'Ile-de-France (art. A520-1 à A520-11)](#454)
+        - [Section 1 : Dispositions générales (art. A520-1 à A520-11)](#455)
+          - [Sous-section 1 : Perception des redevances (art. A520-1 à A520-3)](#456)
+          - [Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance (art. A520-4 à A520-11)](#457)
+    - [Livre  VI : Organismes consultatifs et dispositions diverses (art. A614-1 à A614-4)](#458)
+      - [Titre Ier : Organismes consultatifs (art. A614-1 à A614-4)](#459)
+        - [Chapitre  IV : Architectes-conseils et paysagistes-conseils (art. A614-1 à A614-4)](#460)
+  - [Annexes (art. R*126-1, Annexe à A462-4 Annexe)](#461)
+    - [Liste des servitudes d'utilité publique affectant l'utilisation du sol. (art. R*126-1, Annexe)](#462)
+    - [Liste des communes comprises dans la zone 1 (art. R127-3, Annexe 1)](#463)
+    - [Liste des communes comprises dans la zone 2 (art. R127-3, Annexe 2)](#464)
+    - [Attestation du contrôleur technique établissant qu'il a fait connaître au maître d'ouvrage de la construction son avis sur la prise en compte au stade de la conception des règles parasismiques. (art. A431-10 Annexe)](#465)
+    - [Attestation du contrôleur technique justifiant de la prise en compte de ses avis par le maître d'ouvrage de la construction sur le respect des règles de construction parasismique (art. A462-4 Annexe)](#466)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Règles générales d'aménagement et d'urbanisme<a id=2></a>
@@ -50606,24 +50605,16 @@ _Codifié par_:
 ###### Article R*510-1
 
 Dans la région d'Ile-de-France, sont soumis à agrément, sous réserve des exceptions prévues aux articles R. 510-4 et R.
-510-6, toute opération entreprise par toute personne physique ou morale de droit public ou de droit privé tendant à la
-construction, la reconstruction, la réhabilitation ou l'extension de tous locaux ou installations servant à des activités
-industrielles, commerciales, professionnelles, administratives, techniques, scientifiques ou d'enseignement ainsi que tout
-changement d'utilisateur ou d'utilisation desdits locaux.
+510-6, toute opération entreprise par toute personne physique ou morale de droit privé, ou de droit public lorsque le champ
+d'action de la personne morale relève en majeure partie du secteur concurrentiel, tendant à la construction, la
+reconstruction, la réhabilitation ou l'extension de tous locaux ou installations servant à des activités industrielles,
+commerciales, professionnelles, administratives, techniques, scientifiques ou d'enseignement.
 
 Les opérations mentionnées au premier alinéa sont soumises à agrément quelle que soit l'affectation des locaux existants et
 indépendamment de la qualité de leur propriétaire et quelles que soient les conditions juridiques de l'utilisation. Les
 transferts à titre gratuit sont exclus du champ d'application du présent titre.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°67-944 1967-10-24 ART. 1
-
-_Modifié par_:
-
-  - Décret n°95-690 du 9 mai 1995 - art. 1 () JORF 11 mai 1995
 
 _Cité par_:
 
@@ -50635,7 +50626,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme R510-4, R510-6
+  - Code de l'urbanisme - art. R*510-4 (V)
+  - Code de l'urbanisme - art. R*510-6 (V)
 
 _Codifié par_:
 
@@ -50647,21 +50639,12 @@ _Codifié par_:
 L'agrément institué à l'article R. 510-1 est accordé, accordé sous condition, refusé ou ajourné pour complément
 d'instruction :
 
-1° Par un comité pour l'implantation territoriale des emplois publics placé auprès des ministres chargés de la réforme de
-l'Etat et de l'aménagement du territoire, lorsque l'opération est réalisée par un service de l'Etat ou par les personnes
-publiques ou privées soumises à son contrôle dont l'activité ne s'exerce pas dans le secteur concurrentiel, et lorsque
-l'activité du service ou des personnes concernés s'exerce au-delà de la région d'Ile-de-France.
+1° Par le préfet du département pour toute opération de construction, reconstruction ou extension, lorsqu'il existe une
+convention mentionnée à l'article R. 510-5 en cours de validité. Sa décision fait l'objet d'un arrêté publié au recueil des
+actes administratifs de la préfecture ;
 
-En cas de refus d'agrément, le ministre intéressé peut, dans un délai de deux mois après la notification, saisir le Premier
-ministre, qui décide, après avis du ministre chargé de l'aménagement du territoire, du ministre chargé de l'urbanisme, du
-ministre chargé du budget et du ministre chargé de la réforme de l'Etat ; 
-
-2° Par le préfet de département pour toute opération de construction, reconstruction ou extension ne relevant pas des cas
-prévus au 1° du présent article, lorsqu'il existe une convention visée à l'article R. 510-5 en cours de validité ;
-
-3° Par le préfet de la région d'Ile-de-France dans tous les autres cas. Il peut consulter le comité pour l'implantation
-territoriale des emplois publics sur toute demande d'agrément relevant de sa compétence. Sa décision fait l'objet d'un arrêté
-publié au Recueil des actes administratifs de la préfecture de la région d'Ile-de-France.
+2° Par le préfet de la région d'Ile-de-France dans les autres cas. Sa décision fait l'objet d'un arrêté publié au recueil des
+actes administratifs de la préfecture de la région d'Ile-de-France.
 
 Tout refus d'agrément ou agrément sous condition doit être motivé.
 
@@ -50678,10 +50661,6 @@ _Anciens textes_:
 
   - Décret n°67-944 1967-10-24 ART. 2
 
-_Modifié par_:
-
-  - Décret n°2002-59 du 14 janvier 2002 - art. 1 () JORF 15 janvier 2002
-
 _Cite_:
 
   - Code de l'urbanisme R510-1, R510-5
@@ -50690,49 +50669,9 @@ _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
-
-###### Article R*510-3
-
-Le comité pour l'implantation territoriale des emplois publics mentionné au 1° de l'article R. 510-2 est composé de douze
-membres.
-
-Son président est un fonctionnaire de l'Etat, nommé par arrêté du Premier ministre, après avis du ministre chargé de la
-réforme de l'Etat et du ministre chargé de l'aménagement du territoire.
-
-Le comité ne délibère que si au moins cinq de ses membres sont présents.
-
-La composition, l'organisation et les conditions de fonctionnement du comité sont précisées par arrêté du Premier ministre,
-après avis du ministre chargé de la réforme de l'Etat et du ministre chargé de l'aménagement du territoire.
-
-Aucun membre du comité ne peut délibérer sur un dossier de demande d'agrément auquel il a un intérêt personnel et direct. Les
-membres du comité représentant un ministère dont un dossier est soumis au comité ne prennent pas part au vote.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°67-944 1967-10-24 art. 3
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°95-690 du 9 mai 1995 - art. 10 (V)
-  - SPEC_APPLI: Décret n°97-1184 1997-12-19 annexe
-
 _Modifié par_:
 
-  - Décret n°2002-59 du 14 janvier 2002 - art. 2 () JORF 15 janvier 2002
-
-_Abrogé par_:
-
-  - Décret n°2007-1599 du 12 novembre 2007 - art. 5 () JORF 14 novembre 2007
-
-_Cite_:
-
-  - Code de l'urbanisme R510-2
+  - Décret n°2007-1599 du 12 novembre 2007 - art. 2 () JORF 14 novembre 2007
 
 
 ###### Article R*510-4
@@ -50786,9 +50725,7 @@ _Codifié par_:
 
 ###### Article R*510-6
 
-I. - Sont dispensées de l'agrément les opérations, autres que réalisées par un service de l'Etat ou par une personne publique
-ou privée soumise à son contrôle et dont l'activité ne s'exerce pas dans le secteur concurrentiel, qui répondent à l'une des
-conditions suivantes :
+Sont dispensées de l'agrément les opérations qui répondent à l'une des conditions suivantes :
 
 1. Lorsqu'elles sont situées :
 
@@ -50878,28 +50815,15 @@ bureaux ;
 - 5 000 mètres carrés pour la construction de locaux destinés à un usage industriel sans utilisateur déterminé ou à un usage
 d'entrepôt.
 
-5. Lorsqu'elles portent sur le changement d'utilisateur ou d'utilisation de locaux, quelle que soit leur nature.
+5. (Abrogé).
 
 6. Lorsqu'elles portent sur des locaux d'internat à usage scolaire ou sur des résidences universitaires.
-
-II. - Les opérations réalisées par un service de l'Etat ou par une personne publique ou privée soumise à son contrôle et dont
-l'activité ne s'exerce pas dans le secteur concurrentiel sont dispensées d'agrément si elles répondent à l'une des conditions
-suivantes :
-
-1. Lorsqu'elles portent sur une surface hors oeuvre nette inférieure à 200 mètres carrés ;
-
-2. Lorsqu'elles concernent des locaux des services déconcentrés de l'Etat à compétence départementale ou des locaux de
-services dont les activités ne s'exercent pas au-delà du département d'implantation.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°67-944 1967-10-24 art. 6
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
 
 _Cite_:
 
@@ -50908,7 +50832,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2007-864 du 14 mai 2007 - art. 1 () JORF 15 mai 2007
+  - Décret n°2007-1599 du 12 novembre 2007 - art. 3 () JORF 14 novembre 2007
 
 _Cité par_:
 
@@ -50916,15 +50840,19 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R212-8 (V)
   - Code du cinéma et de l'image animée - art. R212-9 (Ab)
 
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
 
 ###### Article R*510-7
 
-Le comité pour l'implantation territoriale des emplois publics, le préfet de la région d'Ile-de-France et les préfets de
-département veillent, chacun en ce qui le concerne, à ce que les opérations qui leur sont soumises et les agréments délivrés
-soient compatibles avec les orientations fixées par les directives territoriales d'aménagement et le schéma directeur de la
-région d'Ile-de-France, avec les orientations de la politique d'aménagement et de développement du territoire, ainsi qu'avec
-celles de la politique de la ville et notamment celles qui ont été approuvées en comité interministériel d'aménagement et de
-compétitivité des territoires et et en comité interministériel de la ville.
+Le préfet de la région d'Ile-de-France et les préfets de département veillent, chacun en ce qui le concerne, à ce que les
+opérations qui leur sont soumises et les agréments délivrés soient compatibles avec les orientations fixées par les
+directives territoriales d'aménagement et le schéma directeur de la région d'Ile-de-France, avec les orientations de la
+politique d'aménagement et de développement du territoire, ainsi qu'avec celles de la politique de la ville et notamment
+celles qui ont été approuvées en comité interministériel d'aménagement et de compétitivité des territoires et et en comité
+interministériel de la ville.
 
 **Liens relatifs à cet article**
 
@@ -50938,7 +50866,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1270 du 12 octobre 2005 - art. 7 (V) JORF 13 octobre 2005
+  - Décret n°2007-1599 du 12 novembre 2007 - art. 4 () JORF 14 novembre 2007
 
 
 ###### Article R*510-8
@@ -51021,72 +50949,6 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
-
-
-###### Article R*510-12
-
-Lorsque, dans le cas d'une opération tendant à l'utilisation de locaux ou installations existants *Région parisienne*,
-l'agrément est demandé avant la passation définitive des actes juridiques dont l'utilisation des locaux ou installations
-dépend, la décision doit intervenir dans un délai de deux mois à dater de la réception de la demande, faute de quoi
-l'agrément *tacite* est réputé être accordé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°67-944 1967-10-24 ART. 12
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
-_Abrogé par_:
-
-  - Décret n°2007-1599 du 12 novembre 2007 - art. 5 () JORF 14 novembre 2007
-
-
-###### Article R*510-13
-
-Le comité pour l'implantation territoriale des emplois publics est chargé, dans des conditions définies par le ministre
-chargé de la réforme de l'Etat et par le ministre chargé de l'aménagement du territoire, de préparer les mesures propres à
-assurer une répartition équilibrée des emplois publics sur le territoire en prenant en compte, notamment, les besoins et les
-attentes des usagers des services publics, le souci d'amélioration de l'efficacité des services de l'Etat et de ses
-établissements publics et la modernisation de la gestion publique. A cette fin :
-
-a) Il détermine ceux des services de l'Etat et celles des personnes morales soumises au contrôle de ce dernier, mentionnés au
-1° de l'article R. 510-2, dont la présence dans la région d'Ile-de-France ne s'impose ni par les tâches qu'ils ont à remplir,
-ni par les besoins auxquels ils répondent ;
-
-b) Il entreprend toute enquête ou étude visant à définir les conditions techniques, financières et sociales, dans lesquelles
-ces services et personnes morales pourraient être en tout ou partie transférés en des points du territoire où ils
-contribueraient utilement à un développement équilibré des régions ;
-
-c) Il propose à l'approbation du comité interministériel d'aménagement et de compétitivité des territoires des opérations de
-transfert concernant des services ou personnes morales mentionnés au a. Le comité assure la coordination de ces opérations
-et, lorsqu'elles ont été approuvées par le comité interministériel d'aménagement du territoire, veille à ce qu'elles soient
-conduites à leur terme. Il peut adresser des recommandations aux services et personnes morales concernés par ces opérations.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°67-944 1967-10-24 ART. 13
-
-_Cite_:
-
-  - Code de l'urbanisme R510-2
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
-_Modifié par_:
-
-  - Décret n°2005-1270 du 12 octobre 2005 - art. 7 (V) JORF 13 octobre 2005
-
-_Abrogé par_:
-
-  - Décret n°2007-1599 du 12 novembre 2007 - art. 5 () JORF 14 novembre 2007
 
 
 ###### Article R*510-14
@@ -54169,199 +54031,11 @@ _Codifié par_:
 
 ## Livre  V : Implantation des services, établissements et entreprises<a id=453></a>
 
-### TITRE I : Dispositions administratives générales.<a id=454></a>
+### Titre  II : Dispositions financières concernant la région d'Ile-de-France<a id=454></a>
 
-###### Article A510-1
+#### Section 1 : Dispositions générales<a id=455></a>
 
-Le comité pour l'implantation territoriale des emplois publics institué par l'article R. 510-2 est composé, outre son
-président, de :
-
-1° Six représentants de l'administration :
-
-a) Un représentant du ministre chargé de la réforme de l'Etat ;
-
-b) Un représentant du ministre chargé de l'aménagement du territoire ;
-
-c) Un représentant du ministre chargé de l'urbanisme ;
-
-d) Un représentant du ministre chargé du budget ;
-
-e) Un représentant du ministre de l'intérieur ;
-
-f) Un représentant du secrétaire général du Gouvernement ;
-
-2° Trois élus des conseils régionaux désignés sur proposition de l'Association des régions de France ;
-
-3° Deux personnalités choisies en fonction de leur compétence ou de leur connaissance des problèmes d'aménagement du
-territoire ainsi que de la gestion des organisations publiques ou privées.
-
-Les membres du comité mentionnés au 2° et au 3° du présent article ainsi que leurs suppléants sont nommés par arrêté conjoint
-du ministre chargé de la réforme de l'Etat et du ministre chargé de l'aménagement du territoire. Leur mandat, d'une durée de
-trois ans, est renouvelable une fois.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 2002-02-06 art. 1 JORF 8 février 2002
-
-_Abrogé par_:
-
-  - Arrêté 2007-11-12 art. 1 JORF 14 novembre 2007
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. A510-4 (Ab)
-
-_Cite_:
-
-  - Code de l'urbanisme R510-2
-
-
-###### Article A510-2
-
-Pour chaque affaire soumise au comité pour l'implantation territoriale des emplois publics, le demandeur est avisé de
-l'inscription de l'affaire à l'ordre du jour du comité. Le représentant du demandeur est entendu par le comité, sur sa
-demande ou à la demande du président du comité.
-
-Dans le cas où le demandeur est une personne morale soumise au contrôle de l'Etat, le département ministériel dont elle
-relève est également avisé de l'inscription de l'affaire à l'ordre du jour du comité. Son représentant est entendu par le
-comité dans les mêmes conditions.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 2002-02-06 art. 1 JORF 8 février 2002
-
-_Abrogé par_:
-
-  - Arrêté 2007-11-12 art. 1 JORF 14 novembre 2007
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A510-3
-
-La voix du président est prépondérante en cas de partage des voix.
-
-En cas d'absence ou d'empêchement de toute nature de son président, le comité est présidé par le représentant du ministre
-chargé de la réforme de l'Etat.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 2002-02-06 art. 1 JORF 8 février 2002
-
-_Abrogé par_:
-
-  - Arrêté 2007-11-12 art. 1 JORF 14 novembre 2007
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
-
-
-###### Article A510-4
-
-Le préfet de la région d'Ile-de-France assiste aux séances du comité en tant qu'expert permanent. Il peut se faire
-représenter.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 2002-02-06 art. 1 JORF 8 février 2002
-
-_Abrogé par_:
-
-  - Arrêté 2007-11-12 art. 1 JORF 14 novembre 2007
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
-
-
-###### Article A510-6
-
-Le président du comité pour l'implantation territoriale des emplois publics est assisté d'un secrétariat permanent.
-
-Les dossiers de demande d'agrément ou d'avis sont déposés auprès du secrétariat permanent qui en assure l'instruction.
-
-Les programmes prévisionnels pluriannuels d'implantation des ministères et établissements publics de l'Etat, mis à jour, sont
-présentés au comité à l'appui de chaque demande d'agrément.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 2002-02-06 art. 1 JORF 8 février 2002
-
-_Abrogé par_:
-
-  - Arrêté 2007-11-12 art. 1 JORF 14 novembre 2007
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
-
-
-###### Article A510-7
-
-Le président du comité pour l'implantation territoriale des emplois publics, à son initiative ou à la demande d'un ou de
-plusieurs membres du comité, peut inviter toute personnalité pour évoquer une demande d'agrément particulière, un programme
-prévisionnel pluriannuel d'implantation ou un aspect de la politique d'aménagement du territoire.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 2002-02-06 art. 1 JORF 8 février 2002
-
-_Abrogé par_:
-
-  - Arrêté 2007-11-12 art. 1 JORF 14 novembre 2007
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
-
-
-###### Article A510-8
-
-Les dispositions des articles A. 510-1 à A. 510-7 ne peuvent être modifiées que par arrêté du Premier ministre.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 1986-02-28 art. 1 JORF 2 mars 1986
-
-_Abrogé par_:
-
-  - Arrêté 2007-11-12 art. 1 JORF 14 novembre 2007
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
-
-_Cite_:
-
-  - Code de l'urbanisme A510-1 à A510-7
-
-
-### Titre  II : Dispositions financières concernant la région d'Ile-de-France<a id=455></a>
-
-#### Section 1 : Dispositions générales<a id=456></a>
-
-##### Sous-section 1 : Perception des redevances<a id=457></a>
+##### Sous-section 1 : Perception des redevances<a id=456></a>
 
 ###### Article A520-1
 
@@ -54443,7 +54117,7 @@ _Cite_:
   - Code de l'urbanisme - art. A520-2 (VT)
 
 
-##### Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance<a id=458></a>
+##### Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance<a id=457></a>
 
 ###### Article A520-4
 
@@ -54556,11 +54230,11 @@ _Cite_:
   - Code de l'urbanisme - art. A520-4 (V)
 
 
-## Livre  VI : Organismes consultatifs et dispositions diverses<a id=459></a>
+## Livre  VI : Organismes consultatifs et dispositions diverses<a id=458></a>
 
-### Titre Ier : Organismes consultatifs<a id=460></a>
+### Titre Ier : Organismes consultatifs<a id=459></a>
 
-#### Chapitre  IV : Architectes-conseils et paysagistes-conseils<a id=461></a>
+#### Chapitre  IV : Architectes-conseils et paysagistes-conseils<a id=460></a>
 
 ###### Article A614-1
 
@@ -54651,9 +54325,9 @@ _Cite_:
   - Code de l'urbanisme - art. A614-1 (V)
 
 
-# Annexes<a id=462></a>
+# Annexes<a id=461></a>
 
-## Liste des servitudes d'utilité publique affectant l'utilisation du sol.<a id=463></a>
+## Liste des servitudes d'utilité publique affectant l'utilisation du sol.<a id=462></a>
 
 ###### Article R*126-1, Annexe
 
@@ -55054,7 +54728,7 @@ _Modifié par_:
   - Décret n°2007-1557 du 2 novembre 2007 - art. 72 () JORF 3 novembre 2007
 
 
-## Liste des communes comprises dans la zone 1<a id=464></a>
+## Liste des communes comprises dans la zone 1<a id=463></a>
 
 ###### Article R127-3, Annexe 1
 
@@ -55140,7 +54814,7 @@ _Abrogé par_:
   - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
-## Liste des communes comprises dans la zone 2<a id=465></a>
+## Liste des communes comprises dans la zone 2<a id=464></a>
 
 ###### Article R127-3, Annexe 2
 
@@ -55521,7 +55195,7 @@ _Abrogé par_:
   - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
-## Attestation du contrôleur technique établissant qu'il a fait connaître au maître d'ouvrage de la construction son avis sur la prise en compte au stade de la conception des règles parasismiques.<a id=466></a>
+## Attestation du contrôleur technique établissant qu'il a fait connaître au maître d'ouvrage de la construction son avis sur la prise en compte au stade de la conception des règles parasismiques.<a id=465></a>
 
 ###### Article A431-10 Annexe
 
@@ -55565,7 +55239,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L111-23 (V)
 
 
-## Attestation du contrôleur technique justifiant de la prise en compte de ses avis par le maître d'ouvrage de la construction sur le respect des règles de construction parasismique<a id=467></a>
+## Attestation du contrôleur technique justifiant de la prise en compte de ses avis par le maître d'ouvrage de la construction sur le respect des règles de construction parasismique<a id=466></a>
 
 ###### Article A462-4 Annexe
 

@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2007-12-02
+Version Consolidée au 2007-12-19
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -422,7 +422,7 @@ Version Consolidée au 2007-12-02
     - [Livre  III : Aménagement foncier (art. A332-1 à A332-7)](#419)
       - [Titre  III : Dispositions financières (art. A332-1 à A332-7)](#420)
         - [Chapitre  II : Participation des constructeurs et des lotisseurs (art. A332-1 à A332-7)](#421)
-    - [Livre  IV : Régime applicable aux constructions, aménagements et démolitions (art. A410-1 à A462-4)](#422)
+    - [Livre  IV : Régime applicable aux constructions, aménagements et démolitions (art. A410-1 à A472-1)](#422)
       - [Titre Ier : Certificat d'urbanisme (art. A410-1 à A410-5)](#423)
       - [Titre  II : Dispositions communes aux diverses autorisations et aux déclarations préalables (art. A423-1 à A424-19)](#424)
         - [Chapitre  III : Dépôt et instruction des demandes de permis et des déclarations (art. A423-1 à A423-4)](#425)
@@ -454,20 +454,22 @@ Version Consolidée au 2007-12-02
         - [Chapitre  II : Achèvement des travaux de construction ou d'aménagement (art. A462-1 à A462-4)](#451)
           - [Section 1 : Dispositions communes (art. A462-1)](#452)
           - [Section 2 : Dispositions applicables aux constructions soumises à des règles parasismiques (art. A462-2 à A462-4)](#453)
-    - [Livre  V : Implantation des services, établissements et entreprises (art. A520-1 à A520-11)](#454)
-      - [Titre  II : Dispositions financières concernant la région d'Ile-de-France (art. A520-1 à A520-11)](#455)
-        - [Section 1 : Dispositions générales (art. A520-1 à A520-11)](#456)
-          - [Sous-section 1 : Perception des redevances (art. A520-1 à A520-3)](#457)
-          - [Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance (art. A520-4 à A520-11)](#458)
-    - [Livre  VI : Organismes consultatifs et dispositions diverses (art. A614-1 à A614-4)](#459)
-      - [Titre Ier : Organismes consultatifs (art. A614-1 à A614-4)](#460)
-        - [Chapitre  IV : Architectes-conseils et paysagistes-conseils (art. A614-1 à A614-4)](#461)
-  - [Annexes (art. R*126-1, Annexe à A462-4 Annexe)](#462)
-    - [Liste des servitudes d'utilité publique affectant l'utilisation du sol. (art. R*126-1, Annexe)](#463)
-    - [Liste des communes comprises dans la zone 1 (art. R127-3, Annexe 1)](#464)
-    - [Liste des communes comprises dans la zone 2 (art. R127-3, Annexe 2)](#465)
-    - [Attestation du contrôleur technique établissant qu'il a fait connaître au maître d'ouvrage de la construction son avis sur la prise en compte au stade de la conception des règles parasismiques. (art. A431-10 Annexe)](#466)
-    - [Attestation du contrôleur technique justifiant de la prise en compte de ses avis par le maître d'ouvrage de la construction sur le respect des règles de construction parasismique (art. A462-4 Annexe)](#467)
+      - [Titre  VII : Dispositions diverses (art. A472-1)](#454)
+        - [Chapitre  II : Remontées mécaniques (art. A472-1)](#455)
+    - [Livre  V : Implantation des services, établissements et entreprises (art. A520-1 à A520-11)](#456)
+      - [Titre  II : Dispositions financières concernant la région d'Ile-de-France (art. A520-1 à A520-11)](#457)
+        - [Section 1 : Dispositions générales (art. A520-1 à A520-11)](#458)
+          - [Sous-section 1 : Perception des redevances (art. A520-1 à A520-3)](#459)
+          - [Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance (art. A520-4 à A520-11)](#460)
+    - [Livre  VI : Organismes consultatifs et dispositions diverses (art. A614-1 à A614-4)](#461)
+      - [Titre Ier : Organismes consultatifs (art. A614-1 à A614-4)](#462)
+        - [Chapitre  IV : Architectes-conseils et paysagistes-conseils (art. A614-1 à A614-4)](#463)
+  - [Annexes (art. R*126-1, Annexe à A462-4 Annexe)](#464)
+    - [Liste des servitudes d'utilité publique affectant l'utilisation du sol. (art. R*126-1, Annexe)](#465)
+    - [Liste des communes comprises dans la zone 1 (art. R127-3, Annexe 1)](#466)
+    - [Liste des communes comprises dans la zone 2 (art. R127-3, Annexe 2)](#467)
+    - [Attestation du contrôleur technique établissant qu'il a fait connaître au maître d'ouvrage de la construction son avis sur la prise en compte au stade de la conception des règles parasismiques. (art. A431-10 Annexe)](#468)
+    - [Attestation du contrôleur technique justifiant de la prise en compte de ses avis par le maître d'ouvrage de la construction sur le respect des règles de construction parasismique (art. A462-4 Annexe)](#469)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Règles générales d'aménagement et d'urbanisme<a id=2></a>
@@ -54542,13 +54544,35 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-## Livre  V : Implantation des services, établissements et entreprises<a id=454></a>
+### Titre  VII : Dispositions diverses<a id=454></a>
 
-### Titre  II : Dispositions financières concernant la région d'Ile-de-France<a id=455></a>
+#### Chapitre  II : Remontées mécaniques<a id=455></a>
 
-#### Section 1 : Dispositions générales<a id=456></a>
+###### Article A472-1
 
-##### Sous-section 1 : Perception des redevances<a id=457></a>
+Les appareils visés au deuxième alinéa de l'article R. 472-1 sont les téléskis à câble bas définis à l'article 2 de l'arrêté
+du 7 août 2006 relatif aux règles techniques et de sécurité des téléskis, démontables et transportables, dont la longueur
+n'excède pas 300 mètres.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté du 7 août 2006 - art. 2
+  - Code de l'urbanisme - art. R472-1
+
+_Créé par_:
+
+  - Arrêté du 23 novembre 2007 - art. 1
+
+
+## Livre  V : Implantation des services, établissements et entreprises<a id=456></a>
+
+### Titre  II : Dispositions financières concernant la région d'Ile-de-France<a id=457></a>
+
+#### Section 1 : Dispositions générales<a id=458></a>
+
+##### Sous-section 1 : Perception des redevances<a id=459></a>
 
 ###### Article A520-1
 
@@ -54630,7 +54654,7 @@ _Cite_:
   - Code de l'urbanisme - art. A520-2 (VT)
 
 
-##### Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance<a id=458></a>
+##### Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance<a id=460></a>
 
 ###### Article A520-4
 
@@ -54743,11 +54767,11 @@ _Cite_:
   - Code de l'urbanisme - art. A520-4 (V)
 
 
-## Livre  VI : Organismes consultatifs et dispositions diverses<a id=459></a>
+## Livre  VI : Organismes consultatifs et dispositions diverses<a id=461></a>
 
-### Titre Ier : Organismes consultatifs<a id=460></a>
+### Titre Ier : Organismes consultatifs<a id=462></a>
 
-#### Chapitre  IV : Architectes-conseils et paysagistes-conseils<a id=461></a>
+#### Chapitre  IV : Architectes-conseils et paysagistes-conseils<a id=463></a>
 
 ###### Article A614-1
 
@@ -54838,9 +54862,9 @@ _Cite_:
   - Code de l'urbanisme - art. A614-1 (V)
 
 
-# Annexes<a id=462></a>
+# Annexes<a id=464></a>
 
-## Liste des servitudes d'utilité publique affectant l'utilisation du sol.<a id=463></a>
+## Liste des servitudes d'utilité publique affectant l'utilisation du sol.<a id=465></a>
 
 ###### Article R*126-1, Annexe
 
@@ -55241,7 +55265,7 @@ _Modifié par_:
   - Décret n°2007-1557 du 2 novembre 2007 - art. 72 () JORF 3 novembre 2007
 
 
-## Liste des communes comprises dans la zone 1<a id=464></a>
+## Liste des communes comprises dans la zone 1<a id=466></a>
 
 ###### Article R127-3, Annexe 1
 
@@ -55327,7 +55351,7 @@ _Abrogé par_:
   - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
-## Liste des communes comprises dans la zone 2<a id=465></a>
+## Liste des communes comprises dans la zone 2<a id=467></a>
 
 ###### Article R127-3, Annexe 2
 
@@ -55708,7 +55732,7 @@ _Abrogé par_:
   - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
-## Attestation du contrôleur technique établissant qu'il a fait connaître au maître d'ouvrage de la construction son avis sur la prise en compte au stade de la conception des règles parasismiques.<a id=466></a>
+## Attestation du contrôleur technique établissant qu'il a fait connaître au maître d'ouvrage de la construction son avis sur la prise en compte au stade de la conception des règles parasismiques.<a id=468></a>
 
 ###### Article A431-10 Annexe
 
@@ -55752,7 +55776,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L111-23 (V)
 
 
-## Attestation du contrôleur technique justifiant de la prise en compte de ses avis par le maître d'ouvrage de la construction sur le respect des règles de construction parasismique<a id=467></a>
+## Attestation du contrôleur technique justifiant de la prise en compte de ses avis par le maître d'ouvrage de la construction sur le respect des règles de construction parasismique<a id=469></a>
 
 ###### Article A462-4 Annexe
 

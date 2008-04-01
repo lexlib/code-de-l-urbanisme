@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2008-03-09
+Version Consolidée au 2008-04-02
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -422,7 +422,7 @@ Version Consolidée au 2008-03-09
         - [Chapitre  Ier : Droit de préemption urbain (art. A211-1)](#419)
         - [Chapitre  II : Zones d'aménagement différé (art. A212-1)](#420)
         - [Chapitre  III : Dispositions communes au droit de préemption urbain et aux zones d'aménagement différé (art. A213-1)](#421)
-        - [CHAPITRE IV : Dispositions communes aux zones d'aménagement différé et aux périmètres provisoires de zones d'aménagement différé créés avant le 1er juin 1987 (art. A214-1)](#422)
+        - [Chapitre  IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce et les baux commerciaux (art. A214-1)](#422)
     - [Livre  III : Aménagement foncier (art. A332-1 à A332-7)](#423)
       - [Titre  III : Dispositions financières (art. A332-1 à A332-7)](#424)
         - [Chapitre  II : Participation des constructeurs et des lotisseurs (art. A332-1 à A332-7)](#425)
@@ -53239,24 +53239,24 @@ _Cite_:
   - Code de l'urbanisme - art. R213-5 (V)
 
 
-#### CHAPITRE IV : Dispositions communes aux zones d'aménagement différé et aux périmètres provisoires de zones d'aménagement différé créés avant le 1er juin 1987<a id=422></a>
+#### Chapitre  IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce et les baux commerciaux<a id=422></a>
 
 ###### Article A214-1
 
-Les déclarations ou demandes formulées en application des articles L. 212-2, L. 212-3, L. 213-1, R. 212-6, R. 212-14 et R.
-213-2 dans leur rédaction antérieure à la loi n° 85-729 du 18 juillet 1985 relative à la définition et à la mise en oeuvre de
-principes d'aménagement doivent être, à compter du 1er juin 1987, établies conformément au modèle annexé à l'article A.
-213-1.
+La déclaration préalable prévue par les articles L. 214-1 et R. 214-4 doit être établie conformément au formulaire enregistré
+par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13644*01 et disponible sur le site internet du
+ministère de l'écologie, du développement et de l'aménagement durables :  http://www.developpement-durable.gouv.fr.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 1987-05-11 art. 2 JORF 2 juin 1987
+  - Arrêté du 29 février 2008 - art. 1
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+  - Code de l'urbanisme - art. *R214-4
+  - Code de l'urbanisme - art. L214-1
 
 
 ## Livre  III : Aménagement foncier<a id=423></a>

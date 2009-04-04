@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2009-03-28
+Version Consolidée au 2009-04-05
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -44544,33 +44544,31 @@ _Cité par_:
 Lorsque le projet est situé dans un espace ayant vocation à être classé dans le coeur d'un futur parc national dont la
 création a été prise en considération en application de l'article R. 331-5 du code de l'environnement ou dans le coeur d'un
 parc national délimité en application de l'article L. 331-2 du code de l'environnement, le délai d'instruction prévu par le b
-et le c de l'article R. 423-23 est porté à :
+et le c de l'article R. 423-23 est porté à : 
 
 a) Cinq mois si les travaux prévus figurent sur la liste des travaux qui peuvent faire l'objet de l'autorisation spéciale
-prévue par le I de l'article L. 331-4 du code de l'environnement arrêtée par le décret de création du parc ;
+prévue par le I de l'article L. 331-4 et par le I de l'article L. 331-14 du code de l'environnement arrêtée par le décret de
+création du parc ; 
 
 b) Six mois dans le cas contraire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2009-377 du 3 avril 2009 - art. 13
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R*423-23
+  - Code de l'environnement - art. L331-14
+  - Code de l'environnement - art. L331-2
+  - Code de l'environnement - art. L331-4
+  - Code de l'environnement - art. R331-5
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R*423-33 (V)
-
-_Cite_:
-
-  - Code de l'urbanisme R423-23
-  - Code de l'environnement - art. L331-2 (M)
-  - Code de l'environnement - art. L331-4 (M)
-  - Code de l'environnement - art. R331-5 (M)
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*423-27
@@ -45562,25 +45560,26 @@ _Codifié par_:
 
 ###### Article R*423-62
 
-Par exception aux dispositions de l'article R. 423-59, le délai à l'issue duquel le préfet ou le directeur de l'établissement
-public d'un parc national doit se prononcer sur un projet situé dans un espace ayant vocation à être classé dans le coeur
-d'un futur parc national dont la création a été prise en considération en application de l'article R. 331-4 du code de
-l'environnement ou dans le coeur d'un parc national délimité en application des articles L. 331-1 et L. 331-2 du même code
-est de :
+Par exception aux dispositions de l'article R. 423-59, le délai à l'issue duquel le préfet, le directeur de l'établissement
+public d'un parc national ou, le cas échéant, le conseil d'administration, doit se prononcer sur un projet situé dans un
+espace ayant vocation à être classé dans le coeur d'un futur parc national dont la création a été prise en considération en
+application de l'article R. 331-4 du code de l'environnement ou dans le coeur d'un parc national délimité en application des
+articles L. 331-1 et L. 331-2 du même code est de : 
 
 a) Trois mois si les travaux prévus figurent sur la liste des travaux qui peuvent faire l'objet de l'autorisation spéciale
-prévue par le I de l'article L. 331-4 du code de l'environnement arrêtée par le décret de création du parc ;
+prévue par le I de l'article L. 331-4 et par le I de l'article L. 331-14 du code de l'environnement arrêtée par le décret de
+création du parc ; 
 
-b) Cinq mois dans le cas contraire.
+b) Cinq mois dans le cas contraire. 
 
-En cas de silence du préfet ou du directeur de l'établissement public du parc à l'issue de ce délai, leur accord est réputé
-refusé.
+En cas de silence du préfet ou du directeur de l'établissement public du parc ou, le cas échéant, du conseil d'administration
+à l'issue de ce délai, leur accord est réputé refusé.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2009-377 du 3 avril 2009 - art. 14
 
 _Cité par_:
 
@@ -45588,15 +45587,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme R423-59
-  - Code de l'environnement - art. L331-1 (M)
-  - Code de l'environnement - art. L331-2 (M)
-  - Code de l'environnement - art. L331-4 (M)
-  - Code de l'environnement - art. R*331-4 (Ab)
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
+  - Code de l'urbanisme - art. R*423-59
+  - Code de l'environnement - art. L331-1
+  - Code de l'environnement - art. L331-14
+  - Code de l'environnement - art. L331-4
+  - Code de l'environnement - art. R*331-4
 
 
 ###### Article R*423-63
@@ -46663,16 +46658,24 @@ _Codifié par_:
 
 Lorsque le projet est situé dans le coeur d'un parc national délimité en application des articles L. 331-1 et L. 331-2 du
 code de l'environnement, le permis de construire, le permis d'aménager, le permis de démolir ou la décision prise sur la
-déclaration préalable tient lieu de l'autorisation spéciale prévue par l'article L. 331-4 du code de l'environnement dès lors
-que la décision a fait l'objet de l'accord :
+déclaration préalable tient lieu de l'autorisation spéciale prévue par le I de l'article L. 331-4 et par le I de l'article L.
+331-14 du code de l'environnement dès lors que la décision a fait l'objet de l'accord : 
 
 a) Du directeur de l'établissement public du parc national lorsque le projet est situé en dehors des espaces urbanisés du
-coeur d'un parc national, délimités par le décret de création ;
+coeur d'un parc national, délimités par le décret de création ; 
 
-b) Du préfet après consultation du directeur de l'établissement public du parc national lorsque le projet est situé dans les
+b) Du conseil d'administration de l'établissement public du parc national, lorsque le projet est situé en dehors des espaces
+urbanisés du cœur d'un parc national délimités par le décret de création et que les travaux, constructions ou installations
+projetés ne figurent pas sur la liste prévue par l'article R. 331-18 du code de l'environnement ; 
+
+c) Du préfet après consultation du directeur de l'établissement public du parc national lorsque le projet est situé dans les
 espaces urbanisés du coeur d'un parc national, délimités par le décret de création.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2009-377 du 3 avril 2009 - art. 15
 
 _Cité par_:
 
@@ -46681,17 +46684,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'environnement - art. L331-1 (M)
-  - Code de l'environnement - art. L331-2 (M)
-  - Code de l'environnement - art. L331-4 (M)
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
-_Créé par_:
-
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Code de l'environnement - art. L331-1
+  - Code de l'environnement - art. L331-14
+  - Code de l'environnement - art. L331-4 (V)
+  - Code de l'environnement - art. R331-18
 
 
 ###### Article R*425-7
@@ -46931,17 +46927,18 @@ Lorsque le projet est situé dans un site classé ou en instance de classement, 
 sur la déclaration préalable ne peut intervenir qu'avec l'accord exprès prévu par les articles L. 341-7 et L. 341-10 du code
 de l'environnement :
 
-a) Cet accord est donné par le préfet, après avis de l'architecte des Bâtiments de France, lorsque le projet fait l'objet
-d'une déclaration préalable ;
+a) Cet accord est donné par le préfet ou, le cas échéant, le directeur de l'établissement public du parc national dans les
+conditions prévues par l'article R. 341-10 du code de l'environnement, après avis de l'architecte des Bâtiments de France,
+lorsque le projet fait l'objet d'une déclaration préalable ;
 
 b) Cet accord est donné par le ministre chargé des sites, après avis de la commission départementale de la nature, des
 paysages et des sites, dans les autres cas.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2009-377 du 3 avril 2009 - art. 16
 
 _Cité par_:
 
@@ -46950,12 +46947,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'environnement - art. L341-10 (V)
-  - Code de l'environnement - art. L341-7 (V)
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
+  - Code de l'environnement - art. L341-10
+  - Code de l'environnement - art. L341-7
 
 
 ###### Article R*425-18
@@ -46985,28 +46978,23 @@ _Codifié par_:
 Lorsque le projet est situé dans un parc national créé en application des articles L. 331-1 et L. 331-2 du code de
 l'environnement et doit être précédé d'une étude d'impact en application de l'article L. 122-1 du même code, le permis de
 construire ou le permis d'aménager ne peut intervenir qu'avec l'accord de l'établissement public du parc émis après
-consultation de son conseil scientifique conformément au II de l'article L. 331-4 de ce code.
+consultation de son conseil scientifique conformément au II de l'article L. 331-4 de ce code. 
 
-Dans le cas prévu au a de l'article R. 425-6, l'accord du directeur de l'établissement public du parc tient lieu de l'accord
-mentionné à l'alinéa précédent.
+Dans les cas prévus aux a et b de l'article R. 425-6, l'accord du directeur de l'établissement public du parc ou, le cas
+échéant, du conseil d'administration tient lieu de l'accord mentionné à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2009-377 du 3 avril 2009 - art. 17
 
 _Cite_:
 
-  - Code de l'urbanisme R425-6
-  - Code de l'environnement - art. L122-1 (M)
-  - Code de l'environnement - art. L331-1 (M)
-  - Code de l'environnement - art. L331-2 (M)
-  - Code de l'environnement - art. L331-4 (M)
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
+  - Code de l'urbanisme - art. R*425-6
+  - Code de l'environnement - art. L122-1
+  - Code de l'environnement - art. L331-1
+  - Code de l'environnement - art. L331-4
 
 
 ###### Article R*425-20

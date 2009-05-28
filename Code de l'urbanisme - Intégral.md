@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-05-29
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -9249,36 +9249,32 @@ _Cité par_:
 
 ###### Article L156-4
 
-I. - Les secteurs occupés par une urbanisation diffuse à la date de publication de la loi n° 96-1241 du 30 décembre 1996
+I.-Les secteurs occupés par une urbanisation diffuse à la date de publication de la loi n° 96-1241 du 30 décembre 1996
 précitée, situés dans la bande littorale définie à l'article L. 156-2 et à proximité des parties actuellement urbanisées de
 la commune, peuvent, sous réserve de leur identification dans le chapitre particulier du schéma régional valant schéma de
 mise en valeur de la mer et de la préservation des plages et des espaces boisés ainsi que des parcs et jardins publics, être
-affectés à des services publics, des équipements collectifs, des commerces, des structures artisanales, des équipements
-touristiques et hôteliers.
+affectés à des services publics, des équipements collectifs, des programmes de logements à caractère social, des commerces,
+des structures artisanales, des équipements touristiques et hôteliers. 
 
 Des mesures compensatoires devront alors être mises en oeuvre permettant le maintien de l'équilibre du milieu marin et
-terrestre.
+terrestre. 
 
-Ces installations organisent ou préservent l'accès et la libre circulation le long du rivage.
+Ces installations organisent ou préservent l'accès et la libre circulation le long du rivage. 
 
-II. - Sont autorisés dans les secteurs occupés par une urbanisation diffuse à la date de publication de la loi n° 96-1241 du
-30 décembre 1996 précitée, situés dans la bande littorale définie à l'article L. 156-2, l'adaptation, le changement de
+II.-Sont autorisés dans les secteurs occupés par une urbanisation diffuse à la date de publication de la loi n° 96-1241 du 30
+décembre 1996 précitée, situés dans la bande littorale définie à l'article L. 156-2, l'adaptation, le changement de
 destination, la réfection et l'extension limitée des constructions existantes.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
 _Cite_:
 
-  - Loi n°96-1241 1996-12-30
-  - Code de l'urbanisme - art. L156-2 (M)
+  - Loi n°96-1241 du 30 décembre 1996
+  - Code de l'urbanisme - art. L156-2 (VT)
 
 _Modifié par_:
 
-  - Loi n°2003-590 du 2 juillet 2003 - art. 34 () JORF 3 juillet 2003
+  - Loi n°2009-594 du 27 mai 2009 - art. 46
 
 _Cité par_:
 

@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2009-06-26
+Version Consolidée au 2009-07-25
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -19727,6 +19727,26 @@ _Cité par_:
 _Modifié par_:
 
   - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+
+###### Article L443-3-1
+
+Les résidences mobiles de loisirs situées sur des terrains de camping classés au sens du code du tourisme ne peuvent être
+installées sur des emplacements ayant fait l'objet d'une cession en pleine propriété.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 15
+
+_Abrogé par_:
+
+  - Loi n°2010-788 du 12 juillet 2010 - art. 33 (V)
+
+_Cite_:
+
+  - Code du tourisme.
 
 
 ###### Article L443-4

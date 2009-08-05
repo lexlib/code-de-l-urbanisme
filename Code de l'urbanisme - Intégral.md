@@ -1,12 +1,12 @@
 # Code de l'urbanisme  
-Version Consolidée au 2009-08-01
+Version Consolidée au 2009-08-06
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
       - [Titre Ier : Règles générales d'utilisation du sol. (art. L110 à L112-6)](#3)
         - [Chapitre Ier : Règles générales de l'urbanisme. (art. L111-1 à L111-12)](#4)
         - [Chapitre II : Surface hors oeuvre des constructions. (art. L112-1 à L112-6)](#5)
-      - [Titre II : Prévisions et règles d'urbanisme (art. L121-1 à L128-3)](#6)
+      - [Titre II : Prévisions et règles d'urbanisme (art. L121-1 à L128-4)](#6)
         - [Chapitre Ier : Dispositions générales communes aux schémas de cohérence territoriale, aux plans locaux d'urbanisme et aux cartes communales (art. L121-1 à L121-15)](#7)
           - [Section 1 : Dispositions générales. (art. L121-1 à L121-9)](#8)
           - [Section 2 : Evaluation environnementale. (art. L121-10 à L121-15)](#9)
@@ -15,7 +15,7 @@ Version Consolidée au 2009-08-01
         - [Chapitre IV : Cartes communales. (art. L124-1 à L124-4)](#12)
         - [Chapitre VI : Servitudes d'utilité publique affectant l'utilisation du sol. (art. L126-1)](#13)
         - [Chapitre VII : Dispositions favorisant la diversité de l'habitat. (art. L127-1)](#14)
-        - [Chapitre VIII : Dispositions favorisant la performance énergétique et les énergies renouvelables dans l'habitat (art. L128-1 à L128-3)](#15)
+        - [Chapitre VIII : Dispositions favorisant la performance énergétique et les énergies renouvelables dans l'habitat (art. L128-1 à L128-4)](#15)
       - [Titre III : Espaces boisés. (art. L130-1 à L130-6)](#16)
       - [Titre IV : Dispositions particulières à certaines parties du territoire (art. L141-1 à L147-8)](#17)
         - [Chapitre Ier : Dispositions particulières à Paris et à la région d'Ile-de-France (art. L141-1 à L141-4)](#18)
@@ -489,10 +489,13 @@ Version Consolidée au 2009-08-01
 Le territoire français est le patrimoine commun de la nation. Chaque collectivité publique en est le gestionnaire et le
 garant dans le cadre de ses compétences. Afin d'aménager le cadre de vie, d'assurer sans discrimination aux populations
 résidentes et futures des conditions d'habitat, d'emploi, de services et de transports répondant à la diversité de ses
-besoins et de ses ressources, de gérer le sol de façon économe, d'assurer la protection des milieux naturels et des paysages
-ainsi que la sécurité et la salubrité publiques et de promouvoir l'équilibre entre les populations résidant dans les zones
-urbaines et rurales et de rationaliser la demande de déplacements, les collectivités publiques harmonisent, dans le respect
-réciproque de leur autonomie, leurs prévisions et leurs décisions d'utilisation de l'espace.
+besoins et de ses ressources, de gérer le sol de façon économe, de réduire les émissions de gaz à effet de serre, de réduire
+les consommations d'énergie, d'économiser les ressources fossiles d'assurer la protection des milieux naturels et des
+paysages, la préservation de la biodiversité notamment par la conservation, la restauration et la création de continuités
+écologiques, ainsi que la sécurité et la salubrité publiques et de promouvoir l'équilibre entre les populations résidant dans
+les zones urbaines et rurales et de rationaliser la demande de déplacements, les collectivités publiques harmonisent, dans le
+respect réciproque de leur autonomie, leurs prévisions et leurs décisions d'utilisation de l'espace. Leur action en matière
+d'urbanisme contribue à la lutte contre le changement climatique et à l'adaptation à ce changement.
 
 **Liens relatifs à cet article**
 
@@ -510,7 +513,7 @@ _Cité par_:
   - Code de l'urbanisme - art. L123-1 (VT)
   - Code de l'urbanisme - art. L123-12 (VT)
   - Code de l'urbanisme - art. L124-2 (VT)
-  - Code de l'urbanisme - art. L142-1 (M)
+  - Code de l'urbanisme - art. L142-1 (VT)
   - Code de l'urbanisme - art. L710-1 (VT)
   - Code de l'urbanisme - art. R*122-2 (M)
   - Code de l'urbanisme - art. R*122-3 (V)
@@ -521,7 +524,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°96-1236 du 30 décembre 1996 - art. 17 (V) JORF 1er janvier 1997
+  - Loi n°2009-967 du 3 août 2009 - art. 8
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 _Nouveaux textes_:
 
@@ -531,10 +538,6 @@ _Nouveaux textes_:
 _Anciens textes_:
 
   - Code de l'urbanisme 91
-
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 #### Chapitre Ier : Règles générales de l'urbanisme.<a id=4></a>
@@ -5225,7 +5228,9 @@ L. 121-10, de l'application de la procédure prévue aux articles L. 121-11 et s
 réalisation d'une construction ou d'une opération, à caractère public ou privé, présentant un intérêt général notamment pour
 la commune ou toute autre collectivité, ou la rectification d'une erreur matérielle. L'opération mentionnée à la phrase
 précédente peut également consister en un projet d'extension des zones constructibles qui ne porte pas atteinte à l'économie
-générale du plan d'occupation des sols et ne comporte pas de graves risques de nuisance ; 
+générale du plan d'occupation des sols et ne comporte pas de graves risques de nuisance. En cas d'annulation contentieuse du
+plan local d'urbanisme, l'ancien plan d'occupation des sols peut faire l'objet de révisions simplifiées pendant le délai de
+deux ans suivant la décision du juge devenue définitive ; 
 
 c) D'une mise en compatibilité selon les modalités définies par l'article L. 123-16. 
 
@@ -5298,7 +5303,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-179 du 17 février 2009 - art. 2
+  - Loi n°2009-967 du 3 août 2009 - art. 52 (V)
 
 
 ###### Article L123-20
@@ -5716,6 +5721,28 @@ _Cite_:
 
   - Code de l'urbanisme - art. L127-1
   - Code de l'urbanisme - art. L128-1
+
+
+###### Article L128-4
+
+Toute action ou opération d'aménagement telle que définie à l'article L. 300-1 et faisant l'objet d'une étude d'impact doit
+faire l'objet d'une étude de faisabilité sur le potentiel de développement en énergies renouvelables de la zone, en
+particulier sur l'opportunité de la création ou du raccordement à un réseau de chaleur ou de froid ayant recours aux énergies
+renouvelables et de récupération.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-967 du 3 août 2009 - art. 8
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L300-1
 
 
 ### Titre III : Espaces boisés.<a id=16></a>

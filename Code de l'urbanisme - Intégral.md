@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2009-09-19
+Version Consolidée au 2009-10-10
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -426,58 +426,60 @@ Version Consolidée au 2009-09-19
         - [Chapitre  II : Zones d'aménagement différé (art. A212-1)](#423)
         - [Chapitre  III : Dispositions communes au droit de préemption urbain et aux zones d'aménagement différé (art. A213-1)](#424)
         - [Chapitre  IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce et les baux commerciaux (art. A214-1)](#425)
-    - [Livre  III : Aménagement foncier (art. A332-1 à A332-7)](#426)
+    - [Livre  III : Aménagement foncier (art. A332-1 à A350-1)](#426)
       - [Titre  III : Dispositions financières (art. A332-1 à A332-7)](#427)
         - [Chapitre  II : Participation des constructeurs et des lotisseurs (art. A332-1 à A332-7)](#428)
-    - [Livre  IV : Régime applicable aux constructions, aménagements et démolitions (art. A410-1 à A472-1)](#429)
-      - [Titre Ier : Certificat d'urbanisme (art. A410-1 à A410-5)](#430)
-      - [Titre  II : Dispositions communes aux diverses autorisations et aux déclarations préalables (art. A421-1 à A424-19)](#431)
-        - [Chapitre  Ier : Champ d'application (art. A421-1)](#432)
-        - [Chapitre  III : Dépôt et instruction des demandes de permis et des déclarations (art. A423-1 à A423-4)](#433)
-        - [Chapitre  IV : Décisions (art. A424-1 à A424-19)](#434)
-          - [Section 1 : Contenu de la décision (art. A424-1 à A424-13)](#435)
-            - [Sous-section 1 : Dispositions communes (art. A424-1 à A424-8)](#436)
-            - [Sous-section 2 : Dispositions propres aux constructions (art. A424-9)](#437)
-            - [Sous-section 3 : Dispositions propres aux lotissements (art. A424-10 à A424-11)](#438)
-            - [Sous-section 4 : Dispositions propres aux terrains de camping et aux parcs résidentiels de loisirs (art. A424-12 à A424-13)](#439)
-          - [Section 2 : Notification de la décision (art. A424-14)](#440)
-          - [Section 3 : Affichage de la décision (art. A424-15 à A424-19)](#441)
-      - [Titre  III : Dispositions propres aux constructions (art. A431-1 à A434-1)](#442)
-        - [Chapitre Ier : Dispositions générales (art. A431-1 à A431-11)](#443)
-          - [Section 1 : Déclaration préalable (art. A431-1 à A431-3)](#444)
-          - [Section 2 : Permis de construire (art. A431-4 à A431-8)](#445)
-          - [Section 3 : Dispositions communes (art. A431-9)](#446)
-          - [Section 4 : Dispositions applicables aux constructions soumises à des règles parasismiques (art. A431-10 à A431-11)](#447)
-        - [Chapitre  IV : Dispositions diverses (art. A434-1)](#448)
-      - [Titre  IV : Dispositions propres aux aménagements (art. A441-1 à A444-1)](#449)
-        - [Chapitre Ier : Dispositions communes (art. A441-1 à A441-10)](#450)
-          - [Section 1 : Déclaration préalable (art. A441-1 à A441-3)](#451)
-          - [Section 2 : Permis d'aménager (art. A441-4 à A441-8)](#452)
-          - [Section 3 : Dispositions communes (art. A441-9 à A441-10)](#453)
-        - [Chapitre  IV : Modèles nationaux de demande et de décision (art. A444-1)](#454)
-      - [Titre  V : Dispositions propres aux démolitions (art. A451-1 à A453-4)](#455)
-        - [Chapitre Ier : Demande de permis de démolir (art. A451-1 à A451-3)](#456)
-        - [Chapitre  III : Modèles nationaux de demande et de décision (art. A453-4)](#457)
-      - [Titre  VI : Contrôle de la conformité des travaux (art. A462-1 à A462-4)](#458)
-        - [Chapitre  II : Achèvement des travaux de construction ou d'aménagement (art. A462-1 à A462-4)](#459)
-          - [Section 1 : Dispositions communes (art. A462-1)](#460)
-          - [Section 2 : Dispositions applicables aux constructions soumises à des règles parasismiques (art. A462-2 à A462-4)](#461)
-      - [Titre  VII : Dispositions diverses (art. A472-1)](#462)
-        - [Chapitre  II : Remontées mécaniques (art. A472-1)](#463)
-    - [Livre  V : Implantation des services, établissements et entreprises (art. A520-1 à A520-11)](#464)
-      - [Titre  II : Dispositions financières concernant la région d'Ile-de-France (art. A520-1 à A520-11)](#465)
-        - [Section 1 : Dispositions générales (art. A520-1 à A520-11)](#466)
-          - [Sous-section 1 : Perception des redevances (art. A520-1 à A520-3)](#467)
-          - [Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance (art. A520-4 à A520-11)](#468)
-    - [Livre  VI : Organismes consultatifs et dispositions diverses (art. A614-1 à A614-4)](#469)
-      - [Titre Ier : Organismes consultatifs (art. A614-1 à A614-4)](#470)
-        - [Chapitre  IV : Architectes-conseils et paysagistes-conseils (art. A614-1 à A614-4)](#471)
-  - [Annexes (art. R*126-1, Annexe à A462-4 Annexe)](#472)
-    - [Liste des servitudes d'utilité publique affectant l'utilisation du sol. (art. R*126-1, Annexe)](#473)
-    - [Liste des communes comprises dans la zone 1 (art. R127-3, Annexe 1)](#474)
-    - [Liste des communes comprises dans la zone 2 (art. R127-3, Annexe 2)](#475)
-    - [Attestation du contrôleur technique établissant qu'il a fait connaître au maître d'ouvrage de la construction son avis sur la prise en compte au stade de la conception des règles parasismiques. (art. A431-10 Annexe)](#476)
-    - [Attestation du contrôleur technique justifiant de la prise en compte de ses avis par le maître d'ouvrage de la construction sur le respect des règles de construction parasismique (art. A462-4 Annexe)](#477)
+      - [Titre IV : Départements d'outre-mer (art. A340-1 à A340-4)](#429)
+      - [Titre V : Collectivités d'outre-mer (art. A350-1)](#430)
+    - [Livre  IV : Régime applicable aux constructions, aménagements et démolitions (art. A410-1 à A472-1)](#431)
+      - [Titre Ier : Certificat d'urbanisme (art. A410-1 à A410-5)](#432)
+      - [Titre  II : Dispositions communes aux diverses autorisations et aux déclarations préalables (art. A421-1 à A424-19)](#433)
+        - [Chapitre  Ier : Champ d'application (art. A421-1)](#434)
+        - [Chapitre  III : Dépôt et instruction des demandes de permis et des déclarations (art. A423-1 à A423-4)](#435)
+        - [Chapitre  IV : Décisions (art. A424-1 à A424-19)](#436)
+          - [Section 1 : Contenu de la décision (art. A424-1 à A424-13)](#437)
+            - [Sous-section 1 : Dispositions communes (art. A424-1 à A424-8)](#438)
+            - [Sous-section 2 : Dispositions propres aux constructions (art. A424-9)](#439)
+            - [Sous-section 3 : Dispositions propres aux lotissements (art. A424-10 à A424-11)](#440)
+            - [Sous-section 4 : Dispositions propres aux terrains de camping et aux parcs résidentiels de loisirs (art. A424-12 à A424-13)](#441)
+          - [Section 2 : Notification de la décision (art. A424-14)](#442)
+          - [Section 3 : Affichage de la décision (art. A424-15 à A424-19)](#443)
+      - [Titre  III : Dispositions propres aux constructions (art. A431-1 à A434-1)](#444)
+        - [Chapitre Ier : Dispositions générales (art. A431-1 à A431-11)](#445)
+          - [Section 1 : Déclaration préalable (art. A431-1 à A431-3)](#446)
+          - [Section 2 : Permis de construire (art. A431-4 à A431-8)](#447)
+          - [Section 3 : Dispositions communes (art. A431-9)](#448)
+          - [Section 4 : Dispositions applicables aux constructions soumises à des règles parasismiques (art. A431-10 à A431-11)](#449)
+        - [Chapitre  IV : Dispositions diverses (art. A434-1)](#450)
+      - [Titre  IV : Dispositions propres aux aménagements (art. A441-1 à A444-1)](#451)
+        - [Chapitre Ier : Dispositions communes (art. A441-1 à A441-10)](#452)
+          - [Section 1 : Déclaration préalable (art. A441-1 à A441-3)](#453)
+          - [Section 2 : Permis d'aménager (art. A441-4 à A441-8)](#454)
+          - [Section 3 : Dispositions communes (art. A441-9 à A441-10)](#455)
+        - [Chapitre  IV : Modèles nationaux de demande et de décision (art. A444-1)](#456)
+      - [Titre  V : Dispositions propres aux démolitions (art. A451-1 à A453-4)](#457)
+        - [Chapitre Ier : Demande de permis de démolir (art. A451-1 à A451-3)](#458)
+        - [Chapitre  III : Modèles nationaux de demande et de décision (art. A453-4)](#459)
+      - [Titre  VI : Contrôle de la conformité des travaux (art. A462-1 à A462-4)](#460)
+        - [Chapitre  II : Achèvement des travaux de construction ou d'aménagement (art. A462-1 à A462-4)](#461)
+          - [Section 1 : Dispositions communes (art. A462-1)](#462)
+          - [Section 2 : Dispositions applicables aux constructions soumises à des règles parasismiques (art. A462-2 à A462-4)](#463)
+      - [Titre  VII : Dispositions diverses (art. A472-1)](#464)
+        - [Chapitre  II : Remontées mécaniques (art. A472-1)](#465)
+    - [Livre  V : Implantation des services, établissements et entreprises (art. A520-1 à A520-11)](#466)
+      - [Titre  II : Dispositions financières concernant la région d'Ile-de-France (art. A520-1 à A520-11)](#467)
+        - [Section 1 : Dispositions générales (art. A520-1 à A520-11)](#468)
+          - [Sous-section 1 : Perception des redevances (art. A520-1 à A520-3)](#469)
+          - [Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance (art. A520-4 à A520-11)](#470)
+    - [Livre  VI : Organismes consultatifs et dispositions diverses (art. A614-1 à A614-4)](#471)
+      - [Titre Ier : Organismes consultatifs (art. A614-1 à A614-4)](#472)
+        - [Chapitre  IV : Architectes-conseils et paysagistes-conseils (art. A614-1 à A614-4)](#473)
+  - [Annexes (art. R*126-1, Annexe à A462-4 Annexe)](#474)
+    - [Liste des servitudes d'utilité publique affectant l'utilisation du sol. (art. R*126-1, Annexe)](#475)
+    - [Liste des communes comprises dans la zone 1 (art. R127-3, Annexe 1)](#476)
+    - [Liste des communes comprises dans la zone 2 (art. R127-3, Annexe 2)](#477)
+    - [Attestation du contrôleur technique établissant qu'il a fait connaître au maître d'ouvrage de la construction son avis sur la prise en compte au stade de la conception des règles parasismiques. (art. A431-10 Annexe)](#478)
+    - [Attestation du contrôleur technique justifiant de la prise en compte de ses avis par le maître d'ouvrage de la construction sur le respect des règles de construction parasismique (art. A462-4 Annexe)](#479)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Règles générales d'aménagement et d'urbanisme<a id=2></a>
@@ -53904,9 +53906,113 @@ _Abrogé par_:
   - Arrêté du 25 mars 2013 - art. 1
 
 
-## Livre  IV : Régime applicable aux constructions, aménagements et démolitions<a id=429></a>
+### Titre IV : Départements d'outre-mer<a id=429></a>
 
-### Titre Ier : Certificat d'urbanisme<a id=430></a>
+###### Article A340-1
+
+La subvention de l'Etat prévue à la dernière phrase du dernier alinéa de l'article R. 340-5 est destinée à compenser, pour
+l'aménageur, la perte de recettes éventuelle induite par le différentiel de prix entre les recettes attendues dans le bilan
+prévisionnel de l'opération d'aménagement et le prix de cession des terrains aménagés aux opérateurs de logements sociaux.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 16 septembre 2009 - art. 1
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. A340-3 (V)
+  - Code de l'urbanisme - art. A350-1 (Ab)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R340-5
+
+
+###### Article A340-2
+
+Pour chaque opération, cette subvention est fixée par arrêté du représentant de l'Etat dans le département. Il évalue à cet
+effet la compensation financière nécessaire en fonction du différentiel entre le montant de la charge foncière d'équilibre de
+l'opération et le montant de la charge foncière pratiquée pour les logements sociaux. Ce différentiel détermine le montant de
+la subvention qui ne pourra dépasser 15 000 € par logement aidé. Ce plafond pourra être porté à 20 000 € si l'opération se
+situe en quartiers existants et a pour objet de densifier le tissu urbain afin de réaliser des quartiers à mixité sociale et
+urbaine.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 16 septembre 2009 - art. 1
+
+
+###### Article A340-3
+
+La subvention de l'Etat prévue à l'article A. 340-1 du présent arrêté, ainsi que celle établie en vertu du d de l'article R.
+340-5 du présent code ne seront mobilisées que pour les opérations comportant au moins 20 % de logements aidés, à moins qu'un
+arrêté du représentant de l'Etat dans le département ne fixe, en fonction des circonstances locales, une proportion
+supérieure à ce seuil.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 16 septembre 2009 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. A340-1
+  - Code de l'urbanisme - art. R340-5
+
+
+###### Article A340-4
+
+Le préfet peut par arrêté préciser les modalités d'application du présent arrêté dans le département au vu des circonstances
+locales et notamment les logements aidés pris en compte.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 16 septembre 2009 - art. 1
+
+
+### Titre V : Collectivités d'outre-mer<a id=430></a>
+
+###### Article A350-1
+
+Les articles A. 340-1 à A. 340-4 sont applicables à Mayotte et à Saint-Martin, sous réserve des adaptations prévues ci-
+après : 
+
+I. ― Les mots : " le représentant de l'Etat dans le département ” ou " le préfet ” sont remplacés suivant les cas par les
+mots : " le représentant de l'Etat à Mayotte ” ou " le représentant de l'Etat à Saint-Martin ”. 
+
+II. ― A Mayotte, les mots : " logements aidés ” sont remplacés par les mots : " logements prévus à l'article 3 de
+l'ordonnance n° 98-520 du 24 juin 1998 relative à l'action foncière, aux offices d'intervention économique dans le secteur de
+l'agriculture et de la pêche et à l'aide au logement dans la collectivité territoriale de Mayotte, ainsi que les logements
+faisant l'objet d'un prêt en faveur du logement locatif conformément à l'article 55 de la loi modifiée n° 96-609 du 5 juillet
+1996 ”.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°96-609 du 5 juillet 1996 - art. 55
+  - Ordonnance n°98-520 du 24 juin 1998 - art. 3
+  - Code de l'urbanisme - art. A340-1
+
+_Créé par_:
+
+  - Arrêté du 16 septembre 2009 - art. 1
+
+_Abrogé par_:
+
+  - Arrêté du 22 mars 2016 - art. 2
+
+
+## Livre  IV : Régime applicable aux constructions, aménagements et démolitions<a id=431></a>
+
+### Titre Ier : Certificat d'urbanisme<a id=432></a>
 
 ###### Article A410-1
 
@@ -54045,9 +54151,9 @@ _Cite_:
   - Code de l'urbanisme - art. L410-1 (V)
 
 
-### Titre  II : Dispositions communes aux diverses autorisations et aux déclarations préalables<a id=431></a>
+### Titre  II : Dispositions communes aux diverses autorisations et aux déclarations préalables<a id=433></a>
 
-#### Chapitre  Ier : Champ d'application<a id=432></a>
+#### Chapitre  Ier : Champ d'application<a id=434></a>
 
 ###### Article A421-1
 
@@ -54109,7 +54215,7 @@ _Cite_:
   - Code de l'urbanisme - art. *R421-8 (V)
 
 
-#### Chapitre  III : Dépôt et instruction des demandes de permis et des déclarations<a id=433></a>
+#### Chapitre  III : Dépôt et instruction des demandes de permis et des déclarations<a id=435></a>
 
 ###### Article A423-1
 
@@ -54180,11 +54286,11 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-#### Chapitre  IV : Décisions<a id=434></a>
+#### Chapitre  IV : Décisions<a id=436></a>
 
-##### Section 1 : Contenu de la décision<a id=435></a>
+##### Section 1 : Contenu de la décision<a id=437></a>
 
-##### Sous-section 1 : Dispositions communes<a id=436></a>
+##### Sous-section 1 : Dispositions communes<a id=438></a>
 
 ###### Article A424-1
 
@@ -54424,7 +54530,7 @@ _Cite_:
   - Code de l'urbanisme - art. R*424-17 (V)
 
 
-##### Sous-section 2 : Dispositions propres aux constructions<a id=437></a>
+##### Sous-section 2 : Dispositions propres aux constructions<a id=439></a>
 
 ###### Article A424-9
 
@@ -54449,7 +54555,7 @@ _Cite_:
   - Code des assurances - art. L242-1 (M)
 
 
-##### Sous-section 3 : Dispositions propres aux lotissements<a id=438></a>
+##### Sous-section 3 : Dispositions propres aux lotissements<a id=440></a>
 
 ###### Article A424-10
 
@@ -54485,7 +54591,7 @@ _Cite_:
   - Code de l'urbanisme - art. *R442-13 (V)
 
 
-##### Sous-section 4 : Dispositions propres aux terrains de camping et aux parcs résidentiels de loisirs<a id=439></a>
+##### Sous-section 4 : Dispositions propres aux terrains de camping et aux parcs résidentiels de loisirs<a id=441></a>
 
 ###### Article A424-12
 
@@ -54517,7 +54623,7 @@ _Créé par_:
   - Arrêté 2007-09-11 art. 4 I JORF 13 septembre 2007 en vigueur le le 1er octobre 2007
 
 
-##### Section 2 : Notification de la décision<a id=440></a>
+##### Section 2 : Notification de la décision<a id=442></a>
 
 ###### Article A424-14
 
@@ -54532,7 +54638,7 @@ _Créé par_:
   - Arrêté 2007-09-11 art. 4 I JORF 13 septembre 2007 en vigueur le le 1er octobre 2007
 
 
-##### Section 3 : Affichage de la décision<a id=441></a>
+##### Section 3 : Affichage de la décision<a id=443></a>
 
 ###### Article A424-15
 
@@ -54675,11 +54781,11 @@ _Cité par_:
   - Code de l'urbanisme - art. A424-8 (V)
 
 
-### Titre  III : Dispositions propres aux constructions<a id=442></a>
+### Titre  III : Dispositions propres aux constructions<a id=444></a>
 
-#### Chapitre Ier : Dispositions générales<a id=443></a>
+#### Chapitre Ier : Dispositions générales<a id=445></a>
 
-##### Section 1 : Déclaration préalable<a id=444></a>
+##### Section 1 : Déclaration préalable<a id=446></a>
 
 ###### Article A431-1
 
@@ -54741,7 +54847,7 @@ _Cite_:
   - Code de l'urbanisme - art. R*423-3 (V)
 
 
-##### Section 2 : Permis de construire<a id=445></a>
+##### Section 2 : Permis de construire<a id=447></a>
 
 ###### Article A431-4
 
@@ -54840,7 +54946,7 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-##### Section 3 : Dispositions communes<a id=446></a>
+##### Section 3 : Dispositions communes<a id=448></a>
 
 ###### Article A431-9
 
@@ -54878,7 +54984,7 @@ _Cite_:
   - Code de l'urbanisme - art. R*431-9 (V)
 
 
-##### Section 4 : Dispositions applicables aux constructions soumises à des règles parasismiques<a id=447></a>
+##### Section 4 : Dispositions applicables aux constructions soumises à des règles parasismiques<a id=449></a>
 
 ###### Article A431-10
 
@@ -54940,7 +55046,7 @@ _Cite_:
   - Code de l'urbanisme - art. A431-10 (V)
 
 
-#### Chapitre  IV : Dispositions diverses<a id=448></a>
+#### Chapitre  IV : Dispositions diverses<a id=450></a>
 
 ###### Article A434-1
 
@@ -54959,11 +55065,11 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-### Titre  IV : Dispositions propres aux aménagements<a id=449></a>
+### Titre  IV : Dispositions propres aux aménagements<a id=451></a>
 
-#### Chapitre Ier : Dispositions communes<a id=450></a>
+#### Chapitre Ier : Dispositions communes<a id=452></a>
 
-##### Section 1 : Déclaration préalable<a id=451></a>
+##### Section 1 : Déclaration préalable<a id=453></a>
 
 ###### Article A441-1
 
@@ -55025,7 +55131,7 @@ _Cite_:
   - Code de l'urbanisme - art. R*423-3 (V)
 
 
-##### Section 2 : Permis d'aménager<a id=452></a>
+##### Section 2 : Permis d'aménager<a id=454></a>
 
 ###### Article A441-4
 
@@ -55117,7 +55223,7 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-##### Section 3 : Dispositions communes<a id=453></a>
+##### Section 3 : Dispositions communes<a id=455></a>
 
 ###### Article A441-9
 
@@ -55162,7 +55268,7 @@ _Cite_:
   - Code de l'urbanisme - art. R*431-8 (V)
 
 
-#### Chapitre  IV : Modèles nationaux de demande et de décision<a id=454></a>
+#### Chapitre  IV : Modèles nationaux de demande et de décision<a id=456></a>
 
 ###### Article A444-1
 
@@ -55181,9 +55287,9 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-### Titre  V : Dispositions propres aux démolitions<a id=455></a>
+### Titre  V : Dispositions propres aux démolitions<a id=457></a>
 
-#### Chapitre Ier : Demande de permis de démolir<a id=456></a>
+#### Chapitre Ier : Demande de permis de démolir<a id=458></a>
 
 ###### Article A451-1
 
@@ -55247,7 +55353,7 @@ _Cite_:
   - Code de l'urbanisme - art. R*423-3 (V)
 
 
-#### Chapitre  III : Modèles nationaux de demande et de décision<a id=457></a>
+#### Chapitre  III : Modèles nationaux de demande et de décision<a id=459></a>
 
 ###### Article A453-4
 
@@ -55266,11 +55372,11 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-### Titre  VI : Contrôle de la conformité des travaux<a id=458></a>
+### Titre  VI : Contrôle de la conformité des travaux<a id=460></a>
 
-#### Chapitre  II : Achèvement des travaux de construction ou d'aménagement<a id=459></a>
+#### Chapitre  II : Achèvement des travaux de construction ou d'aménagement<a id=461></a>
 
-##### Section 1 : Dispositions communes<a id=460></a>
+##### Section 1 : Dispositions communes<a id=462></a>
 
 ###### Article A462-1
 
@@ -55294,7 +55400,7 @@ _Cite_:
   - Code de l'urbanisme - art. R462-1 (V)
 
 
-##### Section 2 : Dispositions applicables aux constructions soumises à des règles parasismiques<a id=461></a>
+##### Section 2 : Dispositions applicables aux constructions soumises à des règles parasismiques<a id=463></a>
 
 ###### Article A462-2
 
@@ -55390,9 +55496,9 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-### Titre  VII : Dispositions diverses<a id=462></a>
+### Titre  VII : Dispositions diverses<a id=464></a>
 
-#### Chapitre  II : Remontées mécaniques<a id=463></a>
+#### Chapitre  II : Remontées mécaniques<a id=465></a>
 
 ###### Article A472-1
 
@@ -55412,13 +55518,13 @@ _Créé par_:
   - Arrêté du 23 novembre 2007 - art. 1
 
 
-## Livre  V : Implantation des services, établissements et entreprises<a id=464></a>
+## Livre  V : Implantation des services, établissements et entreprises<a id=466></a>
 
-### Titre  II : Dispositions financières concernant la région d'Ile-de-France<a id=465></a>
+### Titre  II : Dispositions financières concernant la région d'Ile-de-France<a id=467></a>
 
-#### Section 1 : Dispositions générales<a id=466></a>
+#### Section 1 : Dispositions générales<a id=468></a>
 
-##### Sous-section 1 : Perception des redevances<a id=467></a>
+##### Sous-section 1 : Perception des redevances<a id=469></a>
 
 ###### Article A520-1
 
@@ -55500,7 +55606,7 @@ _Cite_:
   - Code de l'urbanisme - art. A520-2 (VT)
 
 
-##### Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance<a id=468></a>
+##### Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance<a id=470></a>
 
 ###### Article A520-4
 
@@ -55613,11 +55719,11 @@ _Cite_:
   - Code de l'urbanisme - art. A520-4 (V)
 
 
-## Livre  VI : Organismes consultatifs et dispositions diverses<a id=469></a>
+## Livre  VI : Organismes consultatifs et dispositions diverses<a id=471></a>
 
-### Titre Ier : Organismes consultatifs<a id=470></a>
+### Titre Ier : Organismes consultatifs<a id=472></a>
 
-#### Chapitre  IV : Architectes-conseils et paysagistes-conseils<a id=471></a>
+#### Chapitre  IV : Architectes-conseils et paysagistes-conseils<a id=473></a>
 
 ###### Article A614-1
 
@@ -55708,9 +55814,9 @@ _Cite_:
   - Code de l'urbanisme - art. A614-1 (V)
 
 
-# Annexes<a id=472></a>
+# Annexes<a id=474></a>
 
-## Liste des servitudes d'utilité publique affectant l'utilisation du sol.<a id=473></a>
+## Liste des servitudes d'utilité publique affectant l'utilisation du sol.<a id=475></a>
 
 ###### Article R*126-1, Annexe
 
@@ -56111,7 +56217,7 @@ _Modifié par_:
   - Décret n°2007-1557 du 2 novembre 2007 - art. 72 () JORF 3 novembre 2007
 
 
-## Liste des communes comprises dans la zone 1<a id=474></a>
+## Liste des communes comprises dans la zone 1<a id=476></a>
 
 ###### Article R127-3, Annexe 1
 
@@ -56197,7 +56303,7 @@ _Abrogé par_:
   - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
-## Liste des communes comprises dans la zone 2<a id=475></a>
+## Liste des communes comprises dans la zone 2<a id=477></a>
 
 ###### Article R127-3, Annexe 2
 
@@ -56578,7 +56684,7 @@ _Abrogé par_:
   - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
-## Attestation du contrôleur technique établissant qu'il a fait connaître au maître d'ouvrage de la construction son avis sur la prise en compte au stade de la conception des règles parasismiques.<a id=476></a>
+## Attestation du contrôleur technique établissant qu'il a fait connaître au maître d'ouvrage de la construction son avis sur la prise en compte au stade de la conception des règles parasismiques.<a id=478></a>
 
 ###### Article A431-10 Annexe
 
@@ -56622,7 +56728,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L111-23 (V)
 
 
-## Attestation du contrôleur technique justifiant de la prise en compte de ses avis par le maître d'ouvrage de la construction sur le respect des règles de construction parasismique<a id=477></a>
+## Attestation du contrôleur technique justifiant de la prise en compte de ses avis par le maître d'ouvrage de la construction sur le respect des règles de construction parasismique<a id=479></a>
 
 ###### Article A462-4 Annexe
 

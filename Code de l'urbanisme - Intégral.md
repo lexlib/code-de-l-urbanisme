@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2009-10-10
+Version Consolidée au 2009-10-19
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -25527,6 +25527,10 @@ _Codifié par_:
 La surface de plancher hors oeuvre brute d'une construction est égale à la somme des surfaces de plancher de chaque niveau de
 la construction.
 
+Les surfaces de plancher supplémentaires nécessaires à l'aménagement d'une construction existante en vue d'améliorer son
+isolation thermique ou acoustique ne sont pas incluses dans la surface de plancher développée hors œuvre brute de cette
+construction. 
+
 La surface de plancher hors oeuvre nette d'une construction est égale à la surface hors oeuvre brute de cette construction
 après déduction :
 
@@ -25557,10 +25561,6 @@ en rez-de-chaussée.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2006-555 du 17 mai 2006 - art. 10 () JORF 18 mai 2006 en vigueur le 1er janvier 2007
-
 _Cité par_:
 
   - Arrêté du 13 juin 2008 - art. 9 (V)
@@ -25570,13 +25570,13 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R131-25 (M)
   - Code de la construction et de l'habitation. - art. R134-1 (M)
 
+_Modifié par_:
+
+  - Décret n°2009-1247 du 16 octobre 2009 - art. 1
+
 _Cite_:
 
-  - Code de la construction et de l'habitation R111-18-2, R111-18-6, R111-18-8, R111-18-9
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
+  - Code de la construction et de l'habitation.
 
 
 ### Titre II : Prévisions et règles d'urbanisme<a id=144></a>

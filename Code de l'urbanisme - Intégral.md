@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2009-12-16
+Version Consolidée au 2009-12-28
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -25167,23 +25167,28 @@ La pratique du camping en dehors des terrains aménagés à cet effet peut en ou
 plan local d'urbanisme ou le document d'urbanisme en tenant lieu. Lorsque cette pratique est de nature à porter atteinte à la
 salubrité, à la sécurité ou à la tranquillité publiques, aux paysages naturels ou urbains, à la conservation des perspectives
 monumentales, à la conservation des milieux naturels ou à l'exercice des activités agricoles et forestières, l'interdiction
-peut également être prononcée par arrêté du maire pris après avis de la commission départementale d'action touristique.
+peut également être prononcée par arrêté du maire.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°73-1023 1973-11-08
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 18
 
-_Créé par_:
+_Abrogé par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 1 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 _Cité par_:
 
   - Code de l'environnement - art. R365-3 (M)
   - Code de l'urbanisme - art. A111-4 (V)
   - Code de l'urbanisme - art. R*111-39 (VT)
+  - Code de l'urbanisme - art. R*111-44 (VT)
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. R111-34 (V)
 
 
 ##### Sous-section 5 : Information du public.<a id=139></a>
@@ -46007,26 +46012,6 @@ _Cité par_:
   - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
 
 
-###### Article R*423-55
-
-Lorsque la demande de permis porte sur l'aménagement d'un terrain de camping, l'autorité compétente recueille l'avis de la
-commission départementale de l'action touristique.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
-_Créé par_:
-
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-_Abrogé par_:
-
-  - Décret n°2009-1650 du 23 décembre 2009 - art. 18
-
-
 ###### Article R*423-56
 
 Lorsque la demande porte sur un projet d'implantation en Corse d'un ouvrage de production utilisant la géothermie, l'énergie
@@ -50473,19 +50458,17 @@ caravanes dont le stationnement a été autorisé ou aurait dû l'être :
 a) Les personnes visées à l'article L. 461-1 ;
 
 b) Les fonctionnaires et agents assermentés désignés par le ministre chargé du tourisme et porteurs d'un ordre de mission ou
-d'une commission ;
-
-c) Les membres de la commission départementale de l'action touristique.
+d'une commission.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 18
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L461-1 (V)
+  - Code de l'urbanisme - art. L461-1
 
 _Cité par_:
 
@@ -50499,10 +50482,6 @@ _Anciens textes_:
 **Liens**:
 
   - PILOTE_SUIVEUR: Code du tourisme. - art. D331-9 (V)
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
 
 
 #### Chapitre IV : Modèles nationaux de demande et de décision<a id=376></a>
@@ -51792,9 +51771,8 @@ tout autre véhicule ;
 - de ne pas entretenir la végétation.
 
 Si les prescriptions de sécurité et d'hygiène, les prescriptions fixées par l'autorisation, le permis d'aménager ou la
-décision de non-opposition à la déclaration préalable ne sont pas respectées, le maire peut, après avis de la commission
-départementale de l'action touristique, mettre en demeure le propriétaire ou l'exploitant, par décision motivée, de procéder
-aux aménagements ou aux réparations nécessaires.
+décision de non-opposition à la déclaration préalable ne sont pas respectées, le maire peut mettre en demeure le propriétaire
+ou l'exploitant, par décision motivée, de procéder aux aménagements ou aux réparations nécessaires.
 
 La mise en demeure informe les intéressés qu'ils peuvent présenter des observations écrites ou, sur leur demande, des
 observations orales et qu'ils peuvent se faire assister par un conseil ou représenter par un mandataire de leur choix.
@@ -51811,21 +51789,12 @@ demeure ou si, déposée dans ce délai, elle a été refusée.
 
 _Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 10 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L111-1 (M)
-  - Code de l'urbanisme L111-1, R444-3
+  - Décret n°2009-1650 du 23 décembre 2009 - art. 18
 
 _Cité par_:
 
   - Code du tourisme. - art. D331-6 (V)
   - Code du tourisme. - art. D333-3-1 (V)
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R480-3

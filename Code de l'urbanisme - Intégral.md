@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2010-04-01
+Version Consolidée au 2010-04-11
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -39893,7 +39893,7 @@ Pour chacun des membres prévus ci-dessus, un suppléant est désigné dans les 
 
 2° Un député et un sénateur désignés par l'assemblée à laquelle ils appartiennent ;
 
-3° Deux maires nommés par le Premier ministre ;
+3° Deux maires ou conseillers municipaux nommés par le Premier ministre ;
 
 4° Deux personnalités qualifiées nommées par le Premier ministre ;
 
@@ -39912,13 +39912,9 @@ _Cité par_:
   - Arrêté du 20 mars 2009 (Ab)
   - Arrêté du 20 juillet 2017 (V)
 
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
 _Modifié par_:
 
-  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+  - Décret n°2010-364 du 8 avril 2010 - art. 1
 
 
 ###### Article R325-2

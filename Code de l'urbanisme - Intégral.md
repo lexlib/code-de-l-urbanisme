@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2010-04-11
+Version Consolidée au 2010-04-15
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -48567,19 +48567,16 @@ _Codifié par_:
 
 ###### Article R*431-20
 
-Lorsque les travaux projetés portent sur une installation soumise à autorisation ou à déclaration en vertu des articles L.
-512-1 et L. 512-8 du code de l'environnement, la demande de permis de construire doit être accompagnée de la justification du
-dépôt de la demande d'autorisation ou de la déclaration.
+Lorsque les travaux projetés portent sur une installation classée soumise à autorisation, enregistrement ou déclaration en
+application des articles L. 512-1, L. 512-7 et L. 512-8 du code de l'environnement, la demande de permis de construire doit
+être accompagnée de la justification du dépôt de la demande d'autorisation de la demande d'enregistrement ou de la
+déclaration.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°73-1023 1973-11-08
-
-_Créé par_:
-
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2010-368 du 13 avril 2010 - art. 47
 
 _Cité par_:
 
@@ -48588,8 +48585,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'environnement - art. L512-1 (M)
-  - Code de l'environnement - art. L512-8 (V)
+  - Code de l'environnement - art. L512-1
+  - Code de l'environnement - art. L512-7
 
 
 ###### Article R*431-21

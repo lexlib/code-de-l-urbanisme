@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2010-10-09
+Version Consolidée au 2010-10-31
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -193,7 +193,7 @@ Version Consolidée au 2010-10-09
         - [Chapitre VII : Dispositions particulières aux zones de bruit des aérodromes (art. R147-1 à R147-11)](#190)
           - [Section 1 : Détermination des valeurs d'indices à prendre en compte pour la délimitation des zones de bruit des aérodromes (art. R147-1 à R147-2)](#191)
           - [Section 2 : Etablissement des plans d'exposition au bruit des aérodromes (art. R147-5 à R147-11)](#192)
-      - [Titre V : Départements d'outre-mer. (art. R150-1 à R150-3)](#193)
+      - [Titre V : Départements d'outre-mer. (art. R* 150-4 à R150-3)](#193)
       - [Titre VI : Sanctions et servitudes (art. R160-1 à R*160-33)](#194)
         - [Section 1 : Assermentation des agents chargés de constater les infractions (art. R160-1 à R160-3)](#195)
         - [Section 3 : Agrément des associations de protection et d'amélioration du cadre de vie et de l'environnement (art. R*160-7)](#196)
@@ -32559,6 +32559,22 @@ _Codifié par_:
 
 ### Titre V : Départements d'outre-mer.<a id=193></a>
 
+###### Article R* 150-4
+
+Les articles L. 160-6 à L. 160-8 et R. 160-8 à R. 160-33 sont applicables dans les départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1291 du 28 octobre 2010 - art. 2
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L160-6
+  - Code de l'urbanisme - art. R*160-8
+
+
 ###### Article R150-1
 
 Les articles R. 111-1 à R. 111-24 sont applicables dans les départements d'outre-mer à l'exception des articles R. 111-16 et
@@ -32774,14 +32790,17 @@ _Nouveaux textes_:
 
 La servitude de passage des piétons instituée par l'article L. 160-6 a pour assiette une bande de 3 mètres de largeur
 calculée à compter de la limite du domaine public maritime, sous réserve de l'application des dispositions des articles R.
-160-11 à R. 160-15 et R. 160-17 à R. 160-22.
+160-9 à R. 160-13.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
-  - Décret n°90-481 du 12 juin 1990 - art. 2 () JORF 14 juin 1990
+  - Décret n°2010-1291 du 28 octobre 2010 - art. 3
+
+_Abrogé par_:
+
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 _Cité par_:
 
@@ -32791,8 +32810,12 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L160-6 (M)
-  - Code de l'urbanisme L160-6, R160-11 à R160-15, R160-17 à R160-22
+  - Code de l'urbanisme - art. L160-6
+  - Code de l'urbanisme - art. R*160-9
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. R121-9 (V)
 
 _Codifié par_:
 
@@ -32801,19 +32824,41 @@ _Codifié par_:
 
 ###### Article R*160-9
 
-La limite à partir de laquelle est mesurée l'assiette de la servitude mentionnée à l'article R. 160-8 est, selon le cas :
+I.-La limite à partir de laquelle est mesurée l'assiette de la servitude instituée par l'article L. 160-6 est, selon le
+cas : 
 
-a) Celle du niveau des plus hautes eaux ; ce niveau est déterminé par le dernier acte administratif de délimitation,
-lorsqu'il en existe un ;
+a) La limite haute du rivage de la mer, tel qu'il est défini par le 1° de l'article L. 2111-4 du code général de la propriété
+des personnes publiques ; 
 
-b) Celle des lais et relais, s'ils font partie du domaine public maritime ;
+b) La limite, du côté de la terre, des lais et relais de la mer compris dans le domaine public maritime naturel par
+application du 3° du même article ; 
 
-c) Celle des terrains qui ont été soustraits artificiellement à l'action des flots dans les conditions prévues au b de
-l'article 1er de la loi n° 63-1178 du 28 novembre 1963 ;
+c) La limite des terrains soustraits artificiellement à l'action du flot compris dans le domaine public maritime naturel en
+application des dispositions du dernier alinéa du même article ; 
 
-d) Celle des terrains qui font partie du domaine public maritime artificiel.
+d) La limite des terrains qui font partie du domaine public maritime artificiel tel qu'il est défini par l'article L. 2111-6
+du code général de la propriété des personnes publiques. 
+
+II.-Toutefois, dans les départements d'outre-mer, l'assiette de la servitude de passage est, sur les propriétés privées
+situées pour tout ou partie dans la zone comprise entre la limite du rivage de la mer et la limite supérieure de la zone dite
+des cinquante pas géométriques définie par l'article L. 5111-2 du code général de la propriété des personnes publiques,
+calculée à partir de la limite haute du rivage, sous réserve de l'application des articles R. 160-11 à R. 160-13. 
+
+La limite haute du rivage s'entend de celle des plus hautes mers hors les marées cycloniques.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code général de la propriété des personnes publ... - art. L5111-2 (V)
+  - Code général de la propriété des personnes publiques. - art. L2111-4
+  - Code général de la propriété des personnes publiques. - art. L2111-6
+  - Code de l'urbanisme - art. L160-6
+  - Code de l'urbanisme - art. R*160-11
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. R*160-8 (VT)
 
 _Codifié par_:
 
@@ -32821,16 +32866,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. R*160-8 (VT)
-
-_Cite_:
-
-  - Code de l'urbanisme R160-8
-  - Loi n°63-117 1963-11-28 art. 1
+  - Décret n°2010-1291 du 28 octobre 2010 - art. 4
 
 
 ###### Article R*160-10
@@ -32862,23 +32898,34 @@ _Abrogé par_:
 
 ###### Article R*160-11
 
-Le tracé ainsi que les caractéristiques de la servitude de passage instituée par l'article L. 160-6 peuvent être modifiés
-dans les conditions définies aux articles R. 160-12 à R. 160-15 et R. 160-17 à R. 160-22.
+I.-Le tracé ainsi que les caractéristiques de la servitude de passage instituée par l'article L. 160-6 peuvent être modifiés
+notamment pour tenir compte de l'évolution prévisible du rivage afin d'assurer la pérennité du sentier permettant le
+cheminement des piétons. 
 
-Les dispositions des mêmes articles, à l'exception des articles R. 160-13 et R. 160-15, sont applicables au cas de
-suspension, à titre exceptionnel, de ladite servitude.
+II.-Le tracé ainsi que les caractéristiques de la servitude de passage sont modifiés dans les conditions définies par les
+articles R. 160-13 à R. 160-15 et R. 160-17 à R. 160-22. 
+
+Toutefois, dans les départements d'outre-mer, lorsque existent, dans les zones classées comme naturelles ou forestières par
+les documents d'urbanisme ainsi que dans les espaces naturels de la zone des cinquante pas géométriques, délimités le cas
+échéant par application de l'article L. 5112-1 du code général de la propriété des personnes publiques, des voies situées sur
+les domaines privés, limitrophes du domaine public maritime, de l'Etat, des collectivités territoriales ou des établissements
+publics qui permettent la circulation des piétons le long ou à proximité du rivage de la mer, la modification du tracé et de
+ses caractéristiques peut être prononcée par un arrêté préfectoral qui constate l'ouverture au public des cheminements
+existants au titre de la servitude de passage des piétons sur le littoral, par voie de convention passée avec la collectivité
+ou l'établissement public propriétaire ou gestionnaire de l'espace concerné.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
-  - Décret n°90-481 du 12 juin 1990 - art. 2 () JORF 14 juin 1990
+  - Décret n°2010-1291 du 28 octobre 2010 - art. 5
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L160-6 (M)
-  - Code de l'urbanisme L160-6, R160-12 à R160-15, R160-17 à R160-22, R160-13
+  - Code général de la propriété des personnes publiques. - art. L5112-1
+  - Code de l'urbanisme - art. L160-6
+  - Code de l'urbanisme - art. R*160-13
+  - Code de l'urbanisme - art. R*160-17
 
 _Cité par_:
 
@@ -32893,21 +32940,87 @@ _Codifié par_:
 
 ###### Article R*160-12
 
-En vue de la modification, par application des alinéas 2 et 3 de l'article L. 160-6, du tracé ainsi que, le cas échéant, des
-caractéristiques de la servitude, le chef du service maritime adresse au préfet, pour être soumis à enquête, un dossier qui
-comprend ;
+A titre exceptionnel, la servitude instituée par l'article L. 160-6 peut être suspendue, notamment dans les cas suivants : 
 
-a) Une notice explicative exposant l'objet de l'opération prévue ;
+a) Lorsque les piétons peuvent circuler le long du rivage de la mer grâce à des voies ou passages ouverts au public ; 
 
-b) Le plan parcellaire des terrains sur lesquels le transfert de la servitude est envisagé, avec l'indication du tracé à
-établir et celle de la largeur du passage ;
+b) Si le maintien de la servitude de passage fait obstacle au fonctionnement soit d'un service public, soit d'un
+établissement de pêche bénéficiaire d'une concession, soit d'une entreprise de construction ou de réparation navale ; 
 
-c) La liste par communes des propriétaires concernés par le transfert de la servitude, dressée à l'aide d'extraits des
-documents cadastraux délivrés par le service du cadastre ou à l'aide des renseignements délivrés par le conservateur des
-hypothèques au vu du fichier immobilier, ou par tous autres moyens ;
+c) A l'intérieur des limites d'un port maritime ; 
 
-d) L'indication des parties de territoire où il est envisagé de suspendre l'application de la servitude, notamment dans les
-cas visés à l'article R. 160-14.
+d) A proximité des installations utilisées pour les besoins de la défense nationale ; 
+
+e) Si le maintien de la servitude de passage est de nature à compromettre soit la conservation d'un site à protéger pour des
+raisons d'ordre écologique ou archéologique, soit la stabilité des sols ; 
+
+f) Si l'évolution prévisible du rivage est susceptible d'entraîner un recul des terres émergées. 
+
+La suspension de la servitude est prononcée dans les conditions définies par les articles R. 160-14, R. 160-15 et R. 160-17 à
+R. 160-22.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2010-1291 du 28 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L160-6
+  - Code de l'urbanisme - art. R*160-17
+
+_Anciens textes_:
+
+  - Code de l'urbanisme - art. R*160-14 (T)
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. R*160-14 (VT)
+  - Code de l'urbanisme - art. R*160-15 (VT)
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. R121-13 (V)
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*160-13
+
+I.-Dans les départements d'outre-mer, et sauf lorsque l'institution de la servitude est le seul moyen d'assurer la continuité
+du cheminement des piétons ou leur libre accès au rivage de la mer, la servitude ne peut grever les terrains situés à moins
+de dix mètres des bâtiments à usage d'habitation édifiés avant le 1er août 2010, ni grever des terrains attenants à des
+maisons d'habitation et clos de murs au 1er août 2010. Ces dispositions ne sont toutefois applicables aux terrains situés
+dans la zone comprise entre la limite du rivage de la mer et la limite supérieure de la zone dite des cinquante pas
+géométriques définie par l'article L. 5111-2 du code général de la propriété des personnes publiques que si les terrains ont
+été acquis de l'Etat avant le 1er août 2010 ou en vertu d'une demande déposée avant cette date. 
+
+II.-Sans préjudice de l'application de l'article L. 160-6 (alinéa 3), les distances de quinze mètres et de dix mètres par
+rapport aux bâtiments à usage d'habitation qui sont mentionnées respectivement à l'article L. 160-6 (alinéa 5) et au I du
+présent article peuvent être réduites : 
+
+a) Lorsque le bâtiment à usage d'habitation est, en raison de la configuration des lieux, situé à un niveau sensiblement plus
+élevé que celui de l'emprise de la servitude ; 
+
+b) S'il existe déjà, dans cet espace de quinze mètres ou de dix mètres, un passage ouvert à la libre circulation des
+piétons ; 
+
+c) Si le mur clôturant le terrain sur lequel est situé le bâtiment est lui-même à moins de quinze mètres ou de dix mètres
+dudit bâtiment ; 
+
+d) Dans les départements d'outre-mer sur les terrains visés au I du présent article afin d'assurer une rectitude minimale au
+tracé. 
+
+III.-Dans les autres cas que ceux visés au II, la distance de quinze ou de dix mètres peut également être réduite avec
+l'accord du propriétaire du bâtiment ; cet accord doit résulter d'une convention passée avec une collectivité publique ou un
+groupement de collectivités publiques.
 
 **Liens relatifs à cet article**
 
@@ -32917,129 +33030,110 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2010-1291 du 28 octobre 2010 - art. 6
+  - Décret n°2010-1291 du 28 octobre 2010 - art. 7
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L160-6 (M)
-  - Code de l'urbanisme L160-6, R160-14
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. R*160-14 (VT)
-  - Code de l'urbanisme - art. R*160-15 (V)
-
-_Nouveaux textes_:
-
-  - Code de l'urbanisme - art. R*160-14 (VT)
-
-
-###### Article R*160-13
-
-Si le tracé envisagé pour la servitude a pour effet soit de grever des terrains attenants à des maisons d'habitation qui, au
-1er janvier 1976, étaient clos de murs en matériaux durables et adhérant au sol, soit de réduire, par rapport aux bâtiments à
-usage d'habitation édifiés au 1er janvier 1976, la distance de 15 mètres qui est mentionnée à l'alinéa 3 de l'article L.
-160-6, le dossier soumis à enquête doit comprendre, outre les pièces prévues à l'article R. 160-12, la justification du bien-
-fondé du tracé retenu, au regard des dispositions des articles L. 160-6 et R. 160-15.
-
-Dans les cas prévus au présent article, la largeur du passage à établir ne peut en aucun cas excéder 3 mètres.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L160-6 (M)
-  - Code de l'urbanisme L160-6, R160-12, R160-15
+  - Code général de la propriété des personnes publ... - art. L5111-2 (V)
+  - Code de l'urbanisme - art. L160-6 (V)
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R*160-11 (VT)
   - Code de l'urbanisme - art. R*160-15 (V)
 
+
+###### Article R*160-14
+
+En vue de la modification, par application des alinéas 2 et 3 de l'article L. 160-6, du tracé ainsi que, le cas échéant, des
+caractéristiques de la servitude, le chef du service maritime adresse au préfet, pour être soumis à enquête, un dossier qui
+comprend ; 
+
+a) Une notice explicative exposant l'objet de l'opération prévue ; 
+
+b) Le plan parcellaire des terrains sur lesquels le transfert de la servitude est envisagé, avec l'indication du tracé à
+établir et celle de la largeur du passage ; 
+
+c) La liste par communes des propriétaires concernés par le transfert de la servitude, dressée à l'aide d'extraits des
+documents cadastraux délivrés par le service du cadastre ou à l'aide des renseignements délivrés par le conservateur des
+hypothèques au vu du fichier immobilier, ou par tous autres moyens ; 
+
+d) L'indication des parties de territoire où il est envisagé de suspendre l'application de la servitude, notamment dans les
+cas visés à l'article R. 160-12, ainsi que les motifs de cette suspension, et celle des parties de territoire où le tracé de
+la servitude a été modifié par arrêté préfectoral en application du II de l'article R. 160-11.
+
+**Liens relatifs à cet article**
+
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
-
-###### Article R*160-14
-
-A titre exceptionnel, la servitude instituée par l'article L. 160-6 peut être suspendue, notamment dans les cas suivants :
-
-a) Lorsque les piétons peuvent circuler le long du rivage de la mer grâce à des voies ou passages ouverts au public ;
-
-b) Si le maintien de la servitude de passage fait obstacle au fonctionnement soit d'un service public, soit d'un
-établissement de pêche bénéficiaire d'une concession, soit d'une entreprise de construction ou de réparation navale ;
-
-c) A l'intérieur des limites d'un port maritime ;
-
-d) A proximité des installations utilisées pour les besoins de la défense nationale ;
-
-e) Si le maintien de la servitude de passage est de nature à compromettre soit la conservation d'un site à protéger pour des
-raisons d'ordre écologique ou archéologique, soit la stabilité des sols.
-
-**Liens relatifs à cet article**
-
 _Modifié par_:
 
-  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+  - Décret n°2010-1291 du 28 octobre 2010 - art. 6
+  - Décret n°2010-1291 du 28 octobre 2010 - art. 8
 
-**Liens**:
+_Abrogé par_:
 
-  - TRANSFERE: Décret n°2010-1291 du 28 octobre 2010 - art. 6
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L160-6 (M)
+  - Code de l'urbanisme - art. L160-6
+  - Code de l'urbanisme - art. R*160-11
+
+_Anciens textes_:
+
+  - Code de l'urbanisme - art. R*160-12 (T)
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R*160-12 (VT)
   - Code de l'urbanisme - art. R*160-15 (VT)
   - Code de l'urbanisme - art. R*160-17 (VT)
+  - Code de l'urbanisme - art. R*160-20 (VT)
 
 _Nouveaux textes_:
 
-  - Code de l'urbanisme - art. R*160-12 (VT)
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
+  - Code de l'urbanisme - art. R121-16 (V)
 
 
 ###### Article R*160-15
 
-Sans préjudice de l'application de l'article L. 160-6 (alinéa 3), la distance de quinze mètres par rapport aux bâtiments à
-usage d'habitation qui est mentionnée à l'article L. 160-8 peut être réduite :
+I.-Le dossier soumis à enquête doit comprendre, outre les pièces prévues à l'article R*160-14, la justification du bien-fondé
+du tracé retenu, au regard des dispositions des articles L. 160-6, R. 160-12 et R. 160-13 si le tracé envisagé pour la
+servitude a pour effet : 
 
-a) Lorsque le bâtiment à usage d'habitation est, en raison de la configuration des lieux, situé à un niveau sensiblement plus
-élevé que celui de l'emprise de la servitude ;
+1° Soit de grever des terrains attenants à des maisons d'habitation qui, au 1er janvier 1976, étaient clos de murs en
+matériaux durables et adhérant au sol, soit de réduire, par rapport aux bâtiments à usage d'habitation édifiés au 1er janvier
+1976, la distance de quinze mètres prévue par l'alinéa 5 de l'article L. 160-6 ; 
 
-b) S'il existe déjà, dans cet espace de 15 mètres, un passage ouvert à la libre circulation des piétons ;
+2° Dans les départements d'outre-mer, soit de grever des terrains attenants à des maisons d'habitation qui, au 1er août 2010,
+étaient clos de murs en matériaux durables et adhérant au sol, soit de réduire, par rapport aux bâtiments à usage
+d'habitation édifiés au 1er août 2010, la distance de dix mètres prévue par le I de l'article R. 160-13, sous réserve, dans
+la zone comprise entre la limite du rivage de la mer et la limite supérieure de la zone dite des cinquante pas géométriques
+définie par l'article L. 5111-2 du code général de la propriété des personnes publiques, que les terrains d'assiette aient
+été acquis de l'Etat avant le 1er août 2010 ou en vertu d'une demande déposée avant cette date. 
 
-c) Si le mur clôturant le terrain sur lequel est situé le bâtiment est lui-même à moins de 15 mètres dudit bâtiment.
+Dans les cas prévus aux 1° et 2°, la largeur du passage à établir ne peut en aucun cas excéder trois mètres. 
 
-Dans les autres cas que ceux visés à l'alinéa précédent, la distance de quinze mètres peut également être réduite avec
-l'accord du propriétaire du bâtiment ; cet accord doit résulter d'une convention passée avec une collectivité publique ou un
-groupement de collectivités publiques.
+II.-Lorsque le tracé est modifié en application du I de l'article R. 160-11, le dossier contient en outre les observations et
+informations fournies par des procédés scientifiques qui motivent le nouveau tracé.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+  - Décret n°2010-1291 du 28 octobre 2010 - art. 9
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L160-6 (M)
-  - Code de l'urbanisme - art. L160-8 (V)
+  - Code général de la propriété des personnes publ... - art. L5111-2 (V)
+  - Code de l'urbanisme - art. L160-6 (V)
+  - Code de l'urbanisme - art. R*160-11 (V)
+  - Code de l'urbanisme - art. R*160-12 (V)
+  - Code de l'urbanisme - art. R*160-13 (V)
+  - Code de l'urbanisme - art. R*160-14 (V)
 
 _Codifié par_:
 
@@ -33132,7 +33226,7 @@ _Codifié par_:
 
 ###### Article R*160-17
 
-L'enquête mentionnée aux articles R. 160-12 et R. 160-16-1 a lieu dans les formes prévues par les articles R. 11-4 à R. 11-12
+L'enquête mentionnée aux articles R. 160-14 et R. 160-16-1 a lieu dans les formes prévues par les articles R. 11-4 à R. 11-12
 et R. 11-14 du code de l'expropriation pour cause d'utilité publique, sous réserve des dispositions particulières édictées
 aux articles R. 160-18 et R. 160-19 du présent code.
 
@@ -33140,8 +33234,7 @@ aux articles R. 160-18 et R. 160-19 du présent code.
 
 _Modifié par_:
 
-  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
-  - Décret n°90-481 du 12 juin 1990 - art. 4 () JORF 14 juin 1990
+  - Décret n°2010-1291 du 28 octobre 2010 - art. 10
 
 _Cité par_:
 
@@ -33150,9 +33243,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme R160-18, R160-19, R160-12, R160-16-1
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14 (V)
-  - Code de l'expropriation pour cause d'utilité publique R11-4 à R11-12, R11-14
+  - Code de l'urbanisme - art. R*160-14 (V)
+  - Code de l'urbanisme - art. R*160-16-1 (V)
+  - Code de l'urbanisme - art. R*160-18 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-14 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-4 (V)
 
 _Codifié par_:
 
@@ -33220,8 +33315,8 @@ _Nouveaux textes_:
 
 ###### Article R*160-20
 
-Au cas où un projet a donné lieu à enquête en application des articles R. 160-12 ou R. 160-16-1, le préfet soumet à la
-délibération des conseils municipaux des communes intéressées le tracé et les caractéristiques du projet de servitude.
+Au cas où un projet a donné lieu à enquête en application des articles R. 160-14 ou R. 160-16-1, le préfet soumet à la
+délibération des conseils municipaux des communes intéressées le tracé et les caractéristiques du projet de servitude. 
 
 Cette délibération est réputée favorable si elle n'est pas intervenue dans un délai de deux mois. Si le conseil municipal
 entend faire connaître son opposition, celle-ci doit être expressément formulée dans la délibération.
@@ -33234,12 +33329,23 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
-  - Décret n°90-481 du 12 juin 1990 - art. 4 () JORF 14 juin 1990
+  - Décret n°2010-1291 du 28 octobre 2010 - art. 10
+
+_Abrogé par_:
+
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 _Cite_:
 
-  - Code de l'urbanisme R160-12, R160-16-1
+  - Code de l'urbanisme - art. R*160-14 (VT)
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. R*160-21 (VT)
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. R121-23 (V)
 
 
 ###### Article R*160-21

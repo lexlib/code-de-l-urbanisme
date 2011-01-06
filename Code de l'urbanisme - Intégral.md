@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2011-01-01 00:00:01 +0100
+Version Consolidée au 2011-01-07
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -5637,8 +5637,8 @@ _Cité par_:
 
 Les plans d'occupation des sols approuvés avant l'entrée en vigueur de la loi n° 2000-1208 du 13 décembre 2000 précitée ont
 les mêmes effets que les plans locaux d'urbanisme. Ils sont soumis au régime juridique des plans locaux d'urbanisme défini
-par les articles L. 123-1-1 à L. 123-18. Les dispositions de l'article L. 123-1, dans leur rédaction antérieure à cette loi,
-leur demeurent applicables. 
+par les articles            L. 123-1-11 à L. 123-18. Les dispositions de l'article L. 123-1, dans leur rédaction antérieure à
+cette loi, leur demeurent applicables. 
 
 Ils peuvent faire l'objet : 
 
@@ -5689,19 +5689,13 @@ Lorsqu'un plan d'occupation des sols approuvé avant l'entrée en vigueur de la 
 ou un plan d'occupation des sols approuvé dans le délai d'un an à compter de l'entrée en vigueur de ladite loi en application
 du septième alinéa est annulé pour vice de forme ou de procédure, la commune ou l'établissement public de coopération
 intercommunale compétent peut l'approuver à nouveau, après enquête publique réalisée conformément au chapitre III du titre II
-du livre Ier du code de l'environnement , dans le délai d'un an à compter de la décision juridictionnelle qui l'a annulé,
-sans mettre le plan d'occupation des sols en forme de plan local d'urbanisme. 
+du livre Ier du code de l'environnement, dans le délai d'un an à compter de la décision juridictionnelle qui l'a annulé, sans
+mettre le plan d'occupation des sols en forme de plan local d'urbanisme. 
 
 Lorsque plusieurs communes sont dotées sur une partie de leur territoire d'un plan d'occupation des sols partiel couvrant un
 secteur d'aménagement et de développement touristique d'intérêt intercommunal, elles peuvent conserver ce régime et élaborer
 des plans locaux d'urbanisme partiels dans les conditions définies par la dernière phrase du troisième alinéa de l'article L.
 123-1 à condition de s'engager dans l'élaboration d'un schéma de cohérence territoriale.
-
-**Nota:**
-
-Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
-d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
-du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -5733,7 +5727,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 240
+  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+  - Loi n°2011-12 du 5 janvier 2011 - art. 20
 
 
 ###### Article L123-20
@@ -6081,9 +6076,9 @@ résultant du plan local d'urbanisme ou du document d'urbanisme en tenant lieu p
 municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale compétent en matière de plan
 local d'urbanisme, dans la limite de 30 % et dans le respect des autres règles établies par le document, pour les
 constructions satisfaisant à des critères de performance énergétique élevée ou alimentées à partir d'équipements performants
-de production d'énergie renouvelable ou de récupération.
+de production d'énergie renouvelable ou de récupération. 
 
-Le premier alinéa n'est pas applicable dans un secteur sauvegardé, dans une zone de protection du patrimoine architectural,
+Ce dépassement ne peut excéder 20 % dans un secteur sauvegardé, dans une zone de protection du patrimoine architectural,
 urbain et paysager créée en application de l'article L. 642-1 du code du patrimoine, dans le périmètre de protection d'un
 immeuble classé ou inscrit au titre des monuments historiques défini par l'article L. 621-30-1 du même code, dans un site
 inscrit ou classé en application des articles L. 341-1 et L. 341-2 du code de l'environnement, à l'intérieur du cœur d'un
@@ -6092,7 +6087,7 @@ inscrit au titre des monuments historiques ou adossé à un immeuble classé, ou
 l'article L. 123-1 du présent code. Il ne peut permettre de déroger aux servitudes d'utilité publique visées à l'article L.
 126-1. 
 
-Un décret en Conseil d'Etat détermine les critères de performance et les équipements pris en compte.
+Un décret en Conseil d'Etat détermine les critères de performance et les équipements pris en compte. 
 
 La partie de la construction en dépassement n'est pas assujettie au versement résultant du dépassement du plafond légal de
 densité.
@@ -6101,7 +6096,7 @@ densité.
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 20
+  - Loi n°2011-12 du 5 janvier 2011 - art. 19
 
 _Cité par_:
 
@@ -6121,6 +6116,15 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R111-21 (M)
   - Code de la construction et de l'habitation. - art. R111-21-1 (M)
 
+_Cite_:
+
+  - Code de l'urbanisme - art. L123-1 (V)
+  - Code de l'urbanisme - art. L126-1 (V)
+  - Code de l'environnement - art. L331-2 (V)
+  - Code de l'environnement - art. L341-1 (V)
+  - Code du patrimoine. - art. L621-30-1 (V)
+  - Code du patrimoine. - art. L642-1 (V)
+
 
 ###### Article L128-2
 
@@ -6131,7 +6135,7 @@ réserve d'une justification spéciale motivée par la protection du patrimoine 
 monumentales et urbaines. 
 
 Le projet de la délibération du conseil municipal ou de l'organe délibérant de l'établissement public de coopération
-intercommunale prévue au premier alinéa est mis à disposition du public afin de recueillir ses observations, pendant une
+intercommunale prévue à l'article L. 128-1 est mis à disposition du public afin de recueillir ses observations, pendant une
 durée d'un mois. 
 
 Lorsque le conseil municipal ou l'organe délibérant de l'établissement public de coopération intercommunale fait usage de la
@@ -6142,11 +6146,11 @@ l'expiration d'un délai de deux ans.
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 20
+  - Loi n°2011-12 du 5 janvier 2011 - art. 19
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L128-1 (VT)
+  - Code de l'urbanisme - art. L128-1
 
 _Cité par_:
 

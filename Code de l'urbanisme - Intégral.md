@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2011-03-01
+Version Consolidée au 2011-03-31
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -26411,21 +26411,25 @@ _Abrogé par_:
 
 ###### Article L713-1
 
-Les articles L. 160-1 à L. 160-5 sont applicables à Mayotte.
+Les articles L. 160-1 à L. 160-8 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Ordonnance n°2005-868 du 28 juillet 2005 - art. 1 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
-
 _Cite_:
 
-  - Code de l'urbanisme L160-1 à L160-5
+  - Code de l'urbanisme - art. L160-1
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08 JORF 13 novembre 1973
+
+_Modifié par_:
+
+  - Loi n°2010-1487 du 7 décembre 2010 - art. 26
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (VD)
 
 
 ### Titre II : Préemption et réserves foncières<a id=142></a>

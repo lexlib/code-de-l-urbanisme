@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2011-05-21
+Version Consolidée au 2011-06-01
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -28748,32 +28748,51 @@ _Codifié par_:
 
 ###### Article R111-48
 
-Est soumise à l'étude de sécurité publique prévue par l'article L. 111-3-1 :
+Sont soumis à l'étude de sécurité publique prévue par l'article L. 111-3-1 : 
 
 1° Lorsqu'elle est située dans une agglomération de plus de 100 000 habitants au sens du recensement général de la
-population :
+population : 
 
 a) L'opération d'aménagement qui, en une ou plusieurs phases, a pour effet de créer une surface hors oeuvre nette supérieure
-à 100 000 mètres carrés ;
+à 70 000 mètres carrés ; 
 
-b) La création d'un établissement recevant du public de première catégorie, au sens de l'article R. 123-19 du code de la
-construction et de l'habitation.
+b) La création d'un établissement recevant du public de première ou de deuxième catégorie au sens de l'article R. 123-19 du
+code de la construction et de l'habitation ainsi que les travaux et aménagements soumis à permis de construire exécutés sur
+un établissement recevant du public existant de première ou de deuxième catégorie ayant pour effet soit d'augmenter de plus
+de 10 % l'emprise au sol, soit de modifier les accès sur la voie publique. 
+
+Les dispositions ci-dessus s'appliquent également aux établissements d'enseignement du second degré de troisième catégorie ; 
+
+c) L'opération de construction ayant pour effet de créer une surface hors œuvre nette supérieure ou égale à 70 000 mètres
+carrés. 
+
+1° bis En dehors des agglomérations de plus de 100 000 habitants au sens du recensement général de la population, les
+opérations ou travaux suivants :
+
+- la création d'un établissement d'enseignement du second degré de première, deuxième ou troisième catégorie au sens de
+l'article R. 123-19 du code de la construction et de l'habitation ;
+
+- la création d'une gare ferroviaire, routière ou maritime de première ou deuxième catégorie ainsi que les travaux soumis à
+permis de construire exécutés sur une gare existante de même catégorie et ayant pour effet soit d'augmenter de plus de 10 %
+l'emprise au sol, soit de modifier les accès sur la voie publique. 
 
 2° Sur l'ensemble du territoire national, la réalisation d'une opération d'aménagement ou la création d'un établissement
 recevant du public, situés à l'intérieur d'un périmètre délimité par arrêté motivé du préfet ou, à Paris, du préfet de
 police, pris après avis du conseil local de sécurité et de prévention de la délinquance ou à défaut du conseil départemental
-de prévention, et excédant des seuils définis dans cet arrêté.
+de prévention, et excédant des seuils définis dans cet arrêté. 
+
+3° Sur l'ensemble du territoire national : celles des opérations des projets de rénovation urbaine mentionnés à l'article 8
+du décret n° 2004-123 du 9 février 2004 relatif à l'Agence nationale pour la rénovation urbaine comportant la démolition d'au
+moins 500 logements déterminées par arrêté du préfet ou, à Paris, du préfet de police, en fonction de leurs incidences sur la
+protection des personnes et des biens contre les menaces et agressions.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2007-1177 du 3 août 2007 - art. 1 () JORF 5 août 2007 en vigueur le 1er octobre 2007
-
 _Cite_:
 
-  - Code de l'urbanisme - art. L111-3-1 (M)
-  - Code de la construction et de l'habitation R123-19
+  - Code de l'urbanisme - art. L111-3-1
+  - Code de la construction et de l'habitation. - art. R*123-19
+  - Décret n°2004-123 du 9 février 2004 - art. 8
 
 _Cité par_:
 
@@ -28787,36 +28806,56 @@ _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
+_Modifié par_:
+
+  - Décret n°2011-324 du 24 mars 2011 - art. 1
+
 
 ###### Article R111-49
 
-L'étude de sécurité publique comprend :
+L'étude de sécurité publique comprend : 
 
-1° Un diagnostic précisant le contexte social et urbain et l'interaction du projet et de son environnement immédiat ;
+1° Un diagnostic précisant le contexte social et urbain et l'interaction entre le projet et son environnement immédiat ; 
 
-2° L'analyse du projet au regard des risques de sécurité publique pesant sur l'opération ;
+2° L'analyse du projet au regard des risques de sécurité publique pesant sur l'opération ; 
 
 3° Les mesures proposées, en ce qui concerne, notamment, l'aménagement des voies et espaces publics et, lorsque le projet
 porte sur une construction, l'implantation, la destination, la nature, l'architecture, les dimensions et l'assainissement de
-cette construction et l'aménagement de ses abords, pour :
+cette construction et l'aménagement de ses abords, pour : 
 
-a) Prévenir et réduire les risques de sécurité publique mis en évidence dans le diagnostic ;
+a) Prévenir et réduire les risques de sécurité publique mis en évidence dans le diagnostic ; 
 
 b) Faciliter les missions des services de police, de gendarmerie et de secours.
 
+L'étude se prononce sur l'opportunité d'installer ou non un système de vidéoprotection.
+
+Dans les cas où une étude de sécurité publique est exigée en raison de travaux ou aménagements sur un établissement recevant
+du public existant, le diagnostic prévu au 1° ne porte que sur l'interaction entre le projet et son environnement immédiat.
+Si une étude a été réalisée depuis moins de quatre ans pour le même établissement, elle est jointe au dossier de demande de
+permis de construire, la nouvelle étude ne portant alors que sur la partie de l'établissement donnant lieu à modification de
+plus de 10 % de l'emprise au sol ou modifiant les accès sur la voie publique.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°73-1023 1973-11-08
+  - Décret n°2011-324 du 24 mars 2011 - art. 2
 
-_Créé par_:
+_Abrogé par_:
 
-  - Décret n°2007-1177 du 3 août 2007 - art. 1 () JORF 5 août 2007 en vigueur le 1er octobre 2007
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. R114-2 (V)
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R424-5-1 (M)
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
 
 
 #### Chapitre II : Plafond légal de densité.<a id=166></a>
@@ -52654,7 +52693,7 @@ e) Une notice précisant l'activité économique qui doit être exercée dans le
 activité répond aux critères définis par l'article R. 146-2, lorsque la demande concerne un projet de construction visé au d
 de cet article et situé dans un espace remarquable ou dans un milieu à préserver d'une commune littorale ; 
 
-f) L'étude de sécurité publique, lorsqu'elle est exigée en application de l'article R. 111-48 ; 
+f) L'étude de sécurité publique, lorsqu'elle est exigée en application des articles R. 111-48 et R. 111-49 ; 
 
 g) Lorsque le projet est tenu de respecter les dispositions mentionnées à l'article R. 111-20 du code de la construction et
 de l'habitation, un document établi par le maître d'ouvrage attestant la prise en compte de la réglementation thermique, en
@@ -52666,7 +52705,7 @@ R. 111-20-2 dudit code.
 
 _Modifié par_:
 
-  - Décret n°2011-544 du 18 mai 2011 - art. 2
+  - Décret n°2011-324 du 24 mars 2011 - art. 3
 
 _Cité par_:
 
@@ -52682,6 +52721,11 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de l'urbanisme - art. L510-1
+  - Code de l'urbanisme - art. R111-48
+  - Code de l'urbanisme - art. R146-2
+  - Code de la construction et de l'habitation. - art. L111-23
+  - Code de la construction et de l'habitation. - art. R111-20 (V)
   - Code de la construction et de l'habitation. - art. R111-38
   - Code de l'environnement - art. L562-2
   - Code de l'environnement - art. L563-1
@@ -54690,6 +54734,42 @@ _Cite_:
 
   - Code de la construction et de l'habitation. - art. R*111-20
   - Code de la construction et de l'habitation. - art. R111-20-4
+
+
+###### Article R462-4-2
+
+Dans les cas prévus aux articles R. * 111-4 et R. 111-4-1 du code de la construction et de l'habitation, la déclaration
+d'achèvement des travaux est accompagnée d'un document établi conformément aux articles R. 111-4-3 et R. 111-4-4 de ce code
+et attestant pour l'opération de construction considérée la prise en compte de la réglementation acoustique par le maître
+d'œuvre ou, en son absence, par le maître d'ouvrage, en application de l'article R. 111-4-2 du même code.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-604 du 30 mai 2011 - art. 2
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-490 du 13 avril 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. R462-4-3 (VD)
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R111-4-2 (V)
+  - Code de la construction et de l'habitation. - art. R131-28-2 (V)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R*111-4
+  - Code de la construction et de l'habitation. - art. R111-4-3
 
 
 ###### Article R462-5

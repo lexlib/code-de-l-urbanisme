@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2011-12-22
+Version Consolidée au 2011-12-24
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -23929,15 +23929,18 @@ de ne pas dépasser une certaine hauteur en construisant, ces servitudes, dites 
 d'accord amiable entre les propriétaires intéressés, être imposées par la voie judiciaire dans des conditions définies par
 décret.
 
+Les mêmes servitudes peuvent être instituées en l'absence de document d'urbanisme ou de mention explicite dans le document
+d'urbanisme applicable.
+
 **Nota:**
 
 
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+  - Ordonnance n°2011-1916 du 22 décembre 2011 - art. 3
 
 _Cité par_:
 

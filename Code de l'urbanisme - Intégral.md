@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2011-12-24
+Version Consolidée au 2011-12-30
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -19553,7 +19553,8 @@ les collectivités territoriales et les établissements publics bénéficiaires,
 remboursement par le comptable et un titre de perception est émis à l'égard des collectivités territoriales ou établissements
 publics de coopération intercommunale bénéficiaires pour les montants indûment reversés. Le comptable peut recouvrer ce titre
 par voie de compensation avec le produit de la taxe qu'il répartit par ailleurs ou par voie de prélèvement sur les avances
-prévues par les articles L. 2336-1 et suivants du code général des collectivités territoriales.
+prévues par              le chapitre VII du titre III du livre III de la deuxième partie du code général des collectivités
+territoriales.
 
 **Nota:**
 
@@ -19569,9 +19570,9 @@ _Créé par_:
 
   - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code général des collectivités territoriales - art. L2336-1 (V)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 144 (V)
 
 
 ###### Article L331-27

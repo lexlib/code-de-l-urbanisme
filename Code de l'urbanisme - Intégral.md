@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2011-12-30
+Version Consolidée au 2012-01-01
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -382,7 +382,7 @@ Version Consolidée au 2011-12-30
         - [Chapitre IV : Dispositions diverses (art. R*434-1 à R*434-2)](#379)
       - [Titre IV : Dispositions propres aux aménagements (art. R*441-1 à R*444-1)](#380)
         - [Chapitre Ier : Dispositions communes (art. R*441-1 à R*441-10)](#381)
-          - [Section 1 : Dossier de demande de permis d'aménager (art. R*441-1 à R*441-8)](#382)
+          - [Section 1 : Dossier de demande de permis d'aménager (art. R*441-1 à R441-8-1)](#382)
           - [Section 2 : Déclaration préalable portant sur un projet d'aménagement (art. R*441-9 à R*441-10)](#383)
         - [Chapitre II : Dispositions propres aux lotissements (art. *R442-2 à R*442-25)](#384)
           - [Section 1 : Champ d'application (art. *R442-2 à R442-1)](#385)
@@ -398,7 +398,7 @@ Version Consolidée au 2011-12-30
           - [Section 3 : Dispositions applicables dans les zones soumises à un risque naturel ou technologique prévisible (art. R*443-10 à R443-12)](#395)
         - [Chapitre IV : Modèles nationaux de demande et de décision (art. R*444-1)](#396)
       - [Titre V : Dispositions propres aux démolitions (art. R*451-3 à R453-1)](#397)
-        - [Chapitre Ier : Demande de permis de démolir (art. R*451-3 à R451-2)](#398)
+        - [Chapitre Ier : Demande de permis de démolir (art. R*451-3 à R451-5)](#398)
         - [Chapitre II : Décision (art. R452-1)](#399)
         - [Chapitre III : Modèles nationaux de demande et de décision (art. R453-1)](#400)
       - [Titre VI : Contrôle de la conformité des travaux (art. R462-1 à R462-10)](#401)
@@ -48671,28 +48671,33 @@ _Codifié par_:
 ###### Article R*421-14
 
 Sont soumis à permis de construire les travaux suivants, exécutés sur des constructions existantes, à l'exception des travaux
-d'entretien ou de réparations ordinaires :
+d'entretien ou de réparation ordinaires : 
 
-a) Les travaux ayant pour effet la création d'une surface hors oeuvre brute supérieure à vingt mètres carrés ;
+a) Les travaux ayant pour effet la création d'une surface hors œuvre brute supérieure à vingt mètres carrés ; 
 
-b) Les travaux ayant pour effet de modifier les structures porteuses ou la façade du bâtiment, lorsque ces travaux
-s'accompagnent d'un changement de destination entre les différentes destinations définies à l'article R. 123-9 ;
+b) Dans les zones urbaines d'un plan local d'urbanisme ou d'un document d'urbanisme en tenant lieu, les travaux ayant pour
+effet la création d'une surface hors œuvre brute supérieure à quarante mètres carrés ; toutefois, demeurent soumis à permis
+de construire les travaux ayant pour effet la création de plus de vingt mètres carrés et d'au plus quarante mètres carrés de
+surface hors œuvre brute, lorsque leur réalisation aurait pour effet de porter la surface totale de la construction au-delà
+de l'un des seuils fixés à l'article R. 431-2 ; 
 
-c) Les travaux ayant pour effet de modifier le volume du bâtiment et de percer ou d'agrandir une ouverture sur un mur
-extérieur ;
+c) Les travaux ayant pour effet de modifier les structures porteuses ou la façade du bâtiment, lorsque ces travaux
+s'accompagnent d'un changement de destination entre les différentes destinations définies à l'article R. 123-9 ; 
 
-d) Les travaux nécessaires à la réalisation d'une opération de restauration immobilière au sens de l'article L. 313-4.
+d) Les travaux nécessaires à la réalisation d'une opération de restauration immobilière au sens de l'article L. 313-4. 
 
-Pour l'application du b du présent article, les locaux accessoires d'un bâtiment sont réputés avoir la même destination que
+Pour l'application du c du présent article, les locaux accessoires d'un bâtiment sont réputés avoir la même destination que
 le local principal.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
 _Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-  - Décret n°2007-817 du 11 mai 2007 - art. 2 () JORF 12 mai 2007
+  - Décret n°2011-1771 du 5 décembre 2011 - art. 1
 
 _Cité par_:
 
@@ -48706,12 +48711,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L313-4 (M)
-  - Code de l'urbanisme R123-9, L313-4
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
+  - Code de l'urbanisme - art. L313-4
+  - Code de l'urbanisme - art. R*123-9
+  - Code de l'urbanisme - art. R*431-2
 
 
 ###### Article R*421-15
@@ -48762,37 +48764,35 @@ _Codifié par_:
 
 Doivent être précédés d'une déclaration préalable lorsqu'ils ne sont pas soumis à permis de construire en application des
 articles R. 421-14 à R. 421-16 les travaux exécutés sur des constructions existantes, à l'exception des travaux d'entretien
-ou de réparations ordinaires, et les changements de destination des constructions existantes suivants :
+ou de réparations ordinaires, et les changements de destination des constructions existantes suivants : 
 
-a) Les travaux de ravalement et les travaux ayant pour effet de modifier l'aspect extérieur d'un bâtiment existant ;
+a) Les travaux de ravalement et les travaux ayant pour effet de modifier l'aspect extérieur d'un bâtiment existant ; 
 
 b) Les changements de destination d'un bâtiment existant entre les différentes destinations définies à l'article R. 123-9 ;
 pour l'application du présent alinéa, les locaux accessoires d'un bâtiment sont réputés avoir la même destination que le
-local principal ;
+local principal ; 
 
 c) Dans les secteurs sauvegardés dont le plan de sauvegarde et de mise en valeur n'est pas approuvé ou dont le plan de
-sauvegarde et de mise en valeur a été mis en révision, les travaux effectués à l'intérieur des immeubles ;
+sauvegarde et de mise en valeur a été mis en révision, les travaux effectués à l'intérieur des immeubles ; 
 
 d) Les travaux exécutés sur des constructions existantes ayant pour effet de modifier ou de supprimer un élément que le plan
 local d'urbanisme ou un document d'urbanisme en tenant lieu a identifié, en application du 7° de l'article L. 123-1, comme
-présentant un intérêt patrimonial ou paysager ;
+présentant un intérêt patrimonial ou paysager ; 
 
 e) Les travaux exécutés sur des constructions existantes ayant pour effet, dans une commune non couverte par un plan local
 d'urbanisme, de modifier ou de supprimer un élément, qu'une délibération du conseil municipal, prise après enquête publique,
-a identifié comme présentant un intérêt patrimonial ou paysager ;
+a identifié comme présentant un intérêt patrimonial ou paysager ; 
 
-f) Les travaux ayant pour effet la création d'une surface hors oeuvre brute supérieure à deux mètres carrés et inférieure ou
-égale à vingt mètres carrés ;
+f) Les travaux ayant pour effet la création d'une surface hors œuvre brute supérieure à deux mètres carrés et inférieure ou
+égale à vingt mètres carrés. Ce dernier seuil est porté à quarante mètres carrés pour les projets situés en zone urbaine d'un
+plan local d'urbanisme ou d'un document d'urbanisme en tenant lieu, à l'exclusion de ceux impliquant la création de plus de
+vingt mètres carrés et d'au plus quarante mètres carrés de surface hors œuvre brute lorsque cette création conduit au
+dépassement de l'un des seuils fixé à l'article R. 431-2 du présent code ; 
 
-g) Les travaux ayant pour effet de transformer plus de dix mètres carrés de surface hors oeuvre brute en surface hors oeuvre
+g) Les travaux ayant pour effet de transformer plus de dix mètres carrés de surface hors oeuvre brute en surface hors œuvre
 nette.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 _Cité par_:
 
@@ -48803,10 +48803,16 @@ _Cité par_:
   - Code de l'urbanisme - art. R421-24 (M)
   - Code de l'urbanisme - art. R421-41 (M)
 
+_Modifié par_:
+
+  - Décret n°2011-1771 du 5 décembre 2011 - art. 1
+
 _Cite_:
 
-  - Code de l'urbanisme - art. L123-1 (M)
-  - Code de l'urbanisme R421-14 à R421-16, R123-9, L123-1
+  - Code de l'urbanisme - art. L123-1
+  - Code de l'urbanisme - art. R*123-9
+  - Code de l'urbanisme - art. R*421-14 (V)
+  - Code de l'urbanisme - art. R*431-2 (V)
 
 _Codifié par_:
 
@@ -52868,31 +52874,34 @@ _Codifié par_:
 
 Conformément à l'article 1er du décret n° 77-190 du 3 mars 1977, ne sont toutefois pas tenues de recourir à un architecte les
 personnes physiques ou les exploitations agricoles à responsabilité limitée à associé unique qui déclarent vouloir édifier ou
-modifier pour elles-mêmes :
+modifier pour elles-mêmes : 
 
 a) Une construction à usage autre qu'agricole dont la surface de plancher hors oeuvre nette n'excède pas cent soixante-dix
-mètres carrés ;
+mètres carrés ; 
 
-b) Une construction à usage agricole dont la surface de plancher hors oeuvre brute n'excède pas huit cents mètres carrés ;
+b) Une construction à usage agricole dont la surface de plancher hors oeuvre brute n'excède pas huit cents mètres carrés ; 
 
 c) Des serres de production dont le pied-droit a une hauteur inférieure à quatre mètres et dont la surface de plancher hors
-oeuvre brute n'excède pas deux mille mètres carrés.
+oeuvre brute n'excède pas deux mille mètres carrés. 
 
 La demande précise que le demandeur et, le cas échéant, l'architecte, ont connaissance de l'existence de règles générales de
 construction prévues par le chapitre Ier du titre Ier du livre Ier du code de la construction et de l'habitation et
 notamment, lorsque la construction y est soumise, des règles d'accessibilité fixées en application de l'article L. 111-7 de
-ce code et de l'obligation de respecter ces règles.
+ce code et de l'obligation de respecter ces règles. 
+
+Les demandeurs d'un permis de construire sont tenus de recourir à un architecte pour les projets de travaux sur construction
+existante conduisant la surface de plancher de l'ensemble à dépasser l'un des plafonds fixés par le présent article.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°77-190 du 3 mars 1977 - art. 1 (V)
-  - Code de la construction et de l'habitation. - art. L111-7 (MMN)
+  - Décret n°77-190 du 3 mars 1977 - art. 1
+  - Code de l'urbanisme - art. L111-7
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2011-1771 du 5 décembre 2011 - art. 2
 
 _Cité par_:
 
@@ -53764,6 +53773,37 @@ _Créé par_:
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
+###### Article R431-14-1
+
+Lorsque les travaux sont projetés dans un cœur de parc national, la notice mentionnée à l'article R. 431-8 indique également
+les matériaux utilisés et les modalités d'exécution des travaux et la demande comprend les pièces complémentaires mentionnées
+au II de l'article R. 331-19 du code de l'environnement. Dans les quinze jours qui suivent la réception des exemplaires
+mentionnés à l'article R. 423-13, s'il y a lieu, le directeur de l'établissement public du parc national signale au maire les
+pièces manquantes au dossier.
+
+**Nota:**
+
+Décret n° 2011-2020 du 29 décembre 2011 art 30 : Les dispositions de l'article R. 431-14-1 du code de l'urbanisme sont
+applicables dans sa rédaction issue du présent décret aux déclarations préalables, aux demandes de permis de construire, aux
+demandes de permis d'aménager et aux demandes de permis de démolir déposées à compter du 1er janvier 2012.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-2020 du 29 décembre 2011 - art. 26
+
+_Cité par_:
+
+  - Décret n°2011-2020 du 29 décembre 2011 - art. 30 (V)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R*423-13
+  - Code de l'urbanisme - art. R*431-8
+  - Code de l'environnement - art. R*331-19
+
+
 ###### Article R431-16
 
 Le dossier joint à la demande de permis de construire comprend en outre, selon les cas : 
@@ -54280,6 +54320,33 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+
+###### Article R441-8-1
+
+Lorsque les travaux sont projetés dans un cœur de parc national, la notice mentionnée à l'article R. 441-3 indique également
+les matériaux utilisés et les modalités d'exécution des travaux et la demande comprend les pièces complémentaires mentionnées
+au II de l'article R. 331-19 du code de l'environnement. Dans les quinze jours qui suivent la réception des exemplaires
+mentionnés à l'article R. 423-13, le directeur de l'établissement public du parc national précise, le cas échéant, au maire
+les pièces manquantes qui doivent figurer dans ce dossier.
+
+**Nota:**
+
+Décret n° 2011-2020 du 29 décembre 2011 art 30 : Les dispositions de l'article R. 441-8-1 du code de l'urbanisme sont
+applicables dans sa rédaction issue du présent décret aux déclarations préalables, aux demandes de permis de construire, aux
+demandes de permis d'aménager et aux demandes de permis de démolir déposées à compter du 1er janvier 2012.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-2020 du 29 décembre 2011 - art. 27
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R*423-13
+  - Code de l'urbanisme - art. R*441-3
+  - Code de l'environnement - art. R*331-19
 
 
 ##### Section 2 : Déclaration préalable portant sur un projet d'aménagement<a id=383></a>
@@ -55677,6 +55744,40 @@ _Nouveaux textes_:
 _Anciens textes_:
 
   - Code de l'urbanisme - art. R451-3 (M)
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+
+###### Article R451-5
+
+Lorsque les travaux sont projetés dans un cœur de parc national, la demande comprend les pièces complémentaires mentionnées
+au II de l'article R. 331-19 du code de l'environnement. Dans les quinze jours qui suivent la réception des exemplaires
+mentionnés à l'article R. 423-13, le directeur de l'établissement public du parc national précise, le cas échéant, au maire
+les pièces manquantes qui doivent figurer dans ce dossier.
+
+**Nota:**
+
+Décret n° 2011-2020 du 29 décembre 2011 art 30 : Les dispositions de l'article R. 451-5 du code de l'urbanisme sont
+applicables dans sa rédaction issue du présent décret aux déclarations préalables, aux demandes de permis de construire, aux
+demandes de permis d'aménager et aux demandes de permis de démolir déposées à compter du 1er janvier 2012.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2011-2020 du 29 décembre 2011 - art. 28
+
+_Cité par_:
+
+  - Décret n°2011-2020 du 29 décembre 2011 - art. 30 (V)
+  - Code de l'urbanisme - art. R*430-13 (M)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R*423-13
+  - Code de l'environnement - art. R*331-19
 
 _Codifié par_:
 

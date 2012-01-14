@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2012-01-07
+Version Consolidée au 2012-01-15
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -321,7 +321,7 @@ Version Consolidée au 2012-01-07
         - [Chapitre Ier : Champ d'application (art. *R421-1 à R*421-29)](#318)
           - [Section 1 : Dispositions applicables aux constructions nouvelles (art. *R421-1 à R*421-12)](#319)
             - [Sous-section 1 : Constructions nouvelles soumises à permis de construire (art. *R421-1)](#320)
-            - [Sous-section 2 : Constructions nouvelles dispensées de toute formalité au titre du présent code (art. *R421-2 à R*421-7)](#321)
+            - [Sous-section 2 : Constructions nouvelles dispensées de toute formalité au titre du présent code (art. *R421-2 à R*421-8-1)](#321)
             - [Sous-section 3 : Constructions nouvelles soumises à déclaration préalable (art. *R421-9 à R*421-12)](#322)
           - [Section 2 : Dispositions applicables aux travaux exécutés sur des constructions existantes et aux changements de destination de ces constructions (art. *R421-13 à *R421-17)](#323)
             - [Sous-section 1 : Travaux soumis à permis de construire (art. *R421-16 à R*421-15)](#324)
@@ -353,7 +353,7 @@ Version Consolidée au 2012-01-07
             - [Sous-section 2 : Notification des majorations et prolongations du délai d'instruction (art. *R423-44-1 à R*423-45)](#350)
             - [Sous-section 3 : Conditions d'envoi des notifications (art. R*423-46 à R*423-49)](#351)
           - [Section 6 : Instruction des demandes de permis et des déclarations préalables (art. R*423-50 à R*423-71)](#352)
-            - [Sous-section 1 : Consultation des personnes publiques, services ou commissions intéressés (art. R*423-50 à R*423-56)](#353)
+            - [Sous-section 1 : Consultation des personnes publiques, services ou commissions intéressés (art. R*423-50 à R*423-56-1)](#353)
             - [Sous-section 2 : Enquête publique (art. R*423-57 à R*423-58)](#354)
             - [Sous-section 3 : Délais et conditions d'émission des avis ou accords des personnes publiques, services ou commissions intéressés (art. R*423-59 à R*423-71)](#355)
           - [Section 7 : Dispositions particulières aux demandes et aux déclarations lorsque la décision est de la compétence de l'Etat (art. R*423-72 à R*423-74)](#356)
@@ -48282,10 +48282,10 @@ _Codifié par_:
 
 ###### Article *R421-1
 
-Les constructions nouvelles doivent être précédées de la délivrance d'un permis de construire, à l'exception :
+Les constructions nouvelles doivent être précédées de la délivrance d'un permis de construire, à l'exception : 
 
-a) Des constructions mentionnées aux articles R. 421-2 à R. 421-8 qui sont dispensées de toute formalité au titre du code de
-l'urbanisme ;
+a) Des constructions mentionnées aux articles R. 421-2 à R. 421-8-1 qui sont dispensées de toute formalité au titre du code
+de l'urbanisme ; 
 
 b) Des constructions mentionnées aux articles R. 421-9 à R. 421-12 qui doivent faire l'objet d'une déclaration préalable.
 
@@ -48293,6 +48293,9 @@ b) Des constructions mentionnées aux articles R. 421-9 à R. 421-12 qui doivent
 
 _Cité par_:
 
+  - Décret n°85-1373 du 24 décembre 1985 - art. 8 (V)
+  - Décret n°88-1124 du 15 décembre 1988 - art. 2 (Ab)
+  - Décret n°2018-1054 du 29 novembre 2018 - art. 23
   - Code de justice administrative - art. R311-4 (V)
   - Code de l'environnement - art. R341-10 (M)
   - Code de l'urbanisme - art. A421-1 (M)
@@ -48303,17 +48306,19 @@ _Cité par_:
   - Code de l'urbanisme - art. R*421-41 (Ab)
   - Code de l'urbanisme - art. R*441-11 (Ab)
   - Code de l'urbanisme - art. R421-43 (T)
-  - Décret n°85-1373 du 24 décembre 1985 - art. 8 (V)
-  - Décret n°88-1124 du 15 décembre 1988 - art. 2 (Ab)
-  - Décret n°2018-1054 du 29 novembre 2018 - art. 23
+
+_Modifié par_:
+
+  - Décret n°2012-41 du 12 janvier 2012 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. *R421-2 (V)
+  - Code de l'urbanisme - art. *R421-9 (V)
 
 _Nouveaux textes_:
 
   - Code de l'urbanisme - art. R421-1-1 (Ab)
-
-_Cite_:
-
-  - Code de l'urbanisme R421-2 à R421-8, R421-9 à R421-12
 
 _Anciens textes_:
 
@@ -48323,11 +48328,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
-
-_Modifié par_:
-
-  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ##### Sous-section 2 : Constructions nouvelles dispensées de toute formalité au titre du présent code<a id=321></a>
@@ -48344,8 +48344,8 @@ carrés ;
 b) Les habitations légères de loisirs implantées dans un terrain de camping ou un parc résidentiel de loisirs autorisé et
 dont la surface hors oeuvre nette est inférieure ou égale à trente-cinq mètres carrés ; 
 
-c) Les éoliennes dont la hauteur du mât et de la nacelle au-dessus du sol est inférieure à douze mètres ainsi que les
-ouvrages de production d'électricité à partir de l'énergie solaire installés sur le sol dont la puissance crête est
+c) Les éoliennes terrestres dont la hauteur du mât et de la nacelle au-dessus du sol est inférieure à douze mètres ainsi que
+les ouvrages de production d'électricité à partir de l'énergie solaire installés sur le sol dont la puissance crête est
 inférieure à trois kilowatts et dont la hauteur maximum au-dessus du sol ne peut pas dépasser un mètre quatre-vingt ; 
 
 d) Les piscines dont le bassin a une superficie inférieure ou égale à dix mètres carrés ; 
@@ -48364,23 +48364,13 @@ i) Les caveaux et monuments funéraires situés dans l'enceinte d'un cimetière.
 
 **Nota:**
 
-Décret n° 2009-1414 du 19 novembre 2009 art 9 : Les dispositions du présent article entrent en vigueur le premier jour du
-mois suivant la date de sa publication au Journal officiel.
 
-Toutefois, elles ne sont pas applicables aux ouvrages de production d'électricité à partir de l'énergie solaire installés sur
-le sol :
-
-a) Lorsque ces ouvrages comportent des installations ou constructions ayant fait l'objet d'une décision de non-opposition à
-déclaration préalable ou d'un permis de construire avant l'entrée en vigueur du présent décret ;
-
-b) Lorsque ces ouvrages sont dispensés de toute formalité au titre du code de l'urbanisme et que les travaux ont été
-entrepris ou achevés à la date de l'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1414 du 19 novembre 2009 - art. 1
+  - Décret n°2012-41 du 12 janvier 2012 - art. 1
 
 _Cité par_:
 
@@ -48571,6 +48561,29 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+
+###### Article R*421-8-1
+
+En application du e de l'article L. 421-5, sont dispensées de toute formalité au titre du présent code, en raison de leur
+nature et de leur implantation sur le domaine public maritime immergé au-delà de la laisse de la basse mer, les installations
+de production d'électricité à partir de sources d'énergie renouvelable, y compris leurs ouvrages de raccordement aux réseaux
+publics d'électricité, notamment les éoliennes, les hydroliennes, les installations houlomotrices et marémotrices ainsi que
+celles utilisant l'énergie thermique des mers.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-41 du 12 janvier 2012 - art. 1
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. *R421-13 (V)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L421-5 (V)
 
 
 ##### Sous-section 3 : Constructions nouvelles soumises à déclaration préalable<a id=322></a>
@@ -48823,15 +48836,15 @@ _Codifié par_:
 ###### Article *R421-13
 
 Les travaux exécutés sur des constructions existantes sont dispensés de toute formalité au titre du code de l'urbanisme à
-l'exception :
+l'exception : 
 
-a) Des travaux mentionnés aux articles R. 421-14 à R. 421-16, qui sont soumis à permis de construire ;
+a) Des travaux mentionnés aux articles R. 421-14 à R. 421-16, qui sont soumis à permis de construire ; 
 
-b) Des travaux mentionnés à l'article R. 421-17, qui doivent faire l'objet d'une déclaration préalable.
+b) Des travaux mentionnés à l'article R. 421-17, qui doivent faire l'objet d'une déclaration préalable. 
 
-Les travaux réalisés sur les constructions mentionnées à l'article R. 421-8 ainsi que les travaux relatifs à la
-reconstruction d'établissements pénitentiaires après mutinerie sont également dispensés de toute formalité au titre du code
-de l'urbanisme, même s'ils entrent dans le champ des prévisions des a et b du présent article.
+Les travaux réalisés sur les constructions et les installations mentionnées aux articles R. 421-8 et R. 421-8-1 ainsi que les
+travaux relatifs à la reconstruction d'établissements pénitentiaires après mutinerie sont également dispensés de toute
+formalité au titre du code de l'urbanisme, même s'ils entrent dans le champ des prévisions des a et b du présent article. 
 
 Les changements de destination de ces constructions sont soumis à permis de construire dans les cas prévus à l'article R.
 421-14 et à déclaration préalable dans les cas prévus à l'article R. 421-17.
@@ -48849,20 +48862,18 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-  - Décret n°2007-817 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
+  - Décret n°2012-41 du 12 janvier 2012 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R*421-8-1
+  - Code de l'urbanisme - art. R421-17
+  - Code de l'urbanisme - art. R421-8
 
 **Liens**:
 
   - TXT_ASSOCIE: Code de l'urbanisme - art. R421-12 (M)
   - TXT_ASSOCIE: Code de l'urbanisme - art. R421-9 (M)
-
-_Cite_:
-
-  - Code de l'urbanisme - art. R421-17 (Ab)
-  - Code de l'urbanisme - art. R421-8 (M)
-  - Code de l'urbanisme R421-14 à R421-16, R421-17, R421-8, R421-14
 
 _Codifié par_:
 
@@ -51264,6 +51275,25 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+
+###### Article R*423-56-1
+
+Dans le cas d'un projet éolien soumis à permis de construire et situé en dehors d'une zone de développement de l'éolien
+définie par le préfet, l'autorité compétente recueille, conformément aux dispositions prévues au XI de l'article 90 de la loi
+n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement, l'avis des communes et des établissements
+publics de coopération intercommunale compétents en matière de plan local d'urbanisme ou d'autorisations d'urbanisme
+limitrophes de l'unité foncière d'implantation du projet.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2010-788 du 12 juillet 2010 - art. 90
+
+_Créé par_:
+
+  - Décret n°2012-41 du 12 janvier 2012 - art. 2
 
 
 ##### Sous-section 2 : Enquête publique<a id=354></a>

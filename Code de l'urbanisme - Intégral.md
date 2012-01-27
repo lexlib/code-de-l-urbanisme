@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2012-01-28
+Version Consolidée au 2012-01-28 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -7374,10 +7374,9 @@ _Cité par_:
   - Code forestier - art. R412-9 (Ab)
   - Code rural et de la pêche maritime - art. L126-1 (VT)
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. 5
-  - Loi n°2014-1170 du 13 octobre 2014 - art. 81
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 _Nouveaux textes_:
 

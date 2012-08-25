@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2012-08-08
+Version Consolidée au 2012-08-26
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -41464,19 +41464,21 @@ _Codifié par_:
 
 Lorsque l'opération est située dans un secteur sauvegardé dont le périmètre a été délimité ou dans une zone de protection du
 patrimoine architectural, urbain et paysager créée en application de l'article L. 642-1 du code du patrimoine, l'architecte
-des bâtiments de France accompagne, s'il y a lieu, pour l'application du 3° du I de l'article 156 du code général des impôts,
-son accord sur les travaux projetés d'une attestation certifiant que ces travaux constituent la restauration complète de
-l'immeuble concerné.
+des bâtiments de France accompagne, s'il y a lieu, pour l'application du 3° du I de l'article 156 du code général des impôts
+ou de l'article 199 tervicies du même code, son accord sur les travaux projetés d'une attestation certifiant que ces travaux
+constituent la restauration complète de l'immeuble concerné.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2012-992 du 23 août 2012 - art. 2
+
 _Cite_:
 
-  - CGI 156
-
-_Anciens textes_:
-
-  - Décret n°64-1156 1964-11-17 ART. 6
+  - Code général des impôts, CGI. - art. 156
+  - Code général des impôts, CGI. - art. 199 tervicies
+  - Code du patrimoine - art. L642-1
 
 _Cité par_:
 
@@ -41485,10 +41487,6 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
-
-_Modifié par_:
-
-  - Décret n°2007-817 du 11 mai 2007 - art. 1 () JORF 12 mai 2007 en vigueur le 1er octobre 2007
 
 
 ##### Section 3 : Visite des bâtiments par des hommes de l'art<a id=267></a>

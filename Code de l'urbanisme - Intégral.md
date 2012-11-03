@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2012-08-26
+Version Consolidée au 2012-11-04
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -60648,14 +60648,15 @@ _Cite_:
 ###### Article A214-1
 
 La déclaration préalable prévue par les articles L. 214-1 et R. 214-4 doit être établie conformément au formulaire enregistré
-par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13644*01 et disponible sur le site internet du
-ministère de l'écologie, du développement et de l'aménagement durables :  http://www.developpement-durable.gouv.fr.
+par la direction interministérielle pour la modernisation de l'action publique sous le numéro Cerfa 13644*01 et disponible
+sur le site internet du ministère de l'écologie, du développement et de l'aménagement durables :  http://www.developpement-
+durable.gouv.fr.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 29 février 2008 - art. 1
+  - Décret n°2012-1221 du 2 novembre 2012 - art. 2 (V)
 
 _Cite_:
 
@@ -60990,7 +60991,7 @@ _Abrogé par_:
 ###### Article A410-1
 
 La demande de certificat d'urbanisme prévue à l'article R. 410-1 est établie conformément au formulaire enregistré par la
-direction générale de la modernisation de l'Etat sous le numéro Cerfa 13410. 
+direction interministérielle pour la modernisation de l'action publique sous le numéro Cerfa 13410. 
 
 Ce modèle de formulaire peut être obtenu auprès des mairies ou des services départementaux de l'Etat chargés de l'urbanisme
 et est disponible sur le site internet officiel de l'administration française :  http://www.service-public.fr/.
@@ -61008,7 +61009,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 10 février 2012 - art. 1
+  - Décret n°2012-1221 du 2 novembre 2012 - art. 2 (V)
 
 _Cité par_:
 
@@ -61737,7 +61738,7 @@ _Anciens textes_:
 ###### Article A424-19
 
 La déclaration d'ouverture de chantier prévue à l'article R. 424-16 est établie conformément au formulaire enregistré par la
-direction générale de la modernisation de l'Etat sous le numéro Cerfa 13407. 
+direction interministérielle pour la modernisation de l'action publique sous le numéro Cerfa 13407. 
 
 Ce modèle de formulaire peut être obtenu auprès des mairies ou des services départementaux de l'Etat chargés de l'urbanisme
 et est disponible sur le site internet officiel de l'administration française :  http://www.service-public.fr.
@@ -61750,7 +61751,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 10 février 2012 - art. 1
+  - Décret n°2012-1221 du 2 novembre 2012 - art. 2 (V)
 
 _Cité par_:
 
@@ -61770,11 +61771,12 @@ _Cite_:
 ###### Article A431-1
 
 La déclaration préalable portant sur un projet de construction prévue aux articles R. 421-9 à R. 421-12 et R. 421-17 est
-établie conformément au formulaire enregistré par la direction générale de la modernisation de l'Etat sous le numéro CERFA
-13404. 
+établie conformément au formulaire enregistré par la        direction interministérielle pour la modernisation de l'action
+publique sous le numéro CERFA 13404. 
 
 Lorsque les travaux portent sur une maison individuelle ou ses annexes, la déclaration préalable peut être établie
-conformément au formulaire enregistré par la direction générale de la modernisation de l'Etat sous le numéro CERFA 13703. 
+conformément au formulaire enregistré par la        direction interministérielle pour la modernisation de l'action publique
+sous le numéro CERFA 13703. 
 
 La déclaration préalable précise également les éléments nécessaires au calcul des impositions prévus à l'article R. 431-35,
 établis conformément au modèle joint aux formulaires susmentionnés.
@@ -61787,7 +61789,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 10 février 2012 - art. 1
+  - Décret n°2012-1221 du 2 novembre 2012 - art. 2 (V)
 
 _Cite_:
 
@@ -61839,7 +61841,7 @@ _Cite_:
 ###### Article A431-4
 
 La demande de permis de construire prévue aux articles R. 421-1 et R. 421-14 à R. 421-16 est établie conformément aux
-formulaires enregistrés par la direction générale de la modernisation de l'Etat : 
+formulaires enregistrés par la direction interministérielle pour la modernisation de l'action publique : 
 
 a) Sous le numéro Cerfa 13406 lorsque la demande porte sur une maison individuelle ou ses annexes ; 
 
@@ -61856,7 +61858,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 10 février 2012 - art. 1
+  - Décret n°2012-1221 du 2 novembre 2012 - art. 2 (V)
 
 _Cite_:
 
@@ -61907,7 +61909,7 @@ _Cite_:
 ###### Article A431-7
 
 La demande de modification d'un permis de construire en cours de validité est établie conformément au formulaire enregistré
-par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13411.
+par la direction interministérielle pour la modernisation de l'action publique sous le numéro Cerfa 13411.
 
 **Liens relatifs à cet article**
 
@@ -61917,13 +61919,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 10 février 2012 - art. 1
+  - Décret n°2012-1221 du 2 novembre 2012 - art. 2 (V)
 
 
 ###### Article A431-8
 
 La demande de transfert d'un permis de construire en cours de validité est établie conformément au formulaire enregistré par
-la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13412.
+la direction interministérielle pour la modernisation de l'action publique sous le numéro Cerfa 13412.
 
 **Liens relatifs à cet article**
 
@@ -61933,7 +61935,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 10 février 2012 - art. 1
+  - Décret n°2012-1221 du 2 novembre 2012 - art. 2 (V)
 
 
 ##### Section 3 : Dispositions communes<a id=496></a>
@@ -62065,7 +62067,8 @@ _Modifié par_:
 ###### Article A441-1
 
 La déclaration préalable portant sur un projet d'aménagement prévue aux articles R. 421-23 à R. 421-25 est établie
-conformément au formulaire enregistré par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13404.
+conformément au formulaire enregistré par la direction interministérielle pour la modernisation de l'action publique sous le
+numéro Cerfa 13404.
 
 **Liens relatifs à cet article**
 
@@ -62075,7 +62078,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 10 février 2012 - art. 1
+  - Décret n°2012-1221 du 2 novembre 2012 - art. 2 (V)
 
 _Cite_:
 
@@ -62126,7 +62129,7 @@ _Cite_:
 ###### Article A441-4
 
 La demande de permis d'aménager prévue aux articles R. 421-18 à R. 421-22 est établie conformément au formulaire enregistré
-par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13409. 
+par la direction interministérielle pour la modernisation de l'action publique sous le numéro Cerfa 13409. 
 
 La demande de permis d'aménager contient également la déclaration des éléments nécessaires au calcul des impositions prévus à
 l'article R. 441-1, établie conformément au modèle joint au formulaire susmentionné.
@@ -62139,7 +62142,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 10 février 2012 - art. 1
+  - Décret n°2012-1221 du 2 novembre 2012 - art. 2 (V)
 
 _Cité par_:
 
@@ -62188,7 +62191,7 @@ _Cite_:
 ###### Article A441-7
 
 La demande de modification d'un permis d'aménager en cours de validité est établie conformément au formulaire enregistré par
-la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13411.
+la direction interministérielle pour la modernisation de l'action publique sous le numéro Cerfa 13411.
 
 **Liens relatifs à cet article**
 
@@ -62198,13 +62201,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 10 février 2012 - art. 1
+  - Décret n°2012-1221 du 2 novembre 2012 - art. 2 (V)
 
 
 ###### Article A441-8
 
 La demande de transfert d'un permis d'aménager en cours de validité est établie conformément au formulaire enregistré par la
-direction générale de la modernisation de l'Etat sous le numéro Cerfa 13412.
+direction interministérielle pour la modernisation de l'action publique sous le numéro Cerfa 13412.
 
 **Liens relatifs à cet article**
 
@@ -62214,7 +62217,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 10 février 2012 - art. 1
+  - Décret n°2012-1221 du 2 novembre 2012 - art. 2 (V)
 
 
 ##### Section 3 : Dispositions communes<a id=503></a>
@@ -62289,7 +62292,7 @@ _Modifié par_:
 ###### Article A451-1
 
 La demande de permis de démolir prévue aux articles R. 421-26 à R. 421-28 est établie conformément au formulaire enregistré
-par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13405.
+par la direction interministérielle pour la modernisation de l'action publique sous le numéro Cerfa 13405.
 
 **Liens relatifs à cet article**
 
@@ -62299,7 +62302,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 10 février 2012 - art. 1
+  - Décret n°2012-1221 du 2 novembre 2012 - art. 2 (V)
 
 _Cité par_:
 
@@ -62372,7 +62375,8 @@ _Modifié par_:
 ###### Article A462-1
 
 La déclaration attestant l'achèvement et la conformité des travaux prévue à l'article R. 462-1 est établie conformément au
-formulaire enregistré par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13408. 
+formulaire enregistré par la direction interministérielle pour la modernisation de l'action publique sous le numéro Cerfa
+13408. 
 
 Ce modèle de formulaire peut être obtenu auprès des mairies ou des services départementaux de l'Etat chargés de l'urbanisme
 et est disponible sur le site internet officiel de l'administration française :  http://www.service-public.fr/.
@@ -62385,7 +62389,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 10 février 2012 - art. 1
+  - Décret n°2012-1221 du 2 novembre 2012 - art. 2 (V)
 
 _Cite_:
 

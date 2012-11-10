@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2012-11-04
+Version Consolidée au 2012-11-11
 ## Contenu: 
   - [Partie législative (art. L110 à L760-2)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -42807,7 +42807,7 @@ déléguer le cas échéant ses pouvoirs au bureau, à l'exception des décision
 
 2° L'approbation du programme pluriannuel d'intervention ou du projet stratégique et opérationnel ; 
 
-3° L'approbation de l'état prévisionnel des recettes et des dépenses ; 
+3° L'approbation         du budget  ; 
 
 4° L'autorisation des emprunts ; 
 
@@ -42844,7 +42844,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 _Codifié par_:
 
@@ -42929,7 +42929,7 @@ _Codifié par_:
 
 ###### Article R*321-9
 
-I. - Le directeur général d'un établissement public foncier de l'Etat ou d'un établissement public d'aménagement, le
+I. ― Le directeur général d'un établissement public foncier de l'Etat ou d'un établissement public d'aménagement, le
 président-directeur général de l'Agence foncière et technique de la région parisienne sont ordonnateurs des dépenses et des
 recettes. 
 
@@ -42942,29 +42942,18 @@ Dans ces établissements publics, le directeur général est compétent pour :
 3° Représenter l'établissement dans les actes de la vie civile et commerciale et ester en justice. 
 
 En outre, il est chargé de l'instruction préalable des affaires qui sont de la compétence de l'établissement. Il prépare et
-exécute les décisions du conseil d'administration et du bureau. Il prépare et présente l'état prévisionnel des recettes et
-des dépenses. Il recrute le personnel et a autorité sur lui. Il peut déléguer sa signature. 
+exécute les décisions du conseil d'administration et du bureau. Il prépare et présente        le budget. Il recrute le
+personnel et a autorité sur lui. Il peut déléguer sa signature. 
 
-II. - Le directeur général d'un établissement public foncier de l'Etat ou d'un établissement public d'aménagement assiste de
+II. ― Le directeur général d'un établissement public foncier de l'Etat ou d'un établissement public d'aménagement assiste de
 droit aux réunions du conseil d'administration et du bureau. Il prépare et présente le programme pluriannuel d'intervention
 ou le programme stratégique et opérationnel et le bilan annuel.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret  1959-05-19 ART. 8
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
-_Cite_:
-
-  - Décret n°55-733 du 26 mai 1955
-
 _Cité par_:
 
+  - Code de l'urbanisme - art. R*321-1 (V)
   - Décret n°68-376 du 26 avril 1968 - art. 13 (V)
   - Décret n°72-27 du 10 janvier 1972 - art. 14 (VT)
   - Décret n°72-770 du 17 août 1972 - art. 11 (V)
@@ -42985,11 +42974,22 @@ _Cité par_:
   - Décret n°2012-764 du 9 mai 2012 - art. 12 (V)
   - Décret n°2015-980 du 31 juillet 2015 - art. 9 (V)
   - Décret n°2017-341 du 15 mars 2017 - art. 11 (VD)
-  - Code de l'urbanisme - art. R*321-1 (V)
+
+_Anciens textes_:
+
+  - Décret  1959-05-19 ART. 8
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+_Cite_:
+
+  - Décret n°55-733 du 26 mai 1955
 
 _Modifié par_:
 
-  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article R*321-10
@@ -44824,29 +44824,25 @@ _Modifié par_:
 ###### Article R*322-29
 
 S'il est stipulé dans le bail à construction un loyer périodique payable en monnaie, l'association le répartit entre ses
-membres au prorata des valeurs des parcelles avant groupement.
+membres au prorata des valeurs des parcelles avant groupement. 
 
-Par dérogation, le cas échéant, à l'article 23 du décret du 29 décembre 1962 sur la comptabilité publique modifié, il peut y
-avoir compensation, dans les mains du receveur, pour chaque associé, entre les charges lui incombant et la quote-part des
-recettes lui revenant.
+Par dérogation, le cas échéant, à l'article 24 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique, il peut y avoir compensation, dans les mains du receveur, pour chaque associé, entre les charges lui
+incombant et la quote-part des recettes lui revenant.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret  1962-12-29 art. 23
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°77-863 1977-07-26 art. 25 JORF 29 juillet 1977 date d'entrée en vigueur 1 janvier 1978
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 24 (V)
 
 _Modifié par_:
 
-  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 23
 
 
 ###### Article R*322-30
@@ -45218,14 +45214,14 @@ _Créé par_:
 
 Le conseil d'administration règle par ses délibérations les affaires de l'établissement. 
 
-Il choisit le siège de l'établissement, approuve l'état prévisionnel des recettes et des dépenses, autorise les emprunts et
-la conclusion des conventions passées avec les collectivités locales et les établissements publics en application du
-troisième alinéa de l'article L. 325-1. Il arrête les comptes. Il approuve les orientations à moyen terme et le programme
-annuel d'intervention de l'établissement, qui fixe la liste des sites bénéficiant des opérations d'aménagement et de
-restructuration dont l'établissement assure ou délègue la maîtrise d'ouvrage. Il décide de la prise, de l'extension ou de la
-cession de participations financières. Les délibérations concernant les prises, les extensions et cessions de participations
-financières sont exécutoires de plein droit un mois après leur réception par les ministres de tutelle, à moins que l'une de
-ces autorités y fasse opposition pendant ce délai. 
+Il choisit le siège de l'établissement, approuve        le budget, autorise les emprunts et la conclusion des conventions
+passées avec les collectivités locales et les établissements publics en application du troisième alinéa de l'article L.
+325-1. Il arrête les comptes. Il approuve les orientations à moyen terme et le programme annuel d'intervention de
+l'établissement, qui fixe la liste des sites bénéficiant des opérations d'aménagement et de restructuration dont
+l'établissement assure ou délègue la maîtrise d'ouvrage. Il décide de la prise, de l'extension ou de la cession de
+participations financières. Les délibérations concernant les prises, les extensions et cessions de participations financières
+sont exécutoires de plein droit un mois après leur réception par les ministres de tutelle, à moins que l'une de ces autorités
+y fasse opposition pendant ce délai. 
 
 Il peut déléguer certains de ses pouvoirs au directeur général, à l'exception de ceux définis à l'alinéa précédent. 
 
@@ -45234,17 +45230,17 @@ d'administration.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2006-901 du 18 juillet 2006 - art. 1 () JORF 20 juillet 2006
-
 _Cite_:
 
-  - Code de l'urbanisme - art. L325-1 (V)
+  - Code de l'urbanisme - art. L325-1
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article R325-5
@@ -45298,14 +45294,14 @@ _Créé par_:
 
 ###### Article R325-7
 
-Le directeur général assiste aux séances du conseil d'administration dont il prépare et exécute les décisions.
+Le directeur général assiste aux séances du conseil d'administration dont il prépare et exécute les décisions. 
 
-Il prépare et présente l'état prévisionnel des recettes et des dépenses. Il est ordonnateur des dépenses et des recettes. Il
-gère l'établissement, le représente en justice, signe les contrats et les conventions, les actes d'aliénation, d'acquisition
-ou de location. Il recrute le personnel de l'établissement et a autorité sur lui.
+Il prépare et présente        le budget. Il est ordonnateur des dépenses et des recettes. Il gère l'établissement, le
+représente en justice, signe les contrats et les conventions, les actes d'aliénation, d'acquisition ou de location. Il
+recrute le personnel de l'établissement et a autorité sur lui. 
 
 Il prépare et présente les orientations à moyen terme et le programme annuel d'intervention de l'établissement et en assure
-l'exécution, dont il rend compte chaque année au conseil d'administration.
+l'exécution, dont il rend compte chaque année au conseil d'administration. 
 
 Il peut déléguer sa signature.
 
@@ -45315,9 +45311,9 @@ _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°97-130 du 12 février 1997 - art. 1 () JORF 13 février 1997
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ##### Section 2 : Organisation financière<a id=293></a>
@@ -45535,7 +45531,7 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 1° Il détermine l'orientation de la politique à suivre ; 
 
-2° Il approuve l'état prévisionnel des recettes et des dépenses ; 
+2° Il approuve        le budget ; 
 
 3° Il autorise les emprunts ; 
 
@@ -45560,14 +45556,14 @@ l'établissement public pour l'exercice de ses compétences ;
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-1684 du 29 novembre 2007 - art. 1
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 _Cite_:
 
-  - Code de l'urbanisme - art. *R328-11 (V)
-  - Code de l'urbanisme - art. *R328-8 (V)
+  - Code de l'urbanisme - art. *R328-8
+  - Code de l'urbanisme - art. R328-11
 
 
 ###### Article *R328-6
@@ -45576,17 +45572,17 @@ Les fonctions de directeur sont incompatibles avec celles de membre du conseil d
 délibérantes des collectivités territoriales représentées au conseil d'administration. 
 
 Le directeur est chargé de l'instruction préalable des affaires qui sont de la compétence de l'Etablissement public de
-gestion. Il prépare et exécute les décisions du conseil d'administration. En particulier, il prépare l'état prévisionnel des
-recettes et des dépenses. Il gère l'établissement, le représente dans les actes de la vie civile, passe les contrats et signe
-tous les actes pris au nom de l'établissement, este en justice, prépare et conclut les transactions dans les conditions
-fixées par le conseil d'administration. Il est ordonnateur des recettes et des dépenses. Il recrute le personnel et a
-autorité sur lui. Il peut déléguer sa signature.
+gestion. Il prépare et exécute les décisions du conseil d'administration. En particulier, il prépare        le budget. Il
+gère l'établissement, le représente dans les actes de la vie civile, passe les contrats et signe tous les actes pris au nom
+de l'établissement, este en justice, prépare et conclut les transactions dans les conditions fixées par le conseil
+d'administration. Il est ordonnateur des recettes et des dépenses. Il recrute le personnel et a autorité sur lui. Il peut
+déléguer sa signature.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-1684 du 29 novembre 2007 - art. 1
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article *R328-7
@@ -45621,29 +45617,29 @@ _Cite_:
 
 ###### Article *R328-8
 
-I. - Le comité consultatif, représentant les personnes physiques et morales utilisatrices régulières des équipements et
-espaces publics gérés par l'Etablissement public de gestion, est composé de quinze membres ainsi répartis : 
+I.-Le comité consultatif, représentant les personnes physiques et morales utilisatrices régulières des équipements et espaces
+publics gérés par l'Etablissement public de gestion, est composé de quinze membres ainsi répartis : 
 
-- quatre représentants de l'Association des utilisateurs de La Défense (AUDE) ; 
+- quatre représentants de l'Association des utilisateurs de La Défense (AUDE) ;
 
-- deux représentants de la chambre de commerce et d'industrie de Paris, désignés par son bureau ; 
+- deux représentants de la chambre de commerce et d'industrie de Paris, désignés par son bureau ;
 
-- un représentant de la chambre des métiers et de l'artisanat des Hauts-de-Seine, désigné par son assemblée ; 
+- un représentant de la chambre des métiers et de l'artisanat des Hauts-de-Seine, désigné par son assemblée ;
 
 - un représentant des associations de commerçants de La Défense, désigné par le préfet des Hauts-de-Seine, après consultation
-de ces associations ; 
+de ces associations ;
 
 - un représentant des associations représentant les habitants de La Défense, désigné par le préfet des Hauts-de-Seine, après
-consultation de ces associations ; 
+consultation de ces associations ;
 
 - un représentant des associations représentant les usagers des transports de La Défense, désigné par le préfet des Hauts-de-
-Seine, après consultation de ces associations ; 
+Seine, après consultation de ces associations ;
 
-- un propriétaire d'immeubles de bureaux de La Défense, désigné par le préfet des Hauts-de-Seine ; 
+- un propriétaire d'immeubles de bureaux de La Défense, désigné par le préfet des Hauts-de-Seine ;
 
-- un propriétaire d'immeubles d'habitation de La Défense, désigné par le préfet des Hauts-de-Seine ; 
+- un propriétaire d'immeubles d'habitation de La Défense, désigné par le préfet des Hauts-de-Seine ;
 
-- un propriétaire d'autres catégories d'immeubles de La Défense, désigné par le préfet des Hauts-de-Seine ; 
+- un propriétaire d'autres catégories d'immeubles de La Défense, désigné par le préfet des Hauts-de-Seine ;
 
 - deux représentants de l'établissement public d'aménagement de région dite de " La Défense ", désignés par son conseil
 d'administration. 
@@ -45653,18 +45649,17 @@ nominative des membres du comité consultatif.
 
 Les membres du comité consultatif sont nommés pour six ans. 
 
-II. - Le comité consultatif élit en son sein, et pour une durée de six ans, un président. 
+II.-Le comité consultatif élit en son sein, et pour une durée de six ans, un président. 
 
 Le comité consultatif adopte un règlement intérieur qui est approuvé par le préfet des Hauts-de-Seine. 
 
 Le président et le directeur de l'Etablissement public de gestion assistent aux réunions du comité et y sont entendus à
 chaque fois qu'ils le demandent. 
 
-III. - Le comité consultatif émet un avis, selon les modalités fixées par le conseil d'administration de l'Etablissement
-public de gestion, et au minimum une fois par an, sur les orientations retenues par l'établissement public et notamment
-sur : 
+III.-Le comité consultatif émet un avis, selon les modalités fixées par le conseil d'administration de l'Etablissement public
+de gestion, et au minimum une fois par an, sur les orientations retenues par l'établissement public et notamment sur :
 
-- l'état prévisionnel des recettes et des dépenses ; 
+- le budget ;
 
 - les actions et animations concernant le quartier d'affaires de La Défense. 
 
@@ -45678,9 +45673,9 @@ de toute question dont l'importance le justifie.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-1684 du 29 novembre 2007 - art. 1
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 _Cité par_:
 
@@ -45694,24 +45689,24 @@ I.-Sous réserve des dispositions prévues par les articles L. 328-1 et suivants
 public de gestion du quartier d'affaires de La Défense est régi par les règles de fonctionnement prévues par les articles L.
 2221-10 et R. 2221-18 à R. 2221-52 du code général des collectivités territoriales. 
 
-II.-L'état prévisionnel des recettes et des dépenses mentionné à l'article L. 328-5constitue le budget de l'établissement
-public défini à l'article R. 2221-43 du code général des collectivités territoriales.
+II.-        Le budget mentionné à l'article L. 328-5constitue le budget de l'établissement public défini à l'article R.
+2221-43 du code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-1684 du 29 novembre 2007 - art. 1
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 _Cite_:
 
   - Code général des collectivités territoriales - art. L2221-10
   - Code général des collectivités territoriales - art. R2221-18
   - Code général des collectivités territoriales - art. R2221-43
-  - Code général des collectivités territoriales - art. R2221-52 (V)
-  - Code de l'urbanisme - art. *R328-1 (V)
+  - Code général des collectivités territoriales - art. R2221-52
   - Code de l'urbanisme - art. L328-1
-  - Code de l'urbanisme - art. L328-5 (V)
+  - Code de l'urbanisme - art. L328-5
+  - Code de l'urbanisme - art. R328-1
 
 
 ###### Article *R328-10
@@ -58511,22 +58506,23 @@ _Codifié par_:
 ###### Article R480-5
 
 L'état nécessaire au recouvrement des astreintes prononcées par le tribunal en application de l'article L. 480-8 est établi
-et recouvré dans les conditions prévues aux articles 80 à 92 du décret n° 62-1587 du 29 décembre 1962.
+et recouvré dans les conditions prévues aux articles 112 à 124 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion
+budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°62-1587 du 29 décembre 1962
-  - Code de l'urbanisme - art. L480-8
-
-_Modifié par_:
-
-  - Décret n°2012-274 du 28 février 2012 - art. 7
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 112
+  - Code de l'urbanisme - art. L480-8
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 23
 
 
 ## Livre V : Implantation des services, établissements et entreprises<a id=427></a>

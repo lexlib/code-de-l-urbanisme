@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2013-06-01
+Version Consolidée au 2013-07-01
 ## Contenu: 
   - [Partie législative (art. L110 à L600-6)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -469,8 +469,8 @@ Version Consolidée au 2013-06-01
         - [Chapitre  III : Dispositions communes au droit de préemption urbain et aux zones d'aménagement différé (art. A213-1)](#466)
         - [Chapitre  IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce et les baux commerciaux (art. A214-1)](#467)
     - [Livre  III : Aménagement foncier (art. A332-1 à A350-1)](#468)
-      - [Titre  III : Dispositions financières (art. A332-1 à A332-7)](#469)
-        - [Chapitre  II : Participation des constructeurs et des lotisseurs (art. A332-1 à A332-7)](#470)
+      - [Titre  III : Dispositions financières (art. A332-1)](#469)
+        - [Chapitre  II : Participation des constructeurs et des lotisseurs (art. A332-1)](#470)
       - [Titre IV : Départements d'outre-mer (art. A340-1 à A340-4)](#471)
       - [Titre V : Collectivités d'outre-mer (art. A350-1)](#472)
     - [Livre  IV : Régime applicable aux constructions, aménagements et démolitions (art. A410-1 à A472-1)](#473)
@@ -61170,197 +61170,6 @@ _Cite_:
   - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
-###### Article A332-2
-
-En application des dispositions de l'article R. 332-26, le maire ou le président d'un établissement public de coopération
-intercommunale peut se voir confier l'établissement de l'assiette et la liquidation de l'ensemble des impositions dont le
-permis de construire, le permis d'aménager ou la décision de non-opposition à la déclaration préalable constitue le fait
-générateur, soit : 
-
-a) La taxe locale d'équipement et la taxe complémentaire à la taxe locale d'équipement perçue en région d'Ile-de-France ; 
-
-b) La taxe départementale des espaces naturels sensibles ; 
-
-c) La taxe départementale pour le financement des conseils d'architecture, d'urbanisme et de l'environnement ; 
-
-d) Le versement résultant du dépassement du plafond légal de densité ; 
-
-e) La redevance pour création de locaux à usage de bureaux et de locaux de recherche en région d'Ile-de-France ; 
-
-f) La taxe spéciale d'équipement prévue à l'article 1599-0 B du code général des impôts ; 
-
-g) La redevance d'archéologie préventive.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 2007-09-11 art. 2 JORF 13 septembre 2007 en vigueur le 1er octobre 2007
-
-_Codifié par_:
-
-  - Décret n°77-38 du 3 janvier 1977
-
-_Abrogé par_:
-
-  - Arrêté du 25 mars 2013 - art. 1
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. A332-5 (VT)
-
-_Cite_:
-
-  - Code de l'urbanisme - art. R*332-26 (Ab)
-
-
-###### Article A332-3
-
-Lorsque le responsable du service de l'Etat dans le département, chargé de l'urbanisme, compétent en matière d'établissement
-de l'assiette et de liquidation des impositions précitées, est saisi d'une demande du maire ou du président de
-l'établissement public de coopération intercommunale compétent ou qu'il propose à ces derniers d'exercer cette mission
-fiscale au nom de l'Etat, il apprécie notamment si les services municipaux ou ceux de l'établissement public de coopération
-intercommunale compétents comportent une organisation technique suffisante.
-
-L'arrêté portant déconcentration de l'établissement de l'assiette et de la liquidation de ces impositions est signé par le
-préfet sur proposition du responsable du service de l'Etat dans le département, chargé de l'urbanisme. Il fait l'objet d'une
-publication dans le recueil des actes administratifs de l'Etat dans le département. Il est affiché en mairie et est inséré en
-caractères apparents dans un journal diffusé dans le département. Il est transmis au trésorier-payeur général et au président
-du conseil général.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 2007-09-11 art. 2 JORF 13 septembre 2007 en vigueur le 1er octobre 2007
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-_Abrogé par_:
-
-  - Arrêté du 25 mars 2013 - art. 1
-
-
-###### Article A332-4
-
-Les dispositions de l'arrêté préfectoral sont applicables aux permis dont la demande a été déposée en mairie à compter de la
-date de sa publication et aux décisions de non-opposition à une déclaration préalable déposée à compter de cette date.
-
-Le préfet met fin à ces dispositions, par arrêté pris sur proposition du responsable du service de l'Etat dans le
-département, chargé de l'urbanisme, soit à l'initiative de celui-ci après avis du maire ou du président de l'établissement
-public de coopération intercommunale compétent, soit à la demande du maire ou du président de l'établissement public.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 2007-09-11 art. 2 JORF 13 septembre 2007 en vigueur le 1er octobre 2007
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-_Abrogé par_:
-
-  - Arrêté du 25 mars 2013 - art. 1
-
-
-###### Article A332-5
-
-Le responsable du service de l'Etat dans le département, chargé de l'urbanisme, reste compétent pour : 
-
-a) L'établissement de l'assiette et la liquidation des impositions afférentes aux permis et aux décisions de non-opposition à
-une déclaration préalable relevant de la compétence de l'Etat en application de l'article L. 422-2 ; 
-
-b) Veiller à l'application des lois et règlements dans l'exercice de la mission d'établissement de l'assiette et de
-liquidation des impositions citées à l'article A. 332-2. A ce titre, il lui appartient, le cas échéant, de rectifier toute
-erreur dans l'établissement de ces impositions et de se substituer au maire en cas de carence de celui-ci. Par ailleurs, il
-répond aux réclamations relatives à ces impositions lorsqu'il est saisi directement d'un recours hiérarchique ; 
-
-c) L'instruction des demandes de remise gracieuse des amendes fiscales résultant des infractions à la législation sur le
-permis de construire, le permis d'aménager ou la déclaration préalable, sur lesquelles se prononce le ministre chargé de
-l'urbanisme en vertu des dispositions de l'article L. 247 du livre des procédures fiscales ; 
-
-d) La collecte et la transmission de statistiques relatives à ces impositions.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 2007-09-11 art. 2 JORF 13 septembre 2007 en vigueur le 1er octobre 2007
-
-_Codifié par_:
-
-  - Décret n°77-38 du 3 janvier 1977
-
-_Abrogé par_:
-
-  - Arrêté du 25 mars 2013 - art. 1
-
-_Cite_:
-
-  - Livre des procédures fiscales - art. L247 (V)
-  - Code de l'urbanisme - art. A332-2 (VT)
-  - Code de l'urbanisme - art. L422-2 (V)
-
-
-###### Article A332-6
-
-L'arrêté préfectoral comporte obligatoirement :
-
-a) La liste des impositions dont le permis de construire, le permis d'aménager et la décision de non-opposition à la
-déclaration préalable constituent le fait générateur et qui sont exigibles sur le territoire de chaque commune intéressée à
-la date d'intervention de cet arrêté. Cette liste est modifiée, le cas échéant, par un nouvel arrêté préfectoral ;
-
-b) Les conditions et les délais de transmission des fiches de liquidation, de dégrèvement ou de restitution, qui sont
-transmises par le maire ou par le président de l'établissement public de coopération intercommunale au trésorier-payeur
-général, au responsable du service de l'Etat dans le département, chargé de l'urbanisme, et au titulaire du permis ou de la
-décision de non-opposition.
-
-Une fiche modificative est également transmise en cas de modification apportée au permis lorsque cette modification a une
-incidence sur l'assiette d'une taxe.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 2007-09-11 art. 2 JORF 13 septembre 2007 en vigueur le 1er octobre 2007
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-_Abrogé par_:
-
-  - Arrêté du 25 mars 2013 - art. 1
-
-
-###### Article A332-7
-
-Les demandes d'information ainsi que les réclamations sont examinées par le maire ou par le président de l'établissement
-public de coopération intercommunale, qui y répond.
-
-Le cas échéant, le maire ou le président de l'établissement public de coopération intercommunale compétent notifient les
-fiches modificatives nécessaires au trésorier-payeur général, au chef du service de l'Etat dans le département, chargé de
-l'urbanisme, et au constructeur concerné.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 2007-09-11 art. 2 JORF 13 septembre 2007 en vigueur le 1er octobre 2007
-
-_Codifié par_:
-
-  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-_Abrogé par_:
-
-  - Arrêté du 25 mars 2013 - art. 1
-
-
 ### Titre IV : Départements d'outre-mer<a id=471></a>
 
 ###### Article A340-1
@@ -61727,18 +61536,19 @@ _Créé par_:
 ###### Article A423-4
 
 Le maire affecte aux demandes de modification ou de transfert d'un permis en cours de validité un numéro d'enregistrement
-composé du numéro du permis dont la modification est demandée, auquel il ajoute un numéro de deux chiffres utilisé pour une
-numérotation en continu des demandes successives de modifications.
+composé du numéro du permis dont la modification ou le transfert est demandé, auquel il ajoute un numéro composé de la lettre
+" m " en cas de modification ou de la lettre " t " en cas de transfert, suivie de deux chiffres, pour une numérotation en
+continu des demandes successives, d'une part, des modifications et, d'autre part, des transferts.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
-
 _Codifié par_:
 
-  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+  - Décret n°77-38 du 3 janvier 1977, v. init.
+
+_Modifié par_:
+
+  - Arrêté du 25 mars 2013 - art. 1
 
 
 #### Chapitre  IV : Décisions<a id=478></a>
@@ -62551,6 +62361,9 @@ La déclaration préalable portant sur un projet d'aménagement prévue aux arti
 conformément au formulaire enregistré par la direction interministérielle pour la modernisation de l'action publique sous le
 numéro Cerfa 13404.
 
+Lorsque la déclaration préalable porte sur un lotissement ou une division foncière, elle peut être établie conformément au
+formulaire enregistré par le secrétariat général pour la modernisation de l'action publique sous le numéro Cerfa 13702.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -62559,7 +62372,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1221 du 2 novembre 2012 - art. 2 (V)
+  - Arrêté du 25 mars 2013 - art. 1
 
 _Cite_:
 
@@ -63005,31 +62818,36 @@ _Créé par_:
 
 ###### Article A520-1
 
-Lorsque la construction de locaux à usage de bureaux ou de locaux de recherche et de leurs annexes, ou la transformation en
-de tels locaux de locaux précédemment affectés à un autre usage, sont susceptibles de donner lieu à l'exigibilité de la
-redevance instituée par l'article L. 520-1, le dossier joint à la demande de permis de construire doit comprendre, outre les
-pièces mentionnées à l'article A. 421-1 une déclaration établie conformément au modèle annexé au présent article. 
+Lorsque la construction de locaux à usage de bureaux, de locaux commerciaux ou de locaux de stockage ou la transformation en
+de tels locaux de locaux précédemment affectés à un autre usage est susceptible de donner lieu à l'exigibilité de la
+redevance instituée par l'article L. 520-1, le dossier joint à la demande de permis de construire ou à la déclaration
+préalable doit comprendre, outre les pièces mentionnées à l'article A. 431-4, une déclaration établie conformément au
+formulaire enregistré sous le numéro Cerfa 14600. 
 
-Dans le cas d'opérations portant création de locaux à usage de bureaux ou de locaux de recherche ne nécessitant pas de permis
-de construire, la déclaration ci-dessus visée doit être établie et adressée, en double exemplaire, à la direction
-départementale de l'équipement.
+Dans le cas d'opérations portant création de locaux à usage de bureaux, de locaux commerciaux ou de locaux de stockage ne
+nécessitant pas de permis de construire, la déclaration prévue à l'alinéa précédent doit être établie et adressée, en double
+exemplaire, selon le cas, soit à l'unité territoriale de la direction régionale interdépartementale de l'équipement et de
+l'aménagement d'Ile-de-France, soit à la direction départementale des territoires.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+  - Décret n°77-38 du 3 janvier 1977
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'urbanisme - art. A421-1 (Ab)
-  - Code de l'urbanisme - art. L520-1 (V)
+  - Arrêté du 25 mars 2013 - art. 1
 
 **Liens**:
 
   - TXT_ASSOCIE: Code de l'urbanisme - art. A421-1 (M)
   - TXT_ASSOCIE: Code de l'urbanisme - art. A421-2 (Ab)
-  - TXT_ASSOCIE: Code de l'urbanisme - art. A520-2 (M)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. A431-4
+  - Code de l'urbanisme - art. L520-1
 
 _Cité par_:
 
@@ -63039,21 +62857,27 @@ _Cité par_:
 
 ###### Article A520-2
 
-La déclaration d'achèvement des travaux prévue à l'article R. 460-1 et concernant des locaux passibles de la redevance
-instituée par l'article L. 520-1 doit être établie conformément au modèle annexé au présent article. 
+La déclaration d'achèvement des travaux prévue à l'article R. 462-1 et concernant des locaux passibles de la redevance
+instituée par l'article L. 520-1 doit être établie conformément au formulaire enregistré sous le numéro Cerfa 46-0390. 
 
 Elle doit être adressée ou remise, dans le délai de trente jours à dater de l'achèvement des travaux, au maire de la commune
-où la construction a été édifiée, à charge pour celui-ci d'en saisir, dans la semaine qui suit le dépôt de ladite
-déclaration, le préfet (direction départementale de l'équipement), en application des articles L. 421-2-3 et R. 460-2. 
+où la construction a été édifiée, à charge pour celui-ci d'en saisir dans la semaine qui suit le dépôt de ladite déclaration,
+le préfet (unité territoriale de la direction régionale interdépartementale de l'équipement et de l'aménagement d'Ile-de-
+France ou direction départementale des territoires). 
 
 Pour les créations de locaux passibles de la redevance ne donnant pas lieu à permis de construire, la déclaration ci-dessus
-visée doit être adressée dans les mêmes conditions au préfet (direction départementale de l'équipement).
+visée doit être adressée dans les mêmes conditions au préfet (unité territoriale de la direction régionale
+interdépartementale de l'équipement et de l'aménagement d'Ile-de-France ou direction départementale des territoires).
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
+  - Décret n°77-38 du 3 janvier 1977
+
+_Modifié par_:
+
+  - Arrêté du 25 mars 2013 - art. 1
 
 **Liens**:
 
@@ -63065,10 +62889,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L421-2-3 (Ab)
-  - Code de l'urbanisme - art. L520-1 (V)
-  - Code de l'urbanisme - art. R460-1 (Ab)
-  - Code de l'urbanisme - art. R460-2 (Ab)
+  - Code de l'urbanisme - art. L520-1
+  - Code de l'urbanisme - art. R462-1
 
 
 ###### Article A520-3

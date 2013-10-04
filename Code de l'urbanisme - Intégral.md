@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2013-08-19
+Version Consolidée au 2013-10-05
 ## Contenu: 
   - [Partie législative (art. L110 à L600-8)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -103,10 +103,10 @@ Version Consolidée au 2013-08-19
         - [Chapitre II : Compétence (art. L422-1 à L422-8)](#100)
         - [Chapitre III : Dépôt et instruction des demandes de permis et des déclarations (art. L423-1)](#101)
         - [Chapitre IV : Décision (art. L424-1 à L424-9)](#102)
-        - [Chapitre V : Opérations soumises à un régime d'autorisation prévu par une autre législation (art. L425-1 à L425-12)](#103)
+        - [Chapitre V : Opérations soumises à un régime d'autorisation prévu par une autre législation (art. L425-1 à L425-13)](#103)
           - [Section 1 : Opérations pour lesquelles le permis ou la décision prise sur la déclaration préalable tient lieu de l'autorisation prévue par une autre législation (art. L425-1 à L425-3)](#104)
           - [Section 3 : Opérations pour lesquelles l'autorisation prévue par une autre législation dispense de permis ou de déclaration préalable (art. L425-5)](#105)
-          - [Section 4 : Opérations pour lesquelles la délivrance d'un permis ou la réalisation des travaux est différée dans l'attente de formalités prévues par une autre législation (art. L425-6 à L425-12)](#106)
+          - [Section 4 : Opérations pour lesquelles la délivrance d'un permis ou la réalisation des travaux est différée dans l'attente de formalités prévues par une autre législation (art. L425-6 à L425-13)](#106)
         - [Chapitre VI : Dispositions diverses (art. L426-1)](#107)
         - [Chapitre VII : Dispositions particulières à Mayotte (art. L427-1 à L427-2)](#108)
       - [Titre III : Dispositions propres aux constructions (art. L431-1 à L434-1)](#109)
@@ -359,9 +359,9 @@ Version Consolidée au 2013-08-19
           - [Section 1 : Dépôt et enregistrement des demandes et des déclarations (art. R*423-1 à R*423-5)](#356)
             - [Sous-section 1 : Dépôt des demandes et des déclarations (art. R*423-1 à R*423-2)](#357)
             - [Sous section 2 : Enregistrement des demandes et des déclarations (art. R*423-3 à R*423-5)](#358)
-          - [Section 2 : Affichage et transmission de la demande ou de la déclaration (art. R*423-6 à R*423-13)](#359)
+          - [Section 2 : Affichage et transmission de la demande ou de la déclaration (art. R*423-6 à R*423-13-1)](#359)
             - [Sous-section 1 : Affichage (art. R*423-6)](#360)
-            - [Sous-section 2 : Transmission de la demande ou de la déclaration (art. R*423-7 à R*423-13)](#361)
+            - [Sous-section 2 : Transmission de la demande ou de la déclaration (art. R*423-7 à R*423-13-1)](#361)
           - [Section 3 : Autorité chargée de l'instruction (art. R*423-14 à R*423-16)](#362)
           - [Section 4 : Délais d'instruction (art. R*423-17 à R*423-37-1)](#363)
             - [Sous-section 1 : Point de départ du délai d'instruction (art. R*423-19 à R*423-22)](#364)
@@ -6550,6 +6550,55 @@ _Cité par_:
 _Cite_:
 
   - Code de l'urbanisme - art. L123-1-4 (V)
+
+
+###### Article L123-5-1
+
+Dans les communes appartenant à une zone d'urbanisation continue de plus de 50 000 habitants figurant sur la liste prévue à
+l'article 232 du code général des impôts et dans les communes de plus de 15 000 habitants en forte croissance démographique
+figurant sur la liste prévue au septième alinéa de l'article L. 302-5 du code de la construction et de l'habitation, il peut
+être autorisé des dérogations au règlement du plan local d'urbanisme ou du document en tenant lieu, dans les conditions et
+selon les modalités définies au présent article. 
+
+En tenant compte de la nature du projet et de la zone d'implantation dans un objectif de mixité sociale, l'autorité
+compétente pour délivrer le permis de construire peut, par décision motivée : 
+
+1° Déroger aux règles relatives au gabarit et à la densité pour autoriser une construction destinée principalement à
+l'habitation à dépasser la hauteur maximale prévue par le règlement, sans pouvoir dépasser la hauteur de la construction
+contiguë existante calculée à son faîtage et sous réserve que le projet s'intègre harmonieusement dans le milieu urbain
+environnant ; 
+
+2° Déroger aux règles relatives à la densité et aux obligations en matière de création d'aires de stationnement pour
+autoriser la surélévation d'une construction achevée depuis plus de deux ans, lorsque la surélévation a pour objet la
+création de logement. Si le projet est contigu à une autre construction, elle peut également déroger aux règles de gabarit
+pour autoriser la surélévation à dépasser la hauteur maximale dans les conditions et limites fixées au 1° ; 
+
+3° Déroger aux règles relatives à la densité et aux obligations en matière de création d'aires de stationnement pour
+autoriser la transformation à usage principal d'habitation d'un immeuble existant par reconstruction, rénovation ou
+réhabilitation, dans la limite du gabarit de l'immeuble existant ; 
+
+4° Déroger en tout ou partie aux obligations de création d'aires de stationnement applicables aux logements lorsque le projet
+de construction de logements est situé à moins de 500 mètres d'une gare ou d'une station de transport public guidé ou de
+transport collectif en site propre, en tenant compte de la qualité de la desserte, de la densité urbaine ou des besoins
+propres au projet au regard des capacités de stationnement existantes à proximité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2013-889 du 3 octobre 2013 - art. 1
+
+_Cité par_:
+
+  - Décret n°2015-908 du 23 juillet 2015 (V)
+  - Code de l'urbanisme - art. R*123-9-2 (VT)
+  - Code de l'urbanisme - art. R*431-31-2 (M)
+  - Code de la construction et de l'habitation. - art. L111-4-1 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 232
+  - Code de la construction et de l'habitation. - art. L302-5
 
 
 ###### Article L123-6
@@ -23818,6 +23867,29 @@ _Cite_:
 
   - Code de l'environnement - art. L593-14 (V)
   - Code de l'environnement - art. L593-7 (V)
+
+
+###### Article L425-13
+
+Lorsque le demandeur joint à sa demande de permis de construire une demande de dérogation prévue à l'article L. 111-4-1 du
+code de la construction et de l'habitation, le permis de construire ne peut pas être accordé avant l'obtention de cette
+dérogation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2013-889 du 3 octobre 2013 - art. 1
+
+_Cité par_:
+
+  - Décret n°2014-1299 du 23 octobre 2014 - art. (VD)
+  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
+  - Code de l'urbanisme - art. R*424-2 (V)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L111-4-1
 
 
 #### Chapitre VI : Dispositions diverses<a id=107></a>
@@ -51530,14 +51602,17 @@ compétente dans le domaine de l'architecture et du patrimoine ou de l'architect
 Deux exemplaires supplémentaires du dossier doivent être fournis lorsque le projet est situé dans le coeur d'un parc national
 délimité en application de l'article L. 331-2 du code de l'environnement. 
 
+Un exemplaire supplémentaire du dossier doit être fourni lorsqu'une demande de dérogation prévue à l'article L. 111-4-1 du
+code de la construction et de l'habitation est jointe à la demande de permis. 
+
 Les arrêtés prévus par les articles R. 434-1, R. 444-1 et R. 453-1 peuvent prévoir que certaines pièces doivent être en outre
 fournies en un nombre plus important d'exemplaires.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2013-891 du 3 octobre 2013 - art. 1
 
 _Cité par_:
 
@@ -51552,10 +51627,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R*434-1 (V)
-  - Code de l'urbanisme - art. R*444-1 (V)
-  - Code de l'urbanisme - art. R453-1 (V)
-  - Code de l'environnement - art. L331-2 (V)
+  - Code de l'urbanisme - art. R*434-1
+  - Code de l'urbanisme - art. R*444-1
+  - Code de l'urbanisme - art. R453-1
+  - Code de la construction et de l'habitation. - art. L111-4-1
+  - Code de l'environnement - art. L331-2
 
 _Codifié par_:
 
@@ -51806,6 +51882,28 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
+###### Article R*423-13-1
+
+Lorsqu'une demande de dérogation prévue à l'article L. 111-4-1 du code de la construction et de l'habitation est jointe à la
+demande de permis, le maire transmet un exemplaire du dossier et la demande de dérogation au préfet dans la semaine qui suit
+le dépôt.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-891 du 3 octobre 2013 - art. 1
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. R*423-69-2 (V)
+  - Code de la construction et de l'habitation. - art. R111-1-2 (V)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L111-4-1 (V)
+
+
 ##### Section 3 : Autorité chargée de l'instruction<a id=362></a>
 
 ###### Article R*423-14
@@ -52024,18 +52122,19 @@ _Codifié par_:
 
 ###### Article R*423-24
 
-Le délai d'instruction de droit commun prévu par l'article R.* 423-23 est majoré d'un mois lorsque le projet est soumis, dans
-les conditions mentionnées au chapitre V, à un régime d'autorisation ou à des prescriptions prévus par d'autres législations
-ou réglementations que le code de l'urbanisme, lorsque la décision nécessite une dérogation en application des troisième,
-quatrième et cinquième alinéas de l'article L. 123-5 du code de l'urbanisme, lorsque le projet est situé dans un secteur
-sauvegardé dont le périmètre a été délimité ou lorsque le projet doit être soumis à l'avis de la commission départementale de
-la consommation des espaces agricoles prévu par l'article L. 112-1-1 du code rural et de la pêche maritime.
+Le délai d'instruction de droit commun prévu par l'article R. * 423-23 est majoré d'un mois lorsque le projet est soumis,
+dans les conditions mentionnées au chapitre V, à un régime d'autorisation ou à des prescriptions prévus par d'autres
+législations ou réglementations que le code de l'urbanisme, lorsque la décision nécessite une dérogation en application des
+troisième, quatrième et cinquième alinéas        de l'article L. 123-5 ou de l'article L. 123-5-1 du code de l'urbanisme,
+lorsque le projet est situé dans un secteur sauvegardé dont le périmètre a été délimité ou lorsque le projet doit être soumis
+à l'avis de la commission départementale de la consommation des espaces agricoles prévu par l'article L. 112-1-1 du code
+rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-290 du 29 février 2012 - art. 50
+  - Décret n°2013-891 du 3 octobre 2013 - art. 1
 
 _Cité par_:
 
@@ -52065,7 +52164,10 @@ b) Lorsqu'il y a lieu de consulter le ministre chargé de l'agriculture en appli
 de la pêche maritime ; 
 
 c) Lorsqu'il y a lieu d'instruire une dérogation en application du quatrième alinéa de l'article L. 111-3 du code rural et de
-la pêche maritime . 
+la pêche maritime ; 
+
+d) Lorsque le demandeur a joint à sa demande de permis de construire une demande de dérogation prévue à l'article L. 111-4-1
+du code de la construction et de l'habitation. 
 
 Ces majorations de délai ne sont pas cumulables avec celle prévue par l'article R*423-24.
 
@@ -52073,7 +52175,7 @@ Ces majorations de délai ne sont pas cumulables avec celle prévue par l'articl
 
 _Modifié par_:
 
-  - Décret n°2012-274 du 28 février 2012 - art. 3
+  - Décret n°2013-891 du 3 octobre 2013 - art. 1
 
 _Cité par_:
 
@@ -52083,10 +52185,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code rural - art. L111-3 (V)
-  - Code rural - art. L643-4 (V)
-  - Code de l'urbanisme - art. R*423-23 (V)
-  - Code de l'urbanisme - art. R*423-24 (V)
+  - Code rural - art. L111-3
+  - Code rural - art. L643-4
+  - Code de l'urbanisme - art. R*423-23
+  - Code de l'urbanisme - art. R423-24
+  - Code de la construction et de l'habitation. - art. L111-4-1
 
 
 ###### Article R*423-26
@@ -53504,6 +53607,27 @@ _Cite_:
   - Code de l'environnement - art. L122-1 (V)
 
 
+###### Article R*423-69-2
+
+Par exception aux dispositions de l'article R. 423-59, lorsque la demande de permis est accompagnée d'une demande de
+dérogation prévue à l'article L. 111-4-1 du code de la construction et de l'habitation, le délai à l'issue duquel le préfet
+est réputé avoir statué, dans les conditions prévues à l'article R. 111-1-2 du même code, est de trois mois à compter de la
+réception du dossier transmis par le maire en application de l'article R. * 423-13-1 du présent code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-891 du 3 octobre 2013 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R*423-13-1
+  - Code de l'urbanisme - art. R*423-59
+  - Code de la construction et de l'habitation. - art. L111-4-1
+  - Code de la construction et de l'habitation. - art. R111-1-2
+
+
 ###### Article R*423-70
 
 Par exception aux dispositions de l'article R. 423-59, lorsque la demande de permis porte sur un établissement recevant du
@@ -53678,41 +53802,44 @@ _Codifié par_:
 ###### Article R*424-2
 
 Par exception au b de l'article R*424-1, le défaut de notification d'une décision expresse dans le délai d'instruction vaut
-décision implicite de rejet dans les cas suivants :
+décision implicite de rejet dans les cas suivants : 
 
 a) Lorsque les travaux sont soumis à l'autorisation du ministre de la défense ou à une autorisation au titre des sites
-classés ou des réserves naturelles ;
+classés ou des réserves naturelles ; 
 
-b) Lorsque le projet fait l'objet d'une évocation par le ministre chargé des sites ;
+b) Lorsque le projet fait l'objet d'une évocation par le ministre chargé des sites ; 
 
 c) Lorsque le projet porte sur un immeuble inscrit ou un immeuble adossé à un immeuble classé au titre des monuments
-historiques ;
+historiques ; 
 
 d) Lorsque le projet est soumis à enquête publique en application des articles R. 123-7 à R. 123-23 du code de
-l'environnement ;
+l'environnement ; 
 
-e) Lorsqu'il y a lieu de consulter l'Assemblée de Corse en application de l'article R*423-56 ;
+e) Lorsqu'il y a lieu de consulter l'Assemblée de Corse en application de l'article R*423-56 ; 
 
 f) Lorsque le projet est situé dans un espace ayant vocation à être classé dans le coeur d'un futur parc national dont la
 création a été prise en considération en application de l'article R*331-4 du code de l'environnement ou dans le coeur d'un
-parc national délimité en application de l'article L. 331-2 du même code ;
+parc national délimité en application de l'article L. 331-2 du même code ; 
 
 g) Lorsque la délivrance du permis est subordonnée, en application des articles L. 752-1 à L. 752-3 du code de commerce, à
 une autorisation d'exploitation commerciale ou, en application de l'article 30-2 du code de l'industrie cinématographique, à
 une autorisation de création, d'extension ou de réouverture au public d'établissements de spectacles cinématographiques et
-que la demande a fait l'objet d'un refus de la commission départementale compétente ;
+que la demande a fait l'objet d'un refus de la commission départementale compétente ; 
 
 h) Lorsque le projet a été soumis pour avis à la commission départementale d'aménagement commercial en application de
 l'article L. 752-4 du code de commerce, en cas d'avis défavorable de la commission départementale d'aménagement commercial
-ou, le cas échéant, de la Commission nationale d'aménagement commercial ;
+ou, le cas échéant, de la Commission nationale d'aménagement commercial ; 
 
-i) Lorsque le projet porte sur une démolition soumise à permis en site inscrit.
+i) Lorsque le projet porte sur une démolition soumise à permis en site inscrit ; 
+
+j) Lorsque la délivrance du permis est subordonnée, en application de l'article L. 425-13, à l'obtention d'une dérogation
+prévue par l'article L. 111-4-1 du code de la construction et de l'habitation et que cette dérogation a été refusée.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-274 du 28 février 2012 - art. 3
+  - Décret n°2013-891 du 3 octobre 2013 - art. 1
 
 _Cité par_:
 
@@ -53732,8 +53859,10 @@ _Cite_:
 
   - Code de commerce - art. L752-1
   - Code de commerce - art. L752-4
+  - Code de l'urbanisme - art. L425-13
   - Code de l'urbanisme - art. R*423-56
   - Code de l'urbanisme - art. R*424-1
+  - Code de la construction et de l'habitation. - art. L111-4-1
   - Code de l'environnement - art. L331-2
   - Code de l'environnement - art. R123-7
   - Code de l'environnement - art. R331-4
@@ -54055,29 +54184,31 @@ Mention du permis explicite ou tacite ou de la déclaration préalable doit êtr
 l'extérieur, par les soins de son bénéficiaire, dès la notification de l'arrêté ou dès la date à laquelle le permis tacite ou
 la décision de non-opposition à la déclaration préalable est acquis et pendant toute la durée du chantier. Cet affichage
 n'est pas obligatoire pour les déclarations préalables portant sur une coupe ou un abattage d'arbres situés en dehors des
-secteurs urbanisés. 
+secteurs urbanisés.
 
 Cet affichage mentionne également l'obligation, prévue à peine d'irrecevabilité par l'article R. 600-1, de notifier tout
 recours administratif ou tout recours contentieux à l'auteur de la décision et au bénéficiaire du permis ou de la décision
-prise sur la déclaration préalable. 
+prise sur la déclaration préalable.
 
 En outre, dans les huit jours de la délivrance expresse ou tacite du permis ou de la décision de non-opposition à la
 déclaration préalable, un extrait du permis ou de la déclaration est publié par voie d'affichage à la mairie pendant deux
-mois. L'exécution de cette formalité fait l'objet d'une mention au registre chronologique des actes de publication et de
-notification des arrêtés du maire prévu à l'article R. 2122-7 du code général des collectivités territoriales. 
+mois. Lorsqu'une dérogation ou une adaptation mineure est accordée, l'affichage en mairie porte sur l'intégralité de
+l'arrêté. L'exécution de la formalité d'affichage en mairie fait l'objet d'une mention au registre chronologique des actes de
+publication et de notification des arrêtés du maire prévu à l'article R. 2122-7 du code général des collectivités
+territoriales.
 
 Un arrêté du ministre chargé de l'urbanisme règle le contenu et les formes de l'affichage.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2013-891 du 3 octobre 2013 - art. 1
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. R2122-7 (V)
-  - Code de l'urbanisme - art. R*600-1 (V)
+  - Code général des collectivités territoriales - art. R2122-7
+  - Code de l'urbanisme - art. R*600-1
 
 _Cité par_:
 
@@ -56012,6 +56143,24 @@ _Cite_:
 _Cité par_:
 
   - Code de l'urbanisme - art. R*431-36 (V)
+
+
+###### Article R*431-31-1
+
+Lorsque le projet nécessite une dérogation prévue à l'article L. 111-4-1 du code de la construction et de l'habitation, la
+demande de dérogation est jointe à la demande de permis de construire. Les règles relatives au contenu de cette demande de
+dérogation et à son instruction sont définies à l'article R. 111-1-2 du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-891 du 3 octobre 2013 - art. 1
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L111-4-1
+  - Code de la construction et de l'habitation. - art. R111-1-2
 
 
 ###### Article R*431-32

@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2013-10-05
+Version Consolidée au 2013-12-01
 ## Contenu: 
   - [Partie législative (art. L110 à L600-8)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -60530,6 +60530,22 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+
+###### Article R*600-4
+
+Saisi d'une demande motivée en ce sens, le juge devant lequel a été formé un recours contre un permis de construire, de
+démolir ou d'aménager peut fixer une date au-delà de laquelle des moyens nouveaux ne peuvent plus être invoqués.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-879 du 1er octobre 2013 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-1480 du 2 novembre 2016 - art. 33
 
 
 ### Titre II : Dispositions diverses<a id=440></a>

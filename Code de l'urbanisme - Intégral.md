@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2014-03-27
+Version Consolidée au 2014-03-27 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. L110 à L600-9)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -2741,10 +2741,15 @@ _Cité par_:
   - Code de l'urbanisme - art. R*122-7 (VT)
   - Code rural - art. L511-3 (V)
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
-  - Loi n°2014-366 du 24 mars 2014 - art. 137 (V)
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. L132-7 (VD)
+  - Code de l'urbanisme - art. L132-8 (VD)
+  - Code de l'urbanisme - art. L132-9 (VD)
 
 _Cite_:
 

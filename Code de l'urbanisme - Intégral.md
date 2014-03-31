@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2014-03-27 00:00:01 +0100
+Version Consolidée au 2014-04-01
 ## Contenu: 
   - [Partie législative (art. L110 à L600-9)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -343,13 +343,13 @@ Version Consolidée au 2014-03-27 00:00:01 +0100
         - [Section 4 : Modèles nationaux de demande et de décision (art. R*410-21)](#340)
       - [Titre II : Dispositions communes aux diverses autorisations et aux déclarations préalables (art. R*420-1 à R*427-6)](#341)
         - [Chapitre Ier : Champ d'application (art. R*420-1 à R*421-29)](#342)
-          - [Section 1 : Dispositions applicables aux constructions nouvelles (art. *R421-1 à R*421-12)](#343)
+          - [Section 1 : Dispositions applicables aux constructions nouvelles (art. *R421-1 à R421-11)](#343)
             - [Sous-section 1 : Constructions nouvelles soumises à permis de construire (art. *R421-1)](#344)
             - [Sous-section 2 : Constructions nouvelles dispensées de toute formalité au titre du présent code (art. *R421-2 à R*421-8-1)](#345)
-            - [Sous-section 3 : Constructions nouvelles soumises à déclaration préalable (art. *R421-9 à R*421-12)](#346)
-          - [Section 2 : Dispositions applicables aux travaux exécutés sur des constructions existantes et aux changements de destination de ces constructions (art. *R421-13 à *R421-17)](#347)
+            - [Sous-section 3 : Constructions nouvelles soumises à déclaration préalable (art. R*421-10 à R421-11)](#346)
+          - [Section 2 : Dispositions applicables aux travaux exécutés sur des constructions existantes et aux changements de destination de ces constructions (art. *R421-13 à R*421-17-1)](#347)
             - [Sous-section 1 : Travaux soumis à permis de construire (art. *R421-16 à R*421-15)](#348)
-            - [Sous-section 2 : Travaux et changements de destination soumis à déclaration préalable (art. *R421-17)](#349)
+            - [Sous-section 2 : Travaux et changements de destination soumis à déclaration préalable (art. *R421-17 à R*421-17-1)](#349)
           - [Section 3 : Dispositions applicables aux travaux, installations et aménagements affectant l'utilisation du sol (art. *R421-18 à R*421-25)](#350)
             - [Sous-section 1 : Travaux, installations et aménagements soumis à permis d'aménager (art. *R421-19 à R*421-22)](#351)
             - [Sous-section 2 : Travaux, installations et aménagements soumis à déclaration préalable (art. *R421-23 à R*421-25)](#352)
@@ -372,10 +372,10 @@ Version Consolidée au 2014-03-27 00:00:01 +0100
             - [Sous-section 3 : Délais d'instruction particuliers (art. R*423-24 à R*423-37-1)](#369)
               - [Paragraphe 1 : Modification du délai d'instruction de droit commun (art. R*423-24 à R*423-33)](#370)
               - [Paragraphe 2 : Prolongations exceptionnelles du délai d'instruction défini à la sous-section 2 (art. *R423-36-1 à R*423-37-1)](#371)
-          - [Section 5 : Notifications de la liste des pièces manquantes et des modifications de délai (art. R*423-38 à R*423-49)](#372)
+          - [Section 5 : Notifications de la liste des pièces manquantes et des modifications de délai (art. R*423-38 à R*423-48)](#372)
             - [Sous-section 1 : Notification de la liste des pièces manquantes en cas de dossier incomplet (art. R*423-38 à R*423-41-1)](#373)
             - [Sous-section 2 : Notification de la majoration, de la prolongation ou de la suspension du délai d'instruction (art. *R423-44-1 à R*423-45)](#374)
-            - [Sous-section 3 : Conditions d'envoi des notifications (art. R*423-46 à R*423-49)](#375)
+            - [Sous-section 3 : Conditions d'envoi des notifications (art. R*423-46 à R*423-48)](#375)
           - [Section 6 : Instruction des demandes de permis et des déclarations préalables (art. R*423-50 à R*423-71-1)](#376)
             - [Sous-section 1 : Consultation des personnes publiques, services ou commissions intéressés (art. R*423-50 à R*423-56-1)](#377)
             - [Sous-section 2 : Enquête publique (art. R*423-57 à R*423-58)](#378)
@@ -426,8 +426,8 @@ Version Consolidée au 2014-03-27 00:00:01 +0100
         - [Chapitre Ier : Demande de permis de démolir (art. R*451-3 à R451-5)](#423)
         - [Chapitre II : Décision (art. R452-1)](#424)
         - [Chapitre III : Modèles nationaux de demande et de décision (art. R453-1)](#425)
-      - [Titre VI : Contrôle de la conformité des travaux (art. R462-1 à R462-10)](#426)
-        - [Chapitre II : Achèvement des travaux de construction ou d'aménagement (art. R462-1 à R462-10)](#427)
+      - [Titre VI : Contrôle de la conformité des travaux (art. R*462-4-4 à R462-10)](#426)
+        - [Chapitre II : Achèvement des travaux de construction ou d'aménagement (art. R*462-4-4 à R462-10)](#427)
       - [Titre VII : Dispositions diverses (art. R471-1 à R473-6)](#428)
         - [Chapitre Ier : Cours communes (art. R471-1 à R471-5)](#429)
         - [Chapitre II : Remontées mécaniques (art. R472-1 à R472-21)](#430)
@@ -33871,7 +33871,8 @@ foncières sont soumises à déclaration préalable ;
 application de l'article L. 111-10 ; 
 
 12° Le périmètre des secteurs dans lesquels un programme d'aménagement d'ensemble a été approuvé en application de l'article
-L. 332-9 ; 
+L. 332-9 dans sa rédaction antérieure à l'entrée en vigueur de la loi n° 2010-1658 du 29 décembre 2010 de finances
+rectificative pour 2010 ; 
 
 13° Le périmètre des secteurs situés au voisinage des infrastructures de transports terrestres, dans lesquels des
 prescriptions d'isolement acoustique ont été édictées en application de l'article L. 571-10 du code de l'environnement ; 
@@ -33889,14 +33890,17 @@ L. 127-1, L. 128-1 et L. 128-2 ;
 18° Les périmètres délimités par une délibération du conseil municipal ou de l'organe délibérant de l'établissement public de
 coopération intercommunale compétent dans lesquels le premier alinéa de l'article L. 111-6-2 ne s'applique pas ; 
 
-19° Le périmètre des secteurs relatif au taux de la taxe d'aménagement, en application de l'article L. 331-14 ; 
+19° Le périmètre des secteurs relatifs au taux de la taxe d'aménagement, en application de l'article L. 331-14 et L. 331-15 ;
 
-20° Le périmètre des secteurs affectés par un seuil minimal de densité, en application de l'article L. 331-36.
+20° Le périmètre des secteurs affectés par un seuil minimal de densité, en application de l'article L. 331-36
 
 **Nota:**
 
 Les articles L. 430-1 à L. 430-9 du code de l'urbanisme ont été abrogés par l'article 15 II de l'ordonnance n° 2005-1527 du 8
 décembre 2005.
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
@@ -33923,7 +33927,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2013-142 du 14 février 2013 - art. 4
+  - Décret n°2014-253 du 27 février 2014 - art. 1
 
 _Cité par_:
 
@@ -46119,16 +46123,15 @@ Prononce la clôture des opérations de remembrement.
 Cet arrêté énumère celles des contributions prévues à l'article L. 332-12 qu'il met, le cas échéant, à la charge de
 l'association foncière urbaine de remembrement. 
 
-Dans le cas où sont exigées la participation pour le financement d'équipements publics exceptionnels mentionnée au c de
-l'article L. 332-12 ou la participation forfaitaire mentionnée au d du même article, l'arrêté en fixe le montant et énonce le
+Dans le cas où sont exigées la participation pour le financement d'équipements publics exceptionnels mentionnée au b de
+l'article L. 332-12 ou la participation forfaitaire mentionnée au c du même article, l'arrêté en fixe le montant et énonce le
 mode d'évaluation de ce dernier. 
 
-Lorsque la participation forfaitaire inclut une cession gratuite de terrain, l'arrêté détermine la superficie à céder et en
-mentionne la valeur déterminée par le directeur des services fiscaux. 
-
-Lorsque la participation forfaitaire inclut le versement de la participation prévue à l'article L. 332-9 dans les programmes
-d'aménagement d'ensemble et que l'association s'en acquitte en tout ou en partie, conformément à l'article L. 332-10 sous
-forme d'exécution de travaux ou d'apport de terrain, l'arrêté mentionne :
+Lorsque la participation forfaitaire inclut le versement de la participation prévue à l'article L. 332-9   dans sa rédaction
+antérieure à l'entrée en vigueur de la loi n° 2010-1658 du 29 décembre 2010  de finances rectificative pour 2010, dans les
+programmes d'aménagement d'ensemble et que l'association s'en acquitte en tout ou en partie, conformément à l'article L.
+332-10 dans sa rédaction antérieure à l'entrée en vigueur de la loi n° 2010-1658 du 29 décembre 2010 de finances
+rectificative pour 2010, sous forme d'exécution de travaux ou d'apport de terrain, l'arrêté mentionne :
 
 - les caractéristiques de travaux et leur valeur déterminées d'un commun accord par l'association et le préfet ;
 
@@ -46139,22 +46142,23 @@ Toutefois, dans le cas où il est envisagé de modifier les prescriptions d'urba
 soumises à l'enquête publique, l'approbation du plan de remembrement ne peut intervenir qu'après que le conseil municipal a
 été de nouveau saisi dans les conditions prévues à l'article R. 322-8.
 
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°74-203 1974-02-26 ART. 17
 
 _Modifié par_:
 
-  - Décret n°93-614 du 26 mars 1993 - art. 3 () JORF 28 mars 1993
+  - Décret n°2014-253 du 27 février 2014 - art. 2
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L332-10 (Ab)
-  - Code de l'urbanisme - art. L332-12 (V)
-  - Code de l'urbanisme - art. L332-9 (Ab)
-  - Code de l'urbanisme - art. R*322-8 (V)
+  - Code de l'urbanisme - art. L332-10
+  - Code de l'urbanisme - art. L332-12
+  - Code de l'urbanisme - art. L332-9
+  - Code de l'urbanisme - art. R*322-8
 
 _Cité par_:
 
@@ -48775,8 +48779,9 @@ Ce registre, à feuillets non mobiles, est coté et paraphé par le maire.
 Sont portés sur ce registre, dans l'ordre chronologique de leur inscription : 
 
 1° La nature, le montant ou la valeur des contributions prescrites en application du 2° de l'article L. 332-6-1, de l'article
-L. 332-9, et du c de l'article L. 332-12 les références de l'acte ayant prescrit la contribution ainsi que la dénomination et
-l'adresse du redevable et du bénéficiaire de chaque contribution ; 
+L. 332-9 dans sa rédaction antérieure à l'entrée en vigueur de la loi n° 2010-1658 du 29 décembre 2010 de finances
+rectificative pour 2010 et du c de l'article L. 332-12 les références de l'acte ayant prescrit la contribution ainsi que la
+dénomination et l'adresse du redevable et du bénéficiaire de chaque contribution ; 
 
 2° La nature, le montant ou la valeur des contributions exigées dans le cadre de la réalisation des zones d'aménagement
 concerté ou des zones couvertes par une convention de projet urbain partenarial, la dénomination et l'adresse du redevable et
@@ -48789,20 +48794,26 @@ acquittée et de celle du bénéficiaire.
 
 Dans tous les cas, l'inscription mentionne la date à laquelle elle est portée sur le registre.
 
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2012-87 du 25 janvier 2012 - art. 2
 
 _Cite_:
 
+  - Loi n°2010-1658 du 29 décembre 2010
   - Code de l'urbanisme - art. L311-4
   - Code de l'urbanisme - art. L332-11-3
-  - Code de l'urbanisme - art. L332-12 (VD)
+  - Code de l'urbanisme - art. L332-12
   - Code de l'urbanisme - art. L332-6
   - Code de l'urbanisme - art. L332-6-1
   - Code de l'urbanisme - art. L332-9
+
+_Modifié par_:
+
+  - Décret n°2014-253 du 27 février 2014 - art. 2
 
 _Cité par_:
 
@@ -50589,20 +50600,27 @@ a) Les services de la commune ;
 
 b) Les services d'une collectivité territoriale ou d'un groupement de collectivités ; 
 
-c) Une agence départementale créée en application de l'article L. 5511-1 du code général des collectivités territoriales ; 
+c) Les services d'un syndicat mixte ne constituant pas un groupement de collectivités ; 
 
-d) Les services de l'Etat, lorsque la commune ou l'établissement public de coopération intercommunale remplit les conditions
+d) Une agence départementale créée en application de l'article L. 5511-1 du code général des collectivités territoriales ; 
+
+e) Les services de l'Etat, lorsque la commune ou l'établissement public de coopération intercommunale remplit les conditions
 fixées à l'article L. 422-8. 
 
 Pour l'application à Mayotte du d du présent article, les mots : ", lorsque la commune ou l'établissement public de
 coopération intercommunale remplit les conditions fixées à l'article L. 422-8 " sont remplacés par les mots : " dans les
 conditions prévues à l'article L. 427-1 ".
 
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-1529 du 28 décembre 2012 - art. 10
+  - Décret n°2014-253 du 27 février 2014 - art. 3
 
 _Cite_:
 
@@ -50751,18 +50769,23 @@ _Cité par_:
 
 ###### Article R*410-11
 
-Le certificat d'urbanisme est délivré par l'autorité compétente mentionnée aux articles R. 422-1 à R. 422-4.
+Le certificat d'urbanisme est délivré dans les conditions fixées aux articles R. 422-1 à R. 422-4 pour le permis de
+construire, d'aménager ou de démolir et la décision prise sur un projet faisant l'objet d'une déclaration préalable.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2014-253 du 27 février 2014 - art. 3
 
 _Cite_:
 
-  - Code de l'urbanisme - art. *R422-4 (V)
-  - Code de l'urbanisme - art. R*422-1 (V)
+  - Code de l'urbanisme - art. R*422-1
 
 _Codifié par_:
 
@@ -50970,11 +50993,19 @@ _Codifié par_:
 L'emprise au sol au sens du présent livre est la projection verticale du volume de la construction, tous débords et surplombs
 inclus.
 
+Toutefois, les ornements tels que les éléments de modénature et les marquises sont exclus, ainsi que les débords de toiture
+lorsqu'ils ne sont pas soutenus par des poteaux ou des encorbellements.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-2054 du 29 décembre 2011 - art. 2
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 _Cité par_:
 
@@ -51035,7 +51066,7 @@ _Codifié par_:
 ###### Article *R421-2
 
 Sont dispensées de toute formalité au titre du présent code, en raison de leur nature ou de leur très faible importance, sauf
-lorsqu'ils sont implantés dans un secteur sauvegardé ou dans un site classé : 
+lorsqu'ils sont implantés dans un secteur sauvegardé ou dans un site classé ou en instance de classement : 
 
 a) Les constructions nouvelles répondant aux critères cumulatifs suivants :
 
@@ -51043,7 +51074,7 @@ a) Les constructions nouvelles répondant aux critères cumulatifs suivants :
 
 - une emprise au sol inférieure ou égale à cinq mètres carrés ;
 
-- une surface de plancher inférieure ou égale à cinq mètres carrés. 
+- une surface de plancher inférieure ou égale à cinq mètres carrés ; 
 
 b) Les habitations légères de loisirs implantées dans les emplacements mentionnés aux 1° à 4° de l'article R. 111-32 et dont
 la surface de plancher est inférieure ou égale à trente-cinq mètres carrés ; 
@@ -51057,22 +51088,33 @@ d) Les piscines dont le bassin a une superficie inférieure ou égale à dix mè
 e) Les châssis et serres dont la hauteur au-dessus du sol est inférieure ou égale à un mètre quatre-vingts ; 
 
 f) Les murs dont la hauteur au-dessus du sol est inférieure à deux mètres, sauf s'ils constituent des clôtures régies par
-l'article R*421-12 ; 
+l'article R. 421-12 ; 
 
-g) Les clôtures, en dehors des cas prévus à l'article R*421-12, ainsi que les clôtures nécessaires à l'activité agricole ou
+g) Les clôtures, en dehors des cas prévus à l'article R. 421-12, ainsi que les clôtures nécessaires à l'activité agricole ou
 forestière ; 
 
 h) Le mobilier urbain ; 
 
 i) Les caveaux et monuments funéraires situés dans l'enceinte d'un cimetière ; 
 
-j) Les terrasses ou plates-formes de plain-pied.
+j) Les terrasses de plain-pied ; 
+
+k) Les plates-formes nécessaires à l'activité agricole ; 
+
+l) Les fosses nécessaires à l'activité agricole dont le bassin a une superficie inférieure ou égale à dix mètres carrés ; 
+
+m) Les travaux de ravalement, en dehors des cas prévus à l'article R. 421-17-1.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-274 du 28 février 2012 - art. 3
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 _Cité par_:
 
@@ -51085,7 +51127,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R*111-32 (V)
+  - Code de l'urbanisme - art. R*111-32
   - Code de l'urbanisme - art. R421-12
 
 
@@ -51096,24 +51138,29 @@ secteur sauvegardé dont le périmètre a été délimité :
 
 a) Les murs de soutènement ;
 
-b) Tous ouvrages d'infrastructure terrestre, maritime ou fluviale tels que les voies, ponts, infrastructures portuaires ou
-aéroportuaires.
+b) Tous les ouvrages d'infrastructure terrestre, maritime, fluviale, portuaire ou aéroportuaire ainsi que les outillages, les
+équipements ou les installations techniques directement liés à leur fonctionnement, à leur exploitation ou au maintien de la
+sécurité de la circulation maritime, fluviale, ferroviaire, routière ou aérienne.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
 _Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 _Cité par_:
 
   - Code de l'urbanisme - art. A421-5 (M)
   - Code de l'urbanisme - art. R*421-10 (M)
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
 
 
 ###### Article *R421-4
@@ -51176,8 +51223,13 @@ _Cité par_:
 
 ###### Article *R421-6
 
-Dans les secteurs sauvegardés dont le périmètre a été délimité et dans les sites classés, la durée d'un an mentionné au d de
+Dans les secteurs sauvegardés et dans les sites classés ou en instance de classement, la durée d'un an mentionné au d de
 l'article R. 421-5 est limitée à trois mois.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
@@ -51185,17 +51237,17 @@ _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-_Cite_:
-
-  - Code de l'urbanisme - art. *R421-5 (V)
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R*422-3 (M)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R421-5
 
 
 ###### Article *R421-8
@@ -51236,22 +51288,26 @@ _Codifié par_:
 
 ###### Article R*421-7
 
-Dans les sites classés, les secteurs sauvegardés dont le périmètre a été délimité et dans des périmètres justifiant une
+Dans les sites classés ou en instance de classement, les secteurs sauvegardés et dans des périmètres justifiant une
 protection particulière et délimités par une délibération motivée du conseil municipal ou de l'organe délibérant de
 l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, la durée de trois mois
 mentionnée au premier alinéa de l'article R. 421-5 est limitée à quinze jours et la durée d'un an mentionnée au c du même
 article est limitée à trois mois.
 
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 _Cite_:
 
-  - Code de l'urbanisme - art. *R421-5 (V)
+  - Code de l'urbanisme - art. R421-5
 
 _Codifié par_:
 
@@ -51282,133 +51338,6 @@ _Cite_:
 
 
 ##### Sous-section 3 : Constructions nouvelles soumises à déclaration préalable<a id=346></a>
-
-###### Article *R421-9
-
-En dehors des secteurs sauvegardés, les constructions nouvelles suivantes doivent être précédées d'une déclaration préalable,
-à l'exception des cas mentionnés à la sous-section 2 ci-dessus : 
-
-a) Les constructions dont soit l'emprise au sol, soit la surface de plancher est supérieure à cinq mètres carrés et répondant
-aux critères cumulatifs suivants :
-
-- une hauteur au-dessus du sol inférieure ou égale à douze mètres ;
-
-- une emprise au sol inférieure ou égale à vingt mètres carrés ;
-
-- une surface de plancher inférieure ou égale à vingt mètres carrés ;
-
-b) Les habitations légères de loisirs implantées dans les conditions définies à l'article R. 111-32, dont la surface de
-plancher est supérieure à trente-cinq mètres carrés ; 
-
-c) Les constructions répondant aux critères cumulatifs suivants :
-
-- une hauteur au-dessus du sol supérieure à douze mètres ;
-
-- une emprise au sol inférieure ou égale à cinq mètres carrés ;
-
-- une surface de plancher inférieure ou égale à cinq mètres carrés ;
-
-d) Les ouvrages et accessoires des lignes de distribution d'énergie électrique dont la tension est inférieure à soixante-
-trois mille volts ; 
-
-e) Les murs dont la hauteur au-dessus du sol est supérieure ou égale à deux mètres ; 
-
-f) Les piscines dont le bassin a une superficie inférieure ou égale à cent mètres carrés et qui ne sont pas couvertes ou dont
-la couverture, fixe ou mobile, a une hauteur au-dessus du sol inférieure à un mètre quatre-vingts ; 
-
-g) Les châssis et serres dont la hauteur au-dessus du sol est comprise entre un mètre quatre-vingts et quatre mètres, et dont
-la surface au sol n'excède pas deux mille mètres carrés sur une même unité foncière ; 
-
-h) Les ouvrages de production d'électricité à partir de l'énergie solaire installés sur le sol dont la puissance crête est
-inférieure à trois kilowatts et dont la hauteur maximum au-dessus du sol peut dépasser un mètre quatre-vingt ainsi que ceux
-dont la puissance crête est supérieure ou égale à trois kilowatts et inférieure ou égale à deux cent cinquante kilowatts
-quelle que soit leur hauteur. 
-
-Les dispositions du quatrième alinéa ne sont applicables ni aux éoliennes, ni aux ouvrages de production d'électricité à
-partir de l'énergie solaire installés au sol.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2012-274 du 28 février 2012 - art. 3
-
-_Cité par_:
-
-  - Code de l'environnement - art. R341-10 (VD)
-  - Code de l'urbanisme - art. *R421-1 (M)
-  - Code de l'urbanisme - art. A421-2 (Ab)
-  - Code de l'urbanisme - art. A421-3-1 (T)
-  - Code de l'urbanisme - art. A431-1 (V)
-  - Code de l'urbanisme - art. R*421-12 (M)
-  - Code de l'urbanisme - art. R*421-32 (Ab)
-  - Code de l'urbanisme - art. R*421-38 (M)
-  - Code de l'urbanisme - art. R*443-7-2 (Ab)
-  - Code de l'urbanisme - art. R421-13 (M)
-  - Code de l'urbanisme - art. R421-24 (M)
-  - Code de l'urbanisme - art. R421-41 (M)
-  - Code de l'urbanisme - art. R445-12 (Ab)
-  - Code de l'urbanisme - art. R445-8 (Ab)
-  - Code de la construction et de l'habitation. - art. R*421-8 (M)
-  - Code du tourisme. - art. D333-1 (V)
-
-_Cite_:
-
-  - Code de l'urbanisme - art. R*111-32 (V)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-10 (M)
-
-
-###### Article *R421-11
-
-Dans les secteurs sauvegardés dont le périmètre a été délimité, dans un site classé, dans les réserves naturelles, dans les
-espaces ayant vocation à être classés dans le coeur d'un futur parc national dont la création a été prise en considération en
-application de l'article R. 331-4 du code de l'environnement et à l'intérieur du coeur des parcs nationaux délimités en
-application de l'article L. 331-2 du même code, les constructions nouvelles suivantes doivent être précédées d'une
-déclaration préalable : 
-
-a) Les constructions nouvelles répondant aux critères cumulatifs suivants :
-
-- une hauteur au-dessus du sol inférieure ou égale à douze mètres ;
-
-- une emprise au sol inférieure ou égale à vingt mètres carrés ;
-
-- une surface de plancher inférieure ou égale à vingt mètres carrés.
-
-b) Les ouvrages de production d'électricité à partir de l'énergie solaire installés sur le sol dont la puissance crête est
-inférieure à trois kilowatts ;
-
-c) Les murs, quelle que soit leur hauteur.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°2009-447 du 21 avril 2009 - art. 7 (V)
-  - Décret n°2009-448 du 21 avril 2009 - art. 7 (V)
-  - Décret n°2009-449 du 22 avril 2009 - art. 7 (V)
-  - Décret n°2009-486 du 29 avril 2009 - art. 7 (V)
-  - Décret n°2009-1677 du 29 décembre 2009 - art. 7 (V)
-  - Décret n°2012-507 du 18 avril 2012 - art. 7 (V)
-  - Code de l'urbanisme - art. R421-10 (M)
-  - Code de l'urbanisme - art. R421-24 (M)
-  - Code de la construction et de l'habitation. - art. R*421-8 (M)
-
-_Modifié par_:
-
-  - Décret n°2011-2054 du 29 décembre 2011 - art. 2
-
-_Anciens textes_:
-
-  - Code de l'urbanisme - art. R421-10-1 (T)
-
-_Cite_:
-
-  - Code de l'environnement - art. L331-2
-  - Code de l'environnement - art. R331-4
-
 
 ###### Article R*421-10
 
@@ -51449,16 +51378,22 @@ _Codifié par_:
 
 Doit être précédée d'une déclaration préalable l'édification d'une clôture située : 
 
-a) Dans un secteur sauvegardé dont le périmètre a été délimité, dans le champ de visibilité d'un monument historique défini à
-l'article L. 621-30-1 du code du patrimoine dans une zone de protection du patrimoine architectural, urbain et paysager ou
-dans une aire de mise en valeur de l'architecture et du patrimoine ; 
+a) Dans un secteur sauvegardé, dans le champ de visibilité d'un monument historique défini à l'article L. 621-30 du code du
+patrimoine dans une zone de protection du patrimoine architectural, urbain et paysager ou dans une aire de mise en valeur de
+l'architecture et du patrimoine ; 
 
-b) Dans un site inscrit ou dans un site classé en application des articles L. 341-1 et L. 341-2 du code de l'environnement ; 
+b) Dans un site inscrit ou dans un site classé ou en instance de classement en application des articles L. 341-1 et L. 341-2
+du code de l'environnement ; 
 
-c) Dans un secteur délimité par le plan local d'urbanisme en application du 7° de l'article L. 123-1 ; 
+c) Dans un secteur délimité par le plan local d'urbanisme en application du 7° de l'article L. 123-1-5 ; 
 
 d) Dans une commune ou partie de commune où le conseil municipal ou l'organe délibérant de l'établissement public de
 coopération intercommunale compétent en matière de plan local d'urbanisme a décidé de soumettre les clôtures à déclaration.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
@@ -51489,12 +51424,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 _Cite_:
 
   - Code de l'urbanisme - art. L123-1
+  - Code de l'urbanisme - art. L123-1-5
   - Code de l'environnement - art. L341-1
+  - Code du patrimoine - art. L621-30
   - Code du patrimoine - art. L621-30-1
 
 **Liens**:
@@ -51504,6 +51441,171 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+
+###### Article R421-9
+
+En dehors des secteurs sauvegardés et des sites classés ou en instance de classement, les constructions nouvelles suivantes
+doivent être précédées d'une déclaration préalable, à l'exception des cas mentionnés à la sous-section 2 ci-dessus : 
+
+a) Les constructions dont soit l'emprise au sol, soit la surface de plancher est supérieure à cinq mètres carrés et répondant
+aux critères cumulatifs suivants :
+
+- une hauteur au-dessus du sol inférieure ou égale à douze mètres ;
+
+- une emprise au sol inférieure ou égale à vingt mètres carrés ;
+
+- une surface de plancher inférieure ou égale à vingt mètres carrés ; 
+
+b) Les habitations légères de loisirs implantées dans les conditions définies à l'article R. 111-32, dont la surface de
+plancher est supérieure à trente-cinq mètres carrés ; 
+
+c) Les constructions répondant aux critères cumulatifs suivants :
+
+- une hauteur au-dessus du sol supérieure à douze mètres ;
+
+- une emprise au sol inférieure ou égale à cinq mètres carrés ;
+
+- une surface de plancher inférieure ou égale à cinq mètres carrés. 
+
+Toutefois, ces dispositions ne sont applicables ni aux éoliennes, ni aux ouvrages de production d'électricité à partir de
+l'énergie solaire installés au sol ; 
+
+d) Les ouvrages et accessoires des lignes de distribution d'énergie électrique dont la tension est inférieure à soixante-
+trois mille volts ; 
+
+e) Les murs dont la hauteur au-dessus du sol est supérieure ou égale à deux mètres ; 
+
+f) Les piscines dont le bassin a une superficie inférieure ou égale à cent mètres carrés et qui ne sont pas couvertes ou dont
+la couverture, fixe ou mobile, a une hauteur au-dessus du sol inférieure à un mètre quatre-vingts ; 
+
+g) Les châssis et serres dont la hauteur au-dessus du sol est comprise entre un mètre quatre-vingts et quatre mètres, et dont
+la surface au sol n'excède pas deux mille mètres carrés sur une même unité foncière ; 
+
+h) Les ouvrages de production d'électricité à partir de l'énergie solaire installés sur le sol dont la puissance crête est
+inférieure à trois kilowatts et dont la hauteur maximum au-dessus du sol peut dépasser un mètre quatre-vingts ainsi que ceux
+dont la puissance crête est supérieure ou égale à trois kilowatts et inférieure ou égale à deux cent cinquante kilowatts
+quelle que soit leur hauteur ; 
+
+i) Les fosses nécessaires à l'activité agricole dont le bassin a une superficie supérieure à dix mètres carrés et inférieure
+ou égale à cent mètres carrés.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2014-253 du 27 février 2014 - art. 4
+
+_Cité par_:
+
+  - Code de l'environnement - art. R341-10 (VD)
+  - Code de l'urbanisme - art. *R421-1 (M)
+  - Code de l'urbanisme - art. A421-2 (Ab)
+  - Code de l'urbanisme - art. A421-3-1 (T)
+  - Code de l'urbanisme - art. A431-1 (V)
+  - Code de l'urbanisme - art. R*421-12 (M)
+  - Code de l'urbanisme - art. R*421-32 (Ab)
+  - Code de l'urbanisme - art. R*421-38 (M)
+  - Code de l'urbanisme - art. R*443-7-2 (Ab)
+  - Code de l'urbanisme - art. R421-13 (M)
+  - Code de l'urbanisme - art. R421-24 (M)
+  - Code de l'urbanisme - art. R421-41 (M)
+  - Code de l'urbanisme - art. R445-12 (Ab)
+  - Code de l'urbanisme - art. R445-8 (Ab)
+  - Code de la construction et de l'habitation. - art. R*421-8 (M)
+  - Code du tourisme. - art. D333-1 (V)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R*111-32
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-10 (M)
+
+
+###### Article R421-11
+
+I.-Dans les secteurs sauvegardés, dans un site classé ou en instance de classement, dans les réserves naturelles, dans les
+espaces ayant vocation à être classés dans le cœur d'un futur parc national dont la création a été prise en considération en
+application de l'article R. 331-4 du code de l'environnement et à l'intérieur du cœur des parcs nationaux délimités en
+application de l'article L. 331-2 du même code, les constructions nouvelles suivantes doivent être précédés d'une déclaration
+préalable : 
+
+a) Les constructions nouvelles répondant aux critères cumulatifs suivants :
+
+- une hauteur au-dessus du sol inférieure ou égale à douze mètres ;
+
+- une emprise au sol inférieure ou égale à vingt mètres carrés ;
+
+- une surface de plancher inférieure ou égale à vingt mètres carrés ; 
+
+b) Les ouvrages de production d'électricité à partir de l'énergie solaire installés sur le sol dont la puissance crête est
+inférieure à trois kilowatts ; 
+
+c) Les murs, quelle que soit leur hauteur. 
+
+II.-En outre, dans les sites classés ou en instance de classement, doivent être précédés d'une déclaration préalable : 
+
+a) Les habitations légères de loisirs implantées dans les emplacements mentionnés aux 1° à 4° de l'article R. 111-32, quelle
+que soit leur surface de plancher ; 
+
+b) Les éoliennes terrestres dont la hauteur du mât et de la nacelle au-dessus du sol est inférieure à douze mètres ; 
+
+c) Les ouvrages et accessoires des lignes de distribution d'énergie électrique dont la tension est inférieure à soixante-
+trois mille volts ; 
+
+d) Les piscines dont le bassin a une superficie inférieure ou égale à cent mètres carrés et qui ne sont pas couvertes ou dont
+la couverture, fixe ou mobile, a une hauteur au-dessus du sol inférieure à un mètre quatre-vingts ; 
+
+e) Les châssis et serres dont la hauteur au-dessus du sol est inférieure à quatre mètres et dont la surface au sol n'excède
+pas deux mille mètres carrés sur une même unité foncière ; 
+
+f) Les caveaux et monuments funéraires situés dans l'enceinte d'un cimetière ; 
+
+g) Les terrasses de plain-pied ; 
+
+h) Les plates-formes nécessaires à l'activité agricole ; 
+
+i) Les fosses nécessaires à l'activité agricole dont le bassin a une superficie supérieure à dix mètres carrés et inférieure
+ou égale à cent mètres carrés.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2009-447 du 21 avril 2009 - art. 7 (V)
+  - Décret n°2009-448 du 21 avril 2009 - art. 7 (V)
+  - Décret n°2009-449 du 22 avril 2009 - art. 7 (V)
+  - Décret n°2009-486 du 29 avril 2009 - art. 7 (V)
+  - Décret n°2009-1677 du 29 décembre 2009 - art. 7 (V)
+  - Décret n°2012-507 du 18 avril 2012 - art. 7 (V)
+  - Code de l'urbanisme - art. R421-10 (M)
+  - Code de l'urbanisme - art. R421-24 (M)
+  - Code de la construction et de l'habitation. - art. R*421-8 (M)
+
+_Modifié par_:
+
+  - Décret n°2014-253 du 27 février 2014 - art. 4
+
+_Anciens textes_:
+
+  - Code de l'urbanisme - art. R421-10-1 (T)
+
+_Cite_:
+
+  - Code de l'environnement - art. L331-2
+  - Code de l'environnement - art. R331-4
 
 
 ##### Section 2 : Dispositions applicables aux travaux exécutés sur des constructions existantes et aux changements de destination de ces constructions<a id=347></a>
@@ -51681,7 +51783,8 @@ Doivent être précédés d'une déclaration préalable lorsqu'ils ne sont pas s
 articles R*421-14 à *R. 421-16 les travaux exécutés sur des constructions existantes, à l'exception des travaux d'entretien
 ou de réparations ordinaires, et les changements de destination des constructions existantes suivants : 
 
-a) Les travaux de ravalement et les travaux ayant pour effet de modifier l'aspect extérieur d'un bâtiment existant ; 
+a) Les travaux ayant pour effet de modifier l'aspect extérieur d'un bâtiment existant, à l'exception des travaux de
+ravalement ; 
 
 b) Les changements de destination d'un bâtiment existant entre les différentes destinations définies à l'article R*123-9 ;
 pour l'application du présent alinéa, les locaux accessoires d'un bâtiment sont réputés avoir la même destination que le
@@ -51710,6 +51813,14 @@ document d'urbanisme en tenant lieu, à l'exclusion de ceux impliquant la créat
 quarante mètres carrés de surface de plancher ou d'emprise au sol lorsque cette création conduit au dépassement de l'un des
 seuils fixés à l'article R*431-2 du présent code.
 
+g) La transformation de plus de cinq mètres carrés de surface close et couverte non comprise dans la surface de plancher de
+la construction en un local constituant de la surface de plancher.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -51720,6 +51831,10 @@ _Cité par_:
   - Code de l'urbanisme - art. A431-1 (V)
   - Code de l'urbanisme - art. R421-24 (M)
   - Code de l'urbanisme - art. R421-41 (M)
+
+_Modifié par_:
+
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 _Cite_:
 
@@ -51732,10 +51847,44 @@ _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
-_Modifié par_:
 
-  - Décret n°2012-274 du 28 février 2012 - art. 3
-  - Décret n°2013-142 du 14 février 2013 - art. 11
+###### Article R*421-17-1
+
+Lorsqu'ils ne sont pas soumis à permis de construire en application des articles R. 421-14 à R. 421-16, les travaux de
+ravalement doivent être précédés d'une déclaration préalable dès lors qu'ils sont effectués sur tout ou partie d'une
+construction existante située :
+
+a) Dans un secteur sauvegardé, dans le champ de visibilité d'un monument historique défini à l'article L. 621-30 du code du
+patrimoine, dans une zone de protection du patrimoine architectural, urbain et paysager ou dans une aire de mise en valeur de
+l'architecture et du patrimoine ;
+
+b) Dans un site inscrit ou dans un site classé ou en instance de classement en application des articles L. 341-1, L. 341-2 et
+L. 341-7 du code de l'environnement ;
+
+c) Dans les réserves naturelles ou à l'intérieur du cœur des parcs nationaux délimités en application de l'article L. 331-2
+du même code ;
+
+d) Sur un immeuble protégé en application du 7° de l'article L. 123-1-5 du présent code ;
+
+e) Dans une commune ou périmètre d'une commune où le conseil municipal ou l'organe délibérant de l'établissement public de
+coopération intercommunale compétent en matière de plan local d'urbanisme a décidé de soumettre, par délibération motivée,
+les travaux de ravalement à autorisation.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-253 du 27 février 2014 - art. 4
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. *R421-2 (V)
+  - Code de l'urbanisme - art. A431-1 (V)
 
 
 ##### Section 3 : Dispositions applicables aux travaux, installations et aménagements affectant l'utilisation du sol<a id=350></a>
@@ -51786,9 +51935,11 @@ Doivent être précédés de la délivrance d'un permis d'aménager :
 
 a) Les lotissements :
 
-- qui prévoient la création ou l'aménagement de voies, d'espaces ou d'équipements communs internes au lotissement ;
+- qui prévoient la création ou l'aménagement de voies, d'espaces ou d'équipements communs à plusieurs lots destinés à être
+bâtis et propres au lotissement. Les équipements pris en compte sont les équipements dont la réalisation est à la charge du
+lotisseur ;
 
-- ou qui sont situés dans un site classé ou dans un secteur sauvegardé ; 
+- ou qui sont situés dans un secteur sauvegardé, dans un site classé ou en instance de classement ; 
 
 b) Les remembrements réalisés par une association foncière urbaine libre régie par le chapitre II du titre II du livre III,
 lorsqu'ils prévoient la réalisation de voies ou espaces communs ; 
@@ -51817,6 +51968,11 @@ dépôts de véhicules et les garages collectifs de caravanes ou de résidences 
 k) A moins qu'ils ne soient nécessaires à l'exécution d'un permis de construire, les affouillements et exhaussements du sol
 dont la hauteur, s'il s'agit d'un exhaussement, ou la profondeur dans le cas d'un affouillement, excède deux mètres et qui
 portent sur une superficie supérieure ou égale à deux hectares.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
@@ -51850,11 +52006,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-274 du 28 février 2012 - art. 3
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 _Cite_:
 
-  - Code du tourisme. - art. L325-1 (V)
+  - Code du tourisme. - art. L325-1
   - Code de l'urbanisme - art. R*111-34
 
 **Liens**:
@@ -51868,7 +52024,7 @@ _Codifié par_:
 
 ###### Article *R421-20
 
-Dans les secteurs sauvegardés dont le périmètre a été délimité, les sites classés et les réserves naturelles doivent être
+Dans les secteurs sauvegardés, les sites classés ou en instance de classement et les réserves naturelles doivent être
 précédés de la délivrance d'un permis d'aménager :
 
 - les aménagements mentionnés aux h, i et j de l'article R. 421-19, quelle que soit leur importance ;
@@ -51878,16 +52034,20 @@ d'un affouillement, excède deux mètres et portant sur une superficie supérieu
 
 - la création d'un espace public.
 
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 _Cite_:
 
-  - Code de l'urbanisme - art. *R421-19 (V)
+  - Code de l'urbanisme - art. *R421-19
 
 _Cité par_:
 
@@ -52142,21 +52302,21 @@ _Créé par_:
 
 ###### Article R*421-25
 
-Dans les secteurs sauvegardés dont le périmètre a été délimité, les sites classés et les réserves naturelles, l'installation
-de mobilier urbain ou d'œuvres d'art, les modifications des voies ou espaces publics et les plantations qui sont effectuées
-sur ces voies ou espaces, à l'exception des travaux d'entretien ou de réparations ordinaires et des travaux imposés par les
+Dans les secteurs sauvegardés, les sites classés ou en instance de classement et les réserves naturelles, l'installation de
+mobilier urbain ou d'œuvres d'art, les modifications des voies ou espaces publics et les plantations qui sont effectuées sur
+ces voies ou espaces, à l'exception des travaux d'entretien ou de réparations ordinaires et des travaux imposés par les
 réglementations applicables en matière de sécurité, doivent également être précédées d'une déclaration préalable.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
 _Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 _Cité par_:
 
@@ -52167,6 +52327,10 @@ _Cité par_:
   - Code de l'urbanisme - art. R421-36 (M)
   - Code de l'urbanisme - art. R421-38-4 (M)
   - Code de l'urbanisme - art. R421-42 (Ab)
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
 
 
 ##### Section 4 : Dispositions applicables aux démolitions<a id=353></a>
@@ -52222,33 +52386,40 @@ _Codifié par_:
 Doivent en outre être précédés d'un permis de démolir les travaux ayant pour objet de démolir ou de rendre inutilisable tout
 ou partie d'une construction : 
 
-a) Située dans un secteur sauvegardé dont le périmètre a été délimité ou dans un périmètre de restauration immobilière créé
-en application des articles L. 313-1 à L. 313-15 ; 
+a) Située dans un secteur sauvegardé ou dans un périmètre de restauration immobilière créé en application des articles L.
+313-1 à L. 313-15 ; 
 
 b) Inscrite au titre des monuments historiques ou adossée à un immeuble classé au titre des monuments historiques ; 
 
-c) Située dans le champ de visibilité d'un monument historique défini à l'article L. 621-30-1 du code du patrimoine dans une
+c) Située dans le champ de visibilité d'un monument historique défini à l'article L. 621-30 du code du patrimoine dans une
 zone de protection du patrimoine architectural, urbain et paysager ou dans une aire de mise en valeur de l'architecture et du
 patrimoine ; 
 
-d) Située dans un site inscrit ou classé en application des articles L. 341-1 et L. 341-2 du code de l'environnement ; 
+d) Située dans un site inscrit ou un site classé ou en instance de classement en application des articles L. 341-1 et L.
+341-2 du code de l'environnement ; 
 
 e) Identifiée comme devant être protégée par un plan local d'urbanisme, en application du 7° de l'article L. 123-1-5, située
 dans un périmètre délimité par le plan en application du même article ou, dans une commune non dotée d'un plan local
 d'urbanisme ou d'un document d'urbanisme en tenant lieu, identifiée par délibération du conseil municipal, prise après
 enquête publique, comme constituant un élément de patrimoine ou de paysage à protéger et à mettre en valeur.
 
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2013-142 du 14 février 2013 - art. 11
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 _Cite_:
 
   - Code de l'urbanisme - art. L123-1-5
   - Code de l'urbanisme - art. L313-1
   - Code de l'environnement - art. L341-1
+  - Code du patrimoine - art. L621-30
   - Code du patrimoine - art. L621-30-1
 
 _Cité par_:
@@ -52740,7 +52911,13 @@ _Codifié par_:
 
 ###### Article R*423-12
 
-Dans les sites classés et les réserves naturelles, le maire transmet un exemplaire supplémentaire du dossier au préfet.
+Dans les sites classés ou en instance de classement et les réserves naturelles, le maire transmet un exemplaire
+supplémentaire du dossier au préfet.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
@@ -52748,9 +52925,9 @@ _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 
 ###### Article R*423-13
@@ -52821,30 +52998,37 @@ a) Les services de la commune ;
 
 b) Les services d'une collectivité territoriale ou d'un groupement de collectivités ; 
 
-c) Une agence départementale créée en application de l'article L. 5511-1 du code général des collectivités territoriales ; 
+c) Les services d'un syndicat mixte ne constituant pas un groupement de collectivités ;
 
-d) Les services de l'Etat, lorsque la commune ou l'établissement public de coopération intercommunale remplit les conditions
+d) Une agence départementale créée en application de l'article L. 5511-1 du code général des collectivités territoriales ; 
+
+e) Les services de l'Etat, lorsque la commune ou l'établissement public de coopération intercommunale remplit les conditions
 fixées à l'article L. 422-8.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°73-1023 1973-11-08
+
+_Modifié par_:
+
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L5511-1 (V)
-  - Code de l'urbanisme - art. L422-8 (V)
+  - Code général des collectivités territoriales - art. L5511-1
+  - Code de l'urbanisme - art. L422-8
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R*427-3 (V)
   - Code de l'urbanisme - art. R*740-4 (Ab)
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*423-16
@@ -53117,13 +53301,17 @@ Le délai d'instruction prévu par le b et le c de l'article R. 423-23 est port�
 
 a) Lorsqu'il y a lieu de consulter une commission nationale ; 
 
-b) Lorsqu'il y a lieu de consulter l'assemblée de Corse en application de l'article R. 423-56.
+b) Lorsqu'il y a lieu de consulter l'assemblée de Corse en application de l'article R. 423-56 ; 
+
+c) Lorsqu'il y a lieu de consulter le préfet, dans les conditions prévues par l'article R. 332-24 du code de l'environnement,
+lorsqu'il s'agit d'une réserve naturelle nationale ou, en Corse, d'une réserve classée par l'Etat.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 _Cité par_:
 
@@ -53131,12 +53319,17 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R*423-23 (V)
-  - Code de l'urbanisme - art. R*423-56 (V)
+  - Code de l'urbanisme - art. R*423-23
+  - Code de l'urbanisme - art. R*423-56
+  - Code de l'environnement - art. R332-24
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+_Modifié par_:
+
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 
 ###### Article R*423-28
@@ -53436,21 +53629,19 @@ _Cite_:
 
 Lorsque le dossier ne comprend pas les pièces exigées en application du présent livre, l'autorité compétente, dans le délai
 d'un mois à compter de la réception ou du dépôt du dossier à la mairie, adresse au demandeur ou à l'auteur de la déclaration
-une lettre recommandée avec demande d'avis de réception ou, dans le cas prévu par l'article R. 423-48, un courrier
+une lettre recommandée avec demande d'avis de réception ou, dans le cas prévu par l'article R. 423-48, un échange
 électronique, indiquant, de façon exhaustive, les pièces manquantes.
 
 **Nota:**
 
-Décret n° 2007-18 art. 26 : 
-
-1. Le délai d'un mois prévu par les articles R. 423-38 et R. 423-42 est porté à deux mois pour les demandes de permis
-déposées entre le 1er juillet et le 30 septembre 2007 inclus.
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 _Cité par_:
 
@@ -53464,7 +53655,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R*423-48 (V)
+  - Code de l'urbanisme - art. R*423-48
 
 _Codifié par_:
 
@@ -53769,13 +53960,18 @@ _Codifié par_:
 ###### Article R*423-46
 
 Les notifications et courriers prévus par les sous-sections 1 et 2 ci-dessus sont adressés par lettre recommandée avec
-demande d'avis de réception ou, dans le cas prévu par l'article R. 423-48, par courrier électronique.
+demande d'avis de réception ou, dans le cas prévu par l'article R. 423-48, par échange électronique.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 _Cité par_:
 
@@ -53783,7 +53979,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R*423-48 (V)
+  - Code de l'urbanisme - art. R*423-48
 
 _Codifié par_:
 
@@ -53805,18 +54001,23 @@ _Codifié par_:
 ###### Article R*423-48
 
 Lorsque la demande précise que le demandeur accepte de recevoir à une adresse électronique les réponses de l'autorité
-compétente, les notifications peuvent lui être adressées par courrier électronique.
+compétente, les notifications peuvent lui être adressées par échange électronique.
 
 Dans ce cas, le demandeur est réputé avoir reçu ces notifications à la date à laquelle il les consulte à l'aide de la
 procédure électronique. Un accusé de réception électronique est adressé à l'autorité compétente au moment de la consultation
 du document. A défaut de consultation à l'issue d'un délai de huit jours après leur envoi, le demandeur est réputé avoir reçu
 ces notifications.
 
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 _Cité par_:
 
@@ -53831,31 +54032,6 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
-
-
-###### Article R*423-49
-
-Un arrêté du ministre chargé de l'urbanisme fixe les caractéristiques techniques de la procédure électronique de
-transmission, garantissant la fiabilité de l'identification du demandeur et de l'autorité compétente, ainsi que l'intégrité
-des documents adressés, la sécurité et la confidentialité des échanges.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. R462-1 (VD)
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
-_Créé par_:
-
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-_Abrogé par_:
-
-  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 
 ##### Section 6 : Instruction des demandes de permis et des déclarations préalables<a id=376></a>
@@ -53894,18 +54070,25 @@ _Codifié par_:
 ###### Article R*423-52
 
 L'autorité compétente consulte en tant que de besoin les autorités et services publics habilités à demander que soient
-prescrites les contributions prévues au 2° de l'article L. 332-6-1 ou à l'article L. 332-9.
+prescrites les contributions prévues au 2° de l'article L. 332-6-1 ou à l'article L. 332-9  dans sa rédaction antérieure à
+l'entrée en vigueur de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
 _Cite_:
 
-  - Code de l'urbanisme - art. L332-6-1 (V)
-  - Code de l'urbanisme - art. L332-9 (Ab)
+  - Loi n°2010-1658 du 29 décembre 2010
+  - Code de l'urbanisme - art. L332-6-1
+  - Code de l'urbanisme - art. L332-9
+
+_Modifié par_:
+
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 _Cité par_:
 
@@ -54281,24 +54464,33 @@ _Codifié par_:
 Par exception aux dispositions de l'article R*423-59, le délai à l'issue duquel l'architecte des Bâtiments de France est
 réputé avoir émis un avis favorable est de deux mois lorsque : 
 
-a) Le permis est situé dans un secteur sauvegardé ; 
+a) Le projet soumis à permis est situé dans un secteur sauvegardé ; 
 
-b) Le permis de construire ou d'aménager est situé dans un site inscrit ou classé en application des articles L. 341-1 et L.
-341-2 du code de l'environnement ; 
+b) Le projet soumis à permis de construire ou d'aménager est situé dans un site inscrit ; 
 
 c) Le permis de démolir est situé dans un périmètre de protection des immeubles classés ou inscrits au titre des monuments
-historiques.
+historiques ; 
+
+d) Le projet soumis à permis est situé dans un site classé ou en instance de classement en application des articles L. 341-2
+et L. 341-7 du code de l'environnement.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-274 du 28 février 2012 - art. 3
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R*423-59 (V)
-  - Code de l'environnement - art. L341-1 (V)
+  - Code de l'urbanisme - art. R*423-59
+  - Code de l'environnement - art. L341-1
+  - Code de l'environnement - art. L341-2
+  - Code de l'environnement - art. L341-7
 
 _Cité par_:
 
@@ -54677,9 +54869,10 @@ Par exception au b de l'article R*424-1, le défaut de notification d'une décis
 décision implicite de rejet dans les cas suivants : 
 
 a) Lorsque les travaux sont soumis à l'autorisation du ministre de la défense ou à une autorisation au titre des sites
-classés ou des réserves naturelles ; 
+classés ou en instance de classement ou des réserves naturelles ; 
 
-b) Lorsque le projet fait l'objet d'une évocation par le ministre chargé des sites ; 
+b) Lorsque le projet fait l'objet d'une évocation par le ministre chargé des sites ou par le ministre chargé de la protection
+des réserves naturelles ; 
 
 c) Lorsque le projet porte sur un immeuble inscrit ou un immeuble adossé à un immeuble classé au titre des monuments
 historiques ; 
@@ -54707,11 +54900,16 @@ i) Lorsque le projet porte sur une démolition soumise à permis en site inscrit
 j) Lorsque la délivrance du permis est subordonnée, en application de l'article L. 425-13, à l'obtention d'une dérogation
 prévue par l'article L. 111-4-1 du code de la construction et de l'habitation et que cette dérogation a été refusée.
 
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2013-891 du 3 octobre 2013 - art. 1
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 _Cité par_:
 
@@ -54822,29 +55020,37 @@ _Codifié par_:
 Lorsque la décision met à la charge du bénéficiaire du permis une ou plusieurs des contributions mentionnées à l'article L.
 332-28, elle fixe le montant de chacune d'elles. 
 
-Lorsqu'une des ces contributions prend la forme d'une cession gratuite de terrain, en application du e du 2 de l'article L.
-332-6-1 ou d'apport de terrain en application de l'article L. 332-10, la décision précise la superficie à céder et en
-mentionne la valeur déterminée par le directeur des services fiscaux. 
+Lorsqu'une des ces contributions prend la forme d'un apport de terrain en application de l'article L. 332-10, dans sa
+rédaction antérieure à l'entrée en vigueur de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010 la
+décision précise la superficie à céder et en mentionne la valeur déterminée par le directeur des services fiscaux. 
 
-Lorsqu'une des ces contributions prend la forme d'exécution de travaux en application de l'article L. 332-10, la décision
-précise les caractéristiques générales des travaux et l'estimation de leur coût.
+Lorsqu'une des ces contributions prend la forme d'exécution de travaux en application de l'article L. 332-10, dans sa
+rédaction antérieure à l'entrée en vigueur de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010 la
+décision précise les caractéristiques générales des travaux et l'estimation de leur coût.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Loi n°2010-1658 du 29 décembre 2010
+  - Code de l'urbanisme - art. L332-10
+  - Code de l'urbanisme - art. L332-28
+  - Code de l'urbanisme - art. L332-6-1
+  - Code de l'environnement - art. L332-10
 
 _Cité par_:
 
   - Décret n°2014-253 du 27 février 2014 (V)
   - Décret n°2014-450 du 2 mai 2014 - art. 22 (VT)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'urbanisme - art. L332-10 (Ab)
-  - Code de l'urbanisme - art. L332-28 (V)
-  - Code de l'urbanisme - art. L332-6-1 (V)
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 _Codifié par_:
 
@@ -54923,26 +55129,31 @@ _Cite_:
 
 La décision accordant ou refusant le permis ou s'opposant au projet faisant l'objet d'une déclaration préalable est notifiée
 au demandeur par lettre recommandée avec demande d'avis de réception postal, ou, dans les cas prévus à l'article R. 423-48,
-par transmission électronique. 
+par échange électronique.
 
 Il en est de même de l'arrêté fixant les participations exigibles du bénéficiaire d'un permis tacite ou d'une décision de
-non-opposition à une déclaration préalable. 
+non-opposition à une déclaration préalable.
 
 Lorsque la décision accorde le permis sans prévoir de participation ni de prescription, elle peut être notifiée par pli non
-recommandé. 
+recommandé.
 
 Lorsque la décision est prise par le président de l'établissement public de coopération intercommunale, celui-ci en adresse
 copie au maire de la commune.
 
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R*423-48 (V)
+  - Code de l'urbanisme - art. R*423-48
 
 _Cité par_:
 
@@ -55148,19 +55359,24 @@ _Cite_:
 
 ###### Article R*424-18
 
-Lorsque la déclaration porte sur un changement de destination ou sur une division de terrain sans travaux, la décision
-devient caduque si ces opérations n'ont pas eu lieu dans le délai de deux ans à compter de la notification mentionnée à
-l'article R*424-10 ou de la date à laquelle la décision tacite est intervenue. 
+Lorsque la déclaration porte sur un changement de destination ou sur une division de terrain, la décision devient caduque si
+ces opérations n'ont pas eu lieu dans le délai de deux ans à compter de la notification mentionnée à l'article R*424-10 ou de
+la date à laquelle la décision tacite est intervenue. 
 
 Il en est de même lorsque la déclaration ne comporte pas de travaux et porte sur l'installation d'une caravane en application
 du d de l'article R*421-23 ou sur la mise à disposition des campeurs de terrains ne nécessitant pas de permis d'aménager en
 application de l'article R*421-19.
 
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-274 du 28 février 2012 - art. 3
+  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 _Cité par_:
 
@@ -56838,6 +57054,54 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
+###### Article R*431-23-1
+
+Lorsque les travaux projetés portent sur une construction à édifier dans une opération d'intérêt national, la demande est
+accompagnée, le cas échéant, de l'attestation de l'aménageur certifiant qu'il a réalisé ou prendra en charge l'intégralité
+des travaux mentionnés à l'article R. 331-5.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-253 du 27 février 2014 - art. 5
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R*331-5
+
+
+###### Article R*431-23-2
+
+Lorsque les travaux projetés portent sur une construction à édifier dans un périmètre de projet urbain partenarial mentionné
+à l'article L. 332-11-3, la demande est accompagnée d'un extrait de la convention précisant le lieu du projet urbain
+partenarial et la durée d'exonération de la taxe d'aménagement.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-253 du 27 février 2014 - art. 5
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L332-11-3
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. R*431-36 (V)
+
+
 ###### Article R*431-24
 
 Lorsque les travaux projetés portent sur la construction, sur une unité foncière ou sur plusieurs unités foncières contiguës,
@@ -56887,6 +57151,46 @@ _Abrogé par_:
 _Cité par_:
 
   - Code de l'urbanisme - art. R*431-36 (V)
+
+
+###### Article R*431-25-1
+
+Lorsque les travaux projetés sont situés dans un secteur où la commune a institué un seuil minimal de densité et portent sur
+une construction dont la densité n'excède pas ce seuil, le dossier présenté à l'appui de la demande précise la valeur du
+terrain sur lequel la construction doit être édifiée.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-253 du 27 février 2014 - art. 5
+
+
+###### Article R*431-25-2
+
+Lorsque les travaux projetés sont situés dans une commune où est instituée la redevance pour les locaux à usage de bureaux,
+les locaux commerciaux et les locaux de stockage, le dossier présenté à l'appui de la demande doit comprendre la déclaration
+permettant d'asseoir et de liquider la taxe mentionnée à l'article L. 520-1 du présent code.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-253 du 27 février 2014 - art. 5
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L520-1
 
 
 ###### Article R*431-26
@@ -57075,6 +57379,31 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R*431-33-1
+
+Les pièces complémentaires prévues aux articles R. 431-13 à R. 431-33 sont fournies sous l'entière responsabilité des
+demandeurs.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-253 du 27 février 2014 - art. 5
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. R*423-38-1 (VD)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R*431-13
 
 
 ###### Article R431-14-1
@@ -57298,8 +57627,11 @@ d) Le justificatif de dépôt de la demande d'autorisation prévue à l'article 
 projet porte sur une construction susceptible, en raison de son emplacement et de sa hauteur, de constituer un obstacle à la
 navigation aérienne. 
 
-Il est complété, s'il y a lieu, par les documents mentionnés aux a et b de l'article R. 431-10, aux articles R. 431-14 et R.
-431-15, aux b, g et k de l'article R. 431-16 et aux articles R. 431-21, R. 431-25 et R. 431-31 à R. 431-33. 
+Il est complété, s'il y a lieu, par les documents mentionnés aux a et b de l'article R. 431-10, aux articles R. 431-14 à R.
+431-15, aux b et g de l'article R. 431-16 et aux articles R. 431-18, R. 431-18-1, R. 431-21, R. 431-25 et R. 431-31 à R.
+431-33.
+
+Ces pièces sont fournies sous l'entière responsabilité des demandeurs. 
 
 Lorsque la déclaration porte sur un projet de création ou de modification d'une construction et que ce projet est visible
 depuis l'espace public ou que ce projet est situé dans le périmètre de protection d'un immeuble classé ou inscrit au titre
@@ -57307,15 +57639,14 @@ des monuments historiques, le dossier comprend également les documents mentionn
 
 **Nota:**
 
-Conformément à l'article 23 du décret n° 2012-1109 du 1er octobre 2012, les dispositions de l'article 21 du présent décret
-s'appliquent aux demandes de permis de construire et aux déclarations préalables déposées à compter du premier jour du
-huitième mois suivant sa publication.
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-1109 du 1er octobre 2012 - art. 21
+  - Décret n°2014-253 du 27 février 2014 - art. 5
 
 _Cité par_:
 
@@ -57360,16 +57691,25 @@ a) Lorsque le terrain d'assiette du projet n'est situé ni dans une zone urbaine
 réservé délimités par un plan local d'urbanisme ni dans un secteur constructible délimité par une carte communale ; 
 
 b) Ou lorsque le terrain est situé dans un secteur sauvegardé ou un périmètre de restauration immobilière créé en application
-des articles L. 313-1 à L. 313-15 du code de l'urbanisme, dans un site inscrit ou classé en application des articles L. 341-1
-et suivants du code de l'environnement, dans le champ de visibilité d'un monument historique tel que défini par le code du
-patrimoine, dans une zone de protection du patrimoine architectural, urbain et paysager, ou dans une aire de mise en valeur
-de l'architecture et du patrimoine.
+des articles L. 313-1 à L. 313-15 du code de l'urbanisme,  dans un site inscrit, dans un site classé ou en instance de
+classement  en application des articles L. 341-1 et suivants du code de l'environnement, dans le champ de visibilité d'un
+monument historique tel que défini par le code du patrimoine, dans une zone de protection du patrimoine architectural, urbain
+et paysager, ou dans une aire de mise en valeur de l'architecture et du patrimoine.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
 _Modifié par_:
 
-  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
+  - Décret n°2014-253 du 27 février 2014 - art. 5
 
 _Cite_:
 
@@ -57379,10 +57719,6 @@ _Cite_:
 _Cité par_:
 
   - Code de l'urbanisme - art. R*740-1 (Ab)
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
 
 
 #### Chapitre IV : Dispositions diverses<a id=404></a>
@@ -57571,8 +57907,14 @@ _Codifié par_:
 
 ###### Article R*441-5
 
-Le dossier joint à la demande de permis d'aménager comprend en outre l'étude d'impact, lorsqu'elle est prévue en application
-du code de l'environnement.
+Le dossier joint à la demande de permis d'aménager comprend en outre l'étude d'impact lorsqu'elle est prévue en application
+du code de l'environnement ou la décision de l'autorité administrative de l'Etat compétente en matière d'environnement
+dispensant le demandeur de réaliser une étude d'impact.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
@@ -57582,7 +57924,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-2019 du 29 décembre 2011 - art. 3
+  - Décret n°2014-253 du 27 février 2014 - art. 6
 
 
 ###### Article R*441-6
@@ -57590,7 +57932,8 @@ _Modifié par_:
 Lorsque la demande prévoit l'édification, par l'aménageur, de constructions à l'intérieur du périmètre, la notice prévue par
 l'article R*441-3 comprend les éléments prévus par les b, c et d du 2° de l'article R*431-8. La demande est complétée par les
 pièces prévues par l'article R*431-9 et, le cas échéant, les pièces prévues par les a et b de l'article R*431-10 et, s'il y a
-lieu, les pièces prévues par les articles R. 431-11 et R*431-13 à R*431-33. 
+lieu, les pièces prévues par les articles R. 431-11 et R*431-13 à R*431-33. Ces pièces sont fournies sous l'entière
+responsabilité des demandeurs. 
 
 La demande ne peut alors être instruite que si le demandeur a fait appel à un architecte pour établir le projet architectural
 de ces constructions, lorsque le projet ne bénéficie pas des dérogations prévues à l'article R. 431-2. 
@@ -57608,19 +57951,27 @@ b) Le document attestant de la conformité du projet d'installation d'assainisse
 réglementaires, prévu au 1° du III de l'article L. 2224-8 du code général des collectivités territoriales, dans le cas où le
 projet est accompagné de la réalisation ou de la réhabilitation d'une telle installation.
 
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-274 du 28 février 2012 - art. 5
+  - Décret n°2014-253 du 27 février 2014 - art. 6
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L2224-8 (V)
-  - Code de l'urbanisme - art. R*431-13 (V)
+  - Code général des collectivités territoriales - art. L2224-8
+  - Code de l'urbanisme - art. R*431-10 (V)
+  - Code de l'urbanisme - art. R*431-13
+  - Code de l'urbanisme - art. R*431-2 (V)
   - Code de l'urbanisme - art. R*431-8
-  - Code de l'environnement - art. L414-4 (V)
-  - Code de l'environnement - art. R414-23 (V)
+  - Code de l'environnement - art. L414-4
+  - Code de l'environnement - art. R414-22 (V)
+  - Code de l'environnement - art. R414-23
 
 _Cité par_:
 
@@ -57752,7 +58103,13 @@ b) Un plan sommaire des lieux indiquant les bâtiments de toute nature existant 
 c) Un croquis et un plan coté dans les trois dimensions de l'aménagement faisant apparaître, s'il y a lieu, la ou les
 divisions projetées. 
 
-Il est complété, s'il y a lieu, par les documents mentionnés aux articles R*441-6 à R*441-8 et au b de l'article R*442-21.
+Il est complété, s'il y a lieu, par les documents mentionnés au a de l'article R. 441-6, aux articles R. 441-7 à R. 441-8-1
+et au b de l'article R. 442-21.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
@@ -57762,7 +58119,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-274 du 28 février 2012 - art. 5
+  - Décret n°2014-253 du 27 février 2014 - art. 6
 
 _Cité par_:
 
@@ -59125,6 +59482,29 @@ _Cite_:
   - Code de l'environnement - art. R414-23
 
 
+###### Article R*451-6
+
+Lorsque la démolition de la construction doit faire l'objet d'une évaluation de ses incidences sur un site Natura 2000 en
+application de l'article L. 414-4 du code de l'environnement, le dossier joint à la demande comprend en outre le dossier
+d'évaluation des incidences prévu à l'article R. 414-23 de ce code.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-253 du 27 février 2014 - art. 7
+
+_Cite_:
+
+  - Code de l'environnement - art. L414-4
+  - Code de l'environnement - art. R414-23
+
+
 ###### Article R451-1
 
 La demande de permis de démolir précise : 
@@ -59271,6 +59651,23 @@ _Codifié par_:
 
 #### Chapitre II : Achèvement des travaux de construction ou d'aménagement<a id=427></a>
 
+###### Article R*462-4-4
+
+Les attestations accompagnant la déclaration attestant l'achèvement et la conformité des travaux sont fournies sous l'entière
+responsabilité du déclarant.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-253 du 27 février 2014 - art. 8
+
+
 ###### Article R462-1
 
 La déclaration attestant l'achèvement et la conformité des travaux est signée par le bénéficiaire du permis de construire ou
@@ -59279,22 +59676,23 @@ dans le cas où ils ont dirigé les travaux.
 
 Elle est adressée par pli recommandé avec demande d'avis de réception postal au maire de la commune ou déposée contre
 décharge à la mairie. Lorsque la commune est dotée des équipements répondant aux normes fixées par l'arrêté du ministre
-chargé de l'urbanisme prévu à l'article R. 423-49, la déclaration peut être adressée par courrier électronique dans les
+chargé de l'urbanisme prévu à l'article R. 423-49, la déclaration peut être adressée par échange électronique dans les
 conditions définies par cet article. 
 
 Le maire transmet cette déclaration au préfet lorsque la décision de non-opposition à la déclaration préalable ou le permis a
 été pris au nom de l'Etat, ou au président de l'établissement public de coopération intercommunale lorsque la décision de
 non-opposition à la déclaration préalable ou le permis a été pris au nom de cet établissement public.
 
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 _Modifié par_:
 
-  - Décret n°2007-817 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
+  - Décret n°2014-253 du 27 février 2014 - art. 8
 
 _Cité par_:
 
@@ -59306,7 +59704,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R*423-49 (V)
+  - Code de l'urbanisme - art. R*423-49
 
 _Codifié par_:
 
@@ -59449,22 +59847,27 @@ _Cite_:
 
 ###### Article R462-5
 
-Lorsque le demandeur accepte de recevoir les réponses de l'autorité compétente par courrier électronique, la déclaration
+Lorsque le demandeur accepte de recevoir les réponses de l'autorité compétente par échange électronique, la déclaration
 précise l'adresse électronique à laquelle le courrier de l'autorité compétente peut être envoyé dans les conditions définies
 par l'article R. 423-48. 
 
-Lorsque la déclaration a été adressée par courrier électronique, le déclarant est réputé accepter de recevoir le courrier de
-l'autorité compétente par courrier électronique dans les mêmes conditions.
+Lorsque la déclaration a été adressée par échange électronique, le déclarant est réputé accepter de recevoir le courrier de
+l'autorité compétente par échange électronique dans les mêmes conditions.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2014-253 du 27 février 2014 - art. 8
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R*423-48 (V)
+  - Code de l'urbanisme - art. R*423-48
 
 _Codifié par_:
 
@@ -59501,9 +59904,9 @@ Le récolement est obligatoire :
 
 a) Lorsque les travaux concernent un immeuble inscrit au titre des monuments historiques en application de l'article L.
 621-25 du code du patrimoine, ou lorsqu'ils sont situés dans un secteur sauvegardé créé en application de l'article L. 313-1
-du présent code ou dans un site classé en application des articles L. 341-1 et L. 341-2 du code de l'environnement ; il est
-alors effectué en liaison avec l'architecte des Bâtiments de France ou le cas échéant le représentant du ministre chargé des
-monuments historiques ou du ministre chargé des sites ; 
+du présent code ou dans un site classé ou en instance de classement en application des articles L. 341-1 et L. 341-2 du code
+de l'environnement ; il est alors effectué en liaison avec l'architecte des Bâtiments de France ou le cas échéant le
+représentant du ministre chargé des monuments historiques ou du ministre chargé des sites ; 
 
 b) Lorsqu'il s'agit de travaux soumis aux dispositions des articles R. 122-1 à R. 122-29 du code de la construction et de
 l'habitation relatifs aux immeubles de grande hauteur, soit aux dispositions des articles R. 123-1 à R. 123-55 du code de la
@@ -59523,21 +59926,26 @@ le plan de prévention n'impose pas d'autre règle que le respect de normes para
 réaliser une étude préalable permettant de déterminer l'aptitude du terrain à recevoir la construction compte tenu de la
 destination de celle-ci.
 
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-274 du 28 février 2012 - art. 6
+  - Décret n°2014-253 du 27 février 2014 - art. 8
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L313-1 (V)
+  - Code de l'urbanisme - art. L313-1
   - Code de la construction et de l'habitation. - art. R*123-1
   - Code de la construction et de l'habitation. - art. R122-1
-  - Code de l'environnement - art. L331-2 (V)
+  - Code de l'environnement - art. L331-2
   - Code de l'environnement - art. L332-1
   - Code de l'environnement - art. L341-1
-  - Code de l'environnement - art. L341-2 (V)
+  - Code de l'environnement - art. L341-2
   - Code de l'environnement - art. R331-4
   - Code du patrimoine - art. L621-25
 
@@ -59576,22 +59984,27 @@ prendre la décision sur la déclaration préalable met en demeure, dans le dél
 l'ouvrage de déposer un dossier modificatif ou de mettre les travaux en conformité avec l'autorisation accordée. 
 
 Cette mise en demeure est notifiée par lettre recommandée avec demande d'avis de réception postal. Elle peut être envoyée par
-courrier électronique dans les cas prévus à l'article R. 423-48. Elle rappelle les sanctions encourues.
+échange électronique dans les cas prévus à l'article R. 423-48. Elle rappelle les sanctions encourues.
+
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-_Cite_:
-
-  - Code de l'urbanisme - art. R*423-48 (V)
-  - Code de l'urbanisme - art. R462-6 (V)
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+_Modifié par_:
+
+  - Décret n°2014-253 du 27 février 2014 - art. 8
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R*423-48
+  - Code de l'urbanisme - art. R462-6
 
 
 ###### Article R462-10

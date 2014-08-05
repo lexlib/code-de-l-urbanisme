@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2014-07-01
+Version Consolidée au 2014-08-06
 ## Contenu: 
   - [Partie législative (art. L110 à L600-9)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -14954,24 +14954,20 @@ _Codifié par_:
 
 ###### Article L221-2
 
-La personne publique qui s'est rendue acquéreur d'une réserve foncière doit en assurer la gestion en bon père de famille.
+La personne publique qui s'est rendue acquéreur d'une réserve foncière doit en assurer la gestion raisonnablement. 
 
 Avant leur utilisation définitive, les immeubles acquis pour la constitution de réserves foncières ne peuvent faire l'objet
 d'aucune cession en pleine propriété en dehors des cessions que les personnes publiques pourraient se consentir entre elles
 et celles faites en vue de la réalisation d'opérations pour lesquelles la réserve a été constituée. Ces immeubles ne peuvent
 faire l'objet que de concessions temporaires qui ne confèrent au preneur aucun droit de renouvellement et aucun droit à se
-maintenir dans les lieux lorsque l'immeuble est repris en vue de son utilisation définitive.
+maintenir dans les lieux lorsque l'immeuble est repris en vue de son utilisation définitive. 
 
 Toutefois, lorsque les terres concédées sont à usage agricole, il ne peut être mis fin à ces concessions que moyennant
-préavis d'un an au moins.
+préavis d'un an au moins. 
 
 Les personnes publiques mentionnées au présent article bénéficient des dispositions de l'article 50 de la loi n° 86-1290 du
 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le
 developpement de l'offre foncière.
-
-**Nota:**
-
-L'article 10 de la loi n° 86-1290 du 23 décembre 1986 a été abrogé par l'article 39 de la loi n° 89-462 du 6 juillet 1989.
 
 **Liens relatifs à cet article**
 
@@ -14981,11 +14977,11 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Loi n°86-1290 1986-12-23 art. 50
+  - Loi n°86-1290 du 23 décembre 1986 - art. 50 (Ab)
 
 _Modifié par_:
 
-  - Loi n°86-1290 du 23 décembre 1986 - art. 70 () JORF 24 décembre 1986
+  - Loi n°2014-873 du 4 août 2014 - art. 26
 
 _Cité par_:
 

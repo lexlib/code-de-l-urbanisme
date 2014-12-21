@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2014-12-18
+Version Consolidée au 2014-12-22
 ## Contenu: 
   - [Partie législative (art. L110 à L600-10)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -5990,6 +5990,13 @@ coopération intercommunale compétent, et après accord du préfet de départem
 Il en est de même lorsqu'un plan local d'urbanisme élaboré par un établissement public de coopération intercommunale est
 révisé pour intégrer les dispositions tenant lieu de programme local de l'habitat ou de plan de déplacements urbains. 
 
+II bis.-Un établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, de document en
+tenant lieu ou de carte communale peut décider, le cas échéant après accord de la commune concernée, d'achever toute
+procédure d'élaboration ou d'évolution d'un plan local d'urbanisme, d'un document en tenant lieu ou d'une carte communale,
+engagée avant la date de sa création ou du transfert de cette compétence. 
+
+Le premier alinéa du présent II bis est applicable à la métropole de Lyon. 
+
 III.-Lorsqu'il est élaboré par une commune non membre d'un établissement public compétent, le plan local d'urbanisme couvre
 l'intégralité de son territoire. 
 
@@ -6104,7 +6111,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2014-366 du 24 mars 2014 - art. 137 (V)
+  - Loi n°2014-1545 du 20 décembre 2014 - art. 14
 
 
 ###### Article L123-1-1
@@ -6318,7 +6325,7 @@ déplacements.
 valeur l'environnement, notamment les continuités écologiques, les paysages, les entrées de villes et le patrimoine, lutter
 contre l'insalubrité, permettre le renouvellement urbain et assurer le développement de la commune. Elles peuvent favoriser
 la mixité fonctionnelle en prévoyant qu'en cas de réalisation d'opérations d'aménagement, de construction ou de
-réhabilitation, un pourcentage de ces opérations est destiné à la réalisation de commerces.
+réhabilitation, un pourcentage de ces opérations est destiné à la réalisation de commerces. 
 
 Elles peuvent comporter un échéancier prévisionnel de l'ouverture à l'urbanisation des zones à urbaniser et de la réalisation
 des équipements correspondants. 
@@ -6327,6 +6334,9 @@ Elles peuvent porter sur des quartiers ou des secteurs à mettre en valeur, réh
 
 Elles peuvent prendre la forme de schémas d'aménagement et préciser les principales caractéristiques des voies et espaces
 publics. 
+
+Elles peuvent adapter la délimitation des périmètres, en fonction de la qualité de la desserte, où s'applique le plafonnement
+à proximité des transports prévu à l'article L. 123-1-13.
 
 2. En ce qui concerne l'habitat, dans le cas des plans locaux d'urbanisme tenant lieu de programme local de l'habitat, ces
 orientations précisent les actions et opérations d'aménagement visant à poursuivre les objectifs énoncés à l'article L. 302-1
@@ -6344,7 +6354,7 @@ l'article L. 122-1-9 du présent code.
 
 _Modifié par_:
 
-  - Loi n°2014-366 du 24 mars 2014 - art. 137 (V)
+  - Loi n°2014-1545 du 20 décembre 2014 - art. 12
 
 _Cité par_:
 
@@ -6360,6 +6370,7 @@ _Cité par_:
 _Cite_:
 
   - Code de l'urbanisme - art. L122-1-9
+  - Code de l'urbanisme - art. L123-1-13 (V)
   - Code de la construction et de l'habitation. - art. L302-1
   - Code des transports - art. L1214-1
 
@@ -6723,31 +6734,48 @@ _Cite_:
 ###### Article L123-1-13
 
 Il ne peut, nonobstant toute disposition du plan local d'urbanisme, être exigé la réalisation de plus d'une aire de
-stationnement par logement lors de la construction de logements locatifs financés avec un prêt aidé par l'Etat. Les plans
-locaux d'urbanisme peuvent en outre ne pas imposer la réalisation d'aires de stationnement lors de la construction de ces
-logements.
+stationnement par logement lors de la construction de logements locatifs financés avec un prêt aidé par l'Etat, ainsi que
+lors de la construction des établissements assurant l'hébergement des personnes âgées mentionnés au 6° du I de l'article L.
+312-1 du code de l'action sociale et des familles et des résidences universitaires mentionnées à l'article L. 631-12 du code
+de la construction et de l'habitation. 
+
+Lors de la construction des logements locatifs financés avec un prêt aidé par l'Etat et des établissements assurant
+l'hébergement des personnes âgées et des résidences universitaires mentionnés au premier alinéa du présent article, si ces
+derniers sont situés à moins de cinq cents mètres d'une gare ou d'une station de transport public guidé ou de transport
+collectif en site propre et que la qualité de la desserte le permet, le nombre d'aires de stationnement exigible par logement
+ne peut dépasser 0,5, nonobstant toute disposition du plan local d'urbanisme. 
+
+Pour les autres catégories de logements situés à moins de cinq cents mètres d'une gare ou d'une station de transport public
+guidé ou de transport collectif en site propre et dès lors que la qualité de la desserte le permet, il ne peut, nonobstant
+toute disposition du plan local d'urbanisme, être exigé la réalisation de plus d'une aire de stationnement par logement. 
 
 L'obligation de réaliser des aires de stationnement n'est pas applicable aux travaux de transformation ou d'amélioration de
 bâtiments affectés à des logements locatifs financés avec un prêt aidé par l'Etat, y compris dans le cas où ces travaux
-s'accompagnent de la création de surface de plancher, dans la limite d'un plafond fixé par décret en Conseil d'Etat.
+s'accompagnent de la création de surface de plancher, dans la limite d'un plafond fixé par décret en Conseil d'Etat. 
 
-**Nota:**
+Pour la mise en œuvre des plafonds mentionnés aux deux premiers alinéas du présent article, la définition du logement est
+précisée par voie réglementaire. 
 
-
+Les plans locaux d'urbanisme peuvent, en outre, ne pas imposer la réalisation d'aires de stationnement lors de la
+construction des logements mentionnés aux trois premiers alinéas.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (M)
-  - Ordonnance n°2011-1539 du 16 novembre 2011 - art. 3 (VD)
-
 _Cité par_:
 
-  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (VD)
+  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (V)
   - Code de l'urbanisme - art. L123-1-4 (VT)
   - Code de l'urbanisme - art. L710-6-1 (VT)
   - Code de l'urbanisme - art. R*123-9-1 (VT)
+
+_Modifié par_:
+
+  - Loi n°2014-1545 du 20 décembre 2014 - art. 12 (V)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L312-1 (V)
+  - Code de la construction et de l'habitation. - art. L631-12 (V)
 
 
 ###### Article L123-2
@@ -6943,9 +6971,11 @@ _Cité par_:
 
 Dans les communes appartenant à une zone d'urbanisation continue de plus de 50 000 habitants figurant sur la liste prévue à
 l'article 232 du code général des impôts et dans les communes de plus de 15 000 habitants en forte croissance démographique
-figurant sur la liste prévue au septième alinéa de l'article L. 302-5 du code de la construction et de l'habitation, il peut
-être autorisé des dérogations au règlement du plan local d'urbanisme ou du document en tenant lieu, dans les conditions et
-selon les modalités définies au présent article. 
+figurant sur la liste prévue au septième alinéa de l'article L. 302-5 du code de la construction et de l'habitation, ainsi
+que dans les communes appartenant à une des zones d'urbanisation continue de plus de 50 000 habitants mentionnées à l'article
+18 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n°
+86-1290 du 23 décembre 1986, il peut être autorisé des dérogations au règlement du plan local d'urbanisme ou du document en
+tenant lieu, dans les conditions et selon les modalités définies au présent article. 
 
 En tenant compte de la nature du projet et de la zone d'implantation dans un objectif de mixité sociale, l'autorité
 compétente pour délivrer le permis de construire peut, par décision motivée : 
@@ -6957,8 +6987,9 @@ environnant ;
 
 2° Déroger aux règles relatives à la densité et aux obligations en matière de création d'aires de stationnement pour
 autoriser la surélévation d'une construction achevée depuis plus de deux ans, lorsque la surélévation a pour objet la
-création de logement. Si le projet est contigu à une autre construction, elle peut également déroger aux règles de gabarit
-pour autoriser la surélévation à dépasser la hauteur maximale dans les conditions et limites fixées au 1° ; 
+création de logement ou un agrandissement de la surface de logement. Si le projet est contigu à une autre construction, elle
+peut également déroger aux règles de gabarit pour autoriser la surélévation à dépasser la hauteur maximale dans les
+conditions et limites fixées au 1° ; 
 
 3° Déroger aux règles relatives à la densité et aux obligations en matière de création d'aires de stationnement pour
 autoriser la transformation à usage principal d'habitation d'un immeuble existant par reconstruction, rénovation ou
@@ -6967,13 +6998,23 @@ réhabilitation, dans la limite du gabarit de l'immeuble existant ;
 4° Déroger en tout ou partie aux obligations de création d'aires de stationnement applicables aux logements lorsque le projet
 de construction de logements est situé à moins de 500 mètres d'une gare ou d'une station de transport public guidé ou de
 transport collectif en site propre, en tenant compte de la qualité de la desserte, de la densité urbaine ou des besoins
-propres au projet au regard des capacités de stationnement existantes à proximité.
+propres au projet au regard des capacités de stationnement existantes à proximité ; 
+
+5° Déroger aux règles de retrait fixant une distance minimale par rapport aux limites séparatives, dans des conditions
+précisées par décret en Conseil d'Etat, pour autoriser une construction destinée principalement à l'habitation, sous réserve
+que le projet s'intègre harmonieusement dans le milieu urbain environnant.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Ordonnance n°2013-889 du 3 octobre 2013 - art. 1
+  - Loi n°89-462 du 6 juillet 1989 - art. 18 (V)
+  - Code général des impôts, CGI. - art. 232
+  - Code de la construction et de l'habitation. - art. L302-5
+
+_Modifié par_:
+
+  - Loi n°2014-1545 du 20 décembre 2014 - art. 14
 
 _Cité par_:
 
@@ -6981,11 +7022,6 @@ _Cité par_:
   - Code de l'urbanisme - art. R*123-9-2 (VT)
   - Code de l'urbanisme - art. R*431-31-2 (M)
   - Code de la construction et de l'habitation. - art. L111-4-1 (V)
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 232
-  - Code de la construction et de l'habitation. - art. L302-5
 
 
 ###### Article L123-6
@@ -25569,23 +25605,20 @@ _Cité par_:
 
 ###### Article L427-2
 
-Pour son application à Mayotte, l'article L. 425-7 est ainsi rédigé : 
-
-" Conformément à l'article 3 de l'ordonnance n° 98-526 du 24 juin 1998 réglementant l'urbanisme commercial dans la
-collectivité territoriale de Mayotte, lorsque le permis de construire porte sur un projet soumis à une autorisation
-d'exploitation commerciale, le permis ne peut être accordé avant la délivrance de cette autorisation. Sa mise en œuvre ne
-peut être entreprise avant l'expiration des recours entrepris contre elle. "
+Conformément à l'article 3 de l'ordonnance n° 98-526 du 24 juin 1998 réglementant l'urbanisme commercial dans la collectivité
+territoriale de Mayotte, lorsque le permis de construire porte sur un projet soumis à une autorisation d'exploitation
+commerciale, le permis ne peut être accordé avant la délivrance de cette autorisation. Sa mise en œuvre ne peut être
+entreprise avant l'expiration des recours entrepris contre elle.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Ordonnance n°98-526 du 24 juin 1998 - art. 3
-  - Code de l'urbanisme - art. L425-7
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-787 du 31 mai 2012 - art. 6
+  - Loi n°2014-1545 du 20 décembre 2014 - art. 16
 
 
 ### Titre III : Dispositions propres aux constructions<a id=113></a>

@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2014-12-30
+Version Consolidée au 2015-01-01
 ## Contenu: 
   - [Partie législative (art. L110 à L600-10)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -243,8 +243,8 @@ Version Consolidée au 2014-12-30
         - [Chapitre II : Zones d'aménagement différé et périmètres provisoires (art. R212-1 à R212-6)](#240)
         - [Chapitre III : Dispositions communes au droit de préemption urbain, aux zones d'aménagement différé et aux périmètres provisoires (art. R213-1 à R213-30)](#241)
           - [Section 1 : Délégation du droit de préemption (art. R213-1 à R213-3)](#242)
-          - [Section 2 : Procédure de préemption (art. R213-4 à R213-15)](#243)
-            - [Sous-section 1 : Cas général (art. R213-4 à R213-13)](#244)
+          - [Section 2 : Procédure de préemption (art. D213-13-1 à R213-15)](#243)
+            - [Sous-section 1 : Cas général (art. D213-13-1 à R213-13)](#244)
             - [Sous-section 2 : Cas de ventes par adjudication lorsque cette procédure est rendue obligatoire de par la loi ou le règlement (art. R213-14 à R213-15)](#245)
           - [Section 3 : Utilisation des biens acquis par la voie de la préemption (art. R213-16 à R213-20)](#246)
           - [Section 4 : Dispositions diverses (art. R*213-26-1 à R213-26)](#247)
@@ -2879,24 +2879,45 @@ compter de sa saisine. Ces propositions sont publiques.
 Lorsque la commission est saisie du projet de document d'urbanisme, les propositions de la commission sont jointes au dossier
 d'enquête publique.
 
+La commission instituée dans le département du Rhône en application du premier alinéa du présent article est compétente
+également sur le territoire de la métropole de Lyon. Elle est dénommée  "   commission de conciliation départementale-
+métropolitaine ". Les élus communaux de cette commission sont désignés par les maires, le président de la métropole de Lyon
+et les présidents des établissements publics compétents en matière d'urbanisme du département. Cette désignation ne
+s'applique qu'à compter du premier renouvellement des conseils municipaux suivant la création de la métropole de Lyon.
+
+**Nota:**
+
+Conformément à l'article 13 5° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation des alinéas 2 à 5 de l'article
+L. 121-6 ne prendra effet qu'à compter de la publication des dispositions réglementaires du livre Ier du code de l'urbanisme.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2014-366 du 24 mars 2014 - art. 138
+  - ORDONNANCE n°2014-1543 du 19 décembre 2014 - art. 25
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L121-4 (V)
-  - Code de l'urbanisme - art. L121-5 (V)
+  - Code de l'urbanisme - art. L121-4
+  - Code de l'urbanisme - art. L121-5
 
 _Cité par_:
 
-  - Code de l'urbanisme - art. L122-9 (VD)
+  - Code de l'urbanisme - art. L122-9 (VT)
   - Code de l'urbanisme - art. L123-3 (M)
   - Code de l'urbanisme - art. L123-8 (M)
   - Code de l'urbanisme - art. R*121-6 (VT)
   - Code général des collectivités territoriales - art. R1614-44 (V)
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. L132-14 (VD)
+  - Code de l'urbanisme - art. R132-10 (V)
 
 _Codifié par_:
 
@@ -10067,7 +10088,7 @@ est exclusif de toute indemnité accessoire, et notamment de l'indemnité de ré
 Le prix est fixé, payé ou, le cas échéant, consigné selon les règles applicables en matière d'expropriation. Toutefois, dans
 ce cas : 
 
-a) La date de référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique est soit la date
+a) La date de référence prévue à l'article L. 322-2 du code de l'expropriation pour cause d'utilité publique est soit la date
 à laquelle est devenu opposable aux tiers le plus récent des actes rendant public, approuvant, révisant ou modifiant le plan
 d'occupation des sols ou approuvant, modifiant ou révisant le plan local d'urbanisme et délimitant la zone dans laquelle est
 situé le bien, soit, en l'absence d'un tel plan, cinq ans avant la déclaration par laquelle le propriétaire a manifesté son
@@ -10088,7 +10109,11 @@ vendeur mais peut réviser le montant de cette rente et du capital éventuel.
 
 _Modifié par_:
 
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 _Cité par_:
 
@@ -10103,7 +10128,7 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-15 (V)
+  - Code de l'expropriation pour cause d'utilité publique - art. L322-2
 
 _Codifié par_:
 
@@ -10113,7 +10138,7 @@ _Codifié par_:
 ###### Article L142-6
 
 Lorsqu'un terrain soumis au droit de préemption mentionné à l'article L. 142-3 fait l'objet d'une expropriation pour cause
-d'utilité publique, la date de référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique
+d'utilité publique, la date de référence prévue à l'article L. 322-2 du code de l'expropriation pour cause d'utilité publique
 est remplacée, s'il existe un plan d'occupation des sols rendu public ou un plan local d'urbanisme, par la date à laquelle
 est devenu opposable aux tiers le plus récent des actes rendant public le plan d'occupation des sols ou approuvant, modifiant
 ou révisant le plan local d'urbanisme et délimitant la zone dans laquelle est situé le terrain.
@@ -10122,7 +10147,11 @@ ou révisant le plan local d'urbanisme et délimitant la zone dans laquelle est 
 
 _Modifié par_:
 
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 _Cité par_:
 
@@ -10130,8 +10159,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L142-3 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-15 (V)
+  - Code de l'urbanisme - art. L142-3
+  - Code de l'expropriation pour cause d'utilité publique - art. L322-2
 
 _Codifié par_:
 
@@ -13994,7 +14023,7 @@ d) Les immeubles cédés au locataire en exécution de la promesse de vente ins�
 conclu en application du 2 de l'article L. 313-7 du code monétaire et financier ; 
 
 e) Les immeubles qui font l'objet d'une mise en demeure d'acquérir en application des articles L. 111-10, L. 123-2, L123-17
-ou L. 311-2 du présent code ou de l'article L. 11-7 du code de l'expropriation pour cause d'utilité publique ; 
+ou L. 311-2 du présent code ou des articles L. 241-1 et L. 241-2 du code de l'expropriation pour cause d'utilité publique ; 
 
 f) (Abrogé) ; 
 
@@ -14008,7 +14037,9 @@ h) Les transferts en pleine propriété des immeubles appartenant à l'Etat ou �
 conformément à l'article 141 de la loi n° 2006-1771 du 30 décembre 2006 de finances rectificative pour 2006 ; 
 
 i) Les biens acquis par un organisme visé aux articles L. 321-4 et L. 324-1 lorsqu'il agit à la demande expresse de la
-collectivité titulaire du droit de préemption urbain.
+collectivité titulaire du droit de préemption urbain ; 
+
+j) Les cessions entre la SNCF, SNCF Réseau et SNCF Mobilités.
 
 **Liens relatifs à cet article**
 
@@ -14024,7 +14055,7 @@ _Cite_:
   - Code de commerce - art. L631-22
   - Code de commerce - art. L642-1
   - Code civil - art. 1601-1
-  - Code monétaire et financier - art. L313-7 (V)
+  - Code monétaire et financier - art. L313-7
   - Code de l'urbanisme - art. L111-10
   - Code de l'urbanisme - art. L121-2
   - Code de l'urbanisme - art. L123-17
@@ -14035,7 +14066,6 @@ _Cite_:
   - Code de l'urbanisme - art. L324-1
   - Code de la construction et de l'habitation. - art. L411-2
   - Code de la construction et de l'habitation. - art. L443-11
-  - Code de l'expropriation pour cause d'utilité publique - art. L11-7
 
 _Cité par_:
 
@@ -14069,8 +14099,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 67 (V)
-  - Loi n°2014-366 du 24 mars 2014 - art. 149
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 
 ###### Article L213-1-1
@@ -14273,7 +14302,7 @@ de l'unité foncière.
 Le prix est fixé, payé ou, le cas échéant, consigné selon les règles applicables en matière d'expropriation. Toutefois, dans
 ce cas : 
 
-a) La date de référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique est :
+a) La date de référence prévue à l'article L. 322-2 du code de l'expropriation pour cause d'utilité publique est :
 
 - pour les biens compris dans le périmètre d'une zone d'aménagement différé : 
 
@@ -14305,7 +14334,7 @@ vendeur mais peut réviser le montant de cette rente et du capital éventuel.
 
 _Modifié par_:
 
-  - Loi n°2010-597 du 3 juin 2010 - art. 6 (V)
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 _Cité par_:
 
@@ -14320,7 +14349,7 @@ _Cité par_:
 _Cite_:
 
   - Code de l'urbanisme - art. L213-2-1
-  - Code de l'expropriation pour cause d'utilité publique - art. L13-15
+  - Code de l'expropriation pour cause d'utilité publique - art. L322-2
 
 
 ###### Article L213-4-1
@@ -14416,27 +14445,23 @@ _Codifié par_:
 ###### Article L213-6
 
 Lorsqu'un bien soumis au droit de préemption fait l'objet d'une expropriation pour cause d'utilité publique, la date de
-référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique est celle prévue au a de
+référence prévue à l'article L. 322-2 du code de l'expropriation pour cause d'utilité publique est celle prévue au a de
 l'article L. 213-4.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-
 _Modifié par_:
 
-  - Loi - art. 34 () JORF 19 juillet 1991
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L213-4 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-15 (V)
+  - Code de l'urbanisme - art. L213-4 (VD)
+  - Code de l'expropriation pour cause d'utilité publique - art. L322-2
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L213-7
@@ -15281,7 +15306,7 @@ par le propriétaire, soit par la collectivité ou le service public qui a fait 
 transfert de propriété et fixe le prix de l'immeuble. Ce prix, y compris l'indemnité de réemploi, est fixé et payé comme en
 matière d'expropriation, sans qu'il soit tenu compte des dispositions qui ont justifié le droit de délaissement. 
 
-La date de référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique est celle à
+La date de référence prévue à l'article L. 322-2 du code de l'expropriation pour cause d'utilité publique est celle à
 laquelle est devenu opposable aux tiers le plus récent des actes rendant public le plan local d'urbanisme ou l'approuvant, le
 révisant ou le modifiant et délimitant la zone dans laquelle est situé le terrain. En l'absence de plan d'occupation des sols
 rendu public ou de plan local d'urbanisme, la date de référence est, pour le cas mentionné à l'article L. 111-9, celle d'un
@@ -15292,8 +15317,8 @@ an avant l'ouverture de l'enquête préalable à la déclaration d'utilité publ
 Le juge de l'expropriation fixe également, s'il y a lieu, les indemnités auxquelles peuvent prétendre les personnes
 mentionnées à l'article L. 230-2. 
 
-Le propriétaire peut requérir l'emprise totale de son terrain dans les cas prévus aux articles L. 13-10 et L. 13-11 du code
-de l'expropriation pour cause d'utilité publique.
+Le propriétaire peut requérir l'emprise totale de son terrain dans les cas prévus aux articles L. 242-1 à L. 242-5 du code de
+l'expropriation pour cause d'utilité publique. 
 
 L'acquisition d'un terrain situé en emplacement réservé peut, avec l'accord de la personne publique au bénéfice de laquelle
 la réserve est inscrite au plan, être réalisée par une autre personne publique ou le titulaire d'une concession
@@ -15312,7 +15337,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-366 du 24 mars 2014 - art. 147
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 _Cite_:
 
@@ -15320,8 +15345,8 @@ _Cite_:
   - Code de l'urbanisme - art. L111-9
   - Code de l'urbanisme - art. L230-2
   - Code de l'urbanisme - art. L311-2
-  - Code de l'expropriation pour cause d'utilité publique - art. L13-10
-  - Code de l'expropriation pour cause d'utilité publique - art. L13-15
+  - Code de l'expropriation pour cause d'utilité publique - art. L242-1
+  - Code de l'expropriation pour cause d'utilité publique - art. L322-2
 
 
 ###### Article L230-4
@@ -15349,7 +15374,7 @@ _Cite_:
 
 L'acte ou la décision portant transfert de propriété éteint par lui-même et à sa date tous droits réels ou personnels
 existants sur les immeubles cédés même en l'absence de déclaration d'utilité publique antérieure. Les droits des créanciers
-inscrits sont reportés sur le prix dans les conditions prévues à l'article L. 12-3 du code de l'expropriation pour cause
+inscrits sont reportés sur le prix dans les conditions prévues à l'article L. 222-3 du code de l'expropriation pour cause
 d'utilité publique.
 
 **Liens relatifs à cet article**
@@ -15358,9 +15383,9 @@ _Codifié par_:
 
   - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 22 () JORF 14 décembre 2000
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 _Cité par_:
 
@@ -15368,7 +15393,7 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L12-3 (VT)
+  - Code de l'expropriation pour cause d'utilité publique - art. L222-3
 
 
 ###### Article L230-6
@@ -15471,6 +15496,8 @@ et de la navigation intérieure et au dernier alinéa de l'article L. 6147-1 du 
 d'intérêt national mentionnées au premier alinéa de l'article L. 121-2, y compris les opérations ayant ces effets en vertu du
 deuxième alinéa du I de l'article 1er de la loi n° 2006-872 du 13 juillet 2006 portant engagement national pour le logement ;
 
+- aux cessions entre la SNCF, SNCF Réseau et SNCF Mobilités ;
+
 - aux transferts en pleine propriété des immeubles appartenant à l'Etat ou à ses établissements publics, réalisés
 conformément à l'article 141 de la loi n° 2006-1771 du 30 décembre 2006 de finances rectificative pour 2006. 
 
@@ -15482,13 +15509,13 @@ s'appliquent à l'ensemble des biens mis en vente.
 
 _Cite_:
 
+  - Code de l'urbanisme - art. L240-1 (VD)
   - Loi n°82-1153 du 30 décembre 1982 - art. 18 (Ab)
   - Loi n°97-135 du 13 février 1997 - art. 1 (VT)
-  - Loi n°2006-872 du 13 juillet 2006 - art. 1 (V)
-  - Loi n°2006-1771 du 30 décembre 2006 - art. 141 (VT)
-  - Code de la santé publique - art. L6147-1 (V)
-  - Code de l'urbanisme - art. L121-2 (V)
-  - Code de l'urbanisme - art. L240-1 (V)
+  - Loi n°2006-872 du 13 juillet 2006 - art. 1
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 141
+  - Code de la santé publique - art. L6147-1
+  - Code de l'urbanisme - art. L121-2
   - Code du domaine public fluvial et de la navigat... - art. 176 (VT)
 
 _Cité par_:
@@ -15500,7 +15527,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-323 du 25 mars 2009 - art. 35
+  - Loi n°2014-872 du 4 août 2014 - art. 5
 
 
 ###### Article L240-3
@@ -16340,10 +16367,11 @@ _Cite_:
 
 ###### Article L300-7
 
-Dans les zones urbaines sensibles, lorsque l'état de dégradation ou l'absence d'entretien par le ou les propriétaires d'un
-ensemble commercial compromettent la rénovation urbaine d'un quartier, le préfet, le maire après avis du conseil municipal ou
-le président de l'établissement public de coopération intercommunale compétent après avis de l'organe délibérant de
-l'établissement peut mettre en demeure le ou les propriétaires de procéder à la réhabilitation de cet ensemble commercial. 
+Dans les quartiers prioritaires de la politique de la ville, lorsque l'état de dégradation ou l'absence d'entretien par le ou
+les propriétaires d'un ensemble commercial compromettent la rénovation urbaine d'un quartier, le préfet, le maire après avis
+du conseil municipal ou le président de l'établissement public de coopération intercommunale compétent après avis de l'organe
+délibérant de l'établissement peut mettre en demeure le ou les propriétaires de procéder à la réhabilitation de cet ensemble
+commercial. 
 
 Lorsque le ou les propriétaires n'ont pas manifesté dans un délai de trois mois la volonté de se conformer à la mise en
 demeure ou lorsque les travaux de réhabilitation n'ont pas débuté dans un délai d'un an, l'expropriation des locaux peut être
@@ -16354,24 +16382,30 @@ de réhabilitation de l'ensemble commercial.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
+**Nota:**
+
+Conformément à l'article 30 de la loi n° 2014-173 du 21 février 2014, les présentes dispositions entrent en vigueur à la date
+fixée par le décret en Conseil d'Etat mentionné au I de l'article 5 de ladite loi et au plus tard le 1er janvier 2015.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-_Créé par_:
-
-  - Loi n°2007-297 du 5 mars 2007 - art. 19 () JORF 7 mars 2007
+  - Loi n°2014-173 du 21 février 2014 - art. 26
 
 _Cite_:
 
   - Code de l'urbanisme - art. L321-1 (V)
+  - Code de l'urbanisme - art. L326-1 (V)
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R*300-15 (V)
   - Code de l'urbanisme - art. R300-28 (V)
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ### Titre Ier : Opérations d'aménagement<a id=47></a>
@@ -17520,8 +17554,8 @@ Si les travaux nécessitent l'éviction définitive des occupants, ceux-ci bén�
 d'expropriation. Toutefois, tous les occupants de locaux à usage d'habitation, professionnel ou mixte ont droit au relogement
 dans les conditions suivantes : il doit être fait à chacun d'eux au moins deux propositions portant sur des locaux
 satisfaisant à la fois aux normes d'habitabilité définies par application du troisième alinéa de l'article L. 322-1 du code
-de la construction et de l'habitation (1) et aux conditions prévues à l'article 13 bis de la loi n° 48-1360 du 1er septembre
-1948 ; ils bénéficient, en outre, des droits de priorité et de préférence prévus aux articles L. 14-1 et L. 14-2 du code de
+de la construction et de l'habitation et aux conditions prévues à l'article 13 bis de la loi n° 48-1360 du 1er septembre
+1948 ; ils bénéficient, en outre, des droits de priorité et de préférence prévus aux articles L. 423-1 à L. 423-5 du code de
 l'expropriation pour cause d'utilité publique, même dans le cas où ils ne sont pas propriétaires. Ils bénéficient également,
 à leur demande, d'un droit de priorité pour l'attribution ou l'acquisition d'un local dans les immeubles compris dans
 l'opération ou de parts ou actions d'une société immobilière donnant vocation à l'attribution, en propriété ou en jouissance,
@@ -17529,29 +17563,19 @@ d'un tel local.
 
 En outre, les commerçants, artisans et industriels ont un droit de priorité défini à l'article L. 314-5.
 
-**Nota:**
-
-Ordonnance n° 2005-868 du 28 juillet 2005 art. 4 : " Pour l'application des articles L. 314-1 et suivants du code de
-l'urbanisme à Mayotte, les occupants n'ayant pas la nationalité française doivent remplir les conditions d'entrée et de
-séjour réguliers prévus par l'ordonnance n° 2000-373 du 26 avril 2000 modifiée relative aux conditions d'entrée et de séjour
-des étrangers à Mayotte. "
-
-(1) L'article L322-1 du code de l'urbanisme a été abrogé par l'article 185 III de la loi n° 2000-1208 du 13 décembre 2000.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°48-1360 du 1er septembre 1948 - art. 13 bis (V)
-  - Code de la construction et de l'habitation. - art. L322-1 (Ab)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L14-1 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L14-2 (V)
+  - Loi n°48-1360 du 1er septembre 1948 - art. 13 bis
+  - Code de la construction et de l'habitation. - art. L322-1
 
 _Cité par_:
 
   - Loi n°70-612 du 10 juillet 1970 - art. 19 (VT)
   - Loi n°87-1132 du 31 décembre 1987 - art. 2 (V)
   - Loi n°2002-1138 du 9 septembre 2002 - art. 5 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L511-9 (VD)
   - Code de l'urbanisme - art. L313-5 (V)
   - Code de l'urbanisme - art. L314-5 (VD)
   - Code de l'urbanisme - art. L314-8 (M)
@@ -17566,9 +17590,9 @@ _Cité par_:
   - Code de l'urbanisme - art. R322-49 (Ab)
   - Code de la construction et de l'habitation. - art. L632-2 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°85-729 du 18 juillet 1985 - art. 17 () JORF 19 juillet 1985
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 _Codifié par_:
 
@@ -17679,30 +17703,23 @@ dessus ont un droit de priorité pour acquérir un local dans un immeuble compri
 d'une société immobilière donnant vocation à l'attribution, en propriété ou en jouissance, d'un tel local, lorsque l'activité
 considérée est compatible avec les dispositions du plan local d'urbanisme ou du document d'urbanisme en tenant lieu. 
 
-L'exercice des droits prévus au présent article rend applicables les dispositions du deuxième alinéa de l'article L. 13-20 du
-code de l'expropriation pour cause d'utilité publique. 
+L'exercice des droits prévus au présent article rend applicables les dispositions du deuxième alinéa de l'article L. 322-12
+du code de l'expropriation pour cause d'utilité publique. 
 
 Les priorités prévues par le présent article jouent en faveur des titulaires de baux à usage des mêmes activités que celles
 dont l'installation est prévue dans les locaux nouveaux. Pour les commerces de chaque nature, les priorités sont données aux
 titulaires des baux les plus anciens.
 
-**Nota:**
-
-Ordonnance n° 2005-868 du 28 juillet 2005 art. 4 : " Pour l'application des articles L. 314-1 et suivants du code de
-l'urbanisme à Mayotte, les occupants n'ayant pas la nationalité française doivent remplir les conditions d'entrée et de
-séjour réguliers prévus par l'ordonnance n° 2000-373 du 26 avril 2000 modifiée relative aux conditions d'entrée et de séjour
-des étrangers à Mayotte. "
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 _Cité par_:
 
   - Code de l'urbanisme - art. L314-2 (VD)
-  - Code de l'urbanisme - art. L314-6 (V)
+  - Code de l'urbanisme - art. L314-6 (VD)
   - Code de l'urbanisme - art. R314-5 (Ab)
 
 **Liens**:
@@ -17711,7 +17728,7 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-20 (V)
+  - Code de l'expropriation pour cause d'utilité publique - art. L322-12
 
 _Codifié par_:
 
@@ -17722,7 +17739,7 @@ _Codifié par_:
 
 L'indemnisation des commerçants et artisans afférente à l'activité qu'ils exercent dans un immeuble devant être acquis ou
 exproprié en vue de sa démolition dans le cadre d'une opération d'aménagement doit, sur leur demande, intervenir avant l'acte
-portant transfert de propriété et, par dérogation aux dispositions de l'article L. 13-15 du code de l'expropriation pour
+portant transfert de propriété et, par dérogation aux dispositions de l'article L. 322-2 du code de l'expropriation pour
 cause d'utilité publique, être fondée sur la situation existant avant le commencement de l'opération. Cette indemnité obéit
 pour le surplus au régime des indemnités d'expropriation. 
 
@@ -17738,30 +17755,23 @@ réinstaller sur le territoire concerné par l'opération avant que les bénéfi
 Le bail est résilié de plein droit, sans indemnité et nonobstant toute clause contraire, à compter de la notification au
 propriétaire du versement de l'indemnité prévue ci-dessus. 
 
-A l'expiration du délai d'un mois prévu à l'article L. 15-1 du code de l'expropriation pour cause d'utilité publique, les
+A l'expiration du délai d'un mois prévu à l'article L. 231-1 du code de l'expropriation pour cause d'utilité publique, les
 dispositions dudit article sont applicables. 
 
 Dans l'hypothèse où, indemnisés avant le transfert de propriété, un ou plusieurs commerçants ou artisans ont libéré les
 lieux, la valeur des immeubles ou parties d'immeubles ainsi libérés doit être estimée en prenant en compte la situation
 d'occupation qui existait avant l'indemnisation du ou des commerçants ou artisans.
 
-**Nota:**
-
-Ordonnance n° 2005-868 du 28 juillet 2005 art. 4 : " Pour l'application des articles L. 314-1 et suivants du code de
-l'urbanisme à Mayotte, les occupants n'ayant pas la nationalité française doivent remplir les conditions d'entrée et de
-séjour réguliers prévus par l'ordonnance n° 2000-373 du 26 avril 2000 modifiée relative aux conditions d'entrée et de séjour
-des étrangers à Mayotte. "
-
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°85-729 du 18 juillet 1985 - art. 17 () JORF 19 juillet 1985
 
 _Cité par_:
 
   - Loi n°2002-1138 du 9 septembre 2002 - art. 5 (V)
   - Loi n°2012-409 du 27 mars 2012 - art. 3 (VD)
+
+_Modifié par_:
+
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 **Liens**:
 
@@ -17771,9 +17781,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L314-5 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-15 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L15-1 (VT)
+  - Code de l'urbanisme - art. L314-5 (VD)
+  - Code de l'expropriation pour cause d'utilité publique - art. L231-1
+  - Code de l'expropriation pour cause d'utilité publique - art. L322-2
 
 _Codifié par_:
 
@@ -19870,7 +19880,7 @@ qu'elle ne préfère lui offrir le bail d'un local équivalant à celui dont la 
 les locaux d'habitation ou professionnels, quelle que soit la nature du titre d'occupation, le droit au relogement est exercé
 comme en matière d'expropriation. 
 
-La juridiction prévue à l'article L. 13-1 du code de l'expropriation pour cause d'utilité publique est compétente pour
+La juridiction prévue à l'article L. 311-5 du code de l'expropriation pour cause d'utilité publique est compétente pour
 statuer sur les contestations relatives à l'évaluation des parcelles remembrées. Elle statue aussi sur les contestations
 soulevées à l'occasion du remembrement et afférentes aux privilèges, hypothèques et autres droits réels. 
 
@@ -19886,17 +19896,11 @@ dispositions de l'alinéa précédent.
 Les dispositions du deuxième alinéa a) de l'article L. 322-7 sont, le cas échéant, applicables aux associations foncières
 urbaines dont l'objet porte sur des travaux spécifiés au 6° de l'article L. 322-2.
 
-**Nota:**
-
-Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
-d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
-du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 242
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 _Cité par_:
 
@@ -19916,8 +19920,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L322-2 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-1 (V)
+  - Code de l'urbanisme - art. L322-2
+  - Code de l'expropriation pour cause d'utilité publique - art. L311-5
 
 
 ###### Article L322-6-1
@@ -20756,16 +20760,25 @@ Il est créé un établissement public national pour l'aménagement et la restru
 
 Cet établissement à caractère industriel et commercial est doté de la personnalité morale et de l'autonomie financière. 
 
-Il a pour objet de favoriser l'aménagement et la restructuration des espaces commerciaux et artisanaux dans les zones
-urbaines sensibles, mentionnées au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement
-et le développement du territoire, et les territoires faisant l'objet d'un contrat urbain de cohésion sociale ou retenus au
-titre du programme national de requalification des quartiers anciens dégradés mentionné à l'article 25 de la loi n° 2009-323
-du 25 mars 2009 de mobilisation pour le logement et la lutte contre l'exclusion.A cette fin, il assure, après accord des
-conseils municipaux des communes ou des organes délibérants des établissements publics de coopération communale ou des
-syndicats mixtes visés à l'article L. 5711-1 du code général des collectivités territoriales concernés, la maîtrise d'ouvrage
-d'actions et d'opérations tendant à la création, l'extension, la transformation ou la reconversion de surfaces commerciales
-et artisanales situées dans ces zones. Il peut passer convention avec les communes, établissements publics ou syndicats
-mixtes concernés.
+Il a pour objet de favoriser l'aménagement et la restructuration des espaces commerciaux et artisanaux dans les quartiers
+prioritaires de la politique de la ville et les territoires retenus au titre du programme national de requalification des
+quartiers anciens dégradés mentionné à l'article 25 de la loi n° 2009-323 du 25 mars 2009 de mobilisation pour le logement et
+la lutte contre l'exclusion. A cette fin, il assure, après accord des conseils municipaux des communes ou des organes
+délibérants des établissements publics de coopération communale ou des syndicats mixtes visés à l'article L. 5711-1 du code
+général des collectivités territoriales concernés, la maîtrise d'ouvrage d'actions et d'opérations tendant à la création,
+l'extension, la transformation ou la reconversion de surfaces commerciales et artisanales situées dans ces zones. Il peut
+passer convention avec les communes, établissements publics ou syndicats mixtes concernés.
+
+Si la requalification des quartiers ou des territoires définis au troisième alinéa le nécessite, l'établissement peut
+intervenir à proximité de ceux-ci.
+
+**Nota:**
+
+Conformément à l'article 14 de de la loi n° 2019-753 du 22 juillet 2019 : A une date prévue par le décret en Conseil d'Etat
+mentionné à l'article 15 de la présente loi, et au plus tard le 1er janvier 2020, l'Etablissement public d'aménagement et de
+restructuration des espaces commerciaux et artisanaux est dissous. Ce décret précise les conditions dans lesquelles les
+contrats des salariés ainsi que les biens, droits et obligations de l'Etablissement public d'aménagement et de
+restructuration des espaces commerciaux et artisanaux sont transférés à l'Agence nationale de la cohésion des territoires.
 
 **Liens relatifs à cet article**
 
@@ -20782,20 +20795,23 @@ _Cité par_:
   - Code de l'urbanisme - art. R325-4 (V)
   - Code de l'urbanisme - art. R325-8 (V)
 
-_Cite_:
-
-  - Loi n°95-115 du 4 février 1995 - art. 42
-  - Loi n°2009-323 du 25 mars 2009 - art. 25
-  - Code général des collectivités territoriales - art. L5711-1
-
 **Liens**:
 
   - TXT_SOURCE: Décret n°2003-53 du 17 janvier 2003
   - TXT_SOURCE: Décret n°2003-53 du 17 janvier 2003 - art. 1 (V)
 
+_Cite_:
+
+  - Loi n°2009-323 du 25 mars 2009 - art. 25
+  - Code général des collectivités territoriales - art. L5711-1
+
 _Modifié par_:
 
-  - Loi n°2009-323 du 25 mars 2009 - art. 26 (V)
+  - Loi n°2014-173 du 21 février 2014 - art. 22 (VD)
+
+_Abrogé par_:
+
+  - Loi n°2019-753 du 22 juillet 2019 - art. 14 (V)
 
 
 ###### Article L325-2
@@ -23215,27 +23231,17 @@ d) (Abrogé) ;
 
 e) (Abrogé) ; 
 
-2° a) La participation pour raccordement à l'égout prévue à l'article L. 1331-7 code de la santé publique ; (2) 
+2° a) (Abrogé) ; 
 
-b) La participation destinée à la réalisation de parcs publics de stationnement prévue à l'article L. 332-7-1 ; (1) 
+b) (Abrogé) ; 
 
-c) La participation spécifique pour la réalisation d'équipements publics exceptionnels prévue à l'article L. 332-8 ; 
-
-d) La participation pour voirie et réseaux prévue à l'article L. 332-11-1 ; (1) 
-
-3° La participation des riverains prévue par la législation applicable dans les départements du Haut-Rhin, du Bas-Rhin et de
-la Moselle, celle-ci pouvant être actualisée pour tenir compte du délai écoulé entre la date de réalisation des travaux
-concernés et le montant de perception de cette participation. Elle peut également inclure les frais de premier établissement
-de l'éclairage public. (1)
+c) La participation spécifique pour la réalisation d'équipements publics exceptionnels prévue à l'article L. 332-8.
 
 **Nota:**
 
-(1) Loi n° 2010-1658 du 29 décembre 2010 article 28 I B 5° : Les b et d du 2° et le 3° sont abrogés à compter du 1er janvier
-2015.
-
-(2) Loi n° 2012-354 du 14 mars 2012 de finances rectificative pour 2012 JORF du 15 mars 2012 art. 30 III : Le a du 2° de
-l'article L. 332-6-1 du code de l'urbanisme est abrogé à compter du 1er juillet 2012. Cette disposition est applicable aux
-demandes d'autorisation ou aux déclarations préalables déposées à compter de cette même date.
+Conformément au X de l'article 44 de la loi n° 2014-1655 du 29 décembre 2014, les présentes dispositions entrent en vigueur
+le 1er janvier 2015. L'abrogation du b du 2° de l'article L332-6-1 s'applique aux demandes d'autorisation ou aux déclarations
+préalables effectuées à compter de la même date.
 
 **Liens relatifs à cet article**
 
@@ -23270,12 +23276,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2012-354 du 14 mars 2012 - art. 30 (V)
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
 
 _Cite_:
 
-  - Code de la santé publique - art. L1331-7 (V)
-  - Code de l'urbanisme - art. L332-11-1 (V)
+  - Code de l'urbanisme - art. L332-8 (V)
 
 
 ###### Article L332-7
@@ -28488,17 +28493,17 @@ c) Pour les locaux de stockage :
       <tr>
         <td align="center">
 
-52 
+14.03 
 
 </td>
         <td align="center">
 
-32 
+14.03 
 
 </td>
         <td align="center">
 
-13 
+14.03 
 
 </td>
       </tr>
@@ -28520,11 +28525,6 @@ en application du II du présent article et le tarif de la troisième circonscri
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 31 (M)
-  - Loi n°2011-900 du 29 juillet 2011 - art. 34 (M)
-
 _Cité par_:
 
   - Arrêté du 4 mai 2011 - art. 1 (Ab)
@@ -28544,9 +28544,14 @@ _Cité par_:
   - Code de l'urbanisme - art. R520-2 (M)
   - Code de l'urbanisme - art. R520-3 (M)
 
+_Modifié par_:
+
+  - Loi n°2011-900 du 29 juillet 2011 - art. 34 (V)
+  - Loi n°2014-1655 du 29 décembre 2014 - art. 27 (V)
+
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 231 ter (V)
+  - Code général des impôts, CGI. - art. 231 ter
   - Code général des collectivités territoriales - art. L2334-15
 
 _Codifié par_:
@@ -34834,10 +34839,9 @@ l'environnement.
 
 L'enquête concernant un plan local d'urbanisme vaut enquête préalable à la déclaration d'utilité publique des opérations,
 acquisitions ou expropriations prévues à ce plan à l'intérieur d'une zone d'aménagement concerté lorsque le dossier soumis à
-l'enquête comprend les pièces mentionnées au I ou II de l'article **R. 11-3 du code de l'expropriation pour cause d'utilité
-publique. Dans ce cas, l'enquête publique est organisée dans les formes prévues par le chapitre III du titre II du livre Ier
-du code de l'environnement. Toutefois, le président de l'établissement public ou le maire exerce les compétences attribuées
-au préfet par les articles R. 11-14-2 à R. 11-14-5 et R. 11-14-7 à R. 11-14-15 du même code. 
+l'enquête comprend les pièces mentionnées à l'article R. 112-4 ou à l'article R. 112-5 du code de l'expropriation pour cause
+d'utilité publique. Dans ce cas, l'enquête publique est organisée dans les formes prévues par le chapitre III du titre II du
+livre Ier du code de l'environnement. 
 
 Le dossier est composé des pièces mentionnées à l'article R. 123-8 du code de l'environnement et à l'article L. 123-10 du
 présent code. Il peut être complété par tout ou partie des documents mentionnés à l'article R. * 121-1. 
@@ -34856,16 +34860,15 @@ de l'avis conforme, selon le cas, du préfet ou du président du conseil génér
 
 _Modifié par_:
 
-  - Décret n°2013-142 du 14 février 2013 - art. 4
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 _Cite_:
 
   - Code de l'urbanisme - art. L123-10
   - Code de l'urbanisme - art. R*121-1
   - Code de l'environnement - art. R123-8
-  - Code de l'expropriation pour cause d'utilité publique - art. R11-14-2
-  - Code de l'expropriation pour cause d'utilité publique - art. R11-14-7
-  - Code de l'expropriation pour cause d'utilité publique - art. R11-3
+  - Code de l'expropriation pour cause d'utilité pu... - art. R112-4 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R112-5 (V)
 
 _Cité par_:
 
@@ -40167,15 +40170,19 @@ _Codifié par_:
 
 ###### Article R*160-17
 
-L'enquête mentionnée aux articles R. 160-14 et R. 160-16-1 a lieu dans les formes prévues par les articles R. 11-4 à R. 11-12
-et R. 11-14 du code de l'expropriation pour cause d'utilité publique, sous réserve des dispositions particulières édictées
-aux articles R. 160-18 et R. 160-19 du présent code.
+L'enquête mentionnée aux articles R. 160-14 et R. 160-16-1 a lieu dans les formes prévues pour les enquêtes publiques
+relevant de l'article L. 110-2 du code de l'expropriation pour cause d'utilité publique régies par le titre Ier du livre Ier
+du même code, sous réserve des dispositions particulières édictées aux articles R. 160-18 et R. 160-19 du présent code.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-1291 du 28 octobre 2010 - art. 10
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+
+_Abrogé par_:
+
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 _Cité par_:
 
@@ -40184,11 +40191,14 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R*160-14 (V)
-  - Code de l'urbanisme - art. R*160-16-1 (V)
-  - Code de l'urbanisme - art. R*160-18 (V)
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-14 (V)
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-4 (V)
+  - Code de l'urbanisme - art. R*160-14
+  - Code de l'urbanisme - art. R*160-16-1 (VT)
+  - Code de l'urbanisme - art. R*160-18
+  - Code de l'expropriation pour cause d'utilité publique - art. L110-2
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. R121-20 (M)
 
 _Codifié par_:
 
@@ -41107,6 +41117,137 @@ _Codifié par_:
 
 ##### Sous-section 1 : Cas général<a id=244></a>
 
+###### Article D213-13-1
+
+La demande de la visite du bien prévue à l'article L. 213-2 est faite par écrit. 
+
+Elle est notifiée par le titulaire du droit de préemption au propriétaire ou à son mandataire ainsi qu'au notaire mentionnés
+dans la déclaration prévue au même article, dans les conditions fixées à l'article R. 213-25. 
+
+Le délai mentionné au troisième alinéa de l'article L. 213-2 reprend à compter de la visite du bien ou à compter du refus
+exprès ou tacite de la visite du bien par le propriétaire.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2014-1573 du 22 décembre 2014, ces dispositions s'appliquent aux demandes de visite
+notifiées par le titulaire du droit de préemption aux propriétaires ayant déposé une déclaration préalable reçue à compter du
+1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1573 du 22 décembre 2014 - art. 1
+
+_Cité par_:
+
+  - Décret n°2014-1573 du 22 décembre 2014 - art. 2 (V)
+  - Code de l'urbanisme - art. D213-13-4 (V)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L213-2
+  - Code de l'urbanisme - art. R213-25
+
+
+###### Article D213-13-2
+
+L'acceptation de la visite par le propriétaire est écrite. 
+
+Elle est notifiée au titulaire du droit de préemption dans les conditions prévues à l'article R. 213-25 et dans le délai de
+huit jours à compter de la date de réception de la demande de visite. 
+
+La visite du bien se déroule dans le délai de quinze jours calendaires à compter de la date de la réception de l'acceptation
+de la visite, en dehors des samedis, dimanches et jours fériés. 
+
+Le propriétaire, son mandataire ou le notaire est tenu d'informer de l'acceptation de la visite les occupants de l'immeuble
+mentionnés dans la déclaration d'intention d'aliéner. 
+
+Un constat contradictoire précisant la date de visite et les noms et qualité des personnes présentes est établi le jour de la
+visite et signé par le propriétaire ou son représentant et par le titulaire du droit de préemption ou une personne mandatée
+par ce dernier. 
+
+L'absence de visite dans le délai prévu au troisième alinéa vaut soit refus de visite, soit renonciation à la demande de
+visite. Dans ce cas, le délai suspendu en application du quatrième alinéa de l'article L. 213-2 reprend son cours.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2014-1573 du 22 décembre 2014, ces dispositions s'appliquent aux demandes de visite
+notifiées par le titulaire du droit de préemption aux propriétaires ayant déposé une déclaration préalable reçue à compter du
+1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1573 du 22 décembre 2014 - art. 1
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. D213-13-4 (V)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L213-2
+  - Code de l'urbanisme - art. R213-25
+
+
+###### Article D213-13-3
+
+Le propriétaire peut refuser la visite du bien. 
+
+Le refus est notifié au titulaire du droit de préemption dans les conditions prévues à l'article R. 213-25 et dans le délai
+de huit jours à compter de la date de réception de la demande de visite. En l'absence de réponse dans ce délai, le refus est
+tacite.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2014-1573 du 22 décembre 2014, ces dispositions s'appliquent aux demandes de visite
+notifiées par le titulaire du droit de préemption aux propriétaires ayant déposé une déclaration préalable reçue à compter du
+1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1573 du 22 décembre 2014 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R213-25
+
+
+###### Article D213-13-4
+
+La demande de la visite du bien visée à l'article D. 213-13-1 indique les références de la déclaration prévue à l'article L.
+213-2. Cette demande reproduit, en caractères apparents, les dispositions de l'article L. 213-2 et celles des articles D.
+213-13-2 et D. 213-13-3. 
+
+Elle mentionne le nom et les coordonnées de la ou des personnes que le propriétaire, son mandataire ou le notaire peut
+contacter pour déterminer les modalités de la visite. 
+
+Elle indique que la visite doit être faite en présence du propriétaire ou de son représentant et du titulaire du droit de
+préemption ou de la personne mandatée par ce dernier.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2014-1573 du 22 décembre 2014, ces dispositions s'appliquent aux demandes de visite
+notifiées par le titulaire du droit de préemption aux propriétaires ayant déposé une déclaration préalable reçue à compter du
+1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1573 du 22 décembre 2014 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. D213-13-1 (V)
+  - Code de l'urbanisme - art. D213-13-2 (V)
+  - Code de l'urbanisme - art. L213-2
+
+
 ###### Article R213-4
 
 Les dispositions de la présente sous-section sont applicables à toutes les aliénations volontaires à titre onéreux sous
@@ -41393,7 +41534,7 @@ d'expropriation par lettre recommandée adressée au secrétariat de cette jurid
 mémoire du titulaire du droit de préemption est jointe à la lettre adressée au secrétariat de la juridiction. Le propriétaire
 doit en être informé simultanément. 
 
-Il est ensuite procédé comme il est dit aux articles R. 13-22 et suivants du code de l'expropriation pour cause d'utilité
+Il est ensuite procédé comme il est dit aux articles R. 311-9 à R. 311-32 du code de l'expropriation pour cause d'utilité
 publique. 
 
 A défaut de saisine de la juridiction dans le délai fixé par le présent article, le titulaire du droit de préemption est
@@ -41404,11 +41545,15 @@ la juridiction.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+
 _Cite_:
 
-  - Code de l'urbanisme - art. L213-4-1 (V)
-  - Code de l'urbanisme - art. R213-10 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R13-22 (V)
+  - Code de l'urbanisme - art. L213-4-1
+  - Code de l'urbanisme - art. R213-10
+  - Code de l'expropriation pour cause d'utilité pu... - art. R311-9 (V)
 
 _Cité par_:
 
@@ -41418,10 +41563,6 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
-
-_Modifié par_:
-
-  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 
 ###### Article R213-12
@@ -43954,15 +44095,15 @@ organismes associés ou consultés.
 
 L'enquête concernant un plan de sauvegarde et de mise en valeur vaut enquête préalable à la déclaration publique des
 opérations, acquisitions ou expropriations prévues à ce plan lorsque le dossier soumis à l'enquête comprend, en outre, les
-pièces mentionnées au I ou II de l'article R. 11-3 du code de l'expropriation pour cause d'utilité publique. Dans ce cas,
-l'enquête publique est organisée dans les formes prévues par le chapitre III du titre II du livre Ier du code de
+pièces mentionnées à l'article R. 112-4 ou à l'article R. 112-5 du code de l'expropriation pour cause d'utilité publique.
+Dans ce cas, l'enquête publique est organisée dans les formes prévues par le chapitre III du titre II du livre Ier du code de
 l'environnement.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2013-142 du 14 février 2013 - art. 10
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 **Liens**:
 
@@ -43978,7 +44119,8 @@ _Cite_:
 
   - Code de l'urbanisme - art. R313-2
   - Code de l'environnement - art. R123-2
-  - Code de l'expropriation pour cause d'utilité publique - art. R11-3
+  - Code de l'expropriation pour cause d'utilité pu... - art. R112-4 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R112-5 (V)
 
 _Codifié par_:
 
@@ -44347,29 +44489,18 @@ _Abrogé par_:
 ###### Article R*313-23
 
 L'enquête préalable à la déclaration d'utilité publique d'une opération de restauration immobilière est organisée par le
-préfet dans les formes prévues par les articles R. 11-4, R. 11-5 et R. 11-6-1 à R. 11-14 du code de l'expropriation pour
-cause d'utilité publique.
+préfet dans les formes prévues pour les enquêtes préalables à une déclaration d'utilité publique régies par le titre Ier du
+livre Ier du code de l'expropriation pour cause d'utilité publique.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°63-691 1963-07-13 art. 21
-
-_Cite_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-14 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-4 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-5 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. R11-6-1 (V)
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
-
-_Créé par_:
-
-  - Décret n°2007-817 du 11 mai 2007 - art. 1 () JORF 12 mai 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R*313-24
@@ -44437,25 +44568,14 @@ _Codifié par_:
 
 ###### Article R313-26
 
-L'enquête parcellaire est organisée par le préfet dans les formes prévues par les articles R. 11-19 à R. 11-26 et R. 11-28 à
-R. 11-30 du code de l'expropriation pour cause d'utilité publique.
+L'enquête parcellaire est organisée par le préfet dans les formes prévues par le titre III du livre Ier du code de
+l'expropriation pour cause d'utilité publique.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°64-1156 1964-11-17 ART. 3
-
 _Modifié par_:
 
-  - Décret n°2007-817 du 11 mai 2007 - art. 1 () JORF 12 mai 2007 en vigueur le 1er octobre 2007
-
-_Cite_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-19 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-26 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-28 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-30 (V)
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 _Codifié par_:
 
@@ -44468,18 +44588,14 @@ L'autorité expropriante qui a pris l'initiative de la déclaration d'utilité p
 propriétaire, ou copropriétaire, le programme détaillé des travaux à réaliser sur le bâtiment et son terrain d'assiette. 
 
 La notification prévue à l'alinéa précédent est effectuée à l'occasion de la notification individuelle du dépôt en mairie du
-dossier de l'enquête parcellaire prévue par l'article R. 11-22 du code de l'expropriation pour cause d'utilité publique. Elle
+dossier de l'enquête parcellaire prévue par l'article R. 131-6 du code de l'expropriation pour cause d'utilité publique. Elle
 comporte l'indication du délai dans lequel doivent être réalisés les travaux.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°64-1156 1964-11-17 art. 4
-
 _Modifié par_:
 
-  - Décret n°2007-817 du 11 mai 2007 - art. 1 () JORF 12 mai 2007 en vigueur le 1er octobre 2007
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 _Cité par_:
 
@@ -44488,7 +44604,7 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-22 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R131-6 (V)
 
 _Codifié par_:
 
@@ -44874,26 +44990,25 @@ _Codifié par_:
 
 ###### Article R*318-6
 
-L'enquête a lieu dans les conditions fixées par les articles R. 11-4, R. 11-5, R. 11-8, R. 11-9 et R. 11-10 du code de
-l'expropriation pour cause d'utilité publique. 
+L'enquête a lieu dans les conditions fixées pour les enquêtes publiques relevant de l'article L. 110-2 du code de
+l'expropriation pour cause d'utilité publique régies par le titre Ier du livre Ier du même code. 
 
 Lorsque l'enquête est ouverte simultanément dans plusieurs départements, un arrêté conjoint du ministre de l'intérieur et du
-ministre chargé de l'urbanisme désigne le préfet compétent pour prendre l'arrêté prévu à l'article R. 11-4 précité, pour
-établir le dossier mentionné à l'article R. 318-3 et pour centraliser les résultats de l'enquête.
+ministre chargé de l'urbanisme désigne le préfet compétent pour prendre les arrêtés prévus aux articles R. 112-2 et R. 112-12
+du même code, pour établir le dossier mentionné à l'article R. 318-3 et pour centraliser les résultats de l'enquête.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°67-302 1967-03-31 art. 6
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R*318-3 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-4 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-5 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-8 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-9 (V)
+  - Code de l'urbanisme - art. R*318-3
+  - Code de l'expropriation pour cause d'utilité pu... - art. L110-2 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R112-12 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R112-2 (V)
 
 _Codifié par_:
 
@@ -44906,18 +45021,14 @@ Les personnes choisies en qualité de commissaire enquêteur ou de membre de la 
 à l'administration des collectivités et établissements publics intéressés par le transfert des équipements ni participer à
 son contrôle. Ils ne doivent avoir aucun intérêt à l'opération projetée. 
 
-Les indemnités accordées aux commissaires enquêteurs en vertu de l'article R. 11-6 du code de l'expropriation pour cause
-d'utilité publique sont applicables à l'enquête soumise aux dispositions des articles R. 318-4 à R. 318-6.
+Les indemnités accordées aux commissaires enquêteurs en vertu des articles R. 111-6 à R. 111-9 du code de l'expropriation
+pour cause d'utilité publique sont applicables à l'enquête soumise aux dispositions des articles R. 318-4 à R. 318-6.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°67-302 1967-03-31 art. 7
-
 _Modifié par_:
 
-  - Décret n°77-393 du 28 mars 1977 - art. 2 (V) JORF 14 avril 1977
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 _Cité par_:
 
@@ -44925,8 +45036,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R*318-4 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-6 (V)
+  - Code de l'urbanisme - art. R*318-4
+  - Code de l'expropriation pour cause d'utilité pu... - art. R111-6 (V)
 
 _Codifié par_:
 
@@ -46594,7 +46705,7 @@ _Cité par_:
 
 ###### Article R*322-10
 
-L'enquête publique prévue à l'article L. 322-6 a lieu dans les formes prévues par les articles R. 11-19 à R. 11-31 du code de
+L'enquête publique prévue à l'article L. 322-6 a lieu dans les formes prévues au titre III du livre Ier du code de
 l'expropriation pour cause d'utilité publique. 
 
 Le dossier mis à l'enquête comporte au moins : 
@@ -46632,29 +46743,23 @@ droits réels et personnels éteints en application de l'article L. 322-6 ;
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
 _Cite_:
 
-  - Décret n°55-22 du 4 janvier 1955 - art. 7 (VT)
-  - Code de l'urbanisme - art. L322-6 (V)
-  - Code de l'urbanisme - art. R*322-9 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-19 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-31 (V)
-
-_Anciens textes_:
-
-  - Décret n°74-203 1974-02-26 art. 10
+  - Décret n°55-22 du 4 janvier 1955 - art. 7 (V)
+  - Code de l'urbanisme - art. L322-6
+  - Code de l'urbanisme - art. R*322-9
 
 _Modifié par_:
 
-  - Décret n°86-517 du 14 mars 1986 - art. 33 () JORF 16 mars 1986 en vigueur le   1er avril 1986
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R*322-14 (V)
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*322-11
@@ -46709,30 +46814,26 @@ adressée au secrétariat de la juridiction. Les requérants doivent simultaném
 président de l'association qui dispose alors d'un délai de quinze jours pour transmettre au juge le projet de remembrement.
 
 Il est ensuite procédé comme en matière d'expropriation. Les réclamations des intéressés et la décision motivée du conseil
-des syndics sont soumises aux mêmes règles de procédure que les demandes, offres et mémoires prévus au chapitre III du décret
-n° 859-1335 du 20 novembre 1959.
+des syndics sont soumises aux mêmes règles de procédure que les demandes, offres et mémoires prévus par le livre III du code
+de l'expropriation pour cause d'utilité publique.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°59-1335 1959-11-20
+  - Décret n°59-1335 du 20 novembre 1959
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°73-1023 1973-11-08
-
-_Anciens textes_:
-
-  - Décret n°74-203 1974-02-26 ART. 12
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R*322-28-2 (V)
 
-**Liens**:
+_Codifié par_:
 
-  - TXT_ASSOCIE: Code de l'urbanisme R322-26
+  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*322-13
@@ -55043,26 +55144,23 @@ _Créé par_:
 ###### Article R*423-58
 
 Lorsque le projet a précédemment fait l'objet d'une enquête publique dans les conditions prévues par les articles R. 123-7 à
-R. 123-23 du code de l'environnement ou par les articles R. 11-14-1 et suivants du code de l'expropriation pour cause
-d'utilité publique et que l'avis de mise à l'enquête indiquait que celle-ci portait également sur la construction projetée,
-il n'y a pas lieu à nouvelle enquête au titre du permis de construire ou d'aménager, sauf si le projet a subi des
-modifications substantielles après la clôture de l'enquête.
+R. 123-23 du code de l'environnement et que l'avis de mise à l'enquête indiquait que celle-ci portait également sur la
+construction projetée, il n'y a pas lieu à nouvelle enquête au titre du permis de construire ou d'aménager, sauf si le projet
+a subi des modifications substantielles après la clôture de l'enquête.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+
 _Cite_:
 
-  - Code de l'environnement - art. R123-23 (V)
   - Code de l'environnement - art. R123-7 (V)
-  - Code de l'expropriation pour cause d'utilité pu... - art. R11-14-1 (Ab)
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
-
-_Créé par_:
-
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ##### Sous-section 3 : Délais et conditions d'émission des avis ou accords des personnes publiques, services ou commissions intéressés<a id=380></a>

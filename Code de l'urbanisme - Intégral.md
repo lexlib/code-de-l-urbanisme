@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2015-08-09 00:00:01 +0200
+Version Consolidée au 2015-08-19
 ## Contenu: 
   - [Partie législative (art. L110 à L600-10)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -12,7 +12,7 @@ Version Consolidée au 2015-08-09 00:00:01 +0200
           - [Section 1 : Dispositions générales. (art. L121-1 à L121-9-1)](#9)
           - [Section 2 : Evaluation environnementale. (art. L121-10 à L121-15)](#10)
         - [Chapitre II : Schémas de cohérence territoriale. (art. L122-1-1 à L122-19)](#11)
-        - [Chapitre III : Plans locaux d'urbanisme. (art. L123-1-5 à L123-23)](#12)
+        - [Chapitre III : Plans locaux d'urbanisme. (art. L123-1 à L123-23)](#12)
           - [Section 1 : Dispositions communes (art. L123-1 à L123-20)](#13)
           - [Section 2 : Dispositions particulières applicables à la métropole d'Aix-Marseille-Provence (art. L123-21 à L123-23)](#14)
         - [Chapitre IV : Cartes communales. (art. L124-1 à L124-4)](#15)
@@ -696,7 +696,7 @@ II.-Les schémas de cohérence territoriale et les schémas de secteur prennent 
 
 1° Les schémas régionaux de cohérence écologique ; 
 
-2° Les plans climat-énergie territoriaux ; 
+2° (Abrogé) ; 
 
 3° Les schémas régionaux de développement de l'aquaculture marine ; 
 
@@ -738,13 +738,6 @@ général des collectivités territoriales.
 Lorsque la modification ne porte que sur un ou plusieurs établissements publics de coopération intercommunale compétents en
 matière de plan local d'urbanisme ou sur une ou plusieurs communes non membres d'un tel établissement public, l'enquête
 publique peut n'être organisée que sur le territoire de ces établissements publics ou de ces communes. ;
-
-**Nota:**
-
-Loi n° 2014-366 du 24 mars 2014 JORF du 26 mars 2014, art. 129 IV :  La mise en compatibilité d'un plan local d'urbanisme,
-d'un document en tenant lieu ou d'une carte communale avec un schéma de cohérence territoriale ou un schéma de secteur
-approuvé avant le 1er juillet 2015 doit s'opérer dans le délai prévu au quatrième alinéa de l'article L. 111-1-1 du code de
-l'urbanisme, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -820,14 +813,18 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
+  - Loi n°2015-992 du 17 août 2015 - art. 188
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L4424-14 (V)
-  - Code de l'urbanisme - art. L145-1 (V)
-  - Code de l'urbanisme - art. L147-1 (V)
-  - Code de l'environnement - art. L566-7 (V)
+  - Code général des collectivités territoriales - art. L4424-14
+  - Code de l'urbanisme - art. L145-1
+  - Code de l'urbanisme - art. L147-1
+  - Code de l'environnement - art. L566-7
 
 _Nouveaux textes_:
 
@@ -5675,7 +5672,7 @@ L. 111-1-1, le schéma de cohérence territoriale n'a pas, s'il y a lieu, pris e
 
 1° Les programmes d'équipement de l'Etat, des collectivités territoriales et des établissements et services publics ; 
 
-2° Les schémas régionaux de cohérence écologique et les plans climat-énergie territoriaux lorsqu'ils existent ; 
+2° Les schémas régionaux de cohérence écologique lorsqu'ils existent ; 
 
 3° La charte de développement du pays, lorsque le périmètre du schéma de cohérence territoriale recouvre en tout ou partie
 celui d'un pays ayant fait l'objet d'une publication par arrêté préfectoral ; 
@@ -5699,22 +5696,32 @@ initiale du préfet, ce dernier engage et approuve cette mise en compatibilité.
 _Modifié par_:
 
   - Loi n°2010-788 du 12 juillet 2010 - art. 17 (V)
-  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
+  - Loi n°2015-992 du 17 août 2015 - art. 188
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 _Cite_:
 
   - Code de l'urbanisme - art. L111-1-1
-  - Code de l'urbanisme - art. L122-4 (V)
+  - Code de l'urbanisme - art. L122-4
   - Code de l'urbanisme - art. L212-1
-  - Code de l'environnement - art. L212-3 (V)
+  - Code de l'environnement - art. L212-3
   - Code de l'environnement - art. L566-7
 
 _Cité par_:
 
-  - Code de l'urbanisme - art. L122-16-1 (V)
+  - Code de l'urbanisme - art. L122-16-1 (VT)
   - Code de l'urbanisme - art. L122-18 (V)
   - Code de l'urbanisme - art. R*122-12 (VT)
   - Code de l'urbanisme - art. R*122-14 (VT)
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. L143-40 (VD)
+  - Code de l'urbanisme - art. L143-41 (VD)
+  - Code de l'urbanisme - art. L143-42 (VD)
 
 
 ###### Article L122-16-1
@@ -6008,160 +6015,6 @@ _Nouveaux textes_:
 
 
 #### Chapitre III : Plans locaux d'urbanisme.<a id=12></a>
-
-###### Article L123-1-5
-
-I.-Le règlement fixe, en cohérence avec le projet d'aménagement et de développement durables, les règles générales et les
-servitudes d'utilisation des sols permettant d'atteindre les objectifs mentionnés à l'article L. 121-1, qui peuvent notamment
-comporter l'interdiction de construire, délimite les zones urbaines ou à urbaniser et les zones naturelles ou agricoles et
-forestières à protéger et définit, en fonction des circonstances locales, les règles concernant l'implantation des
-constructions. 
-
-II.-Le règlement peut fixer les règles suivantes relatives à l'usage des sols et la destination des constructions : 
-
-1° Préciser l'affectation des sols selon les usages principaux qui peuvent en être faits ou la nature des activités qui
-peuvent y être exercées ; 
-
-2° Définir, en fonction des situations locales, les règles concernant la destination et la nature des constructions
-autorisées ; 
-
-3° Délimiter, dans les zones urbaines ou à urbaniser, des secteurs dans lesquels les programmes de logements comportent une
-proportion de logements d'une taille minimale qu'il fixe ; 
-
-4° Délimiter, dans les zones urbaines ou à urbaniser, des secteurs dans lesquels, en cas de réalisation d'un programme de
-logements, un pourcentage de ce programme est affecté à des catégories de logements qu'il définit dans le respect des
-objectifs de mixité sociale ; 
-
-5° Identifier et délimiter les quartiers, îlots et voies dans lesquels doit être préservée ou développée la diversité
-commerciale, notamment à travers les commerces de détail et de proximité, et définir, le cas échéant, les prescriptions de
-nature à assurer cet objectif ; 
-
-6° A titre exceptionnel, délimiter dans les zones naturelles, agricoles ou forestières des secteurs de taille et de capacité
-d'accueil limitées dans lesquels peuvent être autorisés : 
-
-a) Des constructions ; 
-
-b) Des aires d'accueil et des terrains familiaux locatifs destinés à l'habitat des gens du voyage au sens de la loi n°
-2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage ; 
-
-c) Des résidences démontables constituant l'habitat permanent de leurs utilisateurs. 
-
-Le règlement précise les conditions de hauteur, d'implantation et de densité des constructions, permettant d'assurer leur
-insertion dans l'environnement et leur compatibilité avec le maintien du caractère naturel, agricole ou forestier de la zone.
-Il fixe les conditions relatives aux raccordements aux réseaux publics, ainsi que les conditions relatives à l'hygiène et à
-la sécurité auxquelles les constructions, les résidences démontables ou les résidences mobiles doivent satisfaire. 
-
-Ces secteurs sont délimités après avis de la commission départementale de la préservation des espaces naturels, agricoles et
-forestiers. Cet avis est réputé favorable s'il n'est pas intervenu dans un délai de trois mois à compter de la saisine. 
-
-Dans les zones agricoles ou naturelles et en dehors des secteurs mentionnés au présent 6°, le règlement peut désigner les
-bâtiments qui peuvent faire l'objet d'un changement de destination, dès lors que ce changement de destination ne compromet
-pas l'activité agricole ou la qualité paysagère du site. Le changement de destination est soumis, en zone agricole, à l'avis
-conforme de la commission départementale de la préservation des espaces agricoles, naturels et forestiers prévue à l'article
-L. 112-1-1 du code rural et de la pêche maritime, et, en zone naturelle, à l'avis conforme de la commission départementale de
-la nature, des paysages et des sites. 
-
-Dans les zones agricoles ou naturelles et en dehors des secteurs mentionnés au présent 6°, les bâtiments d'habitation
-existants peuvent faire l'objet d'extensions ou d'annexes, dès lors que ces extensions ou annexes ne compromettent pas
-l'activité agricole ou la qualité paysagère du site. Le règlement précise la zone d'implantation et les conditions de
-hauteur, d'emprise et de densité de ces extensions ou annexes permettant d'assurer leur insertion dans l'environnement et
-leur compatibilité avec le maintien du caractère naturel, agricole ou forestier de la zone. Les dispositions du règlement
-prévues au présent alinéa sont soumises à l'avis de la commission départementale de la préservation des espaces naturels,
-agricoles et forestiers prévue à l'article L. 112-1-1 du code rural et de la pêche maritime.
-
-III.-Le règlement peut, en matière de caractéristiques architecturale, urbaine et écologique : 
-
-1° Déterminer des règles concernant l'aspect extérieur des constructions neuves, rénovées ou réhabilitées, leurs dimensions,
-leurs conditions d'alignement sur la voirie et de distance minimale par rapport à la limite séparative et l'aménagement de
-leurs abords, afin de contribuer à la qualité architecturale et paysagère, à la performance énergétique et à l'insertion des
-constructions dans le milieu environnant. Des règles peuvent, en outre, imposer une part minimale de surfaces non
-imperméabilisées ou éco-aménageables, éventuellement pondérées en fonction de leur nature, afin de contribuer au maintien de
-la biodiversité et de la nature en ville ; 
-
-2° Identifier et localiser les éléments de paysage et délimiter les quartiers, îlots, immeubles, espaces publics, monuments,
-sites et secteurs à protéger, à mettre en valeur ou à requalifier pour des motifs d'ordre culturel, historique, architectural
-ou écologique, notamment pour la préservation, le maintien ou la remise en état des continuités écologiques et définir, le
-cas échéant, les prescriptions de nature à assurer leur préservation. Lorsqu'il s'agit d'espaces boisés, ces prescriptions
-sont celles prévues à l'article L. 130-1 ; 
-
-3° Dans des secteurs situés à proximité des transports collectifs, existants ou programmés, imposer dans des secteurs qu'il
-délimite une densité minimale de constructions ; 
-
-4° Délimiter les secteurs dans lesquels la délivrance du permis de construire peut être subordonnée à la démolition de tout
-ou partie des bâtiments existants sur le terrain où l'implantation de la construction est envisagée ; 
-
-5° Localiser, dans les zones urbaines, les terrains cultivés et les espaces non bâtis nécessaires au maintien des continuités
-écologiques à protéger et inconstructibles quels que soient les équipements qui, le cas échéant, les desservent ; 
-
-6° Imposer aux constructions, travaux, installations et aménagements, notamment dans les secteurs qu'il ouvre à
-l'urbanisation, de respecter des performances énergétiques et environnementales renforcées qu'il définit. 
-
-IV.-Le règlement peut, en matière d'équipement des zones : 
-
-1° Préciser le tracé et les caractéristiques des voies de circulation à conserver, à modifier ou à créer, y compris les rues
-ou sentiers piétonniers et les itinéraires cyclables, les voies et espaces réservés au transport public et délimiter les
-zones qui sont ou peuvent être aménagées en vue de la pratique du ski et les secteurs réservés aux remontées mécaniques en
-indiquant, le cas échéant, les équipements et aménagements susceptibles d'y être prévus ; 
-
-2° Fixer les conditions de desserte par les voies et réseaux des terrains susceptibles de recevoir des constructions ou de
-faire l'objet d'aménagements. Il peut délimiter les zones mentionnées à l'article L. 2224-10 du code général des
-collectivités territoriales concernant l'assainissement et les eaux pluviales ; 
-
-3° Imposer aux constructions, travaux, installations et aménagements dans les secteurs qu'il ouvre à l'urbanisation de
-respecter, en matière d'infrastructures et réseaux de communications électroniques, des critères de qualité renforcés, qu'il
-définit. 
-
-V.-Le règlement peut également fixer les emplacements réservés aux voies et ouvrages publics, aux installations d'intérêt
-général, aux espaces verts ainsi qu'aux espaces nécessaires aux continuités écologiques.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°2000-614 du 5 juillet 2000
-  - Code général des collectivités territoriales - art. L2224-10
-  - Code rural - art. L112-1-1
-  - Code de l'urbanisme - art. L121-1
-  - Code de l'urbanisme - art. L130-1
-
-_Cité par_:
-
-  - Arrêté du 26 octobre 2010 - art. 20 (V)
-  - Code de l'expropriation pour cause d'utilité pu... - art. L322-6 (VD)
-  - Code de l'urbanisme - art. *R421-17 (M)
-  - Code de l'urbanisme - art. *R421-23 (VD)
-  - Code de l'urbanisme - art. L111-6-2 (VT)
-  - Code de l'urbanisme - art. L128-1 (VT)
-  - Code de l'urbanisme - art. L324-1 (V)
-  - Code de l'urbanisme - art. L444-1 (V)
-  - Code de l'urbanisme - art. L473-2 (V)
-  - Code de l'urbanisme - art. L480-13 (M)
-  - Code de l'urbanisme - art. R*123-10 (VT)
-  - Code de l'urbanisme - art. R*123-12 (VT)
-  - Code de l'urbanisme - art. R*123-20-1 (Ab)
-  - Code de l'urbanisme - art. R*123-7 (VT)
-  - Code de l'urbanisme - art. R*123-8 (VT)
-  - Code de l'urbanisme - art. R*123-9 (VT)
-  - Code de l'urbanisme - art. R*421-12 (VD)
-  - Code de l'urbanisme - art. R*421-15 (M)
-  - Code de l'urbanisme - art. R*421-28 (VD)
-  - Code de l'urbanisme - art. R*431-16-1 (M)
-  - Code de l'urbanisme - art. R*441-6-1 (VD)
-  - Code de l'urbanisme - art. R431-16-2 (M)
-  - Code de la construction et de l'habitation. - art. L111-6-1-2 (V)
-  - Code de la construction et de l'habitation. - art. L302-1 (VT)
-  - Code de la construction et de l'habitation. - art. L631-7-1 A (V)
-  - Code de la construction et de l'habitation. - art. R*111-18-10 (M)
-  - Code de la construction et de l'habitation. - art. R111-19-10 (M)
-  - Code des transports - art. R1241-32 (M)
-  - Code du tourisme. - art. L342-18 (V)
-  - Code du tourisme. - art. L342-23 (V)
-  - Code rural - art. L411-57 (M)
-
-_Modifié par_:
-
-  - Loi n°2015-990 du 6 août 2015 - art. 80
-
 
 ##### Section 1 : Dispositions communes<a id=13></a>
 
@@ -6548,8 +6401,9 @@ d'équipement, d'urbanisme, de paysage, de protection des espaces naturels, agri
 remise en bon état des continuités écologiques. 
 
 Le projet d'aménagement et de développement durables arrête les orientations générales concernant l'habitat, les transports
-et les déplacements, le développement des communications numériques, l'équipement commercial, le développement économique et
-les loisirs, retenues pour l'ensemble de l'établissement public de coopération intercommunale ou de la commune. 
+et les déplacements, les réseaux d'énergie, le développement des communications numériques, l'équipement commercial, le
+développement économique et les loisirs, retenues pour l'ensemble de l'établissement public de coopération intercommunale ou
+de la commune. 
 
 Il fixe des objectifs chiffrés de modération de la consommation de l'espace et de lutte contre l'étalement urbain. 
 
@@ -6558,19 +6412,32 @@ environnementales, lorsqu'il existe une ou plusieurs communes nouvelles.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+  - Loi n°2015-992 du 17 août 2015 - art. 193 (V)
+
 **Liens**:
 
-  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+  - TRANSFERE: Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 _Cité par_:
 
   - Code de l'environnement - art. L229-26 (V)
   - Code de l'urbanisme - art. L123-13 (VT)
-  - Code de l'urbanisme - art. L123-9 (M)
+  - Code de l'urbanisme - art. L123-9 (VT)
   - Code de l'urbanisme - art. L313-1 (VT)
   - Code de l'urbanisme - art. L710-6-1 (V)
   - Code de l'urbanisme - art. R*123-3 (VT)
   - Code du patrimoine. - art. L641-1 (V)
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. L151-5 (VD)
 
 
 ###### Article L123-1-4
@@ -6647,6 +6514,205 @@ _Nouveaux textes_:
   - Code de l'urbanisme - art. L151-47 (VD)
   - Code de l'urbanisme - art. L151-6 (VD)
   - Code de l'urbanisme - art. L151-7 (VD)
+
+
+###### Article L123-1-5
+
+I.-Le règlement fixe, en cohérence avec le projet d'aménagement et de développement durables, les règles générales et les
+servitudes d'utilisation des sols permettant d'atteindre les objectifs mentionnés à l'article L. 121-1, qui peuvent notamment
+comporter l'interdiction de construire, délimite les zones urbaines ou à urbaniser et les zones naturelles ou agricoles et
+forestières à protéger et définit, en fonction des circonstances locales, les règles concernant l'implantation des
+constructions. 
+
+II.-Le règlement peut fixer les règles suivantes relatives à l'usage des sols et la destination des constructions : 
+
+1° Préciser l'affectation des sols selon les usages principaux qui peuvent en être faits ou la nature des activités qui
+peuvent y être exercées ; 
+
+2° Définir, en fonction des situations locales, les règles concernant la destination et la nature des constructions
+autorisées ; 
+
+3° Délimiter, dans les zones urbaines ou à urbaniser, des secteurs dans lesquels les programmes de logements comportent une
+proportion de logements d'une taille minimale qu'il fixe ; 
+
+4° Délimiter, dans les zones urbaines ou à urbaniser, des secteurs dans lesquels, en cas de réalisation d'un programme de
+logements, un pourcentage de ce programme est affecté à des catégories de logements qu'il définit dans le respect des
+objectifs de mixité sociale ; 
+
+5° Identifier et délimiter les quartiers, îlots et voies dans lesquels doit être préservée ou développée la diversité
+commerciale, notamment à travers les commerces de détail et de proximité, et définir, le cas échéant, les prescriptions de
+nature à assurer cet objectif ; 
+
+6° A titre exceptionnel, délimiter dans les zones naturelles, agricoles ou forestières des secteurs de taille et de capacité
+d'accueil limitées dans lesquels peuvent être autorisés : 
+
+a) Des constructions ; 
+
+b) Des aires d'accueil et des terrains familiaux locatifs destinés à l'habitat des gens du voyage au sens de la loi n°
+2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage ; 
+
+c) Des résidences démontables constituant l'habitat permanent de leurs utilisateurs. 
+
+Le règlement précise les conditions de hauteur, d'implantation et de densité des constructions, permettant d'assurer leur
+insertion dans l'environnement et leur compatibilité avec le maintien du caractère naturel, agricole ou forestier de la zone.
+Il fixe les conditions relatives aux raccordements aux réseaux publics, ainsi que les conditions relatives à l'hygiène et à
+la sécurité auxquelles les constructions, les résidences démontables ou les résidences mobiles doivent satisfaire. 
+
+Ces secteurs sont délimités après avis de la commission départementale de la préservation des espaces naturels, agricoles et
+forestiers. Cet avis est réputé favorable s'il n'est pas intervenu dans un délai de trois mois à compter de la saisine. 
+
+Dans les zones agricoles ou naturelles et en dehors des secteurs mentionnés au présent 6°, le règlement peut désigner les
+bâtiments qui peuvent faire l'objet d'un changement de destination, dès lors que ce changement de destination ne compromet
+pas l'activité agricole ou la qualité paysagère du site. Le changement de destination est soumis, en zone agricole, à l'avis
+conforme de la commission départementale de la préservation des espaces agricoles, naturels et forestiers prévue à l'article
+L. 112-1-1 du code rural et de la pêche maritime, et, en zone naturelle, à l'avis conforme de la commission départementale de
+la nature, des paysages et des sites. 
+
+Dans les zones agricoles ou naturelles et en dehors des secteurs mentionnés au présent 6°, les bâtiments d'habitation
+existants peuvent faire l'objet d'extensions ou d'annexes, dès lors que ces extensions ou annexes ne compromettent pas
+l'activité agricole ou la qualité paysagère du site. Le règlement précise la zone d'implantation et les conditions de
+hauteur, d'emprise et de densité de ces extensions ou annexes permettant d'assurer leur insertion dans l'environnement et
+leur compatibilité avec le maintien du caractère naturel, agricole ou forestier de la zone. Les dispositions du règlement
+prévues au présent alinéa sont soumises à l'avis de la commission départementale de la préservation des espaces naturels,
+agricoles et forestiers prévue à l'article L. 112-1-1 du code rural et de la pêche maritime.
+
+III.-Le règlement peut, en matière de caractéristiques architecturale, urbaine et écologique : 
+
+1° Déterminer des règles concernant l'aspect extérieur des constructions neuves, rénovées ou réhabilitées, leurs dimensions,
+leurs conditions d'alignement sur la voirie et de distance minimale par rapport à la limite séparative et l'aménagement de
+leurs abords, afin de contribuer à la qualité architecturale et paysagère, à la performance énergétique et à l'insertion des
+constructions dans le milieu environnant. Des règles peuvent, en outre, imposer une part minimale de surfaces non
+imperméabilisées ou éco-aménageables, éventuellement pondérées en fonction de leur nature, afin de contribuer au maintien de
+la biodiversité et de la nature en ville ; 
+
+2° Identifier et localiser les éléments de paysage et délimiter les quartiers, îlots, immeubles, espaces publics, monuments,
+sites et secteurs à protéger, à mettre en valeur ou à requalifier pour des motifs d'ordre culturel, historique, architectural
+ou écologique, notamment pour la préservation, le maintien ou la remise en état des continuités écologiques et définir, le
+cas échéant, les prescriptions de nature à assurer leur préservation. Lorsqu'il s'agit d'espaces boisés, ces prescriptions
+sont celles prévues à l'article L. 130-1 ; 
+
+3° Dans des secteurs situés à proximité des transports collectifs, existants ou programmés, imposer dans des secteurs qu'il
+délimite une densité minimale de constructions ; 
+
+4° Délimiter les secteurs dans lesquels la délivrance du permis de construire peut être subordonnée à la démolition de tout
+ou partie des bâtiments existants sur le terrain où l'implantation de la construction est envisagée ; 
+
+5° Localiser, dans les zones urbaines, les terrains cultivés et les espaces non bâtis nécessaires au maintien des continuités
+écologiques à protéger et inconstructibles quels que soient les équipements qui, le cas échéant, les desservent ; 
+
+6° Définir des secteurs dans lesquels il impose aux constructions, travaux, installations et aménagements de respecter des
+performances énergétiques et environnementales renforcées qu'il définit. A ce titre, il peut imposer une production minimale
+d'énergie renouvelable, le cas échéant, en fonction des caractéristiques du projet et de la consommation des sites concernés.
+Cette production peut être localisée dans le bâtiment, dans le même secteur ou à proximité de celui-ci. 
+
+IV.-Le règlement peut, en matière d'équipement des zones : 
+
+1° Préciser le tracé et les caractéristiques des voies de circulation à conserver, à modifier ou à créer, y compris les rues
+ou sentiers piétonniers et les itinéraires cyclables, les voies et espaces réservés au transport public et délimiter les
+zones qui sont ou peuvent être aménagées en vue de la pratique du ski et les secteurs réservés aux remontées mécaniques en
+indiquant, le cas échéant, les équipements et aménagements susceptibles d'y être prévus ; 
+
+2° Fixer les conditions de desserte par les voies et réseaux des terrains susceptibles de recevoir des constructions ou de
+faire l'objet d'aménagements. Il peut délimiter les zones mentionnées à l'article L. 2224-10 du code général des
+collectivités territoriales concernant l'assainissement et les eaux pluviales ; 
+
+3° Imposer aux constructions, travaux, installations et aménagements dans les secteurs qu'il ouvre à l'urbanisation de
+respecter, en matière d'infrastructures et réseaux de communications électroniques, des critères de qualité renforcés, qu'il
+définit. 
+
+V.-Le règlement peut également fixer les emplacements réservés aux voies et ouvrages publics, aux installations d'intérêt
+général, aux espaces verts ainsi qu'aux espaces nécessaires aux continuités écologiques.
+
+**Nota:**
+
+Conformément à l'article 13 16° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation de la deuxième phrase du
+sixième alinéa du 6° du II de l'article L. 123-1-5 ne prendra effet qu'à compter de la publication des dispositions
+réglementaires du livre Ier du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2000-614 du 5 juillet 2000
+  - Code général des collectivités territoriales - art. L2224-10
+  - Code rural - art. L112-1-1
+  - Code de l'urbanisme - art. L121-1
+  - Code de l'urbanisme - art. L130-1
+
+_Créé par_:
+
+  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
+_Cité par_:
+
+  - Arrêté du 26 octobre 2010 - art. 20 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L322-6 (VD)
+  - Code de l'urbanisme - art. *R421-17 (M)
+  - Code de l'urbanisme - art. *R421-23 (VD)
+  - Code de l'urbanisme - art. L111-6-2 (VT)
+  - Code de l'urbanisme - art. L128-1 (VT)
+  - Code de l'urbanisme - art. L324-1 (V)
+  - Code de l'urbanisme - art. L444-1 (V)
+  - Code de l'urbanisme - art. L473-2 (V)
+  - Code de l'urbanisme - art. L480-13 (M)
+  - Code de l'urbanisme - art. R*123-10 (VT)
+  - Code de l'urbanisme - art. R*123-12 (VT)
+  - Code de l'urbanisme - art. R*123-20-1 (Ab)
+  - Code de l'urbanisme - art. R*123-7 (VT)
+  - Code de l'urbanisme - art. R*123-8 (VT)
+  - Code de l'urbanisme - art. R*123-9 (VT)
+  - Code de l'urbanisme - art. R*421-12 (VD)
+  - Code de l'urbanisme - art. R*421-15 (M)
+  - Code de l'urbanisme - art. R*421-28 (VD)
+  - Code de l'urbanisme - art. R*431-16-1 (M)
+  - Code de l'urbanisme - art. R*441-6-1 (VD)
+  - Code de l'urbanisme - art. R431-16-2 (M)
+  - Code de la construction et de l'habitation. - art. L111-6-1-2 (V)
+  - Code de la construction et de l'habitation. - art. L302-1 (VT)
+  - Code de la construction et de l'habitation. - art. L631-7-1 A (V)
+  - Code de la construction et de l'habitation. - art. R*111-18-10 (M)
+  - Code de la construction et de l'habitation. - art. R111-19-10 (M)
+  - Code des transports - art. R1241-32 (M)
+  - Code du tourisme. - art. L342-18 (V)
+  - Code du tourisme. - art. L342-23 (V)
+  - Code rural - art. L411-57 (M)
+
+**Liens**:
+
+  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+_Modifié par_:
+
+  - Loi n°2015-992 du 17 août 2015 - art. 8 (V)
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. L151-10 (VD)
+  - Code de l'urbanisme - art. L151-11 (VD)
+  - Code de l'urbanisme - art. L151-12 (VD)
+  - Code de l'urbanisme - art. L151-13 (VD)
+  - Code de l'urbanisme - art. L151-14 (VD)
+  - Code de l'urbanisme - art. L151-15 (VD)
+  - Code de l'urbanisme - art. L151-16 (VD)
+  - Code de l'urbanisme - art. L151-17 (VD)
+  - Code de l'urbanisme - art. L151-18 (VD)
+  - Code de l'urbanisme - art. L151-19 (VD)
+  - Code de l'urbanisme - art. L151-21 (VD)
+  - Code de l'urbanisme - art. L151-22 (VD)
+  - Code de l'urbanisme - art. L151-23 (VD)
+  - Code de l'urbanisme - art. L151-24 (VD)
+  - Code de l'urbanisme - art. L151-26 (VD)
+  - Code de l'urbanisme - art. L151-38 (VD)
+  - Code de l'urbanisme - art. L151-39 (VD)
+  - Code de l'urbanisme - art. L151-40 (VD)
+  - Code de l'urbanisme - art. L151-41 (VD)
+  - Code de l'urbanisme - art. L151-8 (VD)
+  - Code de l'urbanisme - art. L151-9 (VD)
 
 
 ###### Article L123-1-6
@@ -6737,30 +6803,55 @@ constructions avoisinantes.
 
 Le plan local d'urbanisme doit, s'il y a lieu, être compatible avec les dispositions du schéma de mise en valeur de la mer,
 ainsi que du plan de déplacements urbains et du programme local de l'habitat. Il n'est pas illégal du seul fait qu'il
-autorise la construction de plus de logements que les obligations minimales du programme local de l'habitat n'en prévoient. 
+autorise la construction de plus de logements que les obligations minimales du programme local de l'habitat n'en prévoient.
+Il prend en compte, le cas échéant, le plan climat-air-énergie territorial. 
 
 Les dispositions relatives aux transports et aux déplacements des orientations d'aménagement et de programmation et du
 programme d'orientations et d'actions du plan local d'urbanisme tenant lieu de plan de déplacements urbains sont compatibles
-avec les dispositions du plan régional pour la qualité de l'air et du schéma régional du climat, de l'air et de l'énergie. 
+avec le schéma régional du climat, de l'air et de l'énergie prévu à l'article L. 222-1 du code de l'environnement et,
+lorsqu'un plan de protection de l'atmosphère prévu à l'article L. 222-4 du même code couvre tout ou partie du périmètre de
+l'établissement public de coopération intercommunale, avec les objectifs fixés par ce plan pour chaque polluant. 
 
-Lorsqu'un  des documents mentionnés aux deuxième et troisième alinéas est approuvé après l'approbation d'un plan local
+Lorsqu'un des documents mentionnés aux deuxième et troisième alinéas est approuvé après l'approbation d'un plan local
 d'urbanisme, ce dernier doit, si nécessaire, être rendu compatible dans un délai de trois ans. Ce délai est ramené à un an
 pour permettre la réalisation d'un ou plusieurs programmes de logements prévus dans un secteur de la commune par le programme
 local de l'habitat et nécessitant une modification du plan.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Créé par_:
 
-  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
+_Modifié par_:
+
+  - Loi n°2015-992 du 17 août 2015 - art. 188 (V)
+  - Loi n°2015-992 du 17 août 2015 - art. 66 (V)
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 _Cité par_:
 
   - Code de l'environnement - art. R333-13 (M)
   - Code de l'urbanisme - art. L123-1-10 (V)
   - Code de l'urbanisme - art. L123-14 (VD)
-  - Code de l'urbanisme - art. L123-14-1 (M)
+  - Code de l'urbanisme - art. L123-14-1 (VT)
   - Code de l'urbanisme - art. L710-6 (VT)
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. L131-4 (VD)
+  - Code de l'urbanisme - art. L131-5 (VD)
+  - Code de l'urbanisme - art. L131-6 (VD)
+  - Code de l'urbanisme - art. L131-8 (VD)
+  - Code de l'urbanisme - art. L152-3 (VD)
+
+_Cite_:
+
+  - Code de l'environnement - art. L222-1 (M)
+  - Code de l'environnement - art. L222-4 (V)
 
 
 ###### Article L123-1-10
@@ -6855,14 +6946,16 @@ _Nouveaux textes_:
 ###### Article L123-1-12
 
 Le règlement fixe les obligations minimales en matière de stationnement pour les vélos pour les immeubles d'habitation et de
-bureaux, dans le respect des conditions prévues au II de l'article L. 111-5-2 du code de la construction et de l'habitation. 
+bureaux, dans le respect des conditions prévues au I de l'article L. 111-5-2 du code de la construction et de l'habitation. 
 
 Lorsque les conditions de desserte par les transports publics réguliers le permettent, le règlement peut fixer un nombre
 maximal d'aires de stationnement pour les véhicules motorisés à réaliser lors de la construction de bâtiments destinés à un
 usage autre que d'habitation. 
 
 Lorsque le plan local d'urbanisme impose la réalisation d'aires de stationnement pour les véhicules motorisés, celles-ci
-peuvent être réalisées sur le terrain d'assiette ou dans son environnement immédiat. 
+peuvent être réalisées sur le terrain d'assiette ou dans son environnement immédiat. Cette obligation est réduite de 15 % au
+minimum en contrepartie de la mise à disposition de véhicules électriques munis d'un dispositif de recharge adapté ou de
+véhicules propres en auto-partage, dans des conditions définies par décret.  
 
 Lorsque le plan local d'urbanisme tient lieu de plan de déplacements urbains, le règlement fixe les obligations minimales en
 matière de stationnement pour les véhicules non motorisés, en tenant compte notamment de la desserte en transports publics
@@ -6889,9 +6982,23 @@ compte, en tout ou en partie, à l'occasion d'une nouvelle autorisation.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+  - Loi n°2015-992 du 17 août 2015 - art. 42 (V)
+  - Loi n°2015-992 du 17 août 2015 - art. 41 (V)
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. L151-30 (VD)
+  - Code de l'urbanisme - art. L151-31 (VD)
+  - Code de l'urbanisme - art. L151-32 (VD)
+  - Code de l'urbanisme - art. L151-33 (VD)
+  - Code de l'urbanisme - art. L151-47 (VD)
 
 _Cité par_:
 
@@ -7248,6 +7355,39 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - Code de l'urbanisme - art. L152-6 (VD)
+
+
+###### Article L123-5-2
+
+L'autorité compétente pour délivrer le permis de construire ou le permis d'aménager et prendre la décision sur une
+déclaration préalable peut, par décision motivée, déroger aux règles des plans locaux d'urbanisme, des plans d'occupation des
+sols et des plans d'aménagement de zone, dans les conditions et selon les modalités définies au présent article. 
+
+Il peut ainsi être dérogé, dans des limites fixées par un décret en Conseil d'Etat, aux règles relatives à l'emprise au sol,
+à la hauteur, à l'implantation et à l'aspect extérieur des constructions afin d'autoriser : 
+
+1° La mise en œuvre d'une isolation en saillie des façades des constructions existantes ; 
+
+2° La mise en œuvre d'une isolation par surélévation des toitures des constructions existantes ; 
+
+3° La mise en œuvre de dispositifs de protection contre le rayonnement solaire en saillie des façades. 
+
+La décision motivée peut comporter des prescriptions destinées à assurer la bonne intégration architecturale du projet dans
+le bâti existant et dans le milieu environnant.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2015-992 du 17 août 2015 - art. 7
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. L152-5 (VD)
 
 
 ###### Article L123-6
@@ -7830,19 +7970,35 @@ ce plan, un bilan de l'application des dispositions de ce plan relatives à l'ha
 l'article L. 302-1 du code de la construction et de l'habitation. Ce bilan est transmis au préfet de département. Il est
 organisé tous les trois ans dès lors que le plan n'a pas été mis en révision.
 
+Le plan local d'urbanisme tenant lieu de plan de déplacements urbains donne lieu aux évaluations et aux calculs prévus à
+l'article L. 1214-8-1 du code des transports lors de son élaboration et lors de l'analyse des résultats du plan prévue au
+premier alinéa du présent article.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+  - Loi n°2015-992 du 17 août 2015 - art. 66 (V)
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 _Cite_:
 
-  - Code des transports - art. L1214-1
   - Code de l'urbanisme - art. L121-1
   - Code de l'urbanisme - art. L123-6
   - Code de la construction et de l'habitation. - art. L302-1
   - Code de la construction et de l'habitation. - art. L302-2
+  - Code des transports - art. L1214-1
 
-**Liens**:
+_Nouveaux textes_:
 
-  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+  - Code de l'urbanisme - art. L153-27 (VD)
+  - Code de l'urbanisme - art. L153-28 (VD)
+  - Code de l'urbanisme - art. L153-29 (VD)
+  - Code de l'urbanisme - art. L153-30 (VD)
 
 _Cité par_:
 
@@ -9243,25 +9399,32 @@ _Nouveaux textes_:
 
 Dans les zones urbaines ou à urbaniser, le règlement peut autoriser un dépassement des règles relatives au gabarit résultant
 du plan local d'urbanisme ou du document d'urbanisme en tenant lieu dans la limite de 30 % et dans le respect des autres
-règles établies par le document, pour les constructions satisfaisant à des critères de performance énergétique élevée ou
-alimentées à partir d'équipements performants de production d'énergie renouvelable ou de récupération. 
+règles établies par le document, pour les constructions faisant preuve d'exemplarité énergétique ou environnementale ou qui
+sont à énergie positive. 
 
 Ce dépassement ne peut excéder 20 % dans un secteur sauvegardé, dans une zone de protection du patrimoine architectural,
 urbain et paysager créée en application de l'article L. 642-1 du code du patrimoine, dans le périmètre de protection d'un
-immeuble classé ou inscrit au titre des monuments historiques défini par l'article L. 621-30-1 du même code, dans un site
+immeuble classé ou inscrit au titre des monuments historiques défini par l'article L. 621-30 du même code, dans un site
 inscrit ou classé en application des articles L. 341-1 et L. 341-2 du code de l'environnement, à l'intérieur du cœur d'un
 parc national délimité en application de l'article L. 331-2 du même code, ni aux travaux portant sur un immeuble classé ou
 inscrit au titre des monuments historiques ou adossé à un immeuble classé, ou sur un immeuble protégé en application du 2° du
 III de l'article L. 123-1-5 du présent code. Il ne peut permettre de déroger aux servitudes d'utilité publique visées à
 l'article L. 126-1. 
 
-Un décret en Conseil d'Etat détermine les critères de performance et les équipements pris en compte.
+La limitation en hauteur des bâtiments dans un plan local d'urbanisme ne peut avoir pour effet d'introduire une limitation du
+nombre d'étages plus contraignante d'un système constructif à l'autre.
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
+  - Loi n°2015-992 du 17 août 2015 - art. 8
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 _Cité par_:
 
@@ -9271,7 +9434,7 @@ _Cité par_:
   - Code de l'urbanisme - art. L123-13-2 (VT)
   - Code de l'urbanisme - art. L123-13-3 (VT)
   - Code de l'urbanisme - art. L128-2 (VT)
-  - Code de l'urbanisme - art. L128-3 (M)
+  - Code de l'urbanisme - art. L128-3 (VT)
   - Code de l'urbanisme - art. L710-1 (VT)
   - Code de l'urbanisme - art. R*123-13 (V)
   - Code de l'urbanisme - art. R*128-1 (Ab)
@@ -9289,6 +9452,11 @@ _Cite_:
   - Code de l'environnement - art. L341-1
   - Code du patrimoine - art. L621-30-1
   - Code du patrimoine - art. L642-1
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. L151-28 (VD)
+  - Code de l'urbanisme - art. L151-29 (VD)
 
 
 ###### Article L128-2
@@ -12525,7 +12693,7 @@ _Abrogé par_:
 
 ###### Article L146-4
 
-I ― L'extension de l'urbanisation doit se réaliser soit en continuité avec les agglomérations et villages existants, soit en
+I - L'extension de l'urbanisation doit se réaliser soit en continuité avec les agglomérations et villages existants, soit en
 hameaux nouveaux intégrés à l'environnement. 
 
 Par dérogation aux dispositions de l'alinéa précédent, les constructions ou installations liées aux activités agricoles ou
@@ -12537,7 +12705,7 @@ l'environnement ou aux paysages.
 Les dispositions du premier alinéa ne font pas obstacle à la réalisation de travaux de mise aux normes des exploitations
 agricoles, à condition que les effluents d'origine animale ne soient pas accrus. 
 
-II ― L'extension limitée de l'urbanisation des espaces proches du rivage ou des rives des plans d'eau intérieurs désignés à
+II - L'extension limitée de l'urbanisation des espaces proches du rivage ou des rives des plans d'eau intérieurs désignés à
 l'article 2 de la loi n° 86-2 du 3 janvier 1986 précitée doit être justifiée et motivée, dans le plan local d'urbanisme,
 selon des critères liés à la configuration des lieux ou à l'accueil d'activités économiques exigeant la proximité immédiate
 de l'eau. 
@@ -12551,33 +12719,39 @@ matière de nature, de paysages et de sites appréciant l'impact de l'urbanisati
 peuvent également faire connaître leur avis dans un délai de deux mois suivant le dépôt de la demande d'accord. Le plan local
 d'urbanisme doit respecter les dispositions de cet accord. 
 
-III ― En dehors des espaces urbanisés, les constructions ou installations sont interdites sur une bande littorale de cent
+III - En dehors des espaces urbanisés, les constructions ou installations sont interdites sur une bande littorale de cent
 mètres à compter de la limite haute du rivage ou des plus hautes eaux pour les plans d'eau intérieurs désignés à l'article 2
 de la loi n° 86-2 du 3 janvier 1986 précitée. 
 
 Cette interdiction ne s'applique pas aux constructions ou installations nécessaires à des services publics ou à des activités
-économiques exigeant la proximité immédiate de l'eau, et notamment aux ouvrages de raccordement aux réseaux publics de
-transport ou de distribution d'électricité des installations marines utilisant les énergies renouvelables. Leur réalisation
-est toutefois soumise à enquête publique réalisée conformément au chapitre III du titre II du livre Ier du code de
-l'environnement. Un décret en Conseil d'Etat fixe les conditions de réalisation des ouvrages nécessaires au raccordement aux
-réseaux publics de transport ou de distribution d'électricité des installations marines utilisant les énergies renouvelables.
-Les techniques utilisées pour la réalisation de ces raccordements sont souterraines et toujours celles de moindre impact
-environnemental. 
+économiques exigeant la proximité immédiate de l'eau, et notamment, dans les communes riveraines des mers, des océans, des
+estuaires et des deltas mentionnées à l'article L. 321-2 du code de l'environnement, à l'atterrage des canalisations et à
+leurs jonctions, lorsque ces canalisations et jonctions sont nécessaires à l'exercice des missions de service public définies
+à l'article L. 121-4 du code de l'énergie. Les techniques utilisées pour la réalisation de ces ouvrages électriques sont
+souterraines et toujours celles de moindre impact environnemental. L'autorisation d'occupation du domaine public ou, à
+défaut, l'approbation des projets de construction des ouvrages mentionnée au 1° de l'article L. 323-11 du même code est
+refusée si les canalisations ou leurs jonctions ne respectent pas les conditions prévues au présent alinéa. 
+
+Pour l'application du deuxième alinéa du présent III, l'autorisation ou l'approbation peut comporter des prescriptions
+destinées à réduire l'impact environnemental des canalisations et de leurs jonctions. 
+
+La réalisation des constructions, installations, canalisations et jonctions mentionnées au même deuxième alinéa est soumise à
+enquête publique réalisée en application du chapitre III du titre II du livre Ier du code de l'environnement.
 
 Le plan local d'urbanisme peut porter la largeur de la bande littorale visée au premier alinéa du présent paragraphe à plus
 de cent mètres, lorsque des motifs liés à la sensibilité des milieux ou à l'érosion des côtes le justifient. 
 
-IV ― Les dispositions des paragraphes II et III ci-dessus s'appliquent aux rives des estuaires les plus importants, dont la
+IV - Les dispositions des paragraphes II et III ci-dessus s'appliquent aux rives des estuaires les plus importants, dont la
 liste est fixée par décret en Conseil d'Etat. 
 
-V. ― Les dispositions des II et III ne s'appliquent pas aux rives des étiers et des rus, en amont d'une limite située à
+V. - Les dispositions des II et III ne s'appliquent pas aux rives des étiers et des rus, en amont d'une limite située à
 l'embouchure et fixée par l'autorité administrative dans des conditions définies par un décret en Conseil d'Etat.
 
 **Nota:**
 
-Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
-d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
-du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
+Conformément à l'article 13 31° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation de la troisième phrase du
+troisième alinéa du II de l'article L. 146-4 ne prendra effet qu'à compter de la publication des dispositions réglementaires
+du livre Ier du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -12585,7 +12759,7 @@ _Cité par_:
 
   - Décret n°85-453 du 23 avril 1985 - art. Annexe (Ab)
   - Décret n°2004-311 du 29 mars 2004 - art. 2 (V)
-  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (V)
+  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (VD)
   - Décret n°2014-1299 du 23 octobre 2014 - art. (VD)
   - Décret n°2019-1400 du 17 décembre 2019 - art. (V)
   - Code de l'environnement - art. Annexe I à l'article R123-1 (V)
@@ -12606,10 +12780,6 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L4424-10 (V)
   - Code général des collectivités territoriales - art. L4424-12 (V)
 
-_Cite_:
-
-  - Loi n°86-2 du 3 janvier 1986 - art. 2 (V)
-
 **Liens**:
 
   - TXT_SOURCE: Décret n°2004-311 du 29 mars 2004
@@ -12618,8 +12788,12 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 167
-  - Loi n°2010-788 du 12 juillet 2010 - art. 240
+  - Loi n°2015-992 du 17 août 2015 - art. 135
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
 
 _Nouveaux textes_:
 
@@ -12633,6 +12807,44 @@ _Nouveaux textes_:
   - Code de l'urbanisme - art. L121-20 (VD)
   - Code de l'urbanisme - art. L121-8 (VD)
   - Code de l'urbanisme - art. R121-2 (V)
+
+
+###### Article L146-4-1
+
+Par dérogation au premier alinéa du I de l'article L. 146-4, les ouvrages nécessaires à la production d'électricité à partir
+de l'énergie mécanique du vent qui sont incompatibles avec le voisinage des zones habitées peuvent être implantés après
+délibération favorable de l'organe délibérant de l'établissement public de coopération intercommunale compétent en matière de
+plan local d'urbanisme ou, à défaut, du conseil municipal de la commune concernée par l'ouvrage, et après avis de la
+commission départementale compétente en matière de nature, de paysages et de sites. 
+
+Les ouvrages mentionnés au premier alinéa du présent article ne peuvent pas être implantés s'ils sont de nature à porter
+atteinte à l'environnement ou aux sites et paysages remarquables. 
+
+La dérogation mentionnée au même premier alinéa s'applique en dehors des espaces proches du rivage et au-delà d'une bande
+d'un kilomètre à compter de la limite haute du rivage ou des plus hautes eaux pour les plans d'eau intérieurs désignés à l'
+article L. 321-2 du code de l'environnement
+. 
+
+Le plan local d'urbanisme peut adapter, hors espaces proches du rivage, la largeur de la bande d'un kilomètre mentionnée au
+troisième alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2015-992 du 17 août 2015 - art. 138
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. L121-12 (VD)
+
+_Cite_:
+
+  - Code de l'environnement - art. L321-2
 
 
 ###### Article L146-5
@@ -12694,12 +12906,18 @@ disposition.
 
 A l'issue de la mise à disposition et avant de prendre sa décision, l'autorité administrative en établit le bilan. 
 
-Peuvent être également autorisées les canalisations du réseau public de transport ou de distribution d'électricité visant à
-promouvoir l'utilisation des énergies renouvelables. Les techniques utilisées pour la réalisation de ces ouvrages sont
-souterraines et toujours celles de moindre impact environnemental. L'approbation des projets de construction des ouvrages,
-mentionnée au 1° de l'article L. 323-11 du code de l'énergie, est refusée si les canalisations sont de nature à porter
-atteinte à l'environnement ou aux sites et paysages remarquables. Leur réalisation est soumise à enquête publique réalisée
-conformément au chapitre III du titre II du livre Ier du code de l'environnement. 
+Peuvent également être autorisés, dans les communes riveraines des mers, des océans, des estuaires et des deltas mentionnées
+à l'article L. 321-2 du code de l'environnement, l'atterrage des canalisations et leurs jonctions, lorsque ces canalisations
+et jonctions sont nécessaires à l'exercice des missions de service public définies à l'article L. 121-4 du code de l'énergie.
+Les techniques utilisées pour la réalisation de ces ouvrages électriques sont souterraines et toujours celles de moindre
+impact environnemental. Leur réalisation est soumise à enquête publique réalisée en application du chapitre III du titre II
+du livre Ier du code de l'environnement. L'autorisation d'occupation du domaine public ou, à défaut, l'approbation des
+projets de construction des ouvrages mentionnée au 1° de l'article L. 323-11 du code de l'énergie est refusée si les
+canalisations ou leurs jonctions ne respectent pas les conditions prévues au présent alinéa ou sont de nature à porter
+atteinte à l'environnement ou aux sites et paysages remarquables. 
+
+Pour l'application du cinquième alinéa du présent article, l'autorisation ou l'approbation peut comporter des prescriptions
+destinées à réduire l'impact environnemental des canalisations et de leurs jonctions. 
 
 En outre, la réalisation de travaux ayant pour objet la conservation ou la protection de ces espaces et milieux peut être
 admise, après enquête publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement. 
@@ -12718,7 +12936,7 @@ _Cité par_:
   - Décret n°2006-608 du 26 mai 2006 - art. 2 (Ab)
   - Décret n°2006-608 du 26 mai 2006 - art. 3 (Ab)
   - Décret n°2006-608 du 26 mai 2006 - art. 8 (Ab)
-  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (V)
+  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (VD)
   - Décret n°2019-1400 du 17 décembre 2019 - art. (V)
   - Code de l'environnement - art. Annexe I à l'article R123-1 (V)
   - Code de l'environnement - art. L341-16 (V)
@@ -12746,7 +12964,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-366 du 24 mars 2014 - art. 169 (V)
+  - Loi n°2015-992 du 17 août 2015 - art. 135
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 _Nouveaux textes_:
 
@@ -17085,9 +17307,9 @@ Lorsque la déclaration de projet est adoptée par l'Etat, elle peut procéder a
 de la région d'Ile-de-France, d'un schéma d'aménagement régional des régions d'outre-mer, du plan d'aménagement et de
 développement durables de Corse, d'une charte de parc naturel régional ou de parc national, du schéma directeur d'aménagement
 et de gestion des eaux, du schéma d'aménagement et de gestion des eaux, de la zone de protection du patrimoine architectural,
-urbain et paysager, du schéma régional de cohérence écologique ou du plan climat-énergie territorial. Ces adaptations sont
-effectuées dans le respect des dispositions législatives et réglementaires applicables au contenu de ces règlements ou de ces
-servitudes. 
+urbain et paysager, du schéma régional de cohérence écologique ou du plan climat-air-énergie territorial. Ces adaptations
+sont effectuées dans le respect des dispositions législatives et réglementaires applicables au contenu de ces règlements ou
+de ces servitudes. 
 
 Les adaptations proposées sont présentées dans le cadre des procédures prévues par les articles L. 122-15, L. 122-16-1, L.
 123-14 et L. 123-14-2, auxquelles les autorités ou services compétents pour élaborer les documents mentionnés à l'alinéa
@@ -17112,15 +17334,7 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 **Nota:**
 
-Ordonnance n° 2012-11 du 5 janvier 2012 article 19 : Les présentes dispositions entrent en vigueur à une date déterminée par
-décret en Conseil d'Etat et au plus tard le 1er janvier 2013. Toutefois, les dispositions en vigueur antérieurement à
-l'entrée en vigueur de l'ordonnance demeurent applicables :
 
-- aux procédures d'élaboration et de révision des schémas de cohérence territoriale et des plans locaux d'urbanisme
-prescrites à cette même date ;
-
-- aux procédures de modification des schémas de cohérence territoriale et des plans locaux d'urbanisme lorsque le projet de
-modification a été notifié aux personnes publiques associées à la date d'entrée en vigueur de l'ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -17153,15 +17367,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (M)
-  - Ordonnance n°2012-11 du 5 janvier 2012 - art. 6
+  - Loi n°2015-992 du 17 août 2015 - art. 188
 
 _Cite_:
 
   - Code de l'urbanisme - art. L122-15
   - Code de l'urbanisme - art. L122-16-1
   - Code de l'urbanisme - art. L123-14
-  - Code de l'urbanisme - art. L123-14-2 (VD)
+  - Code de l'urbanisme - art. L123-14-2
 
 
 ###### Article L300-6-1
@@ -17238,7 +17451,7 @@ comblement des cavités minières ou d'une étude du sous-sol démontrant l'abse
 
 ― d'un schéma régional de cohérence écologique ; 
 
-― d'un plan climat-énergie territorial ; 
+― d'un plan climat-air-énergie territorial ; 
 
 ― d'un plan de déplacements urbains ; 
 
@@ -17309,6 +17522,7 @@ _Cité par_:
   - Code de l'urbanisme - art. L122-16-1 (VT)
   - Code de l'urbanisme - art. L123-14-2 (VT)
   - Code de l'urbanisme - art. L123-23 (VD)
+  - Code de l'urbanisme - art. L141-1-2 (VT)
   - Code de l'urbanisme - art. L143-44 (VD)
   - Code de l'urbanisme - art. L143-46 (VD)
   - Code de l'urbanisme - art. L143-47 (VD)
@@ -17351,14 +17565,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2014-811 du 17 juillet 2014 - art. 1
+  - Loi n°2015-992 du 17 août 2015 - art. 188
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L4433-10-1 (V)
+  - Code général des collectivités territoriales - art. L4433-10-1
   - Code général des collectivités territoriales - art. L5210-1-1
   - Code de l'urbanisme - art. L121-1
-  - Code de l'urbanisme - art. L141-1-2 (VD)
   - Code de l'environnement - art. L123-6
   - Code de l'environnement - art. L562-1
   - Code minier (nouveau) - art. L174-5
@@ -19755,6 +19968,11 @@ territoriales ou leurs groupements des missions présentant un caractère compl�
 missions principales mentionnées dans le présent article en vue de favoriser le développement durable de leur territoire. Ils
 exercent ces missions à titre accessoire. 
 
+Afin de favoriser le développement durable de leur territoire, et dans le prolongement de leur mission d'aménagement, ils
+sont compétents pour assurer un service de distribution de chaleur et de froid. Cette compétence est exercée à titre
+transitoire, dans une durée compatible avec celle des opérations d'aménagement, et dans la perspective d'un transfert du
+réseau à une autre entité compétente. 
+
 Dans le ressort territorial des établissements publics fonciers créés en application de l'article L. 321-1, des conventions
 peuvent prévoir les conditions dans lesquelles les établissements publics d'aménagement et les établissements publics
 fonciers réalisent les acquisitions foncières nécessaires aux missions mentionnées dans le présent article.
@@ -19803,9 +20021,9 @@ _Cite_:
   - Code de l'urbanisme - art. L325-2
   - Code de la construction et de l'habitation. - art. L321-1-3
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+  - Loi n°2015-992 du 17 août 2015 - art. 195
 
 
 ###### Article L321-15
@@ -24390,25 +24608,16 @@ Lorsque la réalisation des équipements publics exceptionnels n'est pas de la c
 de construire, celle-ci détermine le montant de la contribution correspondante, après accord de la collectivité publique à
 laquelle incombent ces équipements ou de son concessionnaire.
 
+Lorsque l'autorisation de construire a pour objet l'implantation des installations de production d'électricité à partir de
+l'énergie mécanique du vent dont la situation ou l'importance rend nécessaires des moyens de détection militaires
+supplémentaires, ces moyens constituent un équipement public exceptionnel au sens du premier alinéa. Le montant de la
+contribution est fixé par convention par l'autorité militaire.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 _Anciens textes_:
 
   - Loi n°67-1253 1967-12-30 ART. 77 loi d'orientation foncière
-
-_Modifié par_:
-
-  - Loi n°85-729 du 18 juillet 1985 - art. 23 () JORF 19 juillet 1985 en vigueur le 1er juillet 1986
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 52 (V)
-  - TXT_ASSOCIE: Code de l'urbanisme - art. L332-6 (M)
-  - TXT_ASSOCIE: Code de l'urbanisme - art. L332-7 (M)
 
 _Cité par_:
 
@@ -24416,6 +24625,19 @@ _Cité par_:
   - Code de l'urbanisme - art. L332-12 (V)
   - Code de l'urbanisme - art. L332-6-1 (V)
   - Code de l'urbanisme - art. L340-2 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2015-992 du 17 août 2015 - art. 141
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de l'urbanisme - art. L332-6 (M)
+  - TXT_ASSOCIE: Code de l'urbanisme - art. L332-7 (M)
+
+_Codifié par_:
+
+  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L332-11-3
@@ -26846,16 +27068,8 @@ L'arrêté accordant le permis de construire prescrit l'établissement aux frais
 contradictoire d'un état descriptif des lieux.
 
 Il peut fixer un délai à l'expiration duquel le pétitionnaire doit enlever la construction autorisée. Un décret en Conseil
-d'Etat précise les secteurs protégés dans lesquels la fixation d'un délai est obligatoire.
-
-**Nota:**
-
-L'article 41 de l'ordonnance n° 2005-1527 énonce : " La présente ordonnance entrera en vigueur à des dates fixées par décret
-en Conseil d'Etat et au plus tard le 1er octobre 2007. " 
-
-Le décret n° 2006-1220 du 6 octobre 2006 fixe l'entrée en vigueur de l'article 15 de l'ordonnance n° 2005-1527, en tant qu'il
-remplace les articles L. 423-1 à L. 423-5 du code de l'urbanisme par les articles L. 433-1 à L. 433-7 du même code, au 1er
-novembre 2006.
+d'Etat précise les secteurs protégés dans lesquels la fixation d'un délai est obligatoire. Une prolongation de ce délai est
+accordée si les nécessités d'une expérimentation dans le domaine des énergies renouvelables le justifient.
 
 **Liens relatifs à cet article**
 
@@ -26863,9 +27077,9 @@ _Codifié par_:
 
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er novembre 2006
+  - Loi n°2015-992 du 17 août 2015 - art. 136
 
 
 ###### Article L433-3

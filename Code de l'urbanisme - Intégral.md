@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2015-10-24
+Version Consolidée au 2015-10-29
 ## Contenu: 
   - [Partie législative (art. L110 à L600-10)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -354,7 +354,7 @@ Version Consolidée au 2015-10-24
       - [Titre Ier : Certificat d'urbanisme (art. R*410-1 à R*410-21)](#351)
         - [Section 1 : Présentation, dépôt et transmission de la demande (art. R*410-1 à R*410-3)](#352)
         - [Section 2 : Instruction de la demande (art. R*410-4 à R*410-10)](#353)
-        - [Section 3 : Décision (art. R*410-11 à R*410-20)](#354)
+        - [Section 3 : Décision (art. R*410-11 à R410-15-1)](#354)
         - [Section 4 : Modèles nationaux de demande et de décision (art. R*410-21)](#355)
       - [Titre II : Dispositions communes aux diverses autorisations et aux déclarations préalables (art. R*420-1 à R*427-6)](#356)
         - [Chapitre Ier : Champ d'application (art. R*420-1 à R*421-29)](#357)
@@ -424,11 +424,11 @@ Version Consolidée au 2015-10-24
         - [Chapitre IV : Dispositions diverses (art. R*434-1 à R*434-2)](#421)
       - [Titre IV : Dispositions propres aux aménagements (art. R*441-1 à R*444-1)](#422)
         - [Chapitre Ier : Dispositions communes (art. R*441-1 à R*441-10-1)](#423)
-          - [Section 1 : Dossier de demande de permis d'aménager (art. R*441-1 à R441-8-1)](#424)
+          - [Section 1 : Dossier de demande de permis d'aménager (art. R*441-1 à R441-8-3)](#424)
           - [Section 2 : Déclaration préalable portant sur un projet d'aménagement (art. R*441-9 à R*441-10-1)](#425)
         - [Chapitre II : Dispositions propres aux lotissements (art. *R442-2 à R*442-25)](#426)
           - [Section 1 : Champ d'application (art. *R442-2 à R*442-1)](#427)
-          - [Section 2 : Contenu de la demande de permis d'aménager un lotissement (art. *R442-3 à *R442-8)](#428)
+          - [Section 2 : Contenu de la demande de permis d'aménager un lotissement (art. *R442-3 à R442-8-1)](#428)
           - [Section 3 : Répartition de la surface constructible et du versement pour sous-densité entre les différents lots (art. *R442-9 à R*442-10-1)](#429)
           - [Section 4 : Cession des lots et édification des constructions (art. *R442-12 à *R442-18)](#430)
           - [Section 5 : Modifications apportées aux documents du lotissement (art. *R442-19 à *R442-20)](#431)
@@ -35965,7 +35965,9 @@ coopération intercommunale compétent dans lesquels le premier alinéa de l'art
 19° Le périmètre des secteurs relatifs au taux de la taxe d'aménagement, en application de l'article L. 331-14 et L.
 331-15 ; 
 
-20° Le périmètre des secteurs affectés par un seuil minimal de densité, en application de l'article L. 331-36
+20° Le périmètre des secteurs affectés par un seuil minimal de densité, en application de l'article L. 331-36 ; 
+
+21° Les secteurs d'information sur les sols prévus à l'article L. 125-6 du code de l'environnement.
 
 **Nota:**
 
@@ -35988,19 +35990,32 @@ _Cite_:
   - Code de l'urbanisme - art. L143-1
   - Code de l'urbanisme - art. L211-1
   - Code de l'urbanisme - art. L313-1
+  - Code de l'urbanisme - art. L331-14
+  - Code de l'urbanisme - art. L331-15
+  - Code de l'urbanisme - art. L331-36
   - Code de l'urbanisme - art. L332-11-3
   - Code de l'urbanisme - art. L332-9
   - Code de l'urbanisme - art. L430-1
+  - Code de l'environnement - art. L125-6
   - Code de l'environnement - art. L571-10
 
 _Modifié par_:
 
-  - Décret n°2015-482 du 27 avril 2015 - art. 2
+  - Décret n°2015-1353 du 26 octobre 2015 - art. 4
+
+_Abrogé par_:
+
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R*123-22 (VT)
-  - Code de l'urbanisme - art. R*313-6 (M)
+  - Code de l'urbanisme - art. R*313-6 (VD)
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. R151-52 (M)
+  - Code de l'urbanisme - art. R151-53 (M)
 
 
 ###### Article R*123-14
@@ -45648,19 +45663,18 @@ _Cité par_:
 
 ###### Article R*313-6
 
-Les annexes comprennent, s'il y a lieu, les informations énumérées aux 2° à 14° de l'article R. 123-13 et à l'article R.
-123-14.
+Les annexes comprennent, s'il y a lieu, les informations énumérées aux articles R. 123-13 et R. 123-14.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
+  - Décret n°2015-1353 du 26 octobre 2015 - art. 4
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R*123-13 (V)
-  - Code de l'urbanisme - art. R*123-14 (V)
+  - Code de l'urbanisme - art. R*123-13 (VT)
+  - Code de l'urbanisme - art. R*123-14
 
 _Cité par_:
 
@@ -53638,6 +53652,26 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
+###### Article R410-15-1
+
+I.-Le certificat d'urbanisme indique si le terrain est situé sur un site répertorié sur la carte des anciens sites
+industriels et activités de services mentionnée à l'article L. 125-6 du code de l'environnement ou dans un ancien site
+industriel ou de service dont le service instructeur a connaissance. 
+
+II.-Le certificat d'urbanisme indique si le terrain est situé sur un secteur d'information sur les sols prévu à l'article L.
+125-6 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1353 du 26 octobre 2015 - art. 4
+
+_Cite_:
+
+  - Code de l'environnement - art. L125-6
+
+
 #### Section 4 : Modèles nationaux de demande et de décision<a id=355></a>
 
 ###### Article R*410-21
@@ -60419,7 +60453,25 @@ du b de l'article R. 555-30 du code de l'environnement, l'analyse de compatibili
 vue de la sécurité des personnes prévue à l'article R. 555-31 du même code ; 
 
 k) Le récépissé de transmission du dossier à la commission départementale de la sécurité des transports de fonds, lors de la
-construction d'un bâtiment comportant un lieu sécurisé défini à l'article R. 613-28 du code de la sécurité intérieure.
+construction d'un bâtiment comportant un lieu sécurisé défini à l'article R. 613-28 du code de la sécurité intérieure ; 
+
+l) Dans le cas prévu par l'article L. 556-1 du code de l'environnement, un document établi par un bureau d'études certifié
+dans le domaine des sites et sols pollués, ou équivalent, attestant que les mesures de gestion de la pollution au regard du
+nouvel usage du terrain projeté ont été prises en compte dans la conception du projet ; 
+
+m) Lorsque le projet est situé dans un secteur d'information sur les sols et dans les cas et conditions prévus par l'article
+L. 556-2 du code de l'environnement, une attestation établie par un bureau d'études certifié dans le domaine des sites et
+sols pollués, ou équivalent, garantissant la réalisation d'une étude de sols et sa prise en compte dans la conception du
+projet de construction.
+
+**Nota:**
+
+Décret n° 2015-1353 du 26 octobre 2015, article 5 : Le l de l'article R. 431-16 du code de l'urbanisme et l'article R.
+441-8-3 du même code sont applicables aux demandes déposées après l'entrée en vigueur du présent décret.
+
+Le m de l'article R. 431-16 du code de l'urbanisme et l'article R. 442-8-1 du même code sont applicables aux demandes
+déposées après la publication au recueil des actes administratifs dans le département des arrêtés prévus à l'article R.
+125-45 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -60437,19 +60489,21 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art. 2 (VD)
+  - Décret n°2015-1353 du 26 octobre 2015 - art. 4
 
 _Cite_:
 
   - Code général des collectivités territoriales - art. L2224-8
   - Code de l'urbanisme - art. L510-1
   - Code de l'urbanisme - art. R111-48
+  - Code de l'environnement - art. L556-1
+  - Code de l'environnement - art. L556-2
   - Code de l'environnement - art. L562-2
   - Code de l'environnement - art. L563-1
   - Code de l'environnement - art. R414-23
   - Code de l'environnement - art. R555-30
   - Code de l'environnement - art. R555-31
-  - Code de la sécurité intérieure - art. R613-28 (VD)
+  - Code de la sécurité intérieure - art. R613-28
 
 
 ###### Article R431-16-2
@@ -61067,6 +61121,26 @@ _Cite_:
   - Code de l'environnement - art. R*331-19
 
 
+###### Article R441-8-3
+
+Lorsque les travaux projetés sont situés sur un terrain ayant accueilli une installation classée mise à l'arrêt définitif,
+dans le cas prévu par l'article L. 556-1 du code de l'environnement, la demande de permis d'aménager est complété par un
+document établi par un bureau d'études certifié dans le domaine des sites et sols pollués, ou équivalent, attestant que les
+mesures de gestion de la pollution au regard du nouvel usage du terrain ont été mises en œuvre. 
+
+Cette pièce est fournie sous l'entière responsabilité du demandeur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1353 du 26 octobre 2015 - art. 4
+
+_Cite_:
+
+  - Code de l'environnement - art. L556-1
+
+
 ##### Section 2 : Déclaration préalable portant sur un projet d'aménagement<a id=425></a>
 
 ###### Article R*441-9
@@ -61401,6 +61475,26 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+
+###### Article R442-8-1
+
+Lorsque le projet est situé dans un secteur d'information sur les sols et dans les cas et conditions prévus par l'article L.
+556-2 du code de l'environnement, le dossier est complété par une attestation établie par un bureau d'études certifié dans le
+domaine des sites et sols pollués, ou équivalent, garantissant la réalisation d'une étude de sols et sa prise en compte dans
+la conception du projet de lotissement. 
+
+Cette pièce est fournie sous l'entière responsabilité du demandeur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1353 du 26 octobre 2015 - art. 4
+
+_Cite_:
+
+  - Code de l'environnement - art. L556-2
 
 
 ##### Section 3 : Répartition de la surface constructible et du versement pour sous-densité entre les différents lots<a id=429></a>

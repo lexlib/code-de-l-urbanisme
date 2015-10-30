@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2015-10-29
+Version Consolidée au 2015-10-31
 ## Contenu: 
   - [Partie législative (art. L110 à L600-10)](#1)
     - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. L110 à L160-8)](#2)
@@ -408,7 +408,7 @@ Version Consolidée au 2015-10-29
         - [Chapitre V : Opérations soumises à un régime d'autorisation prévu par une autre législation (art. R*425-1 à R*425-31)](#405)
           - [Section 1 : Opérations pour lesquelles le permis ou la décision prise sur la déclaration préalable tient lieu de l'autorisation prévue par une autre législation (art. R*425-1 à R*425-15-1)](#406)
           - [Section 2 : Opérations pour lesquelles le permis ou la décision prise sur la déclaration préalable est subordonné à un accord prévu par une autre législation (art. *R425-22-1 à R*425-22)](#407)
-          - [Section 3 : Opérations pour lesquelles l'autorisation prévue par une autre législation dispense de permis ou de déclaration préalable (art. R*425-23 à R*425-29)](#408)
+          - [Section 3 : Opérations pour lesquelles l'autorisation prévue par une autre législation dispense de permis ou de déclaration préalable (art. R*425-23 à R425-29-1)](#408)
           - [Section 4 : Opérations pour lesquelles la délivrance d'un permis ou la réalisation des travaux est différée dans l'attente de formalités prévues par une autre législation (art. R*425-30 à R*425-31)](#409)
         - [Chapitre VII : Dispositions particulières à Mayotte (art. R*427-1 à R*427-6)](#410)
       - [Titre III : Dispositions propres aux constructions (art. R*431-1 à R*434-2)](#411)
@@ -59725,6 +59725,23 @@ _Modifié par_:
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+
+###### Article R425-29-1
+
+Lorsque le projet porte sur une ligne électrique aérienne et ses supports, l'approbation de projet d'ouvrage prévue au 1° de
+l'article L. 323-11 du code de l'énergie dispense de la déclaration préalable ou du permis de construire dès lors que sont
+prises en compte les règles du code de l'urbanisme applicables à ce projet.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1369 du 28 octobre 2015 - art. 1
+
+_Cite_:
+
+  - Code de l'énergie - art. L323-11
 
 
 ##### Section 4 : Opérations pour lesquelles la délivrance d'un permis ou la réalisation des travaux est différée dans l'attente de formalités prévues par une autre législation<a id=409></a>

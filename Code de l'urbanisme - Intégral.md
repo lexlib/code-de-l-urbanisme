@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-03-19
+Version Consolidée au 2016-03-27
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L174-6)](#2)
@@ -337,10 +337,10 @@ Version Consolidée au 2016-03-19
         - [Chapitre II : Compétence (art. L422-1 à L422-8)](#334)
         - [Chapitre III : Dépôt et instruction des demandes de permis et des déclarations (art. L423-1)](#335)
         - [Chapitre IV : Décision (art. L424-1 à L424-9)](#336)
-        - [Chapitre V : Opérations soumises à un régime d'autorisation prévu par une autre législation (art. L425-1 à L425-13)](#337)
+        - [Chapitre V : Opérations soumises à un régime d'autorisation prévu par une autre législation (art. L425-1 à L425-15)](#337)
           - [Section 1 : Opérations pour lesquelles le permis ou la décision prise sur la déclaration préalable tient lieu de l'autorisation prévue par une autre législation (art. L425-1 à L425-4)](#338)
           - [Section 3 : Opérations pour lesquelles l'autorisation prévue par une autre législation dispense de permis ou de déclaration préalable (art. L425-5)](#339)
-          - [Section 4 : Opérations pour lesquelles la délivrance d'un permis ou la réalisation des travaux est différée dans l'attente de formalités prévues par une autre législation (art. L425-6 à L425-13)](#340)
+          - [Section 4 : Opérations pour lesquelles la délivrance d'un permis ou la réalisation des travaux est différée dans l'attente de formalités prévues par une autre législation (art. L425-6 à L425-15)](#340)
         - [Chapitre VI : Dispositions diverses (art. L426-1)](#341)
         - [Chapitre VII : Dispositions particulières à Mayotte (art. L427-1 à L427-2)](#342)
       - [Titre III : Dispositions propres aux constructions (art. L431-1 à L434-1)](#343)
@@ -30734,6 +30734,45 @@ _Cité par_:
   - Décret n°2014-1299 du 23 octobre 2014 - art. (VD)
   - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
   - Code de l'urbanisme - art. R*424-2 (V)
+
+
+###### Article L425-14
+
+Lorsque le projet porte sur une installation, un ouvrage, des travaux ou une activité soumis à autorisation ou à déclaration
+en application de la section 1 du chapitre IV du titre Ier du livre II du code de l'environnement, le permis ou la décision
+de non-opposition à déclaration préalable ne peut pas être mis en œuvre : 
+
+a) Avant la délivrance de l'autorisation mentionnée au I de l'article L. 214-3 du code de l'environnement ; 
+
+b) Avant la décision d'acceptation, pour les installations, ouvrages, travaux et activités soumis à déclaration au titre du
+II du même article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-354 du 25 mars 2016 - art. 1
+
+_Cite_:
+
+  - Code de l'environnement - art. L214-3 (V)
+
+
+###### Article L425-15
+
+Lorsque le projet porte sur des travaux devant faire l'objet d'une dérogation au titre du 4° de l'article L. 411-2 du code de
+l'environnement, le permis ou la décision de non-opposition à déclaration préalable ne peut pas être mis en œuvre avant la
+délivrance de cette dérogation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-354 du 25 mars 2016 - art. 1
+
+_Cite_:
+
+  - Code de l'environnement - art. L411-2 (V)
 
 
 #### Chapitre VI : Dispositions diverses<a id=341></a>
@@ -64469,7 +64508,7 @@ c) La localisation et la superficie du ou des terrains ;
 d) La nature des travaux ; 
 
 e) La destination des constructions, par référence aux différentes destinations et sous-destinations définies aux articles R.
-151-27 et R. 151-28 ;
+151-27 et R. 151-28 ; 
 
 f) La surface de plancher des constructions projetées, s'il y a lieu répartie selon les différentes destinations et sous-
 destinations définies aux articles R. 151-27 et R. 151-28 ; 
@@ -64477,7 +64516,18 @@ destinations définies aux articles R. 151-27 et R. 151-28 ;
 g) La puissance électrique nécessaire au projet, lorsque la puissance électrique est supérieure à 12 kilovoltampères
 monophasé ou 36 kilovoltampères triphasé ; 
 
-h) Les éléments, fixés par arrêté, nécessaires au calcul des impositions. 
+h) Les éléments, fixés par arrêté, nécessaires au calcul des impositions ; 
+
+i) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à autorisation
+ou à déclaration en application de la section 1 du chapitre IV du titre Ier du livre II du code de l'environnement ; 
+
+j) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à autorisation
+unique au titre de l'article 1er de l'ordonnance n° 2014-619 du 12 juin 2014 relative à l'expérimentation d'une autorisation
+unique pour les installations, ouvrages, travaux et activités soumis à autorisation au titre de l'article L. 214-3 du code de
+l'environnement ; 
+
+k) S'il y a lieu, que les travaux doivent faire l'objet d'une dérogation au titre du 4° de l'article L. 411-2 du code de
+l'environnement. 
 
 La demande comporte également l'attestation du ou des demandeurs qu'ils remplissent les conditions définies à l'article
 R*423-1 pour déposer une demande de permis.
@@ -64489,17 +64539,19 @@ _Cité par_:
   - Décret n°2014-450 du 2 mai 2014 - art. 4 (VT)
   - Décret n°2018-512 du 26 juin 2018 - art. 5 (V)
   - Code de l'urbanisme - art. A431-4 (V)
-  - Code de l'urbanisme - art. R*333-3 (Ab)
+  - Code de l'urbanisme - art. R*333-3 (V)
   - Code de l'urbanisme - art. R*431-4 (VD)
-
-_Modifié par_:
-
-  - Décret n°2016-6 du 5 janvier 2016 - art. 4
 
 _Cite_:
 
+  - Ordonnance n°2014-619 du 12 juin 2014 - art. 1 (VT)
   - Code de l'urbanisme - art. R*423-1
-  - Code de l'urbanisme - art. R*431-2 (M)
+  - Code de l'urbanisme - art. R*431-2
+  - Code de l'urbanisme - art. R151-27 (V)
+
+_Modifié par_:
+
+  - Décret n°2016-355 du 25 mars 2016 - art. 1
 
 _Codifié par_:
 
@@ -65601,7 +65653,18 @@ c) La nature des travaux ou du changement de destination ;
 d) S'il y a lieu, la surface de plancher et la destination et la sous-destination des constructions projetées définies aux
 articles R. 151-27 et R. 151-28 ; 
 
-e) Les éléments, fixés par arrêtés, nécessaires au calcul des impositions. 
+e) Les éléments, fixés par arrêtés, nécessaires au calcul des impositions ; 
+
+f) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à autorisation
+ou à déclaration en application de la section 1 du chapitre IV du titre Ier du livre II du code de l'environnement ; 
+
+g) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à autorisation
+unique au titre de l'article 1er de l'ordonnance n° 2014-619 du 12 juin 2014 relative à l'expérimentation d'une autorisation
+unique pour les installations, ouvrages, travaux et activités soumis à autorisation au titre de l'article L. 214-3 du code de
+l'environnement ; 
+
+h) S'il y a lieu, que les travaux doivent faire l'objet d'une dérogation au titre du 4° de l'article L. 411-2 du code de
+l'environnement. 
 
 La déclaration comporte également l'attestation du ou des déclarants qu'ils remplissent les conditions définies à l'article
 R*423-1 pour déposer une déclaration préalable. 
@@ -65610,18 +65673,21 @@ Aucune autre information ou pièce ne peut être exigée par l'autorité compét
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Ordonnance n°2014-619 du 12 juin 2014 - art. 1 (VT)
+  - Code de l'urbanisme - art. R*423-1
+  - Code de l'urbanisme - art. R151-27
+  - Code de l'environnement - art. L214-3 (VD)
+  - Code de l'environnement - art. L411-2 (V)
+
 _Modifié par_:
 
-  - Décret n°2016-6 du 5 janvier 2016 - art. 4
+  - Décret n°2016-355 du 25 mars 2016 - art. 1
 
 _Cité par_:
 
   - Code de l'urbanisme - art. A431-1 (V)
-
-_Cite_:
-
-  - Code de l'urbanisme - art. R*423-1
-  - Code de l'urbanisme - art. R151-27
 
 _Codifié par_:
 
@@ -65802,7 +65868,18 @@ b) La localisation et la superficie du ou des terrains à aménager ;
 
 c) La nature des travaux ; 
 
-d) Les éléments, fixés par arrêté, nécessaires au calcul des impositions. 
+d) Les éléments, fixés par arrêté, nécessaires au calcul des impositions ;
+
+e) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à autorisation
+ou à déclaration en application de la section 1 du chapitre IV du titre Ier du livre II du code de l'environnement ; 
+
+f) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à autorisation
+unique au titre de l'article 1er de l'ordonnance n° 2014-619 du 12 juin 2014 relative à l'expérimentation d'une autorisation
+unique pour les installations, ouvrages, travaux et activités soumis à autorisation au titre de l'article L. 214-3 du code de
+l'environnement ; 
+
+g) S'il y a lieu, que les travaux doivent faire l'objet d'une dérogation au titre du 4° de l'article L. 411-2 du code de
+l'environnement . 
 
 La demande comporte également l'attestation du ou des demandeurs qu'ils remplissent les conditions définies à l'article
 R*423-1 pour déposer une demande de permis. 
@@ -65813,7 +65890,7 @@ La demande peut ne porter que sur une partie d'une unité foncière.
 
 _Modifié par_:
 
-  - Décret n°2016-6 du 5 janvier 2016 - art. 5
+  - Décret n°2016-355 du 25 mars 2016 - art. 1
 
 _Cité par_:
 
@@ -66182,7 +66259,18 @@ date de naissance lorsqu'il s'agit d'une personne physique ;
 
 b) La localisation et la superficie du ou des terrains ; 
 
-c) La nature des travaux ou la description du projet de division. 
+c) La nature des travaux ou la description du projet de division ;
+
+d) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à autorisation
+ou à déclaration en application de la section 1 du chapitre IV du titre Ier du livre II du code de l'environnement ; 
+
+e) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à autorisation
+unique au titre de l'article 1er de l'ordonnance n° 2014-619 du 12 juin 2014 relative à l'expérimentation d'une autorisation
+unique pour les installations, ouvrages, travaux et activités soumis à autorisation au titre de l'article L. 214-3 du code de
+l'environnement ; 
+
+f) S'il y a lieu, que les travaux doivent faire l'objet d'une dérogation au titre du 4° de l'article L. 411-2 du code de
+l'environnement .
 
 La déclaration comporte également l'attestation du ou des déclarants qu'ils remplissent les conditions définies à l'article
 R*423-1 pour déposer une déclaration préalable. 
@@ -66193,7 +66281,7 @@ La demande peut ne porter que sur une partie d'une unité foncière.
 
 _Modifié par_:
 
-  - Décret n°2016-6 du 5 janvier 2016 - art. 5
+  - Décret n°2016-355 du 25 mars 2016 - art. 1
 
 _Cite_:
 
@@ -67649,7 +67737,18 @@ a) L'identité du ou des demandeurs ;
 b) En cas de démolition partielle, les constructions qui subsisteront sur le terrain et, le cas échéant, les travaux qui
 seront exécutés sur cette construction ; 
 
-c) La date approximative à laquelle le ou les bâtiments dont la démolition est envisagée ont été construits. 
+c) La date approximative à laquelle le ou les bâtiments dont la démolition est envisagée ont été construits ;
+
+d) S'il y a lieu, que la démolition est soumise à autorisation ou à déclaration en application de la section 1 du chapitre IV
+du titre Ier du livre II du code de l'environnement ; 
+
+e) Que la démolition porte sur une installation, un ouvrage, des travaux ou une activité soumis à autorisation unique au
+titre de l'article 1er de l'ordonnance n° 2014-619 du 12 juin 2014 relative à l'expérimentation d'une autorisation unique
+pour les installations, ouvrages, travaux et activités soumis à autorisation au titre de l'article L. 214-3 du code de
+l'environnement, si les travaux portent atteinte aux intérêts protégés mentionnés à l'article 3 de cette ordonnance ; 
+
+f) S'il y a lieu, que la démolition doit faire l'objet d'une dérogation au titre du  4° de l'article L. 411-2 du code de
+l'environnement.
 
 La demande comporte également l'attestation du ou des demandeurs qu'ils remplissent les conditions définies à l'article R.
 423-1 pour déposer une demande de permis.
@@ -67661,22 +67760,21 @@ _Anciens textes_:
   - Décret n°58-1178 1958-12-04 ART. 1
   - Code de l'urbanisme - art. R451-2 (M)
 
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
 _Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2016-355 du 25 mars 2016 - art. 1
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R*423-1 (V)
+  - Code de l'urbanisme - art. R*423-1
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R*430-13 (M)
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R451-2

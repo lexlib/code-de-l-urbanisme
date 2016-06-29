@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-06-22
+Version Consolidée au 2016-06-30
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L174-6)](#2)
@@ -45141,9 +45141,9 @@ Afin d'assurer l'insertion et la qualité environnementale des constructions, le
 2° Identifier les secteurs où, en application de l'article L. 151-21, des performances énergétiques et environnementales
 renforcées doivent être respectées ; 
 
-3° Identifier les secteurs où, en application du 3° de l'article L. 151-28, les constructions répondant aux critères de
-performances énergétiques et environnementales bénéficient d'une majoration de volume constructible qu'il détermine en
-référence à l'emprise au sol et la hauteur ; 
+3° Identifier les secteurs dans les zones urbaines ou à urbaniser où, en application du 3° de l'article L. 151-28, les
+constructions faisant preuve d'exemplarité énergétique ou environnementale ou qui sont à énergie positive bénéficient d'une
+majoration de volume constructible qu'il détermine en référence à l'emprise au sol et la hauteur ; 
 
 4° Prévoir des règles différenciées entre le rez-de-chaussée et les étages supérieurs des constructions pour prendre en
 compte les risques d'inondation et de submersion.
@@ -45154,19 +45154,14 @@ _Codifié par_:
 
   - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art.
+  - Décret n°2016-856 du 28 juin 2016 - art. 3
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L151-21 (V)
-  - Code de l'urbanisme - art. L151-28 (V)
-
-_Anciens textes_:
-
-  - Code de l'urbanisme - art. R*123-12, alinéa 14 (Ab)
-  - Code de l'urbanisme - art. R*123-9, alinéa 16 (Ab)
+  - Code de l'urbanisme - art. L151-21
+  - Code de l'urbanisme - art. L151-28
 
 
 ##### Paragraphe 3 : Traitement environnemental et paysager des espaces non bâtis et abords des constructions<a id=525></a>
@@ -64240,22 +64235,24 @@ _Codifié par_:
 
 Lorsque la demande de permis de construire porte sur un projet pouvant bénéficier des dispositions du 3° de l'article L.
 151-28 et du deuxième alinéa de l'article L. 151-29, elle est complétée par le document prévu par l'article R. 111-21 du code
-de la construction et de l'habitation attestant que le projet respecte les critères de performance énergétique définis par
-cet article.
+de la construction et de l'habitation attestant que la construction fait preuve d'exemplarité énergétique ou d'exemplarité
+environnementale ou est à énergie positive selon les critères définis par ces dispositions.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art. 6
+  - Décret n°2016-856 du 28 juin 2016 - art. 2
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L151-28 (V)
+  - Code de l'urbanisme - art. L151-29 (V)
+  - Code de la construction et de l'habitation. - art. R111-21
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R*431-36 (V)
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. R111-21 (M)
 
 _Codifié par_:
 

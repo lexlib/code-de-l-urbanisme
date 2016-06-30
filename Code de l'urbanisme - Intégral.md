@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-06-30
+Version Consolidée au 2016-07-01
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L174-6)](#2)
@@ -19844,18 +19844,18 @@ _Modifié par_:
 ###### Article L217-1
 
 Pour l'application à Mayotte de l'article L. 215-8, les mots : “ A l'Agence des espaces verts de la région d'Ile-de-France ”
-figurant au 6° sont remplacés par les mots : “ A l'opérateur foncier mentionné à l'article L. 182-25 du code rural et de la
+figurant au 6° sont remplacés par les mots : “ A l'opérateur foncier mentionné à l'article L. 181-49 du code rural et de la
 pêche maritime ”.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 4
+  - Ordonnance n°2016-391 du 31 mars 2016 - art. 16
 
 _Cite_:
 
-  - Code rural - art. L182-25
+  - Code rural - art. L181-49 (V)
   - Code de l'urbanisme - art. L215-8
 
 

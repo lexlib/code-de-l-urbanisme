@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-08-10
+Version Consolidée au 2016-08-15
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L174-6)](#2)
@@ -36110,19 +36110,35 @@ _Cite_:
 Le rapport est proportionné à l'importance du document d'urbanisme, aux effets de sa mise en œuvre ainsi qu'aux enjeux
 environnementaux de la zone considérée. 
 
-Il peut se référer aux renseignements relatifs à l'environnement figurant dans d'autres études, plans ou documents. 
+Il peut se référer aux renseignements relatifs à l'environnement figurant dans d'autres études, plans ou documents.
 
-L'autorité administrative de l'Etat compétente en matière d'environnement définie à l'article R. 104-21 est consultée, en
-tant que de besoin, sur le degré de précision des informations que doit contenir le rapport de présentation.
+L'autorité environnementale définie à l'article R. 104-21 est consultée, en tant que de besoin, sur le degré de précision des
+informations que doit contenir le rapport de présentation.
 
-Lorsque l'autorité administrative de l'Etat compétente en matière d'environnement est la mission régionale d'autorité
-environnementale du Conseil général de l'environnement et du développement durable : 
+Lorsque l'autorité environnementale est la mission régionale d'autorité environnementale du Conseil général de
+l'environnement et du développement durable : 
 
 - la demande est adressée au service régional de l'environnement (appui à la mission régionale d'autorité environnementale)
 qui prépare et met en forme toutes les informations nécessaires pour que la mission régionale puisse rendre son avis ; 
 
 - l'avis est transmis pour information au préfet de région lorsque le périmètre du document d'urbanisme est régional ou aux
 préfets des départements concernés dans les autres cas.
+
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
 
 **Liens relatifs à cet article**
 
@@ -36132,7 +36148,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-519 du 28 avril 2016 - art. 2
+  - Décret n°2016-1110 du 11 août 2016 - art. 4
 
 _Cité par_:
 
@@ -36169,7 +36185,7 @@ _Anciens textes_:
 
 ###### Article R104-21
 
-L'autorité administrative de l'Etat compétente en matière d'environnement est : 
+L'autorité environnementale est : 
 
 1° La formation d'autorité environnementale du Conseil général de l'environnement et du développement durable pour les
 directives territoriales d'aménagement et de développement durables, le schéma directeur de la région d'Ile-de-France, les
@@ -36186,6 +36202,22 @@ Dans ce cas, la mission régionale d'autorité environnementale transmet sans d�
 environnementale. Les délais prévus aux articles R. 104-25 et R. 104-31 courent à compter de la date de saisine de la mission
 régionale d'autorité environnementale.
 
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -36199,27 +36231,43 @@ _Cité par_:
   - Décret n°2017-626 du 25 avril 2017 - art. 16
   - Code de l'urbanisme - art. R104-19 (V)
   - Code de l'urbanisme - art. R104-22 (V)
-  - Code de l'urbanisme - art. R104-28 (M)
+  - Code de l'urbanisme - art. R104-28 (V)
 
 _Modifié par_:
 
-  - Décret n°2016-519 du 28 avril 2016 - art. 2
+  - Décret n°2016-1110 du 11 août 2016 - art. 4
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R104-25 (V)
-  - Code de l'urbanisme - art. R104-31 (V)
+  - Code de l'urbanisme - art. R104-25
+  - Code de l'urbanisme - art. R104-31
 
 
 ###### Article R104-22
 
-L'autorité administrative de l'Etat compétente en matière d'environnement prévue à l'article R. 104-21 est également
-compétente pour les procédures d'évolution affectant les documents mentionnés au même article.
+L'autorité environnementale prévue à l'article R. 104-21 est également compétente pour les procédures d'évolution affectant
+les documents mentionnés au même article. 
 
 Toutefois, lorsqu'une déclaration de projet adoptée par l'Etat procède, dans le cadre de la mise en compatibilité d'un plan
 local d'urbanisme ou d'un schéma de cohérence territoriale, aux adaptations nécessaires d'un règlement ou d'une servitude
-mentionnés au deuxième alinéa de l'article L. 300-6, l'autorité administrative de l'Etat compétente en matière
-d'environnement est celle qui est consultée sur l'évaluation environnementale de ce règlement ou de cette servitude.
+mentionnés au deuxième alinéa de l'article L. 300-6, l'autorité environnementale est celle qui est consultée sur l'évaluation
+environnementale de ce règlement ou de cette servitude.
+
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
 
 **Liens relatifs à cet article**
 
@@ -36229,18 +36277,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-519 du 28 avril 2016 - art. 2
+  - Décret n°2016-1110 du 11 août 2016 - art. 4
 
 _Cite_:
 
+  - Code de l'urbanisme - art. L300-6 (V)
   - Code de l'urbanisme - art. R104-21
 
 
 ###### Article R104-23
 
-L'autorité administrative de l'Etat compétente en matière d'environnement est saisie par la personne publique responsable.
-Elle est consultée sur l'évaluation environnementale et sur la prise en compte de l'environnement par le projet de document
-d'urbanisme.
+L'autorité environnementale est saisie par la personne publique responsable. Elle est consultée sur l'évaluation
+environnementale et sur la prise en compte de l'environnement par le projet de document d'urbanisme.
 
 Lorsque la mission régionale d'autorité environnementale du Conseil général de l'environnement et du développement durable
 est compétente, la personne publique responsable de l'élaboration ou de l'évolution du document d'urbanisme saisit le service
@@ -36249,6 +36297,22 @@ toutes les informations nécessaires pour que la mission régionale puisse rendr
 l'environnement (appui à la mission régionale d'autorité environnementale) informe sans délai la mission régionale de
 l'autorité environnementale des demandes reçues.
 
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -36257,7 +36321,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-519 du 28 avril 2016 - art. 2
+  - Décret n°2016-1110 du 11 août 2016 - art. 4
 
 
 ###### Article R104-24
@@ -36297,17 +36361,32 @@ _Cité par_:
 
 ###### Article R104-25
 
-L'autorité administrative de l'Etat compétente en matière d'environnement formule un avis sur l'évaluation environnementale
-et le projet de document dans les trois mois suivant la date de sa saisine.
+L'autorité environnementale formule un avis sur l'évaluation environnementale et le projet de document dans les trois mois
+suivant la date de sa saisine.
 
 L'avis est, dès son adoption, mis en ligne et transmis à la personne publique responsable. Lorsqu'il est rendu par la mission
 régionale d'autorité environnementale du Conseil général de l'environnement et du développement durable, il est transmis pour
 information au préfet de région lorsque le périmètre du document d'urbanisme est régional ou aux préfets de départements
 concernés dans les autres cas. Il est, s'il y a lieu, joint au dossier d'enquête publique ou mis à la disposition du public.
 
-A défaut de s'être prononcée dans le délai indiqué au premier alinéa, l'autorité administrative de l'Etat compétente en
-matière d'environnement est réputée n'avoir aucune observation à formuler. Une information sur cette absence d'avis figure
-sur son site internet.
+A défaut de s'être prononcée dans le délai indiqué au premier alinéa, l'autorité environnementale est réputée n'avoir aucune
+observation à formuler. Une information sur cette absence d'avis figure sur son site internet.
+
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
 
 **Liens relatifs à cet article**
 
@@ -36317,7 +36396,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-519 du 28 avril 2016 - art. 2
+  - Décret n°2016-1110 du 11 août 2016 - art. 4
 
 _Cité par_:
 
@@ -36390,19 +36469,34 @@ _Anciens textes_:
 
 ###### Article R104-28
 
-L'autorité administrative de l'Etat compétente en matière d'environnement mentionnée à l'article R. 104-21 décide de
-soumettre ou non à une évaluation environnementale l'élaboration ou la procédure d'évolution affectant un plan local
-d'urbanisme ou une carte communale relevant de la procédure d'examen au cas par cas, au regard :
+L'autorité environnementale mentionnée à l'article R. 104-21 décide de soumettre ou non à une évaluation environnementale
+l'élaboration ou la procédure d'évolution affectant un plan local d'urbanisme ou une carte communale relevant de la procédure
+d'examen au cas par cas, au regard :
 
 1° Des informations fournies par la personne publique responsable mentionnées à l'article R. 104-30 ;
 
 2° Des critères de l'annexe II de la directive 2001/42/CE du Parlement européen et du Conseil du 27 juin 2001 relative à
 l'évaluation des incidences de certains plans et programmes sur l'environnement.
 
-Lorsque l'autorité administrative de l'Etat compétente en matière d'environnement est la mission régionale d'autorité
-environnementale du Conseil général de l'environnement et du développement durable, le service régional chargé de
-l'environnement (appui à la mission régionale d'autorité environnementale) instruit le dossier et transmet son avis à la
-mission régionale qui prend alors sa décision.
+Lorsque l'autorité environnementale est la mission régionale d'autorité environnementale du Conseil général de
+l'environnement et du développement durable, le service régional chargé de l'environnement (appui à la mission régionale
+d'autorité environnementale) instruit le dossier et transmet son avis à la mission régionale qui prend alors sa décision.
+
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
 
 **Liens relatifs à cet article**
 
@@ -36412,11 +36506,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-519 du 28 avril 2016 - art. 2
+  - Décret n°2016-1110 du 11 août 2016 - art. 4
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R104-21 (M)
+  - Code de l'urbanisme - art. R104-21 (V)
   - Code de l'urbanisme - art. R104-30
 
 
@@ -36518,47 +36612,29 @@ _Cite_:
 
 ###### Article R104-32
 
-L'autorité administrative de l'Etat compétente en matière d'environnement dispose d'un délai de deux mois à compter de la
-réception des informations mentionnées à l'article R. 104-30 pour notifier à la personne publique responsable, la décision de
-soumettre ou non à une évaluation environnementale la procédure d'élaboration ou d'évolution affectant le plan local
-d'urbanisme ou la carte communale. 
+L'autorité environnementale dispose d'un délai de deux mois à compter de la réception des informations mentionnées à
+l'article R. 104-30 pour notifier à la personne publique responsable, la décision de soumettre ou non à une évaluation
+environnementale la procédure d'élaboration ou d'évolution affectant le plan local d'urbanisme ou la carte communale. 
 
 Cette décision est motivée. 
 
 L'absence de décision au terme de ce délai vaut obligation de réaliser une évaluation environnementale.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art.
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
 
-_Créé par_:
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-_Anciens textes_:
-
-  - Code de l'urbanisme - art. R*121-14-1, alinéa 11 (Ab)
-
-_Cite_:
-
-  - Code de l'urbanisme - art. R104-30 (V)
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. R104-31 (V)
-
-
-###### Article R104-33
-
-La décision de l'autorité administrative de l'Etat compétente en matière d'environnement est mise en ligne. Elle est jointe,
-le cas échéant, au dossier d'enquête publique.
-
-Lorsque la mission régionale d'autorité environnementale du Conseil général de l'environnement et du développement durable
-est compétente, le service régional chargé de l'environnement (appui à la mission régionale d'autorité environnementale)
-effectue pour son compte la mise en ligne sur internet et transmet pour information la décision au préfet de région lorsque
-le périmètre du document d'urbanisme est régional ou aux préfets des départements concernés dans les autres cas.
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
 
 **Liens relatifs à cet article**
 
@@ -36568,7 +36644,51 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-519 du 28 avril 2016 - art. 2
+  - Décret n°2016-1110 du 11 août 2016 - art. 4
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R104-30
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. R104-31 (V)
+
+
+###### Article R104-33
+
+La décision de l'autorité environnementale est mise en ligne. Elle est jointe, le cas échéant, au dossier d'enquête publique.
+
+Lorsque la mission régionale d'autorité environnementale du Conseil général de l'environnement et du développement durable
+est compétente, le service régional chargé de l'environnement (appui à la mission régionale d'autorité environnementale)
+effectue pour son compte la mise en ligne sur internet et transmet pour information la décision au préfet de région lorsque
+le périmètre du document d'urbanisme est régional ou aux préfets des départements concernés dans les autres cas.
+
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2015-1783 du 28 décembre 2015 - art.
+
+_Modifié par_:
+
+  - Décret n°2016-1110 du 11 août 2016 - art. 4
 
 
 ### Titre Ier : Règles applicables sur l'ensemble du territoire<a id=422></a>
@@ -41387,7 +41507,7 @@ ou égale à 100 hectares ;
 totale supérieure à 12 000 mètres carrés, à l'exclusion des logements à destination des personnels saisonniers ou permanents
 des équipements et hébergements touristiques ;
 
-3° Lorsqu'ils sont soumis à étude d'impact en application de l'article L. 122-1 du code de l'environnement :
+3° Lorsqu'ils sont soumis à évaluation environnementale en application de l'article L. 122-1 du code de l'environnement :
 
 a) L'aménagement, la création et l'extension de terrains de golf ;
 
@@ -41398,13 +41518,25 @@ c) L'aménagement de terrains pour la pratique de sports ou de loisirs motorisé
 d) Les travaux d'aménagement de pistes pour la pratique des sports d'hiver alpins, situés en site vierge au sens du tableau
 annexé à l'article R. 122-2 du code de l'environnement d'une superficie supérieure à 4 hectares.
 
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
-
-  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-_Créé par_:
 
   - Décret n°2015-1783 du 28 décembre 2015 - art.
 
@@ -41416,14 +41548,14 @@ _Cité par_:
   - Code de l'urbanisme - art. R122-14 (VT)
   - Code de l'urbanisme - art. R122-5 (V)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code de l'urbanisme - art. R145-2 (Ab)
+  - Décret n°2016-1110 du 11 août 2016 - art. 4
 
 _Cite_:
 
-  - Code de l'environnement - art. L122-1 (M)
-  - Code de l'environnement - art. R122-2 (M)
+  - Code de l'environnement - art. L122-1
+  - Code de l'environnement - art. R122-2
 
 
 ###### Article R122-7
@@ -50640,37 +50772,52 @@ _Codifié par_:
 
 ###### Article R300-17
 
-I.-La procédure intégrée pour le logement et la procédure intégrée pour l'immobilier d'entreprise donnent lieu  à la
-consultation de l'autorité administrative de l'Etat compétente en matière d'environnement définie à l'article R. 122-6 du
-code de l'environnement, qui se prononce sur l'étude d'impact du projet, sur l'analyse des incidences environnementales des
-dispositions de mise en compatibilité du ou des documents mentionnés au I et au I bis  de l'article L. 300-6-1 et, le cas
-échéant, sur l'analyse des incidences environnementales des dispositions d'adaptation mentionnées au IV du même article. 
+I.-La procédure intégrée pour le logement et la procédure intégrée pour l'immobilier d'entreprise donnent lieu à la
+consultation de l'autorité environnementale définie à l'article R. 122-6 du code de l'environnement, qui se prononce sur
+l'étude d'impact du projet, sur l'analyse des incidences environnementales des dispositions de mise en compatibilité du ou
+des documents mentionnés au I et au I bis de l'article L. 300-6-1 et, le cas échéant, sur l'analyse des incidences
+environnementales des dispositions d'adaptation mentionnées au IV du même article. 
 
-II.-L'autorité mentionnée à l'article R. 300-15 transmet pour avis à l'autorité administrative de l'Etat compétente en
-matière d'environnement un dossier comprenant :
+II.-L'autorité mentionnée à l'article R. 300-15 transmet pour avis à l'autorité environnementale un dossier comprenant :
 
 - le dossier de demande d'autorisation ainsi que l'étude d'impact du projet ;
 
-- le dossier de mise en compatibilité des documents mentionnés au I et au I bis  de l'article L. 300-6-1 et, le cas échéant,
+- le dossier de mise en compatibilité des documents mentionnés au I et au I bis de l'article L. 300-6-1 et, le cas échéant,
 le dossier d'adaptation des documents mentionnés au IV du même article ;
 
 - si elle n'est pas incluse dans l'étude d'impact, l'analyse des incidences environnementales des dispositions de mise en
-compatibilité des documents mentionnés au I et au I bis  de l'article L. 300-6-1 et, s'il y a lieu, des dispositions
+compatibilité des documents mentionnés au I et au I bis de l'article L. 300-6-1 et, s'il y a lieu, des dispositions
 d'adaptation des documents mentionnés au IV du même article. Cette analyse comprend les éléments mentionnés, selon le cas,
 aux articles R. 122-2, R. 123-2-1 ou R. 141-1 du présent code ou aux articles R. 4433-1 ou R. 4424-6-1 du code général des
 collectivités territoriales et, s'il y a lieu, les éléments mentionnés à l'article R. 122-20 du code de l'environnement. 
 
-III.-L'autorité administrative de l'Etat compétente en matière d'environnement émet un avis sur le dossier qui lui est
-transmis dans les trois mois suivant la date de sa saisine. Cet avis, ou à défaut l'information relative à l'absence
-d'observation émise dans le délai, est mis en ligne dès sa signature sur le site internet de l'autorité. Cet avis, ou
-l'information relative à l'absence d'observation, est adressé à l'autorité mentionnée à l'article R. 300-15, qui le transmet
-à l'autorité compétente pour prendre la décision d'autorisation du projet.
+III.-L'autorité environnementale émet un avis sur le dossier qui lui est transmis dans les trois mois suivant la date de sa
+saisine. Cet avis, ou à défaut l'information relative à l'absence d'observation émise dans le délai, est mis en ligne dès sa
+signature sur le site internet de l'autorité. Cet avis, ou l'information relative à l'absence d'observation, est adressé à
+l'autorité mentionnée à l'article R. 300-15, qui le transmet à l'autorité compétente pour prendre la décision d'autorisation
+du projet.
+
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-718 du 31 mai 2016 - art. 1
+  - Décret n°2016-1110 du 11 août 2016 - art. 4
 
 _Cite_:
 
@@ -51170,10 +51317,28 @@ b) Le projet de programme global des constructions à réaliser dans la zone ;
 c) Les modalités prévisionnelles de financement de l'opération d'aménagement, échelonnées dans le temps. 
 
 Le dossier de réalisation complète en tant que de besoin le contenu de l'étude d'impact mentionnée à l'article R. 311-2,
-notamment en ce qui concerne les éléments qui ne pouvaient être connus au moment de la constitution du dossier de création. 
+conformément au III de l'article L. 121-1-1 du code de l'environnement notamment en ce qui concerne les éléments qui ne
+pouvaient être connus au moment de la constitution du dossier de création. 
 
 L'étude d'impact mentionnée à l'article R. 311-2 ainsi que les compléments éventuels prévus à l'alinéa précédent sont joints
-au dossier de toute enquête publique concernant l'opération d'aménagement réalisée dans la zone.
+au dossier de toute enquête publique ou de toute mise à disposition du public concernant l'opération d'aménagement réalisée
+dans la zone.
+
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
 
 **Liens relatifs à cet article**
 
@@ -51181,23 +51346,24 @@ _Anciens textes_:
 
   - Décret n°68-1107 1968-12-03 ART. 7
 
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
 _Modifié par_:
 
-  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+  - Décret n°2016-1110 du 11 août 2016 - art. 9
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R*311-2 (V)
+  - Code de l'urbanisme - art. R*311-2
+  - Code de l'environnement - art. L121-1-1
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R*318-18 (V)
   - Code du patrimoine. - art. R523-4 (V)
   - Code du patrimoine. - art. R523-9 (V)
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*311-8
@@ -59872,13 +60038,33 @@ _Codifié par_:
 
 Lorsque l'autorité compétente pour délivrer le permis ou pour se prononcer sur un projet faisant l'objet d'une déclaration
 préalable est le maire au nom de la commune, celui-ci transmet un exemplaire de la demande ou de la déclaration préalable au
-préfet dans la semaine qui suit le dépôt.
+préfet dans la semaine qui suit le dépôt. 
+
+Lorsque le projet est soumis à évaluation environnementale, le dossier est transmis aux collectivités territoriales et à
+leurs groupements intéressés en application du V de l'article L. 122-1 du code de l'environnement dans la semaine qui suit le
+dépôt.
+
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2016-1110 du 11 août 2016 - art. 9
 
 _Cité par_:
 
@@ -59886,6 +60072,10 @@ _Cité par_:
   - Code de l'urbanisme - art. R*442-23 (Ab)
   - Code de l'urbanisme - art. R300-16 (V)
   - Code du patrimoine. - art. R523-9 (V)
+
+_Cite_:
+
+  - Code de l'environnement - art. L122-1
 
 _Codifié par_:
 
@@ -59896,7 +60086,27 @@ _Codifié par_:
 
 Lorsque l'autorité compétente est le président de l'établissement public de coopération intercommunale, le maire, dans la
 semaine qui suit le dépôt, transmet un exemplaire de la demande ou de la déclaration préalable au préfet, en conserve un
-exemplaire et transmet les autres exemplaires au président de cet établissement.
+exemplaire et transmet les autres exemplaires au président de cet établissement. 
+
+Lorsque le projet est soumis à évaluation environnementale, le dossier est transmis aux collectivités territoriales et à
+leurs groupements intéressés en application du V de l'article L. 122-1 du code de l'environnement dans la semaine qui suit le
+dépôt.
+
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
 
 **Liens relatifs à cet article**
 
@@ -59904,9 +60114,13 @@ _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2016-1110 du 11 août 2016 - art. 9
+
+_Cite_:
+
+  - Code de l'environnement - art. L122-1
 
 
 ###### Article R*423-9
@@ -59914,17 +60128,38 @@ _Créé par_:
 Lorsque la décision relève de l'Etat, le maire conserve un exemplaire de la demande ou de la déclaration préalable et
 transmet au préfet les autres exemplaires ainsi que les pièces mentionnées au dernier alinéa de l'article R. 423-2 dans la
 semaine qui suit le dépôt ; si la commune a délégué sa compétence à un établissement public de coopération intercommunale, le
-maire transmet en outre, dans le même délai, un exemplaire au président de cet établissement.
+maire transmet en outre, dans le même délai, un exemplaire au président de cet établissement. 
+
+Lorsque le projet est soumis à évaluation environnementale, le dossier est transmis aux collectivités territoriales et à
+leurs groupements intéressés en application du V de l'article L. 122-1 du code de l'environnement dans la semaine qui suit le
+dépôt.
+
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2016-1110 du 11 août 2016 - art. 9
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R*423-2 (V)
+  - Code de l'urbanisme - art. R*423-2
+  - Code de l'environnement - art. L122-1
 
 _Codifié par_:
 
@@ -60576,7 +60811,26 @@ d) Lorsque le projet doit être soumis à l'avis de la commission départemental
 agricoles et forestiers prévu par l'article L. 112-1-1 du code rural et de la pêche maritime ; 
 
 e) Lorsque le projet fait l'objet d'une mise à disposition du public en application de l'article L. 300-2 ou du quatrième
-alinéa du 1° du I de l'article L. 123-2 du code de l'environnement.
+alinéa du 1° du I de l'article L. 123-2 du code de l'environnement ; 
+
+f) Lorsque le projet fait l'objet d'une participation du public par voie électronique prévue par l'article L. 123-19 du code
+de l'environnement.
+
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
 
 **Liens relatifs à cet article**
 
@@ -60593,12 +60847,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1782 du 28 décembre 2015 - art. 9 (V)
+  - Décret n°2016-1110 du 11 août 2016 - art. 9
 
 _Cite_:
 
   - Code rural - art. L112-1-1
   - Code de l'urbanisme
+  - Code de l'urbanisme - art. L152-4
+  - Code de l'urbanisme - art. L152-6
+  - Code de l'urbanisme - art. L300-2
+  - Code de l'environnement - art. L123-19
   - Code de l'environnement - art. L123-2
 
 
@@ -61342,15 +61600,27 @@ _Cité par_:
 
 ###### Article R*423-55
 
-Lorsque le projet est soumis à étude d'impact, l'autorité compétente recueille l'avis de l'autorité administrative de l'Etat
-compétente en matière d'environnement en vertu de l'article L. 122-1 du code de l'environnement si cet avis n'a pas été émis
-dans le cadre d'une autre procédure portant sur le même projet.
+Lorsque le projet est soumis à étude d'impact, l'autorité compétente recueille l'avis de l'autorité environnementale en vertu
+de l'article L. 122-1 du code de l'environnement si cet avis n'a pas été émis dans le cadre d'une autre procédure portant sur
+le même projet.
+
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de l'environnement - art. L122-1 (V)
 
 _Codifié par_:
 
@@ -61358,7 +61628,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-274 du 28 février 2012 - art. 3
+  - Décret n°2016-1110 du 11 août 2016 - art. 4
+
+_Cite_:
+
+  - Code de l'environnement - art. L122-1
 
 
 ###### Article R*423-56
@@ -61410,9 +61684,16 @@ _Créé par_:
 
 Sous réserve des dispositions prévues aux quatrième et cinquième alinéas de l'article L. 300-2 et au 1° du I de l'article L.
 123-2 du code de l'environnement, lorsque le projet est soumis à enquête publique en application de l'article R. 123-1 du
-code de l'environnement, celle-ci est organisée par le maire ou le président de l'établissement public de coopération
-intercommunale lorsque le permis est délivré au nom de la commune ou de l'établissement public et par le préfet lorsque le
-permis est délivré au nom de l'Etat. 
+code de l'environnement, ou lorsque le projet est soumis à participation du public par voie électronique au titre de l'
+article L. 123-19 du code de l'environnement , celle-ci est organisée par le maire ou le président de l'établissement public
+de coopération intercommunale lorsque le permis est délivré au nom de la commune ou de l'établissement public et par le
+préfet lorsque le permis est délivré au nom de l'Etat.
+
+Lorsque la réalisation du projet est soumise à la réalisation de plusieurs enquêtes publiques il est procédé à une enquête
+publique unique. Cette enquête publique unique est ouverte et organisée par le représentant de l'Etat compétent. 
+
+A la demande du pétitionnaire, le représentant de l'Etat dans le département compétent peut accorder une dérogation à
+l'application de l'alinéa précédent, lorsque celle-ci est de nature à favoriser la bonne réalisation du projet. 
 
 Le commissaire enquêteur ou la commission d'enquête doivent rendre leur avis dans le délai d'un mois à compter de la clôture
 de l'enquête. 
@@ -61420,11 +61701,34 @@ de l'enquête.
 Dans un délai de huit jours, l'autorité compétente informe le demandeur de la date de réception du rapport et de la substance
 des conclusions du commissaire enquêteur ou de la commission d'enquête.
 
+Lorsque le projet relève de l'article L. 123-19 du code de l'environnement, l'autorité compétente rend sa décision dans un
+délai permettant la prise en considération des observations, propositions et contre-propositions du public. Ce délai ne peut
+être inférieur à quatre jours. 
+
+A la fin de ce délai, l'autorité compétente informe le demandeur de la synthèse des observations, propositions et contre-
+propositions du public.
+
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-1782 du 28 décembre 2015 - art. 9 (V)
+  - Décret n°2016-1110 du 11 août 2016 - art. 9
 
 _Cité par_:
 
@@ -61432,29 +61736,43 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de l'environnement - art. L123-19
+  - Code de l'environnement - art. L123-2
   - Code de l'environnement - art. R123-1
 
 
 ###### Article R*423-58
 
-Lorsque le projet a précédemment fait l'objet d'une enquête publique dans les conditions prévues par les articles R. 123-7 à
-R. 123-23 du code de l'environnement et que l'avis de mise à l'enquête indiquait que celle-ci portait également sur la
-construction projetée, il n'y a pas lieu à nouvelle enquête au titre du permis de construire ou d'aménager, sauf si le projet
-a subi des modifications substantielles après la clôture de l'enquête.
+Lorsque le projet a précédemment fait l'objet d'une enquête publique dans les conditions prévues au code de l'environnement
+et que l'avis de mise à l'enquête indiquait que celle-ci portait également sur la construction projetée, il n'y a pas lieu à
+nouvelle enquête au titre du permis de construire ou d'aménager, sauf si le projet a subi des modifications substantielles
+après la clôture de l'enquête.
+
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
-
-_Cite_:
-
-  - Code de l'environnement - art. R123-7 (V)
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+_Modifié par_:
+
+  - Décret n°2016-1110 du 11 août 2016 - art. 9
 
 
 ##### Sous-section 3 : Délais et conditions d'émission des avis ou accords des personnes publiques, services ou commissions intéressés<a id=723></a>
@@ -61462,15 +61780,37 @@ _Codifié par_:
 ###### Article R*423-59
 
 Sous réserve des dispositions des articles L. 752-4, L. 752-14 et L. 752-17 du code de commerce et des exceptions prévues aux
-articles R*423-60 à R*423-71-1, les services, autorités ou commissions qui n'ont pas fait parvenir à l'autorité compétente
-leur réponse motivée dans le délai d'un mois à compter de la réception de la demande d'avis sont réputés avoir émis un avis
-favorable.
+articles R*423-60 à R*423-71-1, les collectivités territoriales, services, autorités ou commissions qui n'ont pas fait
+parvenir à l'autorité compétente leur réponse motivée dans le délai d'un mois à compter de la réception de la demande d'avis
+sont réputés avoir émis un avis favorable.
+
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-165 du 12 février 2015 - art. 2
+  - Décret n°2016-1110 du 11 août 2016 - art. 9
+
+_Cite_:
+
+  - Code de commerce - art. L752-14 (V)
+  - Code de commerce - art. L752-17 (V)
+  - Code de commerce - art. L752-4 (V)
 
 _Cité par_:
 
@@ -61486,7 +61826,7 @@ _Cité par_:
   - Code de l'urbanisme - art. R*423-67 (V)
   - Code de l'urbanisme - art. R*423-67-1 (Ab)
   - Code de l'urbanisme - art. R*423-67-2 (V)
-  - Code de l'urbanisme - art. R*423-69 (M)
+  - Code de l'urbanisme - art. R*423-69 (V)
   - Code de l'urbanisme - art. R*423-69-1 (V)
   - Code de l'urbanisme - art. R*423-69-2 (V)
   - Code de l'urbanisme - art. R*423-70 (V)
@@ -61864,25 +62204,41 @@ _Cite_:
 
 ###### Article R*423-69
 
-Par exception aux dispositions de l'article R. 423-59, lorsque le projet est soumis à étude d'impact et entre dans le champ
-d'application de l'article 4 du décret n° 2004-490 du 3 juin 2004 relatif aux procédures administratives et financières en
-matière d'archéologie préventive, le délai à l'issue duquel le préfet de région est réputé avoir renoncé à édicter une
-prescription de fouille ou demander la modification de la consistance du projet est de deux mois.
+Par exception aux dispositions de l'article R. 423-59, lorsque le projet est soumis à évaluation environnementale et entre
+dans le champ d'application de l'article 4 du décret n° 2004-490 du 3 juin 2004 relatif aux procédures administratives et
+financières en matière d'archéologie préventive, le délai à l'issue duquel le préfet de région est réputé avoir renoncé à
+édicter une prescription de fouille ou demander la modification de la consistance du projet est de deux mois.
+
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
+  - Décret n°2004-490 du 3 juin 2004
   - Code de l'urbanisme - art. R*423-59 (V)
-  - Décret n°2004-490 du 3 juin 2004 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2016-1110 du 11 août 2016 - art. 4
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
-
-_Créé par_:
-
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R*423-69-1
@@ -63289,18 +63645,34 @@ _Codifié par_:
 ###### Article R*425-19
 
 Lorsque le projet est situé dans un parc national créé en application des articles L. 331-1 et L. 331-2 du code de
-l'environnement et doit être précédé d'une étude d'impact en application de l'article L. 122-1 du même code, le permis de
-construire ou le permis d'aménager ne peut intervenir qu'avec l'accord de l'établissement public du parc émis après
+l'environnement et doit être précédé d'une évaluation environnementale en application de l'article L. 122-1 du même code, le
+permis de construire ou le permis d'aménager ne peut intervenir qu'avec l'accord de l'établissement public du parc émis après
 consultation de son conseil scientifique conformément au II de l'article L. 331-4 de ce code. 
 
 Dans les cas prévus aux a et b de l'article R. 425-6, l'accord du directeur de l'établissement public du parc ou, le cas
 échéant, du conseil d'administration tient lieu de l'accord mentionné à l'alinéa précédent.
 
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-377 du 3 avril 2009 - art. 17
+  - Décret n°2016-1110 du 11 août 2016 - art. 4
 
 _Cite_:
 
@@ -64793,69 +65165,86 @@ _Cite_:
 
 Le dossier joint à la demande de permis de construire comprend en outre, selon les cas : 
 
-a) Lorsqu'elles sont exigées au titre du permis de construire auquel est soumis le projet figurant dans l'énumération du
-tableau annexé à l'article R. 122-2 du code de l'environnement, l'étude d'impact ou la décision de l'autorité administrative
-de l'Etat compétente en matière d'environnement dispensant le demandeur de réaliser une étude d'impact ;
+a) L'étude d'impact ou la décision de l'autorité environnementale dispensant le projet d'évaluation environnementale lorsque
+le projet relève du tableau annexé à l'article R. 122-2 du code de l'environnement. L'autorité compétente pour délivrer
+l'autorisation d'urbanisme vérifie que le projet qui lui est soumis est conforme aux mesures et caractéristiques qui ont
+justifié la décision de l'autorité environnementale de ne pas le soumettre à évaluation environnementale ; 
 
-b) Le dossier d'évaluation des incidences du projet sur un site Natura 2000 prévu à l'article R. 414-23 du code de
+b) L'étude d'impact actualisée lorsque le projet relève du III de l'article L. 122-1-1 du code de l'environnement ainsi que
+les avis de l'autorité environnementale compétente et des collectivités territoriales et leurs groupements intéressés par le
+projet rendus sur l'étude d'impact actualisée ; 
+
+c) Le dossier d'évaluation des incidences du projet sur un site Natura 2000 prévu à l'article R. 414-23 du code de
 l'environnement, dans le cas où le projet doit faire l'objet d'une telle évaluation en application de l'article L. 414-4 de
 ce code. Toutefois, lorsque le dossier de demande comporte une étude d'impact, cette étude tient lieu de dossier d'évaluation
 des incidences Natura 2000 si elle satisfait aux prescriptions de l'article R. 414-23 du code de l'environnement,
 conformément aux dispositions prévues à l'article R. 414-22 de ce code ; 
 
-c) Le document attestant de la conformité du projet d'installation d'assainissement non collectif au regard des prescriptions
+d) Le document attestant de la conformité du projet d'installation d'assainissement non collectif au regard des prescriptions
 réglementaires, prévu au 1° du III de l'article L. 2224-8 du code général des collectivités territoriales, dans le cas où le
 projet est accompagné de la réalisation ou de la réhabilitation d'une telle installation ; 
 
-d) Dans les cas prévus par les 4° et 5° de l'article R. 111-38 du code de la construction et de l'habitation, un document
+e) Dans les cas prévus par les 4° et 5° de l'article R. 111-38 du code de la construction et de l'habitation, un document
 établi par un contrôleur technique mentionné à l'article L. 111-23 de ce code, attestant qu'il a fait connaître au maître
 d'ouvrage son avis sur la prise en compte, au stade de la conception, des règles parasismiques et paracycloniques prévues par
 l'article L. 563-1 du code de l'environnement ; 
 
-e) Lorsque la construction projetée est subordonnée par un plan de prévention des risques naturels prévisibles ou un plan de
+f) Lorsque la construction projetée est subordonnée par un plan de prévention des risques naturels prévisibles ou un plan de
 prévention des risques miniers approuvés, ou rendus immédiatement opposables en application de l'article L. 562-2 du code de
 l'environnement, ou par un plan de prévention des risques technologiques approuvé, à la réalisation d'une étude préalable
 permettant d'en déterminer les conditions de réalisation, d'utilisation ou d'exploitation, une attestation établie par
 l'architecte du projet ou par un expert certifiant la réalisation de cette étude et constatant que le projet prend en compte
 ces conditions au stade de la conception ; 
 
-f) L'agrément prévu à l'article L. 510-1, lorsqu'il est exigé ; 
+g) L'agrément prévu à l'article L. 510-1, lorsqu'il est exigé ; 
 
-g) Une notice précisant l'activité économique qui doit être exercée dans le bâtiment et justifiant, s'il y a lieu, que cette
+h) Une notice précisant l'activité économique qui doit être exercée dans le bâtiment et justifiant, s'il y a lieu, que cette
 activité répond aux critères définis par l'article R. 146-2, lorsque la demande concerne un projet de construction visé au d
 de cet article et situé dans un espace remarquable ou dans un milieu à préserver d'une commune littorale ; 
 
-h) L'étude de sécurité publique, lorsqu'elle est exigée en application des articles R. 114-1 et R. 114-2 ; 
+i) L'étude de sécurité publique, lorsqu'elle est exigée en application des articles R. 114-1 et R. 114-2 ; 
 
-i) Lorsque le projet est tenu de respecter les dispositions mentionnées à l'article R. 111-20 du code de la construction et
+j) Lorsque le projet est tenu de respecter les dispositions mentionnées à l'article R. 111-20 du code de la construction et
 de l'habitation, un document établi par le maître d'ouvrage attestant la prise en compte de la réglementation thermique, en
 application de l'article R. 111-20-1 de ce code, et pour les projets concernés par le cinquième alinéa de l'article L. 111-9
 du même code, la réalisation de l'étude de faisabilité relative aux approvisionnements en énergie, en application de
 l'article R. 111-20-2 dudit code ; 
 
-j) Dans le cas d'un projet de construction ou extension d'un établissement recevant du public de plus de 100 personnes ou
+k) Dans le cas d'un projet de construction ou extension d'un établissement recevant du public de plus de 100 personnes ou
 d'un immeuble de grande hauteur à proximité d'une canalisation de transport, dans la zone de dangers définie au premier tiret
 du b de l'article R. 555-30 du code de l'environnement, l'analyse de compatibilité du projet avec la canalisation du point de
 vue de la sécurité des personnes prévue à l'article R. 555-31 du même code ; 
 
-k) Le récépissé de transmission du dossier à la commission départementale de la sécurité des transports de fonds, lors de la
+l) Le récépissé de transmission du dossier à la commission départementale de la sécurité des transports de fonds, lors de la
 construction d'un bâtiment comportant un lieu sécurisé défini à l'article R. 613-28 du code de la sécurité intérieure ; 
 
-l) Le bilan de la concertation réalisée en application de l'article L. 300-2 et le document établi en application de
+m) Le bilan de la concertation réalisée en application de l'article L. 300-2 et le document établi en application de
 l'article R. 300-1 par le maître d'ouvrage pour expliquer les conséquences qu'il a tirées de ce bilan. 
 
-l) Dans le cas prévu par l'article L. 556-1 du code de l'environnement, un document établi par un bureau d'études certifié
+n) Dans le cas prévu par l'article L. 556-1 du code de l'environnement, un document établi par un bureau d'études certifié
 dans le domaine des sites et sols pollués, ou équivalent, attestant que les mesures de gestion de la pollution au regard du
 nouvel usage du terrain projeté ont été prises en compte dans la conception du projet ; 
 
-m) Lorsque le projet est situé dans un secteur d'information sur les sols et dans les cas et conditions prévus par l'article
+o) Lorsque le projet est situé dans un secteur d'information sur les sols et dans les cas et conditions prévus par l'article
 L. 556-2 du code de l'environnement, une attestation établie par un bureau d'études certifié dans le domaine des sites et
 sols pollués, ou équivalent, garantissant la réalisation d'une étude de sols et sa prise en compte dans la conception du
 projet de construction.
 
 **Nota:**
 
-Le décret n° 2015-1782 du 28 décembre 2015, article 5, 2°, a inséré un second paragraphe l à la suite du k.
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que Les
+dispositions de la présente ordonnance s'appliquent :
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ;
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ;
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -64873,16 +65262,18 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art. 6
+  - Décret n°2016-1110 du 11 août 2016 - art. 9
 
 _Cite_:
 
   - Code général des collectivités territoriales - art. L2224-8
   - Code de l'urbanisme - art. L510-1
+  - Code de l'environnement - art. L122-1-1
   - Code de l'environnement - art. L556-1
   - Code de l'environnement - art. L556-2
   - Code de l'environnement - art. L562-2
   - Code de l'environnement - art. L563-1
+  - Code de l'environnement - art. R122-2
   - Code de l'environnement - art. R414-23
   - Code de l'environnement - art. R555-30
   - Code de l'environnement - art. R555-31
@@ -65491,24 +65882,47 @@ _Créé par_:
 
 ###### Article R441-5
 
-Le dossier joint à la demande de permis d'aménager comprend en outre, lorsqu'elles sont exigées au titre de la soumission du
-projet à permis d'aménager en application du tableau annexé à l'article R. 122-2 du code de l'environnement, l'étude d'impact
-ou la décision de l'autorité administrative de l'Etat compétente en matière d'environnement dispensant le demandeur de
-réaliser une étude d'impact.
+Le dossier joint à la demande de permis d'aménager comprend en outre, selon les cas : 
+
+1° L'étude d'impact ou la décision de l'autorité environnementale dispensant le projet d'évaluation environnementale lorsque
+le projet relève du tableau annexé à l'article R. 122-2 du code de l'environnement. L'autorité compétente pour délivrer
+l'autorisation d'urbanisme vérifie que le projet qui lui est soumis est conforme aux mesures et caractéristiques qui ont
+justifié la décision de l'autorité environnementale de ne pas le soumettre à évaluation environnementale ; 
+
+2° L'étude d'impact actualisée lorsque le projet relève du III de l'article L. 122-1-1 du code de l'environnement ainsi que
+les avis de l'autorité environnementale compétente et des collectivités territoriales et leurs groupements intéressés par le
+projet rendus sur l'étude d'impact actualisée.
+
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que  Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2016-1110 du 11 août 2016 - art. 9
+
 _Cite_:
 
-  - Code de l'environnement - art. R122-2
+  - Code de l'environnement - art. L122-1-1 (V)
+  - Code de l'environnement - art. R122-2 (V)
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
-
-_Modifié par_:
-
-  - Décret n°2015-1782 du 28 décembre 2015 - art. 6
 
 
 ###### Article R441-8-1
@@ -66622,19 +67036,43 @@ _Codifié par_:
 
 ###### Article R443-5
 
-Le dossier de demande comporte également, lorsqu'elles sont exigées au titre de la soumission du projet à permis d'aménager
-en application du tableau annexé à l'article R. 122-2 du code de l'environnement, l'étude d'impact ou la décision de
-l'autorité administrative de l'Etat compétente en matière d'environnement dispensant le demandeur de réaliser cette étude.
+Le dossier de demande comporte également, selon les cas : 
+
+1° L'étude d'impact ou la décision de l'autorité environnementale dispensant le projet d'évaluation environnementale lorsque
+le projet relève du tableau annexé à l'article R. 122-2 du code de l'environnement. L'autorité compétente pour délivrer
+l'autorisation d'urbanisme vérifie que le projet qui lui est soumis est conforme aux mesures et caractéristiques qui ont
+justifié la décision de l'autorité environnementale de ne pas le soumettre à évaluation environnementale ; 
+
+2° L'étude d'impact actualisée lorsque le projet relève du III de l'article L. 122-1-1 du code de l'environnement ainsi que
+les avis de l'autorité environnementale compétente et des collectivités territoriales et de leurs groupements intéressés,
+rendus sur l'étude d'impact actualisée.
+
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-1782 du 28 décembre 2015 - art. 7
+  - Décret n°2016-1110 du 11 août 2016 - art. 9
 
 _Cite_:
 
-  - Code de l'environnement - art. R122-2
+  - Code de l'environnement - art. L122-1-1
+  - Code de l'environnement - art. R122-2 (V)
 
 _Codifié par_:
 

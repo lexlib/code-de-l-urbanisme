@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-11-20
+Version Consolidée au 2016-11-28
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L174-6)](#2)
@@ -566,7 +566,7 @@ Version Consolidée au 2016-11-20
           - [Section 4 : Mise à jour des annexes de la carte communale (art. R163-8)](#563)
           - [Section 5 : Publicité et entrée en vigueur des actes relatifs à l'élaboration, l'évaluation et l'évolution de la carte communale (art. R163-9)](#564)
       - [Titre VII : Dispositions diverses et transitoirement maintenues en vigueur (art. R172-1 à R173-1)](#565)
-        - [Chapitre II : Directive territoriale d'aménagement (art. R172-1 à R172-3)](#566)
+        - [Chapitre II : Directive territoriale d'aménagement (art. R172-1 à R172-4)](#566)
         - [Chapitre III : Schéma de secteur (art. R173-1)](#567)
       - [Annexe au présent livre (art. R*211-1 à R620-2)](#568)
     - [Livre II : Préemption et réserves foncières (art. R*211-1 à R215-20)](#569)
@@ -45196,10 +45196,11 @@ L. 332-9 dans sa rédaction antérieure au 31 décembre 2010 ;
 
 12° Le périmètre des secteurs affectés par un seuil minimal de densité, en application de l'article L. 331-36 ; 
 
-13° Les périmètres fixés par les conventions de projet urbain partenarial mentionnées à l'article L. 332-11-3 ; 
+13° Les périmètres fixés par les conventions de projet urbain partenarial mentionnées à l'article L. 332-11-3 ainsi que ceux
+délimités en application du II de cet article ; 
 
 14° Les périmètres à l'intérieur desquels l'autorité compétente peut surseoir à statuer sur les demandes d'autorisation en
-application de l'article L. 424-1 ;
+application de l'article L. 424-1 ; 
 
 15° Les périmètres de projet prévus à l'article L. 322-13.
 
@@ -45211,7 +45212,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1514 du 8 novembre 2016 - art. 7
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 1
 
 _Cite_:
 
@@ -45221,10 +45222,12 @@ _Cite_:
   - Code de l'urbanisme - art. L115-3
   - Code de l'urbanisme - art. L121-28
   - Code de l'urbanisme - art. L122-12
+  - Code de l'urbanisme - art. L211-1 (V)
   - Code de l'urbanisme - art. L313-1
-  - Code de l'urbanisme - art. L331-14
+  - Code de l'urbanisme - art. L331-14 (V)
   - Code de l'urbanisme - art. L331-36
-  - Code de l'urbanisme - art. L332-11-3
+  - Code de l'urbanisme - art. L332-11-3 (V)
+  - Code de l'urbanisme - art. L332-13 (V)
   - Code de l'urbanisme - art. L332-9
   - Code de l'urbanisme - art. L424-1
 
@@ -45265,7 +45268,9 @@ stations d'épuration des eaux usées et le stockage et le traitement des déche
 9° Les dispositions d'un projet de plan de prévention des risques naturels prévisibles rendues opposables en application de
 l'article L. 562-2 du code de l'environnement ; 
 
-10° Les secteurs d'information sur les sols en application de l'article L. 125-6 du code de l'environnement.
+10° Les secteurs d'information sur les sols en application de l'article L. 125-6 du code de l'environnement ; 
+
+11° Le règlement local de publicité élaboré en application de l'article L. 581-14 du code de l'environnement
 
 **Liens relatifs à cet article**
 
@@ -45273,32 +45278,28 @@ _Codifié par_:
 
   - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art.
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 1
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L2224-10 (M)
-  - Code rural et de la pêche maritime - art. L126-1 (M)
-  - Code de l'environnement - art. L125-6 (M)
-  - Code de l'environnement - art. L562-2 (M)
-  - Code de l'environnement - art. L571-10 (M)
-  - Code minier (nouveau) - art. L321-1 (V)
-  - Code minier (nouveau) - art. L333-1 (V)
-  - Code minier (nouveau) - art. L334-1 (V)
-  - Code de l'énergie - art. L712-2 (V)
+  - Code général des collectivités territoriales - art. L2224-10
+  - Code rural - art. L126-1
+  - Code de l'environnement - art. L125-6
+  - Code de l'environnement - art. L562-2
+  - Code de l'environnement - art. L571-10
+  - Code de l'environnement - art. L581-14 (V)
+  - Code minier (nouveau) - art. L321-1
+  - Code minier (nouveau) - art. L333-1
+  - Code minier (nouveau) - art. L334-1
+  - Code de l'énergie - art. L712-2
 
 _Cité par_:
 
   - Code de l'environnement - art. R555-29 (V)
   - Code de l'urbanisme - art. R151-51 (V)
   - Code de la défense. - art. R5112-2 (V)
-
-_Anciens textes_:
-
-  - Code de l'urbanisme - art. R*123-13, alinéas 1, 7 à 10, 14, 15 et 22 (Ab)
-  - Code de l'urbanisme - art. R*123-14, alinéas 1, 2 ecqc le régime forestier, 4 et 8  (Ab)
 
 
 ##### Section 5 : Plan local d'urbanisme tenant lieu de plan de déplacements urbains et de programme local de l'habitat<a id=534></a>
@@ -45716,7 +45717,7 @@ qu'après avis de la chambre d'agriculture, de l'Institut national de l'origine 
 d'origine contrôlée et, le cas échéant, du Centre national de la propriété forestière lorsqu'il prévoit une réduction des
 espaces agricoles ou forestiers.
 
-Ces avis sont rendus dans un délai de deux mois à compter de la saisine. En l'absence de réponse à l'issue de ce délai,
+Ces avis sont rendus dans un délai de trois mois à compter de la saisine. En l'absence de réponse à l'issue de ce délai,
 l'avis est réputé favorable.
 
 **Liens relatifs à cet article**
@@ -45725,17 +45726,13 @@ _Codifié par_:
 
   - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art.
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 1
 
 _Cite_:
 
-  - Code rural et de la pêche maritime - art. L112-3 (M)
-
-_Anciens textes_:
-
-  - Code de l'urbanisme - art. R*123-17, ecqc Elaboration (Ab)
+  - Code rural - art. L112-3
 
 _Cité par_:
 
@@ -46264,16 +46261,12 @@ comportant au moins une commune de 3 500 habitants et plus ;
 
 Chacune de ces formalités de publicité mentionne le ou les lieux où le dossier peut être consulté. 
 
-L'arrêté ou la délibération produit ses effets juridiques dès l'exécution de l'ensemble des formalités prévues ci-dessus, la
-date à prendre en compte pour l'affichage étant celle du premier jour où il est effectué.
+L'arrêté ou la délibération produit ses effets juridiques dès l'exécution de l'ensemble des formalités prévues  au premier
+alinéa, la date à prendre en compte pour l'affichage étant celle du premier jour où il est effectué.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
-
-  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-_Créé par_:
 
   - Décret n°2015-1783 du 28 décembre 2015 - art.
 
@@ -46293,10 +46286,14 @@ _Cité par_:
   - Code du patrimoine - art. R621-95 (V)
   - Code du patrimoine - art. R631-4 (V)
 
+_Modifié par_:
+
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 1
+
 _Cite_:
 
-  - Code général des collectivités territoriales - art. R2121-10 (V)
-  - Code général des collectivités territoriales - art. R5211-41 (V)
+  - Code général des collectivités territoriales - art. R2121-10
+  - Code général des collectivités territoriales - art. R5211-41
 
 _Anciens textes_:
 
@@ -46876,7 +46873,7 @@ actes administratifs mentionné à l'article R. 5211-41 du même code, lorsqu'il
 Chacune de ces formalités de publicité mentionne le ou les lieux où le dossier peut être consulté. 
 
 L'approbation ou la révision de la carte communale produit ses effets juridiques dès l'exécution de l'ensemble des formalités
-prévues au présent article, la date à prendre en compte pour l'affichage étant celle du premier jour où il est effectué.
+prévues  au premier alinéa, la date à prendre en compte pour l'affichage étant celle du premier jour où il est effectué.
 
 **Liens relatifs à cet article**
 
@@ -46884,18 +46881,14 @@ _Codifié par_:
 
   - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art.
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 1
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. R2121-10 (V)
-  - Code général des collectivités territoriales - art. R5211-41 (V)
-
-_Anciens textes_:
-
-  - Code de l'urbanisme - art. R*124-8 (Ab)
+  - Code général des collectivités territoriales - art. R2121-10
+  - Code général des collectivités territoriales - art. R5211-41
 
 
 ### Titre VII : Dispositions diverses et transitoirement maintenues en vigueur<a id=565></a>
@@ -47017,6 +47010,22 @@ _Créé par_:
 _Anciens textes_:
 
   - Code de l'urbanisme - art. R*111-29 (Ab)
+
+
+###### Article R172-4
+
+Le préfet de région est l'autorité administrative compétente de l'Etat pour modifier les directives territoriales
+d'aménagement en application de l'article L. 172-4.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L172-4 (V)
 
 
 #### Chapitre III : Schéma de secteur<a id=567></a>
@@ -50316,9 +50325,10 @@ le dossier d'adaptation des documents mentionnés au IV du même article ;
 
 - si elle n'est pas incluse dans l'étude d'impact, l'analyse des incidences environnementales des dispositions de mise en
 compatibilité des documents mentionnés au I et au I bis de l'article L. 300-6-1 et, s'il y a lieu, des dispositions
-d'adaptation des documents mentionnés au IV du même article. Cette analyse comprend les éléments mentionnés, selon le cas,
-aux articles R. 122-2, R. 123-2-1 ou R. 141-1 du présent code ou aux articles R. 4433-1 ou R. 4424-6-1 du code général des
-collectivités territoriales et, s'il y a lieu, les éléments mentionnés à l'article R. 122-20 du code de l'environnement. 
+d'adaptation des documents mentionnés au IV du même article. Cette analyse comprend les éléments        
+
+du rapport de présentation des documents mentionnés au I de l'article L. 300-6-1 et, s'il y a lieu, les éléments mentionnés à
+l'article R. 122-20 du code de l'environnement. 
 
 III.-L'autorité environnementale émet un avis sur le dossier qui lui est transmis dans les trois mois suivant la date de sa
 saisine. Cet avis, ou à défaut l'information relative à l'absence d'observation émise dans le délai, est mis en ligne dès sa
@@ -50346,7 +50356,7 @@ disposition du public est publié après le premier jour du mois suivant la publ
 
 _Modifié par_:
 
-  - Décret n°2016-1110 du 11 août 2016 - art. 4
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 2
 
 _Cite_:
 
@@ -50444,17 +50454,17 @@ _Cite_:
 
 ###### Article R300-22
 
-L'examen conjoint prévu à l'article L. 153-56  a lieu à l'initiative de l'autorité mentionnée à l'article R. 300-15.
+L'examen conjoint prévu à l'article L. 153-54 a lieu à l'initiative de l'autorité mentionnée à l'article R. 300-15.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art. 5
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 2
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L123-14-2
+  - Code de l'urbanisme - art. L153-54 (V)
   - Code de l'urbanisme - art. R300-15
 
 
@@ -50488,17 +50498,17 @@ _Cite_:
 
 ###### Article R300-24
 
-L'examen conjoint prévu à l'article L. 123-21  a lieu à l'initiative de l'autorité mentionnée à l'article R. 300-15.
+L'examen conjoint prévu à l'article L. 123-22 a lieu à l'initiative de l'autorité mentionnée à l'article R. 300-15.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art. 5
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 2
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L141-1-2
+  - Code de l'urbanisme - art. L123-22 (V)
   - Code de l'urbanisme - art. R300-15
 
 
@@ -50657,7 +50667,7 @@ _Codifié par_:
 
 La personne publique qui a pris l'initiative de la création de la zone constitue un dossier de création, approuvé, sauf
 lorsqu'il s'agit de l'Etat, par son organe délibérant. Cette délibération peut tirer simultanément le bilan de la
-concertation, en application du III de l'article L. 300-2. 
+concertation, en application de l'article L. 103-6. 
 
 Le dossier de création comprend : 
 
@@ -50680,11 +50690,11 @@ zone.
 
 _Modifié par_:
 
-  - Décret n°2013-142 du 14 février 2013 - art. 10
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 2
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L300-2
+  - Code de l'urbanisme - art. L103-6 (V)
   - Code de l'environnement - art. R122-2
   - Code de l'environnement - art. R122-5
 
@@ -50793,7 +50803,7 @@ _Codifié par_:
 
 ###### Article R311-5-1
 
-Lorsque l'opération doit faire l'objet d'une étude de sécurité publique en application de l'article R. 111-48, la personne
+Lorsque l'opération doit faire l'objet d'une étude de sécurité publique en application de l'article R. 114-1, la personne
 publique qui a pris l'initiative de la création de la zone d'aménagement concerté, ou son concessionnaire, est entendue par
 la sous-commission départementale pour la sécurité publique de la commission consultative départementale de sécurité et
 d'accessibilité, prévue par le décret n° 95-260 du 8 mars 1995, en vue de préciser les éléments essentiels qui devront être
@@ -50807,16 +50817,16 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°95-260 du 8 mars 1995 (V)
-  - Code de l'urbanisme - art. R111-48 (V)
+  - Décret n°95-260 du 8 mars 1995
+  - Code de l'urbanisme - art. R114-1 (V)
 
 _Cité par_:
 
   - Décret n°95-260 du 8 mars 1995 - art. 2 (VD)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-1177 du 3 août 2007 - art. 2 () JORF 5 août 2007 en vigueur le 1er octobre 2007
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 2
 
 
 ##### Section 2 : Réalisation des zones d'aménagement concerté<a id=615></a>
@@ -50971,7 +50981,7 @@ L'aménagement et l'équipement de la zone sont :
 
 2° Soit concédés, par cette personne morale, dans les conditions définies par les articles L. 300-4 à L. 300-5-2. 
 
-Lorsque l'opération doit faire l'objet d'une étude de sécurité publique en application de l'article R. 111-48, cette étude
+Lorsque l'opération doit faire l'objet d'une étude de sécurité publique en application de l'article R. 114-1, cette étude
 doit être reçue par la sous-commission départementale pour la sécurité publique de la commission consultative départementale
 de sécurité et d'accessibilité avant le commencement des travaux de réalisation des voies et espaces publics.
 
@@ -50979,14 +50989,14 @@ de sécurité et d'accessibilité avant le commencement des travaux de réalisat
 
 _Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art. 5
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 2
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L123-3
+  - Code de l'urbanisme - art. L151-42 (V)
   - Code de l'urbanisme - art. L300-4
   - Code de l'urbanisme - art. L300-5-2
-  - Code de l'urbanisme - art. R111-48 (VT)
+  - Code de l'urbanisme - art. R114-1 (V)
 
 _Cité par_:
 
@@ -51070,18 +51080,17 @@ _Cité par_:
 
 ###### Article R*313-6
 
-Les annexes comprennent, s'il y a lieu, les informations énumérées aux articles R. 151-1 et R. 151-2.
+Les annexes comprennent, s'il y a lieu, les informations énumérées aux articles R. 151-51 à R. 151-53.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art. 5
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 2
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R*123-13 (VT)
-  - Code de l'urbanisme - art. R*123-14
+  - Code de l'urbanisme - art. R151-51 (V)
 
 _Cité par_:
 
@@ -51126,7 +51135,7 @@ _Modifié par_:
 
 Le rapport de présentation : 
 
-1° Expose le diagnostic prévu au deuxième alinéa de l'article L. 123-1-2 ; 
+1° Expose le diagnostic prévu au deuxième alinéa de l'article L. 151-4 ; 
 
 2° Analyse l'état initial de l'environnement ; 
 
@@ -51134,7 +51143,7 @@ Le rapport de présentation :
 d'aménagement et de développement durable du plan local d'urbanisme lorsqu'il en existe un et expose les motifs de la
 délimitation des zones, des règles qui y sont applicables et des orientations d'aménagement. Il justifie l'institution des
 secteurs des zones urbaines où les constructions ou installations d'une superficie supérieure à un seuil défini par le
-règlement sont interdites en application du a de l'article L. 123-2 ; 
+règlement sont interdites en application du 5° de l'article L. 151-41 ; 
 
 4° Evalue les incidences des orientations du plan de sauvegarde et de mise en valeur sur l'environnement et expose la manière
 dont le plan prend en compte le souci de sa préservation et de sa mise en valeur. 
@@ -51145,12 +51154,12 @@ En cas de modification, il comporte, outre le rapport de présentation initial, 
 
 _Modifié par_:
 
-  - Décret n°2013-142 du 14 février 2013 - art. 10
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 2
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L123-1-2
-  - Code de l'urbanisme - art. L123-2
+  - Code de l'urbanisme - art. L151-4 (V)
+  - Code de l'urbanisme - art. L151-41 (V)
 
 _Cité par_:
 
@@ -51164,7 +51173,7 @@ _Codifié par_:
 
 ###### Article R313-4
 
-Le règlement et ses documents graphiques sont établis conformément aux articles R. 123-4 à R. 123-12. Ils définissent les
+Le règlement et ses documents graphiques sont établis conformément aux articles R. 151-9 à R. 151-50. Ils définissent les
 conditions architecturales selon lesquelles est assurée la conservation et la mise en valeur des immeubles et du cadre
 urbain. Ils peuvent comporter des règles relatives aux matériaux à utiliser. 
 
@@ -51173,15 +51182,18 @@ alinéas du III de l'article L. 313-1.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
 _Modifié par_:
 
-  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 2
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L313-1 (VT)
-  - Code de l'urbanisme - art. R*123-12 (V)
-  - Code de l'urbanisme - art. R*123-4 (V)
+  - Code de l'urbanisme - art. L313-1
+  - Code de l'urbanisme - art. R151-9 (V)
 
 _Cité par_:
 
@@ -51189,25 +51201,21 @@ _Cité par_:
   - Code de l'urbanisme - art. R*322-32 (V)
   - Code de l'urbanisme - art. R*322-33 (V)
 
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
 
 ###### Article R313-5
 
 Les orientations d'aménagement peuvent, par quartier ou par secteur, prévoir les actions et opérations d'aménagement
-mentionnées au I de l'article L. 123-1-4.
+mentionnées à l'article L. 151-7.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2013-142 du 14 février 2013 - art. 10
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 2
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L123-1-4
+  - Code de l'urbanisme - art. L151-7 (V)
 
 **Liens**:
 
@@ -51228,7 +51236,7 @@ _Codifié par_:
 ###### Article R*313-8
 
 Les présidents des organes délibérants des collectivités publiques, des établissements publics, des organismes associés et
-des associations agréées ainsi que les maires, mentionnés aux deux premiers alinéas de l'article L. 123-8, ou leurs
+des associations agréées ainsi que les maires, mentionnés aux articles L. 132-7, L. 132-9 et L. 132-12, ou leurs
 représentants, sont consultés par le préfet et le maire ou le président de l'établissement public de coopération
 intercommunale compétent, à chaque fois qu'ils le demandent, pendant la durée de l'élaboration du plan. 
 
@@ -51239,7 +51247,7 @@ entendre toute personne qualifiée.
 
 _Modifié par_:
 
-  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 2
 
 _Cité par_:
 
@@ -51252,7 +51260,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L123-8 (VT)
+  - Code de l'urbanisme - art. L132-12 (V)
+  - Code de l'urbanisme - art. L132-7 (V)
+  - Code de l'urbanisme - art. L132-9 (V)
 
 _Codifié par_:
 
@@ -51320,8 +51330,8 @@ maire ou le président de l'établissement public de coopération intercommunale
 Le préfet désigne, en accord avec le maire ou le président de l'établissement public de coopération intercommunale compétent,
 l'architecte chargé de concevoir un plan de sauvegarde et de mise en valeur. 
 
-Il définit dans les mêmes conditions les objectifs poursuivis et les modalités de la concertation prévus au II de l'article
-L. 300-2. Le bilan de cette concertation est présenté devant le conseil municipal ou l'organe délibérant de l'établissement
+Il définit dans les mêmes conditions les objectifs poursuivis et les modalités de la concertation prévus à l'article L.
+103-3. Le bilan de cette concertation est présenté devant le conseil municipal ou l'organe délibérant de l'établissement
 public de coopération intercommunale compétent, qui en délibère. 
 
 La commission locale du secteur sauvegardé prévue à l'article R. 313-20 est consultée à l'initiative du préfet ou du maire ou
@@ -51331,11 +51341,11 @@ président de l'établissement public de coopération intercommunale compétent.
 
 _Modifié par_:
 
-  - Décret n°2013-142 du 14 février 2013 - art. 10
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 2
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L300-2 (V)
+  - Code de l'urbanisme - art. L103-3 (V)
   - Code de l'urbanisme - art. R313-20
 
 _Cité par_:
@@ -52081,23 +52091,23 @@ _Codifié par_:
 ###### Article R313-38
 
 En application de l'article L. 313-12, les fonctionnaires et agents commissionnés par le ministre chargé des monuments et des
-sites prêtent le serment prévu à l'article R. 160-1. Les articles R. 160-2 et R. 160-3 leur sont applicables.
+sites prêtent le serment prévu à l'article R. 610-1. Les articles R. 610-2 et R. 610-3 leur sont applicables.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 2
+
 _Cite_:
 
-  - Code de l'urbanisme - art. L313-12 (V)
-  - Code de l'urbanisme - art. R160-1 (V)
-  - Code de l'urbanisme - art. R160-2 (V)
+  - Code de l'urbanisme - art. L313-12
+  - Code de l'urbanisme - art. R610-1 (V)
+  - Code de l'urbanisme - art. R610-2 (V)
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R313-40 (Ab)
-
-_Anciens textes_:
-
-  - Décret n°64-1085 1964-10-21 art. 5
 
 _Codifié par_:
 
@@ -56350,7 +56360,7 @@ _Cite_:
 
 Dans les communes qui ne sont pas dotées d'un plan local d'urbanisme ou d'un plan d'occupation des sols à la date du 30
 novembre, qui approuvent, à compter de cette date, un plan local d'urbanisme et procèdent aux formalités prévues à l'article
-R. 123-21  avant le 1er janvier de l'année suivante, la taxe d'aménagement est instituée, sauf renonciation expresse décidée
+R. 153-21 avant le 1er janvier de l'année suivante, la taxe d'aménagement est instituée, sauf renonciation expresse décidée
 dans les conditions prévues par le 1° de l'article L. 331-2, à compter du 1er janvier de la deuxième année qui suit.
 
 **Liens relatifs à cet article**
@@ -56361,12 +56371,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art. 5
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 2
 
 _Cite_:
 
   - Code de l'urbanisme - art. L331-2
-  - Code de l'urbanisme - art. R*123-25 (VT)
+  - Code de l'urbanisme - art. R153-21
 
 
 ###### Article R331-2
@@ -59031,7 +59041,7 @@ c) La création ou l'agrandissement d'un terrain de camping permettant l'accueil
 hébergements de loisirs constitués de tentes, de caravanes, de résidences mobiles de loisirs ou d'habitations légères de
 loisirs ; 
 
-d) La création ou l'agrandissement d'un parc résidentiel de loisirs prévu à l'article R. 111-38 ou d'un village de vacances
+d) La création ou l'agrandissement d'un parc résidentiel de loisirs prévu à l'article R. 111-42 ou d'un village de vacances
 classé en hébergement léger prévu par l'article L. 325-1 du code du tourisme ; 
 
 e) Le réaménagement d'un terrain de camping ou d'un parc résidentiel de loisirs existant, lorsque ce réaménagement a pour
@@ -59059,7 +59069,7 @@ loi n° 2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gen
 gens du voyage ; 
 
 m) L'aménagement de terrains bâtis ou non bâtis pour permettre l'installation d'au moins deux résidences démontables créant
-une surface de plancher totale supérieure à quarante mètres carrés, définies à l'article R. 111-51  et constituant l'habitat
+une surface de plancher totale supérieure à quarante mètres carrés, définies à l'article R. 111-51 et constituant l'habitat
 permanent de leurs utilisateurs.
 
 **Liens relatifs à cet article**
@@ -59069,8 +59079,8 @@ _Cite_:
   - Loi n°2000-614 du 5 juillet 2000 - art. 1
   - Code du tourisme. - art. L325-1
   - Code de l'urbanisme - art. L444-1
-  - Code de l'urbanisme - art. R*111-34
-  - Code de l'urbanisme - art. R*111-46-1 (VT)
+  - Code de l'urbanisme - art. R111-42
+  - Code de l'urbanisme - art. R111-51 (V)
 
 _Cité par_:
 
@@ -59102,7 +59112,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art. 6
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 3
 
 **Liens**:
 
@@ -59181,8 +59191,8 @@ _Codifié par_:
 ###### Article R*421-22
 
 Dans les espaces remarquables ou milieux du littoral qui sont identifiés dans un document d'urbanisme comme devant être
-préservés en application de l'article L. 121-21, les aménagements mentionnés aux a, b, c et d de l'article R. 121-6 doivent
-être précédés de la délivrance d'un permis d'aménager.
+préservés en application de l'article L. 121-23, les aménagements mentionnés aux 1° à 4° de l'article R. 121-5 doivent être
+précédés de la délivrance d'un permis d'aménager.
 
 **Liens relatifs à cet article**
 
@@ -59228,7 +59238,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art. 6
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 3
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L121-23 (V)
+  - Code de l'urbanisme - art. R121-5 (V)
 
 _Codifié par_:
 
@@ -64156,15 +64171,10 @@ _Codifié par_:
 ###### Article R*431-6
 
 Lorsque le terrain d'assiette comporte des constructions, la demande précise leur destination, par référence aux différentes
-destinations et sous-destinations  définies aux articles R. 151-27 et R. 151-28, à l'article R. 123-9, leur surface de
-plancher et indique si ces constructions sont destinées à être maintenues et si leur destination ou sous-destination  est
-modifiée par le projet.
+destinations et sous-destinations définies aux articles R. 151-27 et R. 151-28, leur surface de plancher et indique si ces
+constructions sont destinées à être maintenues et si leur destination ou sous-destination est modifiée par le projet.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de l'urbanisme - art. R*123-9
 
 _Codifié par_:
 
@@ -64172,7 +64182,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art. 6
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 3
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R151-27 (V)
 
 
 ###### Article R*431-7
@@ -64557,13 +64571,13 @@ _Codifié par_:
 Lorsque la demande de permis de construire porte sur un projet comportant l'installation de systèmes de production d'énergie
 à partir de sources renouvelables alors que des dispositions d'urbanisme s'opposent à leur installation, le demandeur joint
 au dossier un document par lequel il s'engage à installer des dispositifs conformes aux dispositions de l'arrêté prévu au 2°
-de l'article R. 111-50.
+de l'article R. 111-23.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2014-1414 du 27 novembre 2014 - art. 2
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 3
 
 _Cité par_:
 
@@ -64571,7 +64585,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R111-50
+  - Code de l'urbanisme - art. R111-23 (V)
 
 
 ###### Article R*431-19
@@ -64991,23 +65005,23 @@ _Codifié par_:
 
 ###### Article R*431-33
 
-Lorsque l'édification des constructions est subordonnée, en application de l'article L. 123-4, à un transfert des
+Lorsque l'édification des constructions est subordonnée, en application de l'article L. 151-25, à un transfert des
 possibilités de construction résultant du coefficient d'occupation des sols, la demande est accompagnée des contrats ayant
 procédé à ces transferts.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code de l'urbanisme - art. L123-4 (VT)
-
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 3
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L151-25 (V)
 
 
 ###### Article R*431-33-1
@@ -65116,7 +65130,7 @@ ces conditions au stade de la conception ;
 g) L'agrément prévu à l'article L. 510-1, lorsqu'il est exigé ; 
 
 h) Une notice précisant l'activité économique qui doit être exercée dans le bâtiment et justifiant, s'il y a lieu, que cette
-activité répond aux critères définis par l'article R. 146-2, lorsque la demande concerne un projet de construction visé au d
+activité répond aux critères définis par l'article R. 121-5, lorsque la demande concerne un projet de construction visé au 4°
 de cet article et situé dans un espace remarquable ou dans un milieu à préserver d'une commune littorale ; 
 
 i) L'étude de sécurité publique, lorsqu'elle est exigée en application des articles R. 114-1 et R. 114-2 ; 
@@ -65147,22 +65161,6 @@ L. 556-2 du code de l'environnement, une attestation établie par un bureau d'é
 sols pollués, ou équivalent, garantissant la réalisation d'une étude de sols et sa prise en compte dans la conception du
 projet de construction.
 
-**Nota:**
-
-Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que Les
-dispositions de la présente ordonnance s'appliquent :
-
-- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
-1er janvier 2017 ;
-
-- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
-est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
-dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
-la publication de la présente ordonnance ;
-
-- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
-disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -65179,18 +65177,26 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1110 du 11 août 2016 - art. 9
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 3
 
 _Cite_:
 
   - Code général des collectivités territoriales - art. L2224-8
+  - Code de l'urbanisme - art. L300-2 (V)
   - Code de l'urbanisme - art. L510-1
+  - Code de l'urbanisme - art. R114-1 (V)
+  - Code de l'urbanisme - art. R121-5 (V)
+  - Code de l'urbanisme - art. R300-1 (V)
+  - Code de la construction et de l'habitation. - art. L111-23 (V)
+  - Code de la construction et de l'habitation. - art. L111-9 (V)
   - Code de l'environnement - art. L122-1-1
+  - Code de l'environnement - art. L414-4 (V)
   - Code de l'environnement - art. L556-1
   - Code de l'environnement - art. L556-2
   - Code de l'environnement - art. L562-2
   - Code de l'environnement - art. L563-1
   - Code de l'environnement - art. R122-2
+  - Code de l'environnement - art. R414-22 (V)
   - Code de l'environnement - art. R414-23
   - Code de l'environnement - art. R555-30
   - Code de l'environnement - art. R555-31
@@ -68319,27 +68325,28 @@ _Cite_:
 
 ###### Article R472-12
 
-S'il y a lieu, la déclaration préalable de coupe ou d'abattage d'arbres prévue à l'article L. 130-1 et l'autorisation de
-défrichement prévue aux articles L. 311-1 ou L. 312-1 du code forestier doivent avoir été obtenues préalablement à la
-délivrance de l'autorisation d'exécution des travaux et la servitude prévue à l'article L. 342-20 du code du tourisme doit
-avoir été préalablement instituée.
+S'il y a lieu, la déclaration préalable de coupe ou d'abattage d'arbres prévue à l'article L. 421-4 et au g de l'article R.
+421-23 et l'autorisation de défrichement prévue aux articles L. 311-1 ou L. 312-1 du code forestier doivent avoir été
+obtenues préalablement à la délivrance de l'autorisation d'exécution des travaux et la servitude prévue à l'article L. 342-20
+du code du tourisme doit avoir été préalablement instituée.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 3
+
 _Cite_:
 
-  - Code du tourisme. - art. L342-20 (V)
-  - Code de l'urbanisme - art. L130-1 (V)
-  - Code forestier (nouveau) - art. L311-1 (V)
-  - Code forestier (nouveau) - art. L312-1 (V)
+  - Code du tourisme. - art. L342-20
+  - Code de l'urbanisme - art. *R421-23 (V)
+  - Code de l'urbanisme - art. L421-4 (V)
+  - Code forestier (nouveau) - art. L311-1
+  - Code forestier (nouveau) - art. L312-1
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
-
-_Créé par_:
-
-  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R472-13
@@ -68600,31 +68607,29 @@ _Codifié par_:
 
 La demande comporte un plan de situation du projet dans le domaine skiable, la délimitation sur le plan cadastral des travaux
 faisant l'objet de la demande et les références cadastrales des parcelles concernées. Elle indique l'identité des
-propriétaires apparents. 
+propriétaires apparents.
 
 Elle comprend une note descriptive des travaux envisagés indiquant leur nature, les aménagements complémentaires de remise en
-état ou de réhabilitation et leurs délais de réalisation. Cette note est accompagnée d'un plan d'exécution coté. 
+état ou de réhabilitation et leurs délais de réalisation. Cette note est accompagnée d'un plan d'exécution coté.
 
 Elle comporte l'étude d'impact définie à l'article R. 122-5 du code de l'environnement, lorsque celle-ci est requise en
 application des articles R. 122-2 et R. 122-3 du même code, qui précise les mesures de remise en état ou de réhabilitation
-mentionnées à l'alinéa précédent. 
+mentionnées à l'alinéa précédent.
 
-Lorsque le projet nécessite la coupe ou l'abattage d'arbres soumis à déclaration préalable en application des articles L.
-130-1 et L. 421-4 du présent code ou à l'autorisation de défricher en application des articles L. 311-1 ou L. 312-1 du code
-forestier, une attestation selon laquelle la déclaration préalable ou, le cas échéant, une copie de la lettre par laquelle le
-préfet fait connaître au demandeur que le dossier de demande d'autorisation de défrichement est complet sont jointes à la
-demande.
+Lorsque le projet nécessite la coupe ou l'abattage d'arbres soumis à déclaration préalable en application de l'article L.
+421-4 du présent code ou à l'autorisation de défricher en application des articles L. 311-1 ou L. 312-1 du code forestier,
+une attestation selon laquelle la déclaration préalable ou, le cas échéant, une copie de la lettre par laquelle le préfet
+fait connaître au demandeur que le dossier de demande d'autorisation de défrichement est complet sont jointes à la demande.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2011-2019 du 29 décembre 2011 - art. 3
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 3
 
 _Cite_:
 
   - Code forestier - art. L311-1
-  - Code de l'urbanisme - art. L130-1
   - Code de l'urbanisme - art. L421-4
   - Code de l'environnement - art. R122-2
   - Code de l'environnement - art. R122-5
@@ -68761,13 +68766,9 @@ _Cité par_:
 
 Les fonctionnaires et agents de l'Etat et des collectivités publiques commissionnés par le ministre chargé de l'urbanisme ou
 par les maires pour constater les infractions aux dispositions visées aux titres Ier, II, III, IV et VI du livre IV du
-présent code sont assermentés et exercent leurs fonctions dans les conditions fixées aux articles R. 160-1 à R. 160-3.
+présent code sont assermentés et exercent leurs fonctions dans les conditions fixées aux articles R. 610-1 à R. 610-3.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-289 1969-03-25 ART. 1
 
 _Cité par_:
 
@@ -68775,12 +68776,15 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R160-1 (V)
-  - Code de l'urbanisme - art. R160-3 (V)
+  - Code de l'urbanisme - art. R610-1 (V)
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+_Modifié par_:
+
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 3
 
 
 ###### Article R480-4

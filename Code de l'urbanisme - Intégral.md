@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-11-28
+Version Consolidée au 2016-12-17
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L174-6)](#2)
@@ -34679,7 +34679,10 @@ sous-Bois, dans le périmètre défini par le décret n° 2015-99 du 28 janvier 
 17° A l'opération d'aménagement de Grigny, dans le périmètre défini par le décret n° 2016-1484 du 2 novembre 2016 ; 
 
 18° A l'opération de requalification de copropriétés dégradées d'intérêt national du quartier dit " Grigny 2 " à Grigny, dans
-le périmètre défini par le décret n° 2016-1439 du 26 octobre 2016.
+le périmètre défini par le décret n° 2016-1439 du 26 octobre 2016 ; 
+
+19° A l'aménagement des principaux pôles urbains de Guyane, dans les périmètres définis par le décret n° 2016-1736 du 14
+décembre 2016.
 
 **Liens relatifs à cet article**
 
@@ -34696,6 +34699,10 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5311-1
   - Code de l'urbanisme - art. L102-12
   - Code des transports - art. L6323-6
+
+_Codifié par_:
+
+  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
 _Cité par_:
 
@@ -34716,13 +34723,13 @@ _Cité par_:
   - Code de l'urbanisme - art. L328-4 (MMN)
   - Code de l'urbanisme - art. R328-14 (V)
 
-_Codifié par_:
-
-  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
 _Modifié par_:
 
-  - Décret n°2016-1484 du 2 novembre 2016 - art. 1
+  - Décret n°2016-1736 du 14 décembre 2016 - art. 1
+
+**Liens**:
+
+  - RECTIFICATION: Décret n°2016-1736 du 14 décembre 2016, v. init.
 
 _Anciens textes_:
 
@@ -64019,12 +64026,11 @@ _Codifié par_:
 
 ###### Article R*431-2
 
-Conformément à l'article 1er du décret n° 77-190 du 3 mars 1977, ne sont toutefois pas tenues de recourir à un architecte les
-personnes physiques ou les       exploitations agricoles qui déclarent vouloir édifier ou modifier pour elles-mêmes : 
+Pour l'application de l'article 4 de la loi n° 77-2 du 3 janvier 1977 sur l'architecture, ne sont toutefois pas tenues de
+recourir à un architecte les personnes physiques ou les exploitations agricoles qui déclarent vouloir édifier ou modifier
+pour elles-mêmes : 
 
-a) Une construction à usage autre qu'agricole dont à la fois la surface de plancher et l'emprise au sol, au sens de l'article
-R. 420-1, de la partie de la construction constitutive de surface de plancher n'excèdent pas cent soixante-dix mètres
-carrés ; 
+a) Une construction à usage autre qu'agricole dont la surface de plancher n'excède pas cent cinquante mètres carrés ; 
 
 b) Une construction à usage agricole dont à la fois la surface de plancher et l'emprise au sol au sens de l'article R. 420-1
 n'excèdent pas huit cents mètres carrés ; 
@@ -64041,29 +64047,34 @@ Les demandeurs d'un permis de construire sont tenus de recourir à un architecte
 existante conduisant soit la surface de plancher, soit l'emprise au sol de l'ensemble à dépasser l'un des plafonds fixés par
 le présent article.
 
+**Nota:**
+
+Aux termes de l'article 2 du décret n° 2016-1738 du 14 décembre 2016, le a du présent article s'applique aux demandes de
+permis de construire déposées à compter du 1er mars 2017.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°77-190 du 3 mars 1977 - art. 1
-  - Code de l'urbanisme - art. R*420-1
-  - Code de la construction et de l'habitation. - art. L111-7
 
 _Cité par_:
 
-  - Décret n°2014-450 du 2 mai 2014 - art. 4 (VT)
   - Code de l'urbanisme - art. *R421-17 (V)
   - Code de l'urbanisme - art. R*421-14 (V)
   - Code de l'urbanisme - art. R*431-5 (VD)
   - Code de l'urbanisme - art. R*441-6 (V)
+  - Décret n°2014-450 du 2 mai 2014 - art. 4 (VT)
 
-_Modifié par_:
+_Cite_:
 
-  - Décret n°2016-6 du 5 janvier 2016 - art. 4
+  - Code de l'urbanisme - art. R*420-1 (V)
+  - Code de la construction et de l'habitation. - art. L111-7
+  - Loi n°77-2 du 3 janvier 1977 - art. 4 (V)
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+_Modifié par_:
+
+  - Décret n°2016-1738 du 14 décembre 2016 - art. 1
 
 
 ###### Article R*431-3

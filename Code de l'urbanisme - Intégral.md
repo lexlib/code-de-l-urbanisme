@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-12-30
+Version Consolidée au 2017-01-01
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L174-6)](#2)
@@ -20603,7 +20603,7 @@ Pour les projets devant faire l'objet d'une évaluation environnementale et pour
 réalisée, il n'y a pas lieu d'organiser l'enquête publique mentionnée à l'article L. 123-1 du code de l'environnement. 
 
 La demande de permis de construire ou de permis d'aménager, l'étude d'impact et le bilan de la concertation font l'objet
-d'une mise à disposition du public selon les modalités prévues au II de l'article L. 120-1-1 du code de l'environnement. 
+d'une mise à disposition du public selon les modalités prévues à l'article L. 123-19 du code de l'environnement. 
 
 L'autorité mentionnée aux 1° ou 2° de l'article L. 103-3 peut prendre une décision ou une délibération définissant, parmi les
 projets de travaux ou d'aménagements mentionnés au présent article, ceux qui, compte tenu de leur importance, de leur impact
@@ -20612,7 +20612,8 @@ concertation.
 
 **Nota:**
 
-Se reporter à l'article 6 de l'ordonnance n° 2016-1058 du 3 août 2016 pour les conditions d'application de ses dispositions.
+Conformément au II de l'article 8 de l'ordonnance n° 2016-1060 du 3 août 2016, les dispositions de ladite ordonnance entrent
+en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard au 1er janvier 2017.
 
 **Liens relatifs à cet article**
 
@@ -20655,6 +20656,14 @@ _Cité par_:
 _Modifié par_:
 
   - Ordonnance n°2016-1058 du 3 août 2016 - art. 2 (V)
+  - Ordonnance n°2016-1060 du 3 août 2016 - art. 7
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L103-2
+  - Code de l'urbanisme - art. L103-3
+  - Code de l'environnement - art. L123-1
+  - Code de l'environnement - art. L123-19 (V)
 
 _Nouveaux textes_:
 
@@ -20664,12 +20673,9 @@ _Nouveaux textes_:
   - Code de l'urbanisme - art. L103-5 (VD)
   - Code de l'urbanisme - art. L103-6 (VD)
 
-_Cite_:
+_Codifié par_:
 
-  - Code de l'urbanisme - art. L103-2 (VD)
-  - Code de l'urbanisme - art. L103-3 (VD)
-  - Code de l'environnement - art. L120-1-1
-  - Code de l'environnement - art. L123-1
+  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L300-3
@@ -23670,9 +23676,7 @@ _Cite_:
 
 Le conseil d'administration est composé de représentants de l'Etat et, pour au moins la moitié, de membres représentant les
 collectivités territoriales et établissements publics de coopération intercommunale à fiscalité propre, désignés dans les
-conditions définies à l'article L. 321-22. Il peut être complété par des personnalités qualifiées et pour les établissements
-publics d'aménagement créés en vue de réaliser des villes nouvelles, par des représentants des communautés et des syndicats
-d'agglomération nouvelle et des représentants du personnel de l'établissement.
+conditions définies à l'article L. 321-22. Il peut être complété par des personnalités qualifiées.
 
 **Liens relatifs à cet article**
 
@@ -23681,13 +23685,9 @@ _Cité par_:
   - Décret n°2010-306 du 22 mars 2010 - art. 9 (V)
   - Loi n°2014-58 du 27 janvier 2014 - art. 25 (V)
 
-_Créé par_:
-
-  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
-
 _Modifié par_:
 
-  - Loi n°2015-991 du 7 août 2015 - art. 44 (VD)
+  - Loi n°2015-991 du 7 août 2015 - art. 44
 
 _Cite_:
 
@@ -23780,47 +23780,6 @@ _Créé par_:
 _Cite_:
 
   - Code de l'urbanisme - art. L321-28
-
-
-###### Article L321-25
-
-Lorsqu'un établissement public a été créé pour l'aménagement d'une agglomération nouvelle, les représentants au conseil
-d'administration de cet établissement des communes incluses dans l'agglomération nouvelle sont élus par le conseil
-d'agglomération de la communauté ou par le comité du syndicat ou le conseil municipal s'il s'agit d'une commune unique.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
-
-_Abrogé par_:
-
-  - Loi n°2015-991 du 7 août 2015 - art. 44 (VD)
-
-
-###### Article L321-26
-
-Lorsqu'un établissement public a été créé pour l'aménagement d'une agglomération nouvelle, les présidents des communautés ou
-des syndicats d'agglomération nouvelle sont membres de droit du conseil d'administration de cet établissement public, en sus
-de la représentation statutaire des collectivités locales intéressées. Dans le cas où l'établissement public a été créé pour
-l'aménagement de plusieurs agglomérations nouvelles au sens des articles L. 5311-1 et L. 5311-2 du code général des
-collectivités territoriales un décret détermine la répartition des sièges revenant aux représentants de ces agglomérations
-nouvelles.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
-
-_Abrogé par_:
-
-  - Loi n°2015-991 du 7 août 2015 - art. 44 (VD)
-
-_Cite_:
-
-  - Code général des collectivités territoriales - art. L5311-1
 
 
 ###### Article L321-27
@@ -26441,7 +26400,7 @@ expresse décidée par délibération dans les conditions prévues au neuvième 
 3° De plein droit dans les communautés urbaines, les métropoles et la métropole de Lyon, sauf renonciation expresse décidée
 par délibération dans les conditions prévues au neuvième alinéa ; 
 
-Le présent 3° n'est applicable à la métropole du Grand paris qu'à compter du 1er janvier 2017 ;
+Le présent 3° n'est pas applicable à la métropole du Grand Paris ; 
 
 4° Par délibération de l'organe délibérant dans les autres établissements publics de coopération intercommunale compétents en
 matière de plan local d'urbanisme en lieu et place des communes qu'ils regroupent et avec leur accord exprimé dans les
@@ -26481,9 +26440,7 @@ taxe est affecté en section d'investissement du budget principal de la métropo
 
 _Modifié par_:
 
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 54 (VD)
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 55 (V)
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 165
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 100
 
 _Cite_:
 
@@ -27175,13 +27132,15 @@ _Cité par_:
 Par délibération adoptée avant le 30 novembre, les conseils départementaux fixent le taux de la part départementale de la
 taxe d'aménagement applicable à compter du 1er janvier de l'année suivante. 
 
-Cette délibération peut également fixer les taux de répartition de la part départementale de la taxe d'aménagement entre la
-politique de protection des espaces naturels sensibles et les conseils d'architecture, d'urbanisme et de l'environnement. 
+Les conseils départementaux fixent dans cette délibération ou, au plus  tard, lors de l'établissement de leur budget annuel
+les taux de  répartition de la part départementale de la taxe d'aménagement entre la  politique de protection des espaces
+naturels sensibles et les conseils  d'architecture, d'urbanisme et de l'environnement.
 
 Le taux de la part départementale de la taxe ne peut excéder 2,5 %. 
 
-La délibération est valable pour une période d'un an. Elle est reconduite de plein droit pour l'année suivante si une
-nouvelle délibération n'a pas été adoptée dans le délai prévu au premier alinéa. 
+Les délibérations prévues aux premier et deuxième alinéas sont valables  pour une période d'un an. Elles sont reconduites de
+plein droit pour  l'année suivante si une nouvelle délibération n'a pas été adoptée dans  les délais prévus aux mêmes premier
+et deuxième alinéas.
 
 Les dispositions du présent article s'appliquent, à compter du 1er janvier 2016, à la métropole de Lyon pour la part de taxe
 d'aménagement prévue à l'article L. 331-3.
@@ -27190,12 +27149,11 @@ d'aménagement prévue à l'article L. 331-3.
 
 _Modifié par_:
 
-  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
-  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7 (V)
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 101
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L331-3 (VD)
+  - Code de l'urbanisme - art. L331-3
 
 
 ###### Article L331-18
@@ -70354,22 +70312,6 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
-
-
-###### Article R*600-4
-
-Saisi d'une demande motivée en ce sens, le juge devant lequel a été formé un recours contre un permis de construire, de
-démolir ou d'aménager peut fixer une date au-delà de laquelle des moyens nouveaux ne peuvent plus être invoqués.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2013-879 du 1er octobre 2013 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2016-1480 du 2 novembre 2016 - art. 33
 
 
 ### Titre Ier : Infractions et sanctions<a id=796></a>

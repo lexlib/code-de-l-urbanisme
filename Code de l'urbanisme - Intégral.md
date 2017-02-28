@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2017-01-29
+Version Consolidée au 2017-03-01
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -719,9 +719,9 @@ Version Consolidée au 2017-01-29
           - [Section 1 : Dépôt et enregistrement des demandes et des déclarations (art. R*423-1 à R*423-5)](#716)
             - [Sous-section 1 : Dépôt des demandes et des déclarations (art. R*423-1 à R*423-2)](#717)
             - [Sous section 2 : Enregistrement des demandes et des déclarations (art. R*423-3 à R*423-5)](#718)
-          - [Section 2 : Affichage et transmission de la demande ou de la déclaration (art. R*423-6 à R*423-13-2)](#719)
+          - [Section 2 : Affichage et transmission de la demande ou de la déclaration (art. R*423-6 à R423-12-1)](#719)
             - [Sous-section 1 : Affichage (art. R*423-6)](#720)
-            - [Sous-section 2 : Transmission de la demande ou de la déclaration (art. R*423-7 à R*423-13-2)](#721)
+            - [Sous-section 2 : Transmission de la demande ou de la déclaration (art. R*423-7 à R423-12-1)](#721)
           - [Section 3 : Autorité chargée de l'instruction (art. R*423-14 à R*423-16)](#722)
           - [Section 4 : Délais d'instruction (art. R*423-17 à R*423-37-1)](#723)
             - [Sous-section 1 : Point de départ du délai d'instruction (art. R*423-19 à R423-21)](#724)
@@ -751,7 +751,7 @@ Version Consolidée au 2017-01-29
         - [Chapitre V : Opérations soumises à un régime d'autorisation prévu par une autre législation (art. R*425-1 à R*425-31)](#748)
           - [Section 1 : Opérations pour lesquelles le permis ou la décision prise sur la déclaration préalable tient lieu de l'autorisation prévue par une autre législation (art. R*425-1 à R*425-15-1)](#749)
           - [Section 2 : Opérations pour lesquelles le permis ou la décision prise sur la déclaration préalable est subordonné à un accord prévu par une autre législation (art. *R425-22-1 à R*425-22)](#750)
-          - [Section 3 : Opérations pour lesquelles l'autorisation prévue par une autre législation dispense de permis ou de déclaration préalable (art. R*425-23 à R*425-29)](#751)
+          - [Section 3 : Opérations pour lesquelles l'autorisation prévue par une autre législation dispense de permis ou de déclaration préalable (art. R*425-23 à R425-29-2)](#751)
           - [Section 4 : Opérations pour lesquelles la délivrance d'un permis ou la réalisation des travaux est différée dans l'attente de formalités prévues par une autre législation (art. R*425-30 à R*425-31)](#752)
         - [Chapitre VII : Dispositions particulières à Mayotte (art. R*427-1 à R*427-6)](#753)
       - [Titre III : Dispositions propres aux constructions (art. R*431-1 à R*434-2)](#754)
@@ -2611,7 +2611,23 @@ animée, ne peut excéder un plafond correspondant aux trois quarts de la surfac
 commerce. Les espaces paysagers en pleine terre, les surfaces des aménagements relevant de l'article L. 3114-1 du code des
 transports, les surfaces réservées à l'auto-partage et les places de stationnement destinées à l'alimentation des véhicules
 électriques ou hybrides rechargeables sont déduits de l'emprise au sol des surfaces affectées au stationnement. La surface
-des places de stationnement non imperméabilisées compte pour la moitié de leur surface.
+des places de stationnement non imperméabilisées compte pour la moitié de leur surface. 
+
+Pour les projets mentionnés à l'article L. 752-1 du code de commerce, est autorisée la construction de nouveaux bâtiments
+uniquement s'ils intègrent : 
+
+1° Sur tout ou partie de leurs toitures, et de façon non exclusive, soit des procédés de production d'énergies renouvelables,
+soit un système de végétalisation basé sur un mode cultural garantissant un haut degré d'efficacité thermique et d'isolation
+et favorisant la préservation et la reconquête de la biodiversité, soit d'autres dispositifs aboutissant au même résultat ; 
+
+2° Sur les aires de stationnement, des revêtements de surface, des aménagements hydrauliques ou des dispositifs végétalisés
+favorisant la perméabilité et l'infiltration des eaux pluviales ou leur évaporation et préservant les fonctions écologiques
+des sols.
+
+**Nota:**
+
+Conformément à l'article 86 II de la loi n° 2016-1087 du 8 août 2016, les présentes dispositions s'appliquent aux permis de
+construire dont la demande a été déposée à compter du 1er mars 2017.
 
 **Liens relatifs à cet article**
 
@@ -2621,7 +2637,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-79 du 29 janvier 2016 - art. 9
+  - Loi n°2016-1087 du 8 août 2016 - art. 86 (V)
 
 _Cite_:
 
@@ -30623,25 +30639,25 @@ _Codifié par_:
 
 ###### Article L425-10
 
-Lorsque le projet porte sur une installation classée soumise à autorisation en application de l'article L. 512-2 du code de
-l'environnement ou à enregistrement en application de l'article L. 512-7 de ce code, les travaux ne peuvent être exécutés : 
+Lorsque le projet porte sur une installation classée soumise à enregistrement en application de l'article L. 512-7 du code de
+l'environnement, les travaux ne peuvent être exécutés avant la décision d'enregistrement prévue à l'article L. 512-7-3 de ce
+code.
 
-a) Avant la clôture de l'enquête publique pour les installations soumises à autorisation ; 
+**Nota:**
 
-b) Avant la décision d'enregistrement prévue à l'article L. 512-7-3 de ce code pour les installations soumises à
-enregistrement.
+Conformément à l'article 15 de l'ordonnance n° 2017-80 du 26 janvier 2017, ces dispositions entrent en vigueur le 1er mars
+2017 sous réserves des dispositions citées audit article.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2009-663 du 11 juin 2009 - art. 20
+  - Ordonnance n°2017-80 du 26 janvier 2017 - art. 13
 
 _Cite_:
 
-  - Code de l'environnement - art. L512-2
-  - Code de l'environnement - art. L512-7
-  - Code de l'environnement - art. L512-7-3
+  - Code de l'environnement - art. L512-7 (V)
+  - Code de l'environnement - art. L512-7-3 (V)
 
 
 ###### Article L425-11
@@ -30711,20 +30727,25 @@ Lorsque le projet porte sur une installation, un ouvrage, des travaux ou une act
 en application de la section 1 du chapitre IV du titre Ier du livre II du code de l'environnement, le permis ou la décision
 de non-opposition à déclaration préalable ne peut pas être mis en œuvre : 
 
-a) Avant la délivrance de l'autorisation mentionnée au I de l'article L. 214-3 du code de l'environnement ; 
+a) Avant la délivrance de l'autorisation environnementale prévue par l'article L. 181-1 du code de l'environnement ; 
 
 b) Avant la décision d'acceptation, pour les installations, ouvrages, travaux et activités soumis à déclaration au titre du
 II du même article.
 
+**Nota:**
+
+Conformément à l'article 15 de l'ordonnance n° 2017-80 du 26 janvier 2017, ces dispositions entrent en vigueur le 1er mars
+2017 sous réserves des dispositions citées audit article.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-354 du 25 mars 2016 - art. 1
+  - Ordonnance n°2017-80 du 26 janvier 2017 - art. 13
 
 _Cite_:
 
-  - Code de l'environnement - art. L214-3 (V)
+  - Code de l'environnement - art. L181-1 (V)
 
 
 ###### Article L425-15
@@ -37487,7 +37508,13 @@ _Anciens textes_:
 Le permis ou la décision prise sur la déclaration préalable doit respecter les préoccupations d'environnement définies aux
 articles L. 110-1 et L. 110-2 du code de l'environnement. Le projet peut n'être accepté que sous réserve de l'observation de
 prescriptions spéciales si, par son importance, sa situation ou sa destination, il est de nature à avoir des conséquences
-dommageables pour l'environnement.
+dommageables pour l'environnement. Ces prescriptions spéciales tiennent compte, le cas échéant, des mesures mentionnées à
+l'article R. 181-43 du code de l'environnement.
+
+**Nota:**
+
+Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves
+d'entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -37495,9 +37522,9 @@ _Codifié par_:
 
   - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art.
+  - Décret n°2017-81 du 26 janvier 2017 - art. 11
 
 _Cité par_:
 
@@ -37509,8 +37536,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'environnement - art. L110-1 (M)
-  - Code de l'environnement - art. L110-2 (V)
+  - Code de l'environnement - art. L110-1
+  - Code de l'environnement - art. L110-2
 
 
 ###### Article R111-27
@@ -60356,6 +60383,9 @@ Un exemplaire supplémentaire du dossier doit être fourni lorsque les travaux s
 défense ou du ministre chargé des sites ou lorsque la décision est subordonnée à l'avis ou à l'accord de l'autorité
 compétente dans le domaine de l'architecture et du patrimoine ou de l'architecte des Bâtiments de France. 
 
+Un exemplaire supplémentaire du dossier doit être fourni lorsqu'une dérogation est sollicitée en application de l'article L.
+151-29-1 ou du dernier alinéa de l'article L. 152-6. 
+
 Deux exemplaires supplémentaires du dossier doivent être fournis lorsque le projet est situé dans le coeur d'un parc national
 délimité en application de l'article L. 331-2 du code de l'environnement. 
 
@@ -60363,16 +60393,22 @@ Un exemplaire supplémentaire du dossier doit être fourni lorsqu'une demande de
 code de la construction et de l'habitation est jointe à la demande de permis. 
 
 Deux exemplaires supplémentaires du dossier, dont un sur support dématérialisé, doivent être fournis lorsque le projet relève
-de l'article L. 752-1 du code de commerce.
+de l'article L. 752-1 du code de commerce. 
 
 Les arrêtés prévus par les articles R. 434-1, R. 444-1 et R. 453-1 peuvent prévoir que certaines pièces doivent être en outre
 fournies en un nombre plus important d'exemplaires.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2017-254 du 27 février 2017, les dispositions du présent article, dans leur rédaction
+résultant de l'article 1er du même décret, s'appliquent aux demandes d'autorisation de construire déposées à compter de
+l'entrée en vigueur du décret mentionné au dernier alinéa de l'article L. 611-2 du code du patrimoine.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-165 du 12 février 2015 - art. 2
+  - Décret n°2017-254 du 27 février 2017 - art. 1
 
 _Cité par_:
 
@@ -60385,6 +60421,8 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de l'urbanisme - art. L151-29-1 (V)
+  - Code de l'urbanisme - art. L152-6 (V)
   - Code de l'urbanisme - art. R*434-1
   - Code de l'urbanisme - art. R*444-1
   - Code de l'urbanisme - art. R453-1
@@ -60753,6 +60791,30 @@ _Cite_:
 _Cité par_:
 
   - Code de commerce - art. R752-9 (V)
+
+
+###### Article R423-12-1
+
+Lorsqu'une demande de dérogation prévue à l'article L. 151-29-1 ou au dernier alinéa de l'article L. 152-6 est jointe à la
+demande de permis, le maire transmet un exemplaire du dossier et la demande de dérogation au préfet de région dans la semaine
+qui suit le dépôt.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2017-254 du 27 février 2017, les dispositions du présent article, dans leur rédaction
+résultant de l'article 1er du même décret, s'appliquent aux demandes d'autorisation de construire déposées à compter de
+l'entrée en vigueur du décret mentionné au dernier alinéa de l'article L. 611-2 du code du patrimoine.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-254 du 27 février 2017 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L151-29-1 (V)
+  - Code de l'urbanisme - art. L152-6 (V)
 
 
 ##### Section 3 : Autorité chargée de l'instruction<a id=722></a>
@@ -61318,6 +61380,28 @@ _Cite_:
   - Code de l'urbanisme - art. L300-2
   - Code de l'environnement - art. L123-19
   - Code de l'environnement - art. L123-2
+
+
+###### Article R423-25-1
+
+Le délai d'instruction prévu par le a de l'article R. 423-23 est majoré de deux mois lorsqu'il y a lieu de consulter la
+commission régionale du patrimoine et de l'architecture.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2017-254 du 27 février 2017, les dispositions du présent article, dans leur rédaction
+résultant de l'article 1er du même décret, s'appliquent aux demandes d'autorisation de construire déposées à compter de
+l'entrée en vigueur du décret mentionné au dernier alinéa de l'article L. 611-2 du code du patrimoine.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-254 du 27 février 2017 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R*423-23 (V)
 
 
 ###### Article R423-32-1
@@ -62121,21 +62205,25 @@ _Codifié par_:
 
 ###### Article R*423-56-1
 
-Dans le cas d'un projet éolien soumis à permis de construire et situé en dehors d'une zone de développement de l'éolien
-définie par le préfet, l'autorité compétente recueille, conformément aux dispositions prévues au XI de l'article 90 de la loi
-n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement, l'avis des communes et des établissements
-publics de coopération intercommunale compétents en matière de plan local d'urbanisme ou d'autorisations d'urbanisme
-limitrophes de l'unité foncière d'implantation du projet.
+Dans le cas d'un projet éolien soumis à permis de construire, l'autorité compétente recueille, conformément aux dispositions
+prévues au XI de l'article 90 de la loi n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement,
+l'avis des communes et des établissements publics de coopération intercommunale compétents en matière de plan local
+d'urbanisme ou d'autorisations d'urbanisme limitrophes de l'unité foncière d'implantation du projet.
+
+**Nota:**
+
+Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves
+d'entrée en vigueur.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 90
+  - Loi n°2010-788 du 12 juillet 2010 - art. 90 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-41 du 12 janvier 2012 - art. 2
+  - Décret n°2017-81 du 26 janvier 2017 - art. 11
 
 
 ##### Sous-section 2 : Enquête publique<a id=735></a>
@@ -62304,9 +62392,20 @@ _Codifié par_:
 
 Par exception aux dispositions de l'article R. 423-59, le délai à l'issue duquel les commissions qui n'ont pas fait parvenir
 à l'autorité compétente leur réponse motivée sont réputées avoir émis un avis favorable est porté à deux mois en ce qui
-concerne la commission départementale de la nature, des paysages et des sites.
+concerne la commission régionale du patrimoine et de l'architecture et la commission départementale de la nature, des
+paysages et des sites.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2017-254 du 27 février 2017, les dispositions du présent article, dans leur rédaction
+résultant de l'article 1er du même décret, s'appliquent aux demandes d'autorisation de construire déposées à compter de
+l'entrée en vigueur du décret mentionné au dernier alinéa de l'article L. 611-2 du code du patrimoine.
 
 **Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. R*423-59 (V)
 
 _Codifié par_:
 
@@ -62314,11 +62413,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1214 du 29 septembre 2011 - art. 3
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. R*423-59 (V)
+  - Décret n°2017-254 du 27 février 2017 - art. 1
 
 
 ###### Article R*423-61
@@ -63493,24 +63588,24 @@ En cas de recours devant la juridiction administrative contre le permis ou contr
 déclaration préalable ou de recours devant la juridiction civile en application de l'article L. 480-13, le délai de validité
 prévu à l'article R. 424-17 est suspendu jusqu'au prononcé d'une décision juridictionnelle irrévocable. 
 
-Il en va de même, en cas de recours contre une décision prise pour l'autorisation, l'enregistrement en application des
-articles L. 512-1 ou L. 512-7 du code de l'environnement ou la preuve de dépôt de la déclaration prévu à l'article L. 512-8
-du même code, lorsque le permis de construire a fait l'objet, conformément au premier alinéa de l'article L. 512-15 du code
-de l'environnement, d'un dépôt de demande simultané avec la demande qui est à l'origine de la décision contestée.
+Il en va de même, en cas de recours contre une décision prévue par une législation connexe donnant lieu à une réalisation
+différée des travaux dans l'attente de son obtention.
+
+**Nota:**
+
+Conformément au 2° de l'article 17 du décret n° 2017-81 du 26 janvier 2017, les présentes dispositions s'appliquent aux
+permis de construire en cours de validité à la date de publication dudit décret.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-1614 du 9 décembre 2015 - art. 16 (V)
+  - Décret n°2017-81 du 26 janvier 2017 - art. 11
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L480-13 (V)
-  - Code de l'urbanisme - art. R*424-17 (V)
-  - Code de l'environnement - art. L512-1
-  - Code de l'environnement - art. L512-15
-  - Code de l'environnement - art. L512-8
+  - Code de l'urbanisme - art. L480-13
+  - Code de l'urbanisme - art. R*424-17
 
 
 ###### Article R*424-20
@@ -64317,6 +64412,23 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
+###### Article R425-29-2
+
+Lorsqu'un projet d'installation d'éoliennes terrestres est soumis à autorisation environnementale en application du chapitre
+unique du titre VIII du livre Ier du code de l'environnement, cette autorisation dispense du permis de construire
+
+**Nota:**
+
+Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves
+d'entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-81 du 26 janvier 2017 - art. 11
+
+
 ##### Section 4 : Opérations pour lesquelles la délivrance d'un permis ou la réalisation des travaux est différée dans l'attente de formalités prévues par une autre législation<a id=752></a>
 
 ###### Article R*425-30
@@ -64650,19 +64762,22 @@ monophasé ou 36 kilovoltampères triphasé ;
 
 h) Les éléments, fixés par arrêté, nécessaires au calcul des impositions ; 
 
-i) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à autorisation
-ou à déclaration en application de la section 1 du chapitre IV du titre Ier du livre II du code de l'environnement ; 
+i) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à déclaration
+en application de la section 1 du chapitre IV du titre Ier du livre II du code de l'environnement ; 
 
-j) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à autorisation
-unique au titre de l'article 1er de l'ordonnance n° 2014-619 du 12 juin 2014 relative à l'expérimentation d'une autorisation
-unique pour les installations, ouvrages, travaux et activités soumis à autorisation au titre de l'article L. 214-3 du code de
-l'environnement ; 
+j) S'il y a lieu, que les travaux portent sur un projet soumis à autorisation environnementale en application de l'article L.
+181-1 du code de l'environnement ; 
 
 k) S'il y a lieu, que les travaux doivent faire l'objet d'une dérogation au titre du 4° de l'article L. 411-2 du code de
 l'environnement. 
 
 La demande comporte également l'attestation du ou des demandeurs qu'ils remplissent les conditions définies à l'article
 R*423-1 pour déposer une demande de permis.
+
+**Nota:**
+
+Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves
+d'entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -64674,16 +64789,17 @@ _Cité par_:
   - Code de l'urbanisme - art. R*333-3 (V)
   - Code de l'urbanisme - art. R*431-4 (VD)
 
+_Modifié par_:
+
+  - Décret n°2017-81 du 26 janvier 2017 - art. 11
+
 _Cite_:
 
-  - Ordonnance n°2014-619 du 12 juin 2014 - art. 1 (VT)
   - Code de l'urbanisme - art. R*423-1
   - Code de l'urbanisme - art. R*431-2
   - Code de l'urbanisme - art. R151-27 (V)
-
-_Modifié par_:
-
-  - Décret n°2016-355 du 25 mars 2016 - art. 1
+  - Code de l'environnement - art. L181-1 (VD)
+  - Code de l'environnement - art. L411-2 (V)
 
 _Codifié par_:
 
@@ -65137,25 +65253,28 @@ _Cite_:
 
 ###### Article R*431-20
 
-Lorsque les travaux projetés portent sur une installation classée soumise à autorisation, enregistrement ou déclaration en
-application des articles L. 512-1, L. 512-7 et L. 512-8 du code de l'environnement, la demande de permis de construire doit
-être accompagnée de la justification du dépôt de la demande d'autorisation de la demande d'enregistrement ou de la
-déclaration.
+Lorsque les travaux projetés portent sur une installation classée soumise à enregistrement ou déclaration en application des
+articles L. 512-7 et L. 512-8 du code de l'environnement, la demande de permis de construire doit être accompagnée de la
+justification du dépôt de la demande d'enregistrement ou de la déclaration.
+
+**Nota:**
+
+Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves
+d'entrée en vigueur.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2010-368 du 13 avril 2010 - art. 47
 
 _Cité par_:
 
   - Décret n°2014-450 du 2 mai 2014 - art. 27 (VT)
   - Code de commerce. - art. A752-1 (V)
 
+_Modifié par_:
+
+  - Décret n°2017-81 du 26 janvier 2017 - art. 11
+
 _Cite_:
 
-  - Code de l'environnement - art. L512-1
   - Code de l'environnement - art. L512-7
 
 
@@ -65491,20 +65610,28 @@ _Cite_:
 
 ###### Article R*431-31-2
 
-Lorsque le projet nécessite une ou plusieurs dérogations au titre de l'article L. 152-5 ou de l'article L. 152-6, la demande
-de dérogation est jointe à la demande de permis de construire. Elle est accompagnée d'une note précisant la nature de la ou
-des dérogations demandées et justifiant pour chacune d'entre elles du respect des objectifs et des conditions fixés à ces
-articles et aux articles R. 152-4 à R. 152-9 pour chacune des dérogations demandées.
+Lorsque le projet nécessite une ou plusieurs dérogations au titre de l'article L. 151-29-1, de l'article L. 152-5 ou de
+l'article L. 152-6, la demande de dérogation est jointe à la demande de permis de construire. Elle est accompagnée d'une note
+précisant la nature de la ou des dérogations demandées et justifiant pour chacune d'entre elles du respect des objectifs et
+des conditions fixés à ces articles et aux articles R. 152-4 à R. 152-9 pour chacune des dérogations demandées.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2017-254 du 27 février 2017, les dispositions du présent article, dans leur rédaction
+résultant de l'article 1er du même décret, s'appliquent aux demandes d'autorisation de construire déposées à compter de
+l'entrée en vigueur du décret mentionné au dernier alinéa de l'article L. 611-2 du code du patrimoine.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-802 du 15 juin 2016 - art. 1
+  - Décret n°2017-254 du 27 février 2017 - art. 1
 
 _Cite_:
 
+  - Code de l'urbanisme - art. L151-29-1 (V)
   - Code de l'urbanisme - art. L152-5
+  - Code de l'urbanisme - art. L152-6 (V)
   - Code de l'urbanisme - art. R152-4
 
 
@@ -65791,53 +65918,56 @@ _Cité par_:
 
 ###### Article R*431-35
 
-La déclaration préalable précise : 
+La déclaration préalable précise :
 
 a) L'identité du ou des déclarants, qui comprend son numéro SIRET lorsqu'il s'agit d'une personne morale en bénéficiant et sa
-date de naissance lorsqu'il s'agit d'une personne physique ; 
+date de naissance lorsqu'il s'agit d'une personne physique ;
 
-b) La localisation et la superficie du ou des terrains ; 
+b) La localisation et la superficie du ou des terrains ;
 
-c) La nature des travaux ou du changement de destination ; 
+c) La nature des travaux ou du changement de destination ;
 
 d) S'il y a lieu, la surface de plancher et la destination et la sous-destination des constructions projetées définies aux
-articles R. 151-27 et R. 151-28 ; 
+articles R. 151-27 et R. 151-28 ;
 
-e) Les éléments, fixés par arrêtés, nécessaires au calcul des impositions ; 
+e) Les éléments, fixés par arrêtés, nécessaires au calcul des impositions ;
 
-f) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à autorisation
-ou à déclaration en application de la section 1 du chapitre IV du titre Ier du livre II du code de l'environnement ; 
+f) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à déclaration
+en application de la section 1 du chapitre IV du titre Ier du livre II du code de l'environnement ;
 
-g) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à autorisation
-unique au titre de l'article 1er de l'ordonnance n° 2014-619 du 12 juin 2014 relative à l'expérimentation d'une autorisation
-unique pour les installations, ouvrages, travaux et activités soumis à autorisation au titre de l'article L. 214-3 du code de
-l'environnement ; 
+g) S'il y a lieu, que les travaux portent sur un projet soumis à autorisation environnementale en application de l'article L.
+181-1 du code de l'environnement ;
 
 h) S'il y a lieu, que les travaux doivent faire l'objet d'une dérogation au titre du 4° de l'article L. 411-2 du code de
-l'environnement. 
+l'environnement.
 
 La déclaration comporte également l'attestation du ou des déclarants qu'ils remplissent les conditions définies à l'article
-R*423-1 pour déposer une déclaration préalable. 
+R*423-1 pour déposer une déclaration préalable.
 
 Aucune autre information ou pièce ne peut être exigée par l'autorité compétente.
 
+**Nota:**
+
+Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves
+d'entrée en vigueur.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°2014-619 du 12 juin 2014 - art. 1 (VT)
-  - Code de l'urbanisme - art. R*423-1
-  - Code de l'urbanisme - art. R151-27
-  - Code de l'environnement - art. L214-3 (VD)
-  - Code de l'environnement - art. L411-2 (V)
 
 _Modifié par_:
 
-  - Décret n°2016-355 du 25 mars 2016 - art. 1
+  - Décret n°2017-81 du 26 janvier 2017 - art. 11
 
 _Cité par_:
 
   - Code de l'urbanisme - art. A431-1 (V)
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R*423-1
+  - Code de l'urbanisme - art. R151-27
+  - Code de l'urbanisme - art. R151-28 (V)
+  - Code de l'environnement - art. L181-1 (VD)
+  - Code de l'environnement - art. L411-2 (V)
 
 _Codifié par_:
 
@@ -66007,38 +66137,37 @@ _Codifié par_:
 
 ###### Article R*441-1
 
-La demande de permis d'aménager précise : 
+La demande de permis d'aménager précise :
 
 a) L'identité du ou des demandeurs, qui comprend son numéro SIRET lorsqu'il s'agit d'une personne morale en bénéficiant et sa
-date de naissance lorsqu'il s'agit d'une personne physique ; 
+date de naissance lorsqu'il s'agit d'une personne physique ;
 
-b) La localisation et la superficie du ou des terrains à aménager ; 
+b) La localisation et la superficie du ou des terrains à aménager ;
 
-c) La nature des travaux ; 
+c) La nature des travaux ;
 
 d) Les éléments, fixés par arrêté, nécessaires au calcul des impositions ;
 
-e) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à autorisation
-ou à déclaration en application de la section 1 du chapitre IV du titre Ier du livre II du code de l'environnement ; 
+e) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à déclaration
+en application de la section 1 du chapitre IV du titre Ier du livre II du code de l'environnement ;
 
-f) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à autorisation
-unique au titre de l'article 1er de l'ordonnance n° 2014-619 du 12 juin 2014 relative à l'expérimentation d'une autorisation
-unique pour les installations, ouvrages, travaux et activités soumis à autorisation au titre de l'article L. 214-3 du code de
-l'environnement ; 
+f) S'il y a lieu, que les travaux portent sur un projet soumis à autorisation environnementale en application de l'article L.
+181-1 du code de l'environnement ;
 
 g) S'il y a lieu, que les travaux doivent faire l'objet d'une dérogation au titre du 4° de l'article L. 411-2 du code de
-l'environnement . 
+l'environnement.
 
 La demande comporte également l'attestation du ou des demandeurs qu'ils remplissent les conditions définies à l'article
-R*423-1 pour déposer une demande de permis. 
+R*423-1 pour déposer une demande de permis.
 
 La demande peut ne porter que sur une partie d'une unité foncière.
 
+**Nota:**
+
+Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves
+d'entrée en vigueur.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2016-355 du 25 mars 2016 - art. 1
 
 _Cité par_:
 
@@ -66050,10 +66179,16 @@ _Cité par_:
 _Cite_:
 
   - Code de l'urbanisme - art. R*423-1
+  - Code de l'environnement - art. L181-1 (VD)
+  - Code de l'environnement - art. L411-2 (V)
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+_Modifié par_:
+
+  - Décret n°2017-81 du 26 janvier 2017 - art. 11
 
 
 ###### Article R*441-2
@@ -66323,6 +66458,26 @@ _Créé par_:
   - Décret n°2015-482 du 27 avril 2015 - art. 6
 
 
+###### Article R. 441-4-2
+
+Le seuil mentionné à l'article L. 441-4 est fixé à deux mille cinq cents mètres carrés.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2017-252 du 27 février 2017, les dispositions du présent article, dans leur rédaction
+issue de l'article 1er du même décret, s'appliquent aux demandes de permis d'aménager déposées à compter du 1er mai 2017.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-252 du 27 février 2017 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L441-4 (V)
+
+
 ###### Article R441-5
 
 Le dossier joint à la demande de permis d'aménager comprend en outre, selon les cas : 
@@ -66426,33 +66581,38 @@ date de naissance lorsqu'il s'agit d'une personne physique ;
 
 b) La localisation et la superficie du ou des terrains ; 
 
-c) La nature des travaux ou la description du projet de division ;
+c) La nature des travaux ou la description du projet de division ; 
 
-d) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à autorisation
-ou à déclaration en application de la section 1 du chapitre IV du titre Ier du livre II du code de l'environnement ; 
+d) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à déclaration
+en application de la section 1 du chapitre IV du titre Ier du livre II du code de l'environnement ; 
 
-e) S'il y a lieu, que les travaux portent sur une installation, un ouvrage, des travaux ou une activité soumis à autorisation
-unique au titre de l'article 1er de l'ordonnance n° 2014-619 du 12 juin 2014 relative à l'expérimentation d'une autorisation
-unique pour les installations, ouvrages, travaux et activités soumis à autorisation au titre de l'article L. 214-3 du code de
-l'environnement ; 
+e) S'il y a lieu, que les travaux portent sur un projet soumis à autorisation environnementale en application de l'article L.
+181-1 du code de l'environnement ; 
 
 f) S'il y a lieu, que les travaux doivent faire l'objet d'une dérogation au titre du 4° de l'article L. 411-2 du code de
-l'environnement .
+l'environnement. 
 
 La déclaration comporte également l'attestation du ou des déclarants qu'ils remplissent les conditions définies à l'article
 R*423-1 pour déposer une déclaration préalable. 
 
 La demande peut ne porter que sur une partie d'une unité foncière.
 
+**Nota:**
+
+Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves
+d'entrée en vigueur.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-355 du 25 mars 2016 - art. 1
+  - Décret n°2017-81 du 26 janvier 2017 - art. 11
 
 _Cite_:
 
   - Code de l'urbanisme - art. R*423-1
+  - Code de l'environnement - art. L181-1 (VD)
+  - Code de l'environnement - art. L411-2 (V)
 
 _Codifié par_:
 
@@ -67917,38 +68077,45 @@ _Codifié par_:
 
 ###### Article R451-1
 
-La demande de permis de démolir précise : 
+La demande de permis de démolir précise :
 
-a) L'identité du ou des demandeurs ; 
+a) L'identité du ou des demandeurs ;
 
 b) En cas de démolition partielle, les constructions qui subsisteront sur le terrain et, le cas échéant, les travaux qui
-seront exécutés sur cette construction ; 
+seront exécutés sur cette construction ;
 
 c) La date approximative à laquelle le ou les bâtiments dont la démolition est envisagée ont été construits ;
 
-d) S'il y a lieu, que la démolition est soumise à autorisation ou à déclaration en application de la section 1 du chapitre IV
-du titre Ier du livre II du code de l'environnement ; 
+d) S'il y a lieu, que la démolition est soumise à déclaration en application de la section 1 du chapitre IV du titre Ier du
+livre II du code de l'environnement ;
 
-e) Que la démolition porte sur une installation, un ouvrage, des travaux ou une activité soumis à autorisation unique au
-titre de l'article 1er de l'ordonnance n° 2014-619 du 12 juin 2014 relative à l'expérimentation d'une autorisation unique
-pour les installations, ouvrages, travaux et activités soumis à autorisation au titre de l'article L. 214-3 du code de
-l'environnement, si les travaux portent atteinte aux intérêts protégés mentionnés à l'article 3 de cette ordonnance ; 
+e) S'il y a lieu, que la démolition porte sur une installation, un ouvrage, des travaux ou une activité soumis à autorisation
+environnementale en application de l'article L. 181-1 du code de l'environnement, si les travaux portent atteinte aux
+intérêts mentionnés au I de l'article L. 181-3 ;
 
-f) S'il y a lieu, que la démolition doit faire l'objet d'une dérogation au titre du  4° de l'article L. 411-2 du code de
+f) S'il y a lieu, que la démolition doit faire l'objet d'une dérogation au titre du 4° de l'article L. 411-2 du code de
 l'environnement.
 
 La demande comporte également l'attestation du ou des demandeurs qu'ils remplissent les conditions définies à l'article R.
 423-1 pour déposer une demande de permis.
 
+**Nota:**
+
+Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves
+d'entrée en vigueur.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-355 du 25 mars 2016 - art. 1
+  - Décret n°2017-81 du 26 janvier 2017 - art. 11
 
 _Cite_:
 
   - Code de l'urbanisme - art. R*423-1
+  - Code de l'environnement - art. L181-1 (VD)
+  - Code de l'environnement - art. L181-3 (VD)
+  - Code de l'environnement - art. L411-2 (V)
 
 _Cité par_:
 

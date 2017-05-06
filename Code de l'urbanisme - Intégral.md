@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2017-04-28
+Version Consolidée au 2017-05-07
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -53990,46 +53990,18 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-###### Article R*321-7
-
-Le président du conseil d'administration de l'établissement public Grand Paris Aménagement  est nommé par décret parmi les
-membres du conseil d'administration représentant l'Etat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
-_Cité par_:
-
-  - Décret n°2008-773 du 30 juillet 2008 - art. 9 (V)
-  - Décret n°2010-306 du 22 mars 2010 - art. 9 (V)
-  - Décret n°2010-743 du 2 juillet 2010 - art. 9 (V)
-  - Décret n°2015-980 du 31 juillet 2015 - art. 15 (Ab)
-  - Décret n°2015-980 du 31 juillet 2015 - art. 6 (VD)
-
-_Modifié par_:
-
-  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
-
-_Abrogé par_:
-
-  - Décret n°2017-777 du 5 mai 2017 - art. 3
-
-
 ###### Article R*321-8
 
-Les directeurs généraux des établissements publics fonciers de l'Etat et des établissements publics d'aménagement sont nommés
-par arrêté du ministre chargé de l'urbanisme après avis du préfet compétent et du président du conseil d'administration pour
-une durée de cinq ans renouvelable. Il peut être mis fin à leurs fonctions dans les mêmes formes avant l'expiration de leur
-mandat. 
+Les directeurs généraux des établissements publics fonciers de l'Etat, des établissements publics d'aménagement et de
+l'établissement public Grand Paris Aménagement sont nommés par arrêté du ministre chargé de l'urbanisme après avis du préfet
+compétent et du président du conseil d'administration pour une durée de cinq ans renouvelable. Il peut être mis fin à leurs
+fonctions dans les mêmes formes avant l'expiration de leur mandat.
 
 Les avis du préfet compétent et du président du conseil d'administration sont réputés favorables s'ils n'ont pas été émis
-dans le délai d'un mois. 
+dans le délai d'un mois.
 
-Les fonctions de directeur général d'un établissement public foncier de l'Etat ou d'un établissement public d'aménagement
-sont incompatibles avec celles de membre du conseil d'administration.
+Les fonctions de directeur général d'un établissement public foncier de l'Etat, d'un établissement public d'aménagement ou de
+l'établissement public Grand Paris Aménagement sont incompatibles avec celles de membre du conseil d'administration.
 
 **Liens relatifs à cet article**
 
@@ -54057,13 +54029,13 @@ _Cité par_:
   - Décret n°2016-1865 du 23 décembre 2016 - art. 11 (VD)
   - Décret n°2017-341 du 15 mars 2017 - art. 11 (V)
 
-_Modifié par_:
-
-  - Décret n°2015-979 du 31 juillet 2015 - art. 1
-
 _Anciens textes_:
 
   - Décret n°1959-05-19 art. 7
+
+_Modifié par_:
+
+  - Décret n°2017-777 du 5 mai 2017 - art. 3
 
 _Codifié par_:
 
@@ -54072,8 +54044,8 @@ _Codifié par_:
 
 ###### Article R*321-9
 
-I. - Le directeur général d'un établissement public foncier de l'Etat ou d'un établissement public d'aménagement, le
-président-directeur général de l'établissement public Grand Paris Aménagement sont ordonnateurs des dépenses et des recettes.
+I. - Le directeur général d'un établissement public foncier de l'Etat, d'un établissement public d'aménagement, ou de
+l'établissement public Grand Paris Aménagement sont ordonnateurs des dépenses et des recettes.
 
 Dans ces établissements publics, le directeur général est compétent pour :
 
@@ -54090,9 +54062,9 @@ En outre, il est chargé de l'instruction préalable des affaires qui sont de la
 exécute les décisions du conseil d'administration et du bureau. Il prépare et présente le budget. Il recrute le personnel et
 a autorité sur lui. Il peut déléguer sa signature.
 
-II. - Le directeur général d'un établissement public foncier de l'Etat ou d'un établissement public d'aménagement assiste de
-droit aux réunions du conseil d'administration et du bureau. Il prépare et présente le programme pluriannuel d'intervention
-ou le programme stratégique et opérationnel et le bilan annuel.
+II. - Le directeur général d'un établissement public foncier de l'Etat, d'un établissement public d'aménagement ou de
+l'établissement public Grand Paris Aménagement assiste de droit aux réunions du conseil d'administration et du bureau. Il
+prépare et présente le programme pluriannuel d'intervention ou le programme stratégique et opérationnel et le bilan annuel.
 
 **Liens relatifs à cet article**
 
@@ -54130,8 +54102,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-979 du 31 juillet 2015 - art. 1
-  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
+  - Décret n°2017-777 du 5 mai 2017 - art. 3
 
 _Cite_:
 
@@ -54432,9 +54403,10 @@ compétent et sont soumises à son approbation.
 Il en est de même des délibérations du conseil d'administration des établissements publics d'aménagement relatives aux
 procédures d'arbitrage. 
 
-II.-Les délibérations du conseil d'administration de l'établissement public Grand Paris Aménagement  relatives aux prévisions
-budgétaires, aux projets d'emprunt, aux créations de filiales, aux acquisitions de participations et aux procédures
-d'arbitrage et de transaction sont transmises au préfet compétent et soumises à son approbation. 
+II.-Les délibérations du conseil d'administration de l'établissement public Grand Paris Aménagement relatives aux prévisions
+budgétaires, aux projets d'emprunt, aux créations de filiales, aux acquisitions de participations, aux procédures d'arbitrage
+et de transaction et à la convention prévue au premier alinéa de l'article L. 321-41 du code de l'urbanisme sont transmises
+au préfet compétent et soumises à son approbation. 
 
 III.-Les délibérations mentionnées au présent article sont exécutoires dans les conditions prévues à l'article R* 321-19. 
 
@@ -54496,11 +54468,15 @@ _Cité par_:
   - Décret n°2016-1865 du 23 décembre 2016 - art. 4 (VD)
   - Décret n°2017-341 du 15 mars 2017 - art. 13 (VD)
   - Décret n°2017-341 du 15 mars 2017 - art. 4 (VD)
-  - Code de l'urbanisme - art. R*321-19 (V)
+  - Code de l'urbanisme - art. R*321-19 (M)
 
 _Modifié par_:
 
-  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
+  - Décret n°2017-777 du 5 mai 2017 - art. 3
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L321-41 (V)
 
 
 ###### Article R*321-19

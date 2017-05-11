@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2017-05-11
+Version Consolidée au 2017-05-12
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -581,8 +581,8 @@ Version Consolidée au 2017-05-11
         - [Chapitre II : Directive territoriale d'aménagement (art. R172-1 à R172-4)](#578)
         - [Chapitre III : Schéma de secteur (art. R173-1)](#579)
       - [Annexe au présent livre (art. R*211-1 à R620-2)](#580)
-    - [Livre II : Préemption et réserves foncières (art. R*211-1 à R215-20)](#581)
-      - [Titre Ier : Droits de préemption (art. R*211-1 à R215-20)](#582)
+    - [Livre II : Préemption et réserves foncières (art. R*211-1 à R215-19)](#581)
+      - [Titre Ier : Droits de préemption (art. R*211-1 à R215-19)](#582)
         - [Chapitre Ier : Droit de préemption urbain (art. R*211-1 à R211-8)](#583)
         - [Chapitre II : Zones d'aménagement différé et périmètres provisoires (art. R212-1 à R212-6)](#584)
         - [Chapitre III : Dispositions communes au droit de préemption urbain, aux zones d'aménagement différé et aux périmètres provisoires (art. R213-1 à R213-30)](#585)
@@ -591,14 +591,14 @@ Version Consolidée au 2017-05-11
             - [Sous-section 1 : Cas général (art. D213-13-1 à R213-13)](#588)
             - [Sous-section 2 : Cas de ventes par adjudication lorsque cette procédure est rendue obligatoire de par la loi ou le règlement (art. R213-14 à R213-15)](#589)
           - [Section 3 : Utilisation des biens acquis par la voie de la préemption (art. R213-16 à R213-20)](#590)
-          - [Section 4 : Dispositions diverses (art. R*213-26-1 à R213-26)](#591)
+          - [Section 4 : Dispositions diverses (art. R213-21 à R213-26)](#591)
           - [Section 5 : Dispositions particulières applicables aux communes de Paris, Marseille et Lyon ainsi qu'aux communes issues d'une fusion comportant création d'une ou plusieurs communes associées (art. R213-27 à R213-30)](#592)
         - [Chapitre IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce et les baux commerciaux et les terrains faisant l'objet de projets d'aménagement commercial (art. *R214-1 à R214-19)](#593)
           - [Section 1 : Délimitation du périmètre (art. *R214-1 à *R214-2)](#594)
-          - [Section 2 : Exercice du droit de préemption (art. *R214-3 à R*214-10-1)](#595)
+          - [Section 2 : Exercice du droit de préemption (art. *R214-3 à R*214-7)](#595)
           - [Section 3 : Rétrocession (art. *R214-11 à R214-17)](#596)
           - [Section 4 : Délégation du droit de préemption (art. R214-18 à R214-19)](#597)
-        - [Chapitre V : Droit de préemption dans les espaces naturels sensibles (art. R215-1 à R215-20)](#598)
+        - [Chapitre V : Droit de préemption dans les espaces naturels sensibles (art. R215-1 à R215-19)](#598)
           - [Section 1 : Institution du droit de préemption (art. R215-1 à R215-3)](#599)
           - [Section 2 : Délégation du droit de préemption (art. R215-4 à R215-5)](#600)
           - [Section 3 : Effets de l'institution du droit de préemption (art. R215-6 à R215-8)](#601)
@@ -609,63 +609,63 @@ Version Consolidée au 2017-05-11
               - [Paragraphe 3 : Substitution de la commune ou de l'établissement public de coopération intercommunale compétent (art. R215-15 à R215-16)](#606)
             - [Sous-section 2 : Dispositions particulières aux adjudications (art. R215-17 à R215-18)](#607)
           - [Section 5 : Rétrocession des biens acquis par exercice du droit de préemption (art. R215-19)](#608)
-          - [Section 6 : Dispositions diverses (art. R215-20)](#609)
-    - [Livre III : Aménagement foncier (art. R300-1 à R340-7)](#610)
-      - [Section 1 : Règles générales (art. R300-1 à R300-2)](#611)
-      - [Section 2 : Concessions d'aménagement (art. R*300-4 à R*300-11-9)](#612)
-        - [Sous-section 1 : Procédure relative aux concessions d'aménagement transférant un risque économique (art. R*300-4 à R*300-9)](#613)
-        - [Sous-section 2 : Procédure relative aux concessions d'aménagement ne transférant pas un risque économique (art. R*300-11-1 à R*300-11-3)](#614)
-        - [Sous-section 3 : Concessions d'aménagement accordées par l'Etat (art. R*300-11-9)](#615)
-      - [Section 3 : Contrats conclus par le concessionnaire d'une opération d'aménagement (art. R*300-12 à R*300-13)](#616)
-      - [Section 4 : Procédures intégrées (art. R300-15 à R300-27)](#617)
-        - [Sous-section 1 : Dispositions communes (art. R300-15 à R300-19)](#618)
-        - [Sous-section 2 : Dispositions applicables à la mise en compatibilité d'un schéma de cohérence territoriale (art. R300-20 à R300-21)](#619)
-        - [Sous-section 3 : Dispositions applicables à la mise en compatibilité d'un plan local d'urbanisme (art. R300-22 à R300-23)](#620)
-        - [Sous-section 4 : Dispositions applicables à la mise en compatibilité du schéma directeur de la région d'Ile-de-France (art. R300-24 à R300-26)](#621)
-        - [Sous-section 5 : Dispositions applicables à la mise en compatibilité de plus d'un document (art. R300-27)](#622)
-      - [Section 5 : Réhabilitation des ensembles commerciaux dans les zones urbaines sensibles (art. R300-28 à R300-29)](#623)
-      - [Titre Ier : Opérations d'aménagement (art. R*311-1 à R*318-22)](#624)
-        - [Chapitre Ier : Zones d'aménagement concerté (art. R*311-1 à R*311-12)](#625)
-          - [Section 1 : Création des zones d'aménagement concerté (art. R*311-1 à R311-5-1)](#626)
-          - [Section 2 : Réalisation des zones d'aménagement concerté (art. R*311-7 à R311-6)](#627)
-          - [Section 3 : Suppression ou modification d'une zone d'aménagement concerté (art. R*311-12)](#628)
-        - [Chapitre III : Plan de sauvegarde et de mise en valeur et restauration immobilière (art. R313-1 à R313-38)](#629)
-          - [Section 1 : Plan de sauvegarde et de mise en valeur (art. R313-1 à R313-18)](#630)
-            - [Sous-section 1 : Contenu du plan de sauvegarde et de mise en valeur (art. D313-5-1 à R313-6)](#631)
-            - [Sous-section 2 : Elaboration, révision, modification et mise à jour du plan de sauvegarde et de mise en valeur (art. R313-7 à R313-17)](#632)
-            - [Sous-section 3 : Mesures de publicité et d'information (art. R313-18)](#633)
-          - [Section 2 : Restauration immobilière (art. R*313-23 à R313-29)](#634)
-          - [Section 3 : Visite des bâtiments par des hommes de l'art (art. R313-33 à R313-37)](#635)
-          - [Section 4 : Prestation de serment des hommes de l'art (art. R313-38)](#636)
-        - [Chapitre VIII : Dispositions relatives à certaines opérations (art. R*318-1 à R*318-22)](#637)
-          - [Section 1 : Déclassements et transferts de propriété (art. R*318-1 à R*318-11)](#638)
-          - [Section 4 : Dispositions particulières à certaines opérations (art. R*318-14 à R318-15)](#639)
-          - [Section 5 : Dispositions applicables aux communes de Paris, Marseille et Lyon ainsi qu'aux communes issues d'une fusion et comportant une ou plusieurs communes associées (art. R*318-16 à R*318-22)](#640)
-      - [Titre II : Organismes d'exécution (art. R*321-1 à R329-17)](#641)
-        - [Chapitre Ier : Etablissements publics (art. R*321-1 à R*321-22)](#642)
-        - [Chapitre II : Associations foncières urbaines (art. R*322-1 à R322-40)](#643)
-          - [Section 1 : Dispositions générales (art. R*322-2 à R322-4)](#644)
-          - [Section 2 : Dispositions concernant les associations foncières urbaines de remembrement (art. R*322-6 à R*322-24)](#645)
-            - [Paragraphe 1 : Constitution de l'association autorisée (art. R*322-6 à R322-6-1)](#646)
-            - [Paragraphe 2 : Redistribution parcellaire et fixation de l'état nouveau (art. R*322-7 à R322-10-1)](#647)
-            - [Paragraphe 3 : Conditions particulières de distraction d'un terrain aménagé inclus dans le périmètre d'une association foncière urbaine de projet (art. R322-19-1 à R322-19-2)](#648)
-            - [Paragraphe 4 : Mesures de publicité foncière (art. R*322-20 à R*322-22)](#649)
-            - [Paragraphe 5 : Dispositions concernant les associations foncières urbaines de remembrement constituées d'office (art. R*322-23 à R*322-24)](#650)
-          - [Section 3 : Dispositions relatives aux associations foncières urbaines de groupement de parcelles (art. R*322-25 à R*322-30)](#651)
-            - [Paragraphe 1 : Constitution des associations autorisées (art. R*322-25)](#652)
-            - [Paragraphe 2 : Modalités de groupement de parcelles (art. R*322-26 à R*322-28-3)](#653)
-            - [Paragraphe 3 : Dispositions spéciales (art. R*322-29 à R*322-30)](#654)
-          - [Section 4 : Dispositions concernant les associations foncières urbaines de conservation, de restauration et de mise en valeur des secteurs sauvegardés ainsi que de restauration immobilière (art. R*322-31 à R*322-33)](#655)
-            - [Paragraphe 1 : Associations autorisées (art. R*322-31 à R*322-32)](#656)
-            - [Paragraphe 2 : Associations constituées d'office (art. R*322-33)](#657)
-          - [Section 5 : Dispositions diverses (art. R322-38 à R322-40)](#658)
-        - [Chapitre IV : Etablissements publics fonciers locaux (art. R324-1 à R324-4)](#659)
-        - [Chapitre V : Etablissement public national d'aménagement et de restructuration des espaces commerciaux et artisanaux (art. R325-1 à R325-9)](#660)
-          - [Section 1 : Organisation administrative (art. R325-1 à R325-7)](#661)
-          - [Section 2 : Organisation financière (art. R325-8 à R325-9)](#662)
-        - [Chapitre VIII : Etablissement public de gestion du quartier d'affaires de La Défense (art. *R328-1 à *R328-13)](#663)
-        - [Chapitre IX : Organisme de foncier solidaire (art. R329-1 à R329-17)](#664)
-          - [Section 1 : Création de l'organisme de foncier solidaire (art. R329-1 à R329-5)](#665)
+    - [Livre III : Aménagement foncier (art. R300-1 à R340-7)](#609)
+      - [Section 1 : Règles générales (art. R300-1 à R300-2)](#610)
+      - [Section 2 : Concessions d'aménagement (art. R*300-4 à R*300-11-9)](#611)
+        - [Sous-section 1 : Procédure relative aux concessions d'aménagement transférant un risque économique (art. R*300-4 à R*300-9)](#612)
+        - [Sous-section 2 : Procédure relative aux concessions d'aménagement ne transférant pas un risque économique (art. R*300-11-1 à R*300-11-3)](#613)
+        - [Sous-section 3 : Concessions d'aménagement accordées par l'Etat (art. R*300-11-9)](#614)
+      - [Section 3 : Contrats conclus par le concessionnaire d'une opération d'aménagement (art. R*300-12 à R*300-13)](#615)
+      - [Section 4 : Procédures intégrées (art. R300-15 à R300-27)](#616)
+        - [Sous-section 1 : Dispositions communes (art. R300-15 à R300-19)](#617)
+        - [Sous-section 2 : Dispositions applicables à la mise en compatibilité d'un schéma de cohérence territoriale (art. R300-20 à R300-21)](#618)
+        - [Sous-section 3 : Dispositions applicables à la mise en compatibilité d'un plan local d'urbanisme (art. R300-22 à R300-23)](#619)
+        - [Sous-section 4 : Dispositions applicables à la mise en compatibilité du schéma directeur de la région d'Ile-de-France (art. R300-24 à R300-26)](#620)
+        - [Sous-section 5 : Dispositions applicables à la mise en compatibilité de plus d'un document (art. R300-27)](#621)
+      - [Section 5 : Réhabilitation des ensembles commerciaux dans les zones urbaines sensibles (art. R300-28 à R300-29)](#622)
+      - [Titre Ier : Opérations d'aménagement (art. R*311-1 à R*318-22)](#623)
+        - [Chapitre Ier : Zones d'aménagement concerté (art. R*311-1 à R*311-12)](#624)
+          - [Section 1 : Création des zones d'aménagement concerté (art. R*311-1 à R311-5-1)](#625)
+          - [Section 2 : Réalisation des zones d'aménagement concerté (art. R*311-7 à R311-6)](#626)
+          - [Section 3 : Suppression ou modification d'une zone d'aménagement concerté (art. R*311-12)](#627)
+        - [Chapitre III : Plan de sauvegarde et de mise en valeur et restauration immobilière (art. R313-1 à R313-38)](#628)
+          - [Section 1 : Plan de sauvegarde et de mise en valeur (art. R313-1 à R313-18)](#629)
+            - [Sous-section 1 : Contenu du plan de sauvegarde et de mise en valeur (art. D313-5-1 à R313-6)](#630)
+            - [Sous-section 2 : Elaboration, révision, modification et mise à jour du plan de sauvegarde et de mise en valeur (art. R313-7 à R313-17)](#631)
+            - [Sous-section 3 : Mesures de publicité et d'information (art. R313-18)](#632)
+          - [Section 2 : Restauration immobilière (art. R*313-23 à R313-29)](#633)
+          - [Section 3 : Visite des bâtiments par des hommes de l'art (art. R313-33 à R313-37)](#634)
+          - [Section 4 : Prestation de serment des hommes de l'art (art. R313-38)](#635)
+        - [Chapitre VIII : Dispositions relatives à certaines opérations (art. R*318-1 à R*318-22)](#636)
+          - [Section 1 : Déclassements et transferts de propriété (art. R*318-1 à R*318-11)](#637)
+          - [Section 4 : Dispositions particulières à certaines opérations (art. R*318-14 à R318-15)](#638)
+          - [Section 5 : Dispositions applicables aux communes de Paris, Marseille et Lyon ainsi qu'aux communes issues d'une fusion et comportant une ou plusieurs communes associées (art. R*318-16 à R*318-22)](#639)
+      - [Titre II : Organismes d'exécution (art. R*321-1 à R329-17)](#640)
+        - [Chapitre Ier : Etablissements publics (art. R*321-1 à R*321-22)](#641)
+        - [Chapitre II : Associations foncières urbaines (art. R*322-1 à R322-40)](#642)
+          - [Section 1 : Dispositions générales (art. R*322-2 à R322-4)](#643)
+          - [Section 2 : Dispositions concernant les associations foncières urbaines de remembrement (art. R*322-6 à R*322-24)](#644)
+            - [Paragraphe 1 : Constitution de l'association autorisée (art. R*322-6 à R322-6-1)](#645)
+            - [Paragraphe 2 : Redistribution parcellaire et fixation de l'état nouveau (art. R*322-7 à R322-10-1)](#646)
+            - [Paragraphe 3 : Conditions particulières de distraction d'un terrain aménagé inclus dans le périmètre d'une association foncière urbaine de projet (art. R322-19-1 à R322-19-2)](#647)
+            - [Paragraphe 4 : Mesures de publicité foncière (art. R*322-20 à R*322-22)](#648)
+            - [Paragraphe 5 : Dispositions concernant les associations foncières urbaines de remembrement constituées d'office (art. R*322-23 à R*322-24)](#649)
+          - [Section 3 : Dispositions relatives aux associations foncières urbaines de groupement de parcelles (art. R*322-25 à R*322-30)](#650)
+            - [Paragraphe 1 : Constitution des associations autorisées (art. R*322-25)](#651)
+            - [Paragraphe 2 : Modalités de groupement de parcelles (art. R*322-26 à R*322-28-3)](#652)
+            - [Paragraphe 3 : Dispositions spéciales (art. R*322-29 à R*322-30)](#653)
+          - [Section 4 : Dispositions concernant les associations foncières urbaines de conservation, de restauration et de mise en valeur des secteurs sauvegardés ainsi que de restauration immobilière (art. R*322-31 à R*322-33)](#654)
+            - [Paragraphe 1 : Associations autorisées (art. R*322-31 à R*322-32)](#655)
+            - [Paragraphe 2 : Associations constituées d'office (art. R*322-33)](#656)
+          - [Section 5 : Dispositions diverses (art. R322-38 à R322-40)](#657)
+        - [Chapitre IV : Etablissements publics fonciers locaux (art. R324-1 à R324-4)](#658)
+        - [Chapitre V : Etablissement public national d'aménagement et de restructuration des espaces commerciaux et artisanaux (art. R325-1 à R325-9)](#659)
+          - [Section 1 : Organisation administrative (art. R325-1 à R325-7)](#660)
+          - [Section 2 : Organisation financière (art. R325-8 à R325-9)](#661)
+        - [Chapitre VIII : Etablissement public de gestion du quartier d'affaires de La Défense (art. *R328-1 à *R328-13)](#662)
+        - [Chapitre IX : Organisme de foncier solidaire (art.  à R329-17)](#663)
+          - [Section 1 : Création de l'organisme de foncier solidaire (art.  à *R328-13)](#664)
+          - [Section 1 : Régime de l'organisme de foncier solidaire (art. R329-1 à R329-5)](#665)
           - [Section 2 : Agrément de l'organisme de foncier solidaire (art. R329-6 à R329-10)](#666)
           - [Section 3 : Contrôle de l'activité de l'organisme de foncier solidaire (art. R329-11 à R329-13)](#667)
           - [Section 4 : Suspension ou retrait de l'agrément (art. R329-14 à R329-17)](#668)
@@ -36085,42 +36085,23 @@ _Cite_:
 
 Les plans locaux d'urbanisme situés dans les zones de montagne définies à l'article 3 de la loi n° 85-30 du 9 janvier 1985
 relative au développement et à la protection de la montagne font l'objet d'une évaluation environnementale à l'occasion de
-leur élaboration, de leur révision, de leur modification et de leur mise en compatibilité dans le cadre d'une déclaration
-d'utilité publique ou d'une déclaration de projet, lorsque ces procédures portent sur la réalisation d'une unité touristique
-nouvelle soumise à autorisation en application de l'article L. 122-19.
-
-**Nota:**
-
-Conseil d’Etat, décision n° 400420 du 19 juillet 2017 (ECLI:FR:CECHR:2017: 400420.20170719), Art. 1 : Sont annulés  les
-articles R. 104-1 à R. 104-16 du code de l'urbanisme issus du décret du 28 décembre 2015, en ce qu'ils n'imposent pas la
-réalisation d'une évaluation environnementale dans tous les cas où, d'une part, les évolutions apportées au plan local
-d'urbanisme par la procédure de la modification et, d'autre part, la mise en compatibilité d'un document local d'urbanisme
-avec un document d'urbanisme supérieur, sont susceptibles d'avoir des incidences notables sur l'environnement au sens de
-l'annexe II de la directive 2001/42/ CE du 27 juin 2001.
+leur élaboration, de leur révision et de leur mise en compatibilité dans le cadre d'une déclaration d'utilité publique ou
+d'une déclaration de projet, lorsque ces procédures ont pour objet de prévoir la création ou l'extension d'une unité
+touristique nouvelle.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°85-30 du 9 janvier 1985 - art. 3 (M)
-  - Code de l'urbanisme - art. L122-19 (V)
+  - Loi n°85-30 du 9 janvier 1985 - art. 3
 
 _Codifié par_:
 
   - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-_Annulé par_:
-
-  - Décision n°400420 du 19 juillet 2017 - art., v. init.
-
-_Anciens textes_:
-
-  - Code de l'urbanisme - art. R*121-14, Alinéa 14 (Ab)
-  - Code de l'urbanisme - art. R*121-16, Alinéa 9 (Ab)
+  - Décret n°2017-1039 du 10 mai 2017 - art. 2
 
 
 ##### Paragraphe 5 : Plans locaux d'urbanisme tenant lieu de schéma de cohérence territoriale<a id=422></a>
@@ -48256,17 +48237,17 @@ _Codifié par_:
 ###### Article R211-3
 
 Le maire ou, le cas échéant, le président de l'établissement public de coopération intercommunale compétent adresse sans
-délai au directeur départemental ou, le cas échéant, régional des finances publiques, au Conseil supérieur du notariat, à la
-chambre départementale des notaires, aux barreaux constitués près les tribunaux de grande instance dans le ressort desquels
-est institué le droit de préemption urbain et au greffe des mêmes tribunaux copie des actes ayant pour effet d'instituer ou
-de supprimer le droit de préemption urbain ou d'en modifier le champ d'application. Cette copie est accompagnée, s'il y a
-lieu, d'un plan précisant le champ d'application du droit de préemption urbain.
+délai au directeur départemental ou, le cas échéant, régional des finances publiques, à la chambre départementale des
+notaires, aux barreaux constitués près les tribunaux de grande instance dans le ressort desquels est institué le droit de
+préemption urbain et au greffe des mêmes tribunaux copie des actes ayant pour effet d'instituer ou de supprimer le droit de
+préemption urbain ou d'en modifier le champ d'application. Cette copie est accompagnée, s'il y a lieu, d'un plan précisant le
+champ d'application du droit de préemption urbain.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2014-551 du 27 mai 2014 - art. 31
+  - Décret n°2017-933 du 10 mai 2017 - art. 4
 
 _Cité par_:
 
@@ -48472,19 +48453,15 @@ publication au Journal officiel et, dans les autres cas, l'exécution de l'ensem
 ci-dessus. Pour l'application du présent alinéa, la date à prendre en considération pour l'affichage en mairie est celle du
 premier jour où il est effectué.
 
-Copie de la décision créant la zone est en outre adressée au conseil supérieur du notariat, à la chambre départementale des
-notaires, aux barreaux constitués près les tribunaux de grande instance dans le ressort desquels est créée la zone
-d'aménagement différé et au greffe des mêmes tribunaux.
+Copie de la décision créant la zone est en outre adressée à la chambre départementale des notaires, aux barreaux constitués
+près les tribunaux de grande instance dans le ressort desquels est créée la zone d'aménagement différé et au greffe des mêmes
+tribunaux.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
 _Modifié par_:
 
-  - Décret n°92-967 du 10 septembre 1992 - art. 2 () JORF 11 septembre 1992
+  - Décret n°2017-933 du 10 mai 2017 - art. 4
 
 **Liens**:
 
@@ -48494,6 +48471,10 @@ _Cité par_:
 
   - Code de l'urbanisme - art. R*214-5 (Ab)
   - Code de l'urbanisme - art. R*700-2 (Ab)
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R212-2-1
@@ -48509,9 +48490,9 @@ des formalités de publicité mentionnées ci-dessus.
 Une copie de la décision créant le périmètre provisoire et un plan sont déposés à la mairie de chacune des communes
 concernées.
 
-Une copie de la décision créant le périmètre provisoire est en outre adressée au Conseil supérieur du notariat, à la chambre
-départementale des notaires, aux barreaux constitués près les tribunaux de grande instance dans le ressort desquels est
-délimité le périmètre provisoire et au greffe des mêmes tribunaux.
+Une copie de la décision créant le périmètre provisoire est en outre adressée à la chambre départementale des notaires, aux
+barreaux constitués près les tribunaux de grande instance dans le ressort desquels est délimité le périmètre provisoire et au
+greffe des mêmes tribunaux.
 
 **Liens relatifs à cet article**
 
@@ -48521,7 +48502,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-967 du 10 septembre 1992 - art. 2 () JORF 11 septembre 1992
+  - Décret n°2017-933 du 10 mai 2017 - art. 4
 
 
 ###### Article R212-4
@@ -49365,22 +49346,6 @@ _Codifié par_:
 
 ##### Section 4 : Dispositions diverses<a id=591></a>
 
-###### Article R*213-26-1
-
-Un arrêté du ministre chargé de l'urbanisme fixe les conditions dans lesquelles sont effectuées les transmissions par voie
-électronique prévues au présent chapitre.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2012-489 du 13 avril 2012 - art. 2
-
-_Abrogé par_:
-
-  - Décret n°2017-932 du 10 mai 2017 - art. 3
-
-
 ###### Article R213-21
 
 Le titulaire du droit de préemption doit recueillir l'avis du service des domaines sur le prix de l'immeuble dont il envisage
@@ -49917,22 +49882,6 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. L112-11 (V)
 
 
-###### Article R*214-10-1
-
-Un arrêté du ministre chargé de l'urbanisme fixe les conditions dans lesquelles sont effectuées les transmissions par voie
-électronique prévues au présent chapitre.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2012-489 du 13 avril 2012 - art. 3
-
-_Abrogé par_:
-
-  - Décret n°2017-932 du 10 mai 2017 - art. 3
-
-
 ##### Section 3 : Rétrocession<a id=596></a>
 
 ###### Article *R214-11
@@ -50136,39 +50085,35 @@ _Modifié par_:
 ###### Article R215-2
 
 La délibération du conseil départemental créant, en application de l'article L. 215-1, une zone de préemption, est
-accompagnée d'un plan de situation et d'un plan de délimitation. 
+accompagnée d'un plan de situation et d'un plan de délimitation.
 
 Cette délibération fait l'objet d'une publication au recueil officiel des actes du département et d'une mention dans deux
-journaux régionaux ou locaux diffusés dans le département. 
+journaux régionaux ou locaux diffusés dans le département.
 
 Les effets juridiques attachés à la création de la zone ont pour point de départ l'exécution de l'ensemble des mesures de
-publicité mentionnées ci-dessus. 
+publicité mentionnées ci-dessus.
 
 En outre, une copie de la délibération accompagnée des plans mentionnés au premier alinéa est tenue à la disposition du
 public à la mairie de la ou des communes concernées et à l'hôtel du département. Avis de ce dépôt est donné par affichage
-pendant une période d'au moins un mois à la mairie de la ou des communes intéressées. 
+pendant une période d'au moins un mois à la mairie de la ou des communes intéressées.
 
-Copie de la délibération créant la zone de préemption accompagnée des plans mentionnés au premier alinéa est adressée au
-conseil supérieur du notariat, à la chambre départementale des notaires et aux barreaux constitués près les tribunaux de
-grande instance dans le ressort desquels est créée la zone de préemption.
+Copie de la délibération créant la zone de préemption accompagnée des plans mentionnés au premier alinéa est adressée à la
+chambre départementale des notaires et aux barreaux constitués près les tribunaux de grande instance dans le ressort desquels
+est créée la zone de préemption.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2017-933 du 10 mai 2017 - art. 4
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L215-1
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
-
-_Modifié par_:
-
-  - Décret n°2015-1783 du 28 décembre 2015 - art. 4
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L215-1 (V)
-
-_Anciens textes_:
-
-  - Code de l'urbanisme - art. R142-5 (Ab)
 
 
 ###### Article R215-3
@@ -50655,31 +50600,9 @@ _Anciens textes_:
   - Code de l'urbanisme - art. R142-17 (Ab)
 
 
-##### Section 6 : Dispositions diverses<a id=609></a>
+## Livre III : Aménagement foncier<a id=609></a>
 
-###### Article R215-20
-
-Un arrêté du ministre chargé de l'urbanisme fixe les conditions dans lesquelles sont effectuées les transmissions par voie
-électronique prévues au présent chapitre.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2015-1783 du 28 décembre 2015 - art. 4
-
-_Abrogé par_:
-
-  - Décret n°2017-932 du 10 mai 2017 - art. 3
-
-_Anciens textes_:
-
-  - Code de l'urbanisme - art. R*142-19-1 (Ab)
-
-
-## Livre III : Aménagement foncier<a id=610></a>
-
-### Section 1 : Règles générales<a id=611></a>
+### Section 1 : Règles générales<a id=610></a>
 
 ###### Article R300-1
 
@@ -50738,9 +50661,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-### Section 2 : Concessions d'aménagement<a id=612></a>
+### Section 2 : Concessions d'aménagement<a id=611></a>
 
-#### Sous-section 1 : Procédure relative aux concessions d'aménagement transférant un risque économique<a id=613></a>
+#### Sous-section 1 : Procédure relative aux concessions d'aménagement transférant un risque économique<a id=612></a>
 
 ###### Article R*300-4
 
@@ -50845,7 +50768,7 @@ _Anciens textes_:
   - Code de l'urbanisme - art. R*300-8 (VT)
 
 
-#### Sous-section 2 : Procédure relative aux concessions d'aménagement ne transférant pas un risque économique<a id=614></a>
+#### Sous-section 2 : Procédure relative aux concessions d'aménagement ne transférant pas un risque économique<a id=613></a>
 
 ###### Article R*300-11-1
 
@@ -50944,7 +50867,7 @@ _Cite_:
   - Code de l'urbanisme - art. R*300-11-2 (V)
 
 
-#### Sous-section 3 : Concessions d'aménagement accordées par l'Etat<a id=615></a>
+#### Sous-section 3 : Concessions d'aménagement accordées par l'Etat<a id=614></a>
 
 ###### Article R*300-11-9
 
@@ -50959,7 +50882,7 @@ _Créé par_:
   - Décret n°2011-1900 du 20 décembre 2011 - art. 2
 
 
-### Section 3 : Contrats conclus par le concessionnaire d'une opération d'aménagement<a id=616></a>
+### Section 3 : Contrats conclus par le concessionnaire d'une opération d'aménagement<a id=615></a>
 
 ###### Article R*300-12
 
@@ -51007,9 +50930,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-### Section 4 : Procédures intégrées<a id=617></a>
+### Section 4 : Procédures intégrées<a id=616></a>
 
-#### Sous-section 1 : Dispositions communes<a id=618></a>
+#### Sous-section 1 : Dispositions communes<a id=617></a>
 
 ###### Article R300-15
 
@@ -51200,7 +51123,7 @@ _Cite_:
   - Code de l'urbanisme - art. L300-6-1 (V)
 
 
-#### Sous-section 2 : Dispositions applicables à la mise en compatibilité d'un schéma de cohérence territoriale<a id=619></a>
+#### Sous-section 2 : Dispositions applicables à la mise en compatibilité d'un schéma de cohérence territoriale<a id=618></a>
 
 ###### Article R300-20
 
@@ -51243,7 +51166,7 @@ _Cite_:
   - Code de l'urbanisme - art. L300-6-1
 
 
-#### Sous-section 3 : Dispositions applicables à la mise en compatibilité d'un plan local d'urbanisme<a id=620></a>
+#### Sous-section 3 : Dispositions applicables à la mise en compatibilité d'un plan local d'urbanisme<a id=619></a>
 
 ###### Article R300-22
 
@@ -51287,7 +51210,7 @@ _Cite_:
   - Code de l'urbanisme - art. L300-6-1
 
 
-#### Sous-section 4 : Dispositions applicables à la mise en compatibilité du schéma directeur de la région d'Ile-de-France<a id=621></a>
+#### Sous-section 4 : Dispositions applicables à la mise en compatibilité du schéma directeur de la région d'Ile-de-France<a id=620></a>
 
 ###### Article R300-24
 
@@ -51357,7 +51280,7 @@ _Cite_:
   - Code de l'urbanisme - art. R300-15
 
 
-#### Sous-section 5 : Dispositions applicables à la mise en compatibilité de plus d'un document<a id=622></a>
+#### Sous-section 5 : Dispositions applicables à la mise en compatibilité de plus d'un document<a id=621></a>
 
 ###### Article R300-27
 
@@ -51382,7 +51305,7 @@ _Cite_:
   - Code de l'environnement - art. L123-6
 
 
-### Section 5 : Réhabilitation des ensembles commerciaux dans les zones urbaines sensibles<a id=623></a>
+### Section 5 : Réhabilitation des ensembles commerciaux dans les zones urbaines sensibles<a id=622></a>
 
 ###### Article R300-28
 
@@ -51433,11 +51356,11 @@ _Anciens textes_:
   - Code de l'urbanisme - art. R*300-16 (T)
 
 
-### Titre Ier : Opérations d'aménagement<a id=624></a>
+### Titre Ier : Opérations d'aménagement<a id=623></a>
 
-#### Chapitre Ier : Zones d'aménagement concerté<a id=625></a>
+#### Chapitre Ier : Zones d'aménagement concerté<a id=624></a>
 
-##### Section 1 : Création des zones d'aménagement concerté<a id=626></a>
+##### Section 1 : Création des zones d'aménagement concerté<a id=625></a>
 
 ###### Article R*311-1
 
@@ -51622,7 +51545,7 @@ _Modifié par_:
   - Décret n°2016-1613 du 25 novembre 2016 - art. 2
 
 
-##### Section 2 : Réalisation des zones d'aménagement concerté<a id=627></a>
+##### Section 2 : Réalisation des zones d'aménagement concerté<a id=626></a>
 
 ###### Article R*311-7
 
@@ -51806,7 +51729,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 3 : Suppression ou modification d'une zone d'aménagement concerté<a id=628></a>
+##### Section 3 : Suppression ou modification d'une zone d'aménagement concerté<a id=627></a>
 
 ###### Article R*311-12
 
@@ -51835,9 +51758,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-#### Chapitre III : Plan de sauvegarde et de mise en valeur et restauration immobilière<a id=629></a>
+#### Chapitre III : Plan de sauvegarde et de mise en valeur et restauration immobilière<a id=628></a>
 
-##### Section 1 : Plan de sauvegarde et de mise en valeur<a id=630></a>
+##### Section 1 : Plan de sauvegarde et de mise en valeur<a id=629></a>
 
 ###### Article R313-1
 
@@ -51868,7 +51791,7 @@ _Cite_:
   - Code du patrimoine - art. L631-3 (V)
 
 
-##### Sous-section 1 : Contenu du plan de sauvegarde et de mise en valeur<a id=631></a>
+##### Sous-section 1 : Contenu du plan de sauvegarde et de mise en valeur<a id=630></a>
 
 ###### Article D313-5-1
 
@@ -52041,7 +51964,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Sous-section 2 : Elaboration, révision, modification et mise à jour du plan de sauvegarde et de mise en valeur<a id=632></a>
+##### Sous-section 2 : Elaboration, révision, modification et mise à jour du plan de sauvegarde et de mise en valeur<a id=631></a>
 
 ###### Article R313-7
 
@@ -52390,7 +52313,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Sous-section 3 : Mesures de publicité et d'information<a id=633></a>
+##### Sous-section 3 : Mesures de publicité et d'information<a id=632></a>
 
 ###### Article R313-18
 
@@ -52419,7 +52342,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 2 : Restauration immobilière<a id=634></a>
+##### Section 2 : Restauration immobilière<a id=633></a>
 
 ###### Article R*313-23
 
@@ -52597,7 +52520,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 3 : Visite des bâtiments par des hommes de l'art<a id=635></a>
+##### Section 3 : Visite des bâtiments par des hommes de l'art<a id=634></a>
 
 ###### Article R313-33
 
@@ -52711,7 +52634,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 4 : Prestation de serment des hommes de l'art<a id=636></a>
+##### Section 4 : Prestation de serment des hommes de l'art<a id=635></a>
 
 ###### Article R313-38
 
@@ -52739,9 +52662,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-#### Chapitre VIII : Dispositions relatives à certaines opérations<a id=637></a>
+#### Chapitre VIII : Dispositions relatives à certaines opérations<a id=636></a>
 
-##### Section 1 : Déclassements et transferts de propriété<a id=638></a>
+##### Section 1 : Déclassements et transferts de propriété<a id=637></a>
 
 ###### Article R*318-1
 
@@ -53070,7 +52993,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 4 : Dispositions particulières à certaines opérations<a id=639></a>
+##### Section 4 : Dispositions particulières à certaines opérations<a id=638></a>
 
 ###### Article R*318-14
 
@@ -53138,7 +53061,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 5 : Dispositions applicables aux communes de Paris, Marseille et Lyon ainsi qu'aux communes issues d'une fusion et comportant une ou plusieurs communes associées<a id=640></a>
+##### Section 5 : Dispositions applicables aux communes de Paris, Marseille et Lyon ainsi qu'aux communes issues d'une fusion et comportant une ou plusieurs communes associées<a id=639></a>
 
 ###### Article R*318-16
 
@@ -53268,9 +53191,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-### Titre II : Organismes d'exécution<a id=641></a>
+### Titre II : Organismes d'exécution<a id=640></a>
 
-#### Chapitre Ier : Etablissements publics<a id=642></a>
+#### Chapitre Ier : Etablissements publics<a id=641></a>
 
 ###### Article R*321-1
 
@@ -54256,7 +54179,7 @@ _Modifié par_:
   - Décret n°2011-1900 du 20 décembre 2011 - art. 1
 
 
-#### Chapitre II : Associations foncières urbaines<a id=643></a>
+#### Chapitre II : Associations foncières urbaines<a id=642></a>
 
 ###### Article R*322-1
 
@@ -54288,7 +54211,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 1 : Dispositions générales<a id=644></a>
+##### Section 1 : Dispositions générales<a id=643></a>
 
 ###### Article R*322-2
 
@@ -54446,9 +54369,9 @@ _Modifié par_:
   - Décret n°2016-1514 du 8 novembre 2016 - art. 6
 
 
-##### Section 2 : Dispositions concernant les associations foncières urbaines de remembrement<a id=645></a>
+##### Section 2 : Dispositions concernant les associations foncières urbaines de remembrement<a id=644></a>
 
-##### Paragraphe 1 : Constitution de l'association autorisée<a id=646></a>
+##### Paragraphe 1 : Constitution de l'association autorisée<a id=645></a>
 
 ###### Article R*322-6
 
@@ -54507,7 +54430,7 @@ _Créé par_:
   - Décret n°2016-1514 du 8 novembre 2016 - art. 8
 
 
-##### Paragraphe 2 : Redistribution parcellaire et fixation de l'état nouveau<a id=647></a>
+##### Paragraphe 2 : Redistribution parcellaire et fixation de l'état nouveau<a id=646></a>
 
 ###### Article R*322-7
 
@@ -55066,7 +54989,7 @@ _Créé par_:
   - Décret n°2016-1514 du 8 novembre 2016 - art. 9
 
 
-##### Paragraphe 3 : Conditions particulières de distraction d'un terrain aménagé inclus dans le périmètre d'une association foncière urbaine de projet<a id=648></a>
+##### Paragraphe 3 : Conditions particulières de distraction d'un terrain aménagé inclus dans le périmètre d'une association foncière urbaine de projet<a id=647></a>
 
 ###### Article R322-19-1
 
@@ -55103,7 +55026,7 @@ _Créé par_:
   - Décret n°2016-1514 du 8 novembre 2016 - art. 10
 
 
-##### Paragraphe 4 : Mesures de publicité foncière<a id=649></a>
+##### Paragraphe 4 : Mesures de publicité foncière<a id=648></a>
 
 ###### Article R*322-20
 
@@ -55237,7 +55160,7 @@ _Cité par_:
   - Code de l'urbanisme - art. R*322-24 (V)
 
 
-##### Paragraphe 5 : Dispositions concernant les associations foncières urbaines de remembrement constituées d'office<a id=650></a>
+##### Paragraphe 5 : Dispositions concernant les associations foncières urbaines de remembrement constituées d'office<a id=649></a>
 
 ###### Article R*322-23
 
@@ -55298,9 +55221,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 3 : Dispositions relatives aux associations foncières urbaines de groupement de parcelles<a id=651></a>
+##### Section 3 : Dispositions relatives aux associations foncières urbaines de groupement de parcelles<a id=650></a>
 
-##### Paragraphe 1 : Constitution des associations autorisées<a id=652></a>
+##### Paragraphe 1 : Constitution des associations autorisées<a id=651></a>
 
 ###### Article R*322-25
 
@@ -55346,7 +55269,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Paragraphe 2 : Modalités de groupement de parcelles<a id=653></a>
+##### Paragraphe 2 : Modalités de groupement de parcelles<a id=652></a>
 
 ###### Article R*322-26
 
@@ -55584,7 +55507,7 @@ _Modifié par_:
   - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
-##### Paragraphe 3 : Dispositions spéciales<a id=654></a>
+##### Paragraphe 3 : Dispositions spéciales<a id=653></a>
 
 ###### Article R*322-29
 
@@ -55638,9 +55561,9 @@ _Modifié par_:
   - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
 
 
-##### Section 4 : Dispositions concernant les associations foncières urbaines de conservation, de restauration et de mise en valeur des secteurs sauvegardés ainsi que de restauration immobilière<a id=655></a>
+##### Section 4 : Dispositions concernant les associations foncières urbaines de conservation, de restauration et de mise en valeur des secteurs sauvegardés ainsi que de restauration immobilière<a id=654></a>
 
-##### Paragraphe 1 : Associations autorisées<a id=656></a>
+##### Paragraphe 1 : Associations autorisées<a id=655></a>
 
 ###### Article R*322-31
 
@@ -55712,7 +55635,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Paragraphe 2 : Associations constituées d'office<a id=657></a>
+##### Paragraphe 2 : Associations constituées d'office<a id=656></a>
 
 ###### Article R*322-33
 
@@ -55748,7 +55671,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-##### Section 5 : Dispositions diverses<a id=658></a>
+##### Section 5 : Dispositions diverses<a id=657></a>
 
 ###### Article R322-38
 
@@ -55796,7 +55719,7 @@ _Modifié par_:
   - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 
-#### Chapitre IV : Etablissements publics fonciers locaux<a id=659></a>
+#### Chapitre IV : Etablissements publics fonciers locaux<a id=658></a>
 
 ###### Article R324-1
 
@@ -55877,9 +55800,9 @@ _Modifié par_:
   - Décret n°2011-696 du 20 juin 2011 - art. 1
 
 
-#### Chapitre V : Etablissement public national d'aménagement et de restructuration des espaces commerciaux et artisanaux<a id=660></a>
+#### Chapitre V : Etablissement public national d'aménagement et de restructuration des espaces commerciaux et artisanaux<a id=659></a>
 
-##### Section 1 : Organisation administrative<a id=661></a>
+##### Section 1 : Organisation administrative<a id=660></a>
 
 ###### Article R325-1
 
@@ -56080,7 +56003,7 @@ _Modifié par_:
   - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
-##### Section 2 : Organisation financière<a id=662></a>
+##### Section 2 : Organisation financière<a id=661></a>
 
 ###### Article R325-8
 
@@ -56147,7 +56070,7 @@ _Modifié par_:
   - Décret n°2012-1247 du 7 novembre 2012 - art. 46
 
 
-#### Chapitre VIII : Etablissement public de gestion du quartier d'affaires de La Défense<a id=663></a>
+#### Chapitre VIII : Etablissement public de gestion du quartier d'affaires de La Défense<a id=662></a>
 
 ###### Article *R328-1
 
@@ -56543,25 +56466,27 @@ _Cite_:
   - Code de l'urbanisme - art. *R328-11 (V)
 
 
-#### Chapitre IX : Organisme de foncier solidaire<a id=664></a>
+#### Chapitre IX : Organisme de foncier solidaire<a id=663></a>
 
-##### Section 1 : Création de l'organisme de foncier solidaire<a id=665></a>
+##### Section 1 : Création de l'organisme de foncier solidaire<a id=664></a>
+
+##### Section 1 : Régime de l'organisme de foncier solidaire<a id=665></a>
 
 ###### Article R329-1
 
 Pour se voir reconnaître le statut d'organisme de foncier solidaire dans les conditions prévues à la section 2 du présent
 chapitre, une personne morale de droit public ou de droit privé ayant cet objet doit être en mesure de garantir la pérennité
-des baux accordés dans le cadre de l'exercice de cette activité. 
+des baux accordés dans le cadre de l'exercice de cette activité.
 
-Un organisme de foncier solidaire exerce à titre principal les missions définies à l'article L. 329-1. Il peut également
-avoir pour objet l'accompagnement des bénéficiaires des baux réels solidaires qu'il consent et le montage d'opérations
-immobilières, hors du cadre de ce type de baux.
+Un organisme de foncier solidaire exerce les missions définies à l'article L. 329-1. Il peut en outre avoir pour objet
+l'accompagnement des bénéficiaires des baux réels solidaires qu'il consent et le montage d'opérations immobilières, hors du
+cadre de ce type de baux.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+  - Décret n°2017-1037 du 10 mai 2017 - art. 2
 
 _Cite_:
 
@@ -56595,21 +56520,24 @@ L'organisme de foncier solidaire doit respecter les conditions suivantes :
 
 1° Son objet est autre que le partage des bénéfices ;
 
-2° Sa gouvernance est définie et organisée par les statuts dans ce but ;
+2° Sa gouvernance est définie et organisée par les statuts ou documents constitutifs dans ce but ;
 
 3° Sa gestion est conforme aux principes suivants :
 
 a) Les bénéfices réalisés sont entièrement affectés au maintien ou au développement de l'activité de l'organisme ;
 
-b) Les réserves financières obligatoires constituées ne peuvent pas être distribuées. Elles sont consacrées exclusivement à
-l'activité de gestion des baux réels solidaires signés par l'organisme ou au développement de cette activité. Les recettes
-générées par cette activité y sont entièrement affectées, y compris les produits de cessions.
+b) Les réserves financières obligatoires constituées au titre de l'activité liée au bail réel solidaire sont consacrées
+exclusivement à l'activité de gestion des baux réels solidaires signés par l'organisme ou au développement de cette activité.
+Les recettes générées par cette activité y sont entièrement affectées, y compris les produits de cessions.
+
+c) Dans le cas où l'organisme de foncier solidaire exerce une autre activité, sa comptabilité interne permet de distinguer le
+résultat relevant de l'activité d'organisme de foncier solidaire et celui des autres activités qu'il exerce.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+  - Décret n°2017-1037 du 10 mai 2017 - art. 3
 
 _Cité par_:
 
@@ -56618,14 +56546,14 @@ _Cité par_:
 
 ###### Article R329-4
 
-Les statuts de l'organisme de foncier solidaire se réfèrent expressément aux dispositions de l'article L. 329-1. Ils
-déterminent notamment : 
+Les statuts ou documents constitutifs de l'organisme se réfèrent expressément aux dispositions de l'article L. 329-1. Ils
+déterminent notamment :
 
 1° Le périmètre géographique d'intervention de l'organisme. Dans le cas où celui-ci dépasse les limites administratives de la
-région du siège social de l'organisme, les statuts doivent le mentionner expressément ; 
+région du siège social de l'organisme, les statuts ou documents constitutifs doivent le mentionner expressément ;
 
-2° La part des bénéfices issus des activités autres que celles liées au bail réel solidaire qui sont affectée aux réserves
-obligatoires ; 
+2° La part des bénéfices issus des activités autres que celles liées au bail réel solidaire qui sont, le cas échéant,
+affectées aux réserves obligatoires mentionnées au b du 3° de l'article R. 329-3 ;
 
 3° Les conditions dans lesquelles les décisions de gestion relatives aux baux réels solidaires consentis par l'organisme de
 foncier solidaire sont prises en cas de suspension ou de retrait de l'agrément de cette activité et les modalités de
@@ -56634,9 +56562,9 @@ retrait de cet agrément.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+  - Décret n°2017-1037 du 10 mai 2017 - art. 4
 
 _Cite_:
 
@@ -56691,9 +56619,9 @@ _Cite_:
 
 ###### Article R329-7
 
-A l'appui de sa demande d'agrément, l'organisme de foncier solidaire fournit les pièces et renseignements suivants :
+A l'appui de sa demande d'agrément, l'organisme fournit les pièces et renseignements suivants :
 
-1° Ses statuts ;
+1° Ses statuts ou documents constitutifs ;
 
 2° La composition de son organe de décision et la description de l'activité professionnelle de chacune des personnes
 physiques membres de cet organe ;
@@ -56714,17 +56642,17 @@ notamment sa capacité technique et financière à assurer ses missions ;
 8° Un descriptif des missions que l'organisme envisage de confier à des tiers et les partenariats qu'il envisage de nouer
 afin de remplir ces missions ;
 
-9° La description des modalités d'information des preneurs de baux réels solidaires et de contrôle de l'affectation des biens
-objets de tels baux ;
+9° La description des conditions d'attribution et de contrôle de l'affectation des biens objets d'un bail réel solidaire,
+ainsi que les modalités d'information des preneurs de ces baux ;
 
 10° Le cas échéant, les agréments prévus aux articles L. 365-2, L. 365-3 et L. 365-4 du code de la construction et de
 l'habitation ou l'information selon laquelle les instances dirigeantes envisagent d'en solliciter l'obtention.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+  - Décret n°2017-1037 du 10 mai 2017 - art. 5
 
 _Cité par_:
 
@@ -56751,22 +56679,6 @@ _Créé par_:
 _Cite_:
 
   - Code de l'urbanisme - art. R329-7
-
-
-###### Article R329-9
-
-L'agrément est délivré en tenant compte des moyens financiers et humains dont l'organisme dispose pour l'exercice de ses
-missions.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2017-1037 du 10 mai 2017 - art. 6
 
 
 ###### Article R329-10
@@ -56895,22 +56807,22 @@ _Cite_:
 
 ###### Article R329-16
 
-Constituent notamment des manquements graves de l'organisme de foncier solidaire à ses obligations : 
+Constituent notamment des manquements graves de l'organisme de foncier solidaire à ses obligations :
 
-1° La violation des règles de gestion financière prévues aux articles R. 329-3 et R. 329-4 ; 
+1° La violation des règles de gestion financière prévues aux articles R. 329-3 et R. 329-4 ;
 
 2° La violation des dispositions du VI de l'article 140 de la loi n° 2008-776 du 4 août 2008 relatives à l'établissement et à
-la publicité des comptes annuels et à la mission du commissaire aux comptes ; 
+la publicité des comptes annuels et à la mission du commissaire aux comptes ;
 
 3° Le fait pour l'organisme de foncier solidaire de disposer ou de consommer tout ou partie de la dotation en capital ou des
-fonds affectés dont il bénéficie dans le cas où les statuts n'autorisent pas à les consommer, et, dans le cas où les statuts
-prévoient cette possibilité, le fait d'en disposer ou d'en consommer tout ou partie en violation des conditions fixées par
-les clauses statutaires ou pour une cause étrangère à la réalisation des objets ou des missions d'intérêt général
-poursuivis ; 
+fonds affectés dont il bénéficie dans le cas où les statuts ou documents constitutifs n'autorisent pas à les consommer, et,
+dans le cas où les statuts ou documents constitutifs prévoient cette possibilité, le fait d'en disposer ou d'en consommer
+tout ou partie en violation des conditions fixées par les clauses statutaires ou pour une cause étrangère à la réalisation
+des objets ou des missions d'intérêt général poursuivis ;
 
 4° Le fait pour l'organisme de foncier solidaire de ne pas avoir adressé les rapports d'activité à l'autorité administrative
 ou d'avoir adressé des rapports d'activité incomplets, durant deux exercices consécutifs, malgré la mise en demeure qui lui a
-été faite en application de l'article R. 329-11 ; 
+été faite en application de l'article R. 329-11 ;
 
 5° Le fait pour l'organisme de foncier solidaire de conclure un bail réel solidaire avec des preneurs ne respectant pas les
 conditions de ressources, de loyers ou de cession de prix prévues aux articles L. 255-2 et L. 255-4 ou de donner son agrément
@@ -56926,9 +56838,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L255-10
   - Code de la construction et de l'habitation. - art. L255-2
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+  - Décret n°2017-1037 du 10 mai 2017 - art. 7
 
 
 ###### Article R329-17
@@ -58867,8 +58779,8 @@ a) Un an en ce qui concerne les constructions nécessaires :
 
 - à l'hébergement d'urgence des personnes migrantes en vue de leur demande d'asile ;
 
-b) Une année scolaire en ce qui concerne les classes démontables installées dans les établissements scolaires ou
-universitaires pour pallier les insuffisances temporaires de capacités d'accueil ;
+b) Une année scolaire ou la durée du chantier de travaux en ce qui concerne les classes démontables installées dans les
+établissements scolaires ou universitaires pour pallier les insuffisances temporaires de capacités d'accueil ;
 
 c) La durée du chantier, en ce qui concerne les constructions temporaires directement nécessaires à la conduite des travaux
 ainsi que les installations liées à la commercialisation d'un bâtiment en cours de construction et pour une durée d'un an en
@@ -58882,19 +58794,15 @@ A l'issue de cette durée, le constructeur est tenu de remettre les lieux dans l
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2017-933 du 10 mai 2017 - art. 4
+
 _Cité par_:
 
   - Code de l'urbanisme - art. *R421-6 (V)
   - Code de l'urbanisme - art. R*421-7 (V)
   - Code de l'urbanisme - art. R*422-3 (M)
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
-_Modifié par_:
-
-  - Décret n°2017-608 du 21 avril 2017 - art. 1
 
 
 ###### Article *R421-6
@@ -65721,7 +65629,19 @@ nouvel usage du terrain projeté ont été prises en compte dans la conception d
 o) Lorsque le projet est situé dans un secteur d'information sur les sols et dans les cas et conditions prévus par l'article
 L. 556-2 du code de l'environnement, une attestation établie par un bureau d'études certifié dans le domaine des sites et
 sols pollués, ou équivalent, garantissant la réalisation d'une étude de sols et sa prise en compte dans la conception du
-projet de construction.
+projet de construction. 
+
+p) Lorsque le projet a fait l'objet d'une demande de dérogation, à titre expérimental, aux règles de la construction, prévue
+au I de l'article 88 de la loi n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au
+patrimoine, la décision prise sur cette demande, selon les modalités fixées par le décret n° 2017-1044 du 10 mai 2017 portant
+expérimentation en matière de construction.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 10 du décret n° 2017-1044 du 10 mai 2017, les dispositions dudit décret sont
+applicables aux projets de constructions pour lesquels il est statué sur la demande d'autorisation d'urbanisme, à compter de
+sa date d'entrée en vigueur et jusqu'au terme de la durée de sept ans mentionnée au I de l'article 88 de la loi n° 2016-925
+du 7 juillet 2016.
 
 **Liens relatifs à cet article**
 
@@ -65737,32 +65657,34 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R111-20-1 (V)
   - Code de la construction et de l'habitation. - art. R111-20-2 (V)
 
-_Modifié par_:
-
-  - Décret n°2016-1613 du 25 novembre 2016 - art. 3
-
 _Cite_:
 
+  - Loi n°2016-925 du 7 juillet 2016 - art. 88
+  - Décret n°2017-1044 du 10 mai 2017
   - Code général des collectivités territoriales - art. L2224-8
-  - Code de l'urbanisme - art. L300-2 (V)
+  - Code de l'urbanisme - art. L300-2
   - Code de l'urbanisme - art. L510-1
-  - Code de l'urbanisme - art. R114-1 (V)
-  - Code de l'urbanisme - art. R121-5 (V)
-  - Code de l'urbanisme - art. R300-1 (V)
-  - Code de la construction et de l'habitation. - art. L111-23 (V)
-  - Code de la construction et de l'habitation. - art. L111-9 (V)
+  - Code de l'urbanisme - art. R114-1
+  - Code de l'urbanisme - art. R121-5
+  - Code de l'urbanisme - art. R300-1
+  - Code de la construction et de l'habitation. - art. L111-23
+  - Code de la construction et de l'habitation. - art. L111-9
   - Code de l'environnement - art. L122-1-1
-  - Code de l'environnement - art. L414-4 (V)
+  - Code de l'environnement - art. L414-4
   - Code de l'environnement - art. L556-1
   - Code de l'environnement - art. L556-2
   - Code de l'environnement - art. L562-2
   - Code de l'environnement - art. L563-1
   - Code de l'environnement - art. R122-2
-  - Code de l'environnement - art. R414-22 (V)
+  - Code de l'environnement - art. R414-22
   - Code de l'environnement - art. R414-23
   - Code de l'environnement - art. R555-30
   - Code de l'environnement - art. R555-31
   - Code de la sécurité intérieure - art. R613-28
+
+_Modifié par_:
+
+  - Décret n°2017-1044 du 10 mai 2017 - art. 6
 
 
 ###### Article R431-16-2

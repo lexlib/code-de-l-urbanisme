@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2017-09-08
+Version Consolidée au 2017-10-05
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -798,92 +798,99 @@ Version Consolidée au 2017-09-08
       - [Titre VIII : Sanctions (art. R*480-6 à R480-5)](#795)
     - [Livre V : Implantation des services, établissements et entreprises (art. R*510-1 à R550-1)](#796)
       - [Titre Ier : Dispositions administratives générales (art. R*510-1 à R*510-15)](#797)
-      - [Titre II : Dispositions financières concernant la région parisienne (art. R520-1 à R*520-12)](#798)
-        - [Section 1 : Dispositions générales (art. R520-1 à R520-11)](#799)
-        - [Section 2 : Montant des redevances (art. R*520-12)](#800)
-      - [Titre III : Implantation hors de la région parisienne de certaines activités (art. R530-3 à R530-5)](#801)
-      - [Titre V : Sanctions (art. R550-1)](#802)
-    - [Livre VI : Dispositions relatives au contentieux de l'urbanisme et dispositions diverses (art. R*600-1 à R620-2)](#803)
-      - [Titre Ier : Infractions et sanctions (art. R610-1 à R610-3)](#804)
-        - [Section 1 :  Assermentation des agents chargés de constater les infractions (art. R610-1 à R610-3)](#805)
-      - [Titre II : Dispositions diverses (art. R*620-1 à R620-2)](#806)
-  - [Partie réglementaire - Arrêtés (art. A111-1 à A614-4)](#807)
-    - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. A111-1 à A160-1)](#808)
-      - [Titre  Ier : Règles générales d'utilisation du sol (art. A111-1 à A111-10)](#809)
-        - [Chapitre Ier : Règles générales de l'urbanisme (art. A111-1 à A111-10)](#810)
-          - [Section 1 : Règlement national d'urbanisme (art. A111-1)](#811)
-          - [Section 2 : Dispositions relatives à l'implantation des habitations légères de loisirs, à l'installation des résidences mobiles de loisirs et des caravanes et au camping (art. A111-2 à A111-10)](#812)
-            - [Sous-section 1 : Résidences mobiles de loisirs (art. A111-2 à A111-3)](#813)
-            - [Sous-section 2 : Caravanes (art. A111-4 à A111-5)](#814)
-            - [Sous-section 3 : Terrains de camping et parcs résidentiels de loisirs (art. A111-6 à A111-10)](#815)
-              - [Paragraphe 1 : Terrains de camping (art. A111-7 à A111-8)](#816)
-              - [Paragraphe 2 : Parcs résidentiels de loisirs (art. A111-9 à A111-10)](#817)
-      - [Titre  II : Prévisions et règles d'urbanisme (art. A121-4 à A126-1)](#818)
-        - [Chapitre Ier : Dispositions générales communes aux schémas directeurs et aux plans d'occupation des sols (art. A121-4)](#819)
-        - [Chapitre  III : Plans d'occupation des sols (art. A123-1 à A123-2)](#820)
-          - [Section 3 : Contenu du plan d'occupation des sols (art. A123-1 à A123-2)](#821)
-        - [Chapitre  VI : Servitudes d'utilité publique affectant l'utilisation du sol (art. A126-1)](#822)
-      - [Titre  III : Espaces boisés (art. A130-1 à A130-3)](#823)
-      - [Titre  IV : Dispositions spéciales à certaines parties du territoire (art. A142-1)](#824)
-        - [Chapitre  II : Espaces naturels sensibles des départements (art. A142-1)](#825)
-      - [Titre  VI : Sanctions et servitudes (art. A160-1)](#826)
-        - [Section 3 : Agrément des associations exerçant leurs activités dans le domaine de la protection de la nature et de l'environnement et de l'amélioration du cadre de vie (art. A160-1)](#827)
-    - [Livre  II : Préemption et réserves foncières (art. A211-1 à A214-1)](#828)
-      - [Titre  Ier : Droits de préemption (art. A211-1 à A214-1)](#829)
-        - [Chapitre  Ier : Droit de préemption urbain (art. A211-1)](#830)
-        - [Chapitre  II : Zones d'aménagement différé (art. A212-1)](#831)
-        - [Chapitre  III : Dispositions communes au droit de préemption urbain et aux zones d'aménagement différé (art. A213-1)](#832)
-        - [Chapitre  IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce et les baux commerciaux (art. A214-1)](#833)
-    - [Livre  III : Aménagement foncier (art. A332-1 à A340-4)](#834)
-      - [Titre  III : Dispositions financières (art. A332-1)](#835)
-        - [Chapitre  II : Participation des constructeurs et des lotisseurs (art. A332-1)](#836)
-      - [Titre IV : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte (art. A340-1 à A340-4)](#837)
-    - [Livre  IV : Régime applicable aux constructions, aménagements et démolitions (art. A410-1 à A472-1)](#838)
-      - [Titre Ier : Certificat d'urbanisme (art. A410-1 à A410-5)](#839)
-      - [Titre  II : Dispositions communes aux diverses autorisations et aux déclarations préalables (art. A421-1 à A424-19)](#840)
-        - [Chapitre  Ier : Champ d'application (art. A421-1)](#841)
-        - [Chapitre  III : Dépôt et instruction des demandes de permis et des déclarations (art. A423-1 à A423-4)](#842)
-        - [Chapitre  IV : Décisions (art. A424-1 à A424-19)](#843)
-          - [Section 1 : Contenu de la décision (art. A424-1 à A424-13)](#844)
-            - [Sous-section 1 : Dispositions communes (art. A424-1 à A424-8)](#845)
-            - [Sous-section 2 : Dispositions propres aux constructions (art. A424-9)](#846)
-            - [Sous-section 3 : Dispositions propres aux lotissements (art. A424-10 à A424-11)](#847)
-            - [Sous-section 4 : Dispositions propres aux terrains de camping et aux parcs résidentiels de loisirs (art. A424-12 à A424-13)](#848)
-          - [Section 2 : Notification de la décision (art. A424-14)](#849)
-          - [Section 3 : Affichage de la décision (art. A424-15 à A424-19)](#850)
-      - [Titre  III : Dispositions propres aux constructions (art. A431-1 à A434-1)](#851)
-        - [Chapitre Ier : Dispositions générales (art. A431-1 à A431-11)](#852)
-          - [Section 1 : Déclaration préalable (art. A431-1 à A431-3)](#853)
-          - [Section 2 : Permis de construire (art. A431-4 à A431-8)](#854)
-          - [Section 3 : Dispositions communes (art. A431-9)](#855)
-          - [Section 4 : Dispositions applicables aux constructions soumises à des règles parasismiques (art. A431-10 à A431-11)](#856)
-        - [Chapitre  IV : Dispositions diverses (art. A434-1)](#857)
-      - [Titre  IV : Dispositions propres aux aménagements (art. A441-1 à A444-1)](#858)
-        - [Chapitre Ier : Dispositions communes (art. A441-1 à A441-10)](#859)
-          - [Section 1 : Déclaration préalable (art. A441-1 à A441-3)](#860)
-          - [Section 2 : Permis d'aménager (art. A441-4 à A441-8)](#861)
-          - [Section 3 : Dispositions communes (art. A441-9 à A441-10)](#862)
-        - [Chapitre  IV : Modèles nationaux de demande et de décision (art. A444-1)](#863)
-      - [Titre  V : Dispositions propres aux démolitions (art. A451-1 à A453-4)](#864)
-        - [Chapitre Ier : Demande de permis de démolir (art. A451-1 à A451-3)](#865)
-        - [Chapitre  III : Modèles nationaux de demande et de décision (art. A453-4)](#866)
-      - [Titre  VI : Contrôle de la conformité des travaux (art. A462-1 à A462-4)](#867)
-        - [Chapitre  II : Achèvement des travaux de construction ou d'aménagement (art. A462-1 à A462-4)](#868)
-          - [Section 1 : Dispositions communes (art. A462-1)](#869)
-          - [Section 2 : Dispositions applicables aux constructions soumises à des règles parasismiques (art. A462-2 à A462-4)](#870)
-      - [Titre  VII : Dispositions diverses (art. A472-1)](#871)
-        - [Chapitre  II : Remontées mécaniques (art. A472-1)](#872)
-    - [Livre  V : Implantation des services, établissements et entreprises (art. A520-1 à A520-11)](#873)
-      - [Titre  II : Dispositions financières concernant la région d'Ile-de-France (art. A520-1 à A520-11)](#874)
-        - [Section 1 : Dispositions générales (art. A520-1 à A520-11)](#875)
-          - [Sous-section 1 : Perception des redevances (art. A520-1 à A520-3)](#876)
-          - [Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance (art. A520-4 à A520-11)](#877)
-    - [Livre  VI : Organismes consultatifs et dispositions diverses (art. A614-1 à A614-4)](#878)
-      - [Titre Ier : Organismes consultatifs (art. A614-1 à A614-4)](#879)
-        - [Chapitre  IV : Architectes-conseils et paysagistes-conseils (art. A614-1 à A614-4)](#880)
-  - [Annexes (art. A431-10 Annexe à A462-4 Annexe)](#881)
-    - [Attestation du contrôleur technique établissant qu'il a fait connaître au maître d'ouvrage de la construction son avis sur la prise en compte au stade de la conception des règles parasismiques. (art. A431-10 Annexe)](#882)
-    - [Attestation du contrôleur technique justifiant de la prise en compte de ses avis par le maître d'ouvrage de la construction sur le respect des règles de construction parasismique (art. A462-4 Annexe)](#883)
+      - [Titre II : Dispositions financières concernant la région parisienne (art. R520-1 à R520-18)](#798)
+        - [Section 1 : Généralités et champ d'application (art. R520-1 à R520-2)](#799)
+        - [Section 2 : Redevable et fait générateur (art. R520-3)](#800)
+        - [Section 3 : Exonérations (art. R520-4 à R520-6)](#801)
+        - [Section 4 : Assiette (art. R520-7)](#802)
+        - [Section 5 : Plafonnement de la taxe (art. R520-8 à R520-9)](#803)
+        - [Section 6 : Etablissement de la taxe (art. R520-10 à R520-15)](#804)
+        - [Section 7 : Contrôle et sanctions (art. R520-16)](#805)
+        - [Section 8 : Recouvrement (art. R520-17)](#806)
+        - [Section 9 : Recours (art. R520-18)](#807)
+      - [Titre III : Implantation hors de la région parisienne de certaines activités (art. R530-3 à R530-5)](#808)
+      - [Titre V : Sanctions (art. R550-1)](#809)
+    - [Livre VI : Dispositions relatives au contentieux de l'urbanisme et dispositions diverses (art. R*600-1 à R620-2)](#810)
+      - [Titre Ier : Infractions et sanctions (art. R610-1 à R610-3)](#811)
+        - [Section 1 :  Assermentation des agents chargés de constater les infractions (art. R610-1 à R610-3)](#812)
+      - [Titre II : Dispositions diverses (art. R*620-1 à R620-2)](#813)
+  - [Partie réglementaire - Arrêtés (art. A111-1 à A614-4)](#814)
+    - [Livre Ier : Règles générales d'aménagement et d'urbanisme (art. A111-1 à A160-1)](#815)
+      - [Titre  Ier : Règles générales d'utilisation du sol (art. A111-1 à A111-10)](#816)
+        - [Chapitre Ier : Règles générales de l'urbanisme (art. A111-1 à A111-10)](#817)
+          - [Section 1 : Règlement national d'urbanisme (art. A111-1)](#818)
+          - [Section 2 : Dispositions relatives à l'implantation des habitations légères de loisirs, à l'installation des résidences mobiles de loisirs et des caravanes et au camping (art. A111-2 à A111-10)](#819)
+            - [Sous-section 1 : Résidences mobiles de loisirs (art. A111-2 à A111-3)](#820)
+            - [Sous-section 2 : Caravanes (art. A111-4 à A111-5)](#821)
+            - [Sous-section 3 : Terrains de camping et parcs résidentiels de loisirs (art. A111-6 à A111-10)](#822)
+              - [Paragraphe 1 : Terrains de camping (art. A111-7 à A111-8)](#823)
+              - [Paragraphe 2 : Parcs résidentiels de loisirs (art. A111-9 à A111-10)](#824)
+      - [Titre  II : Prévisions et règles d'urbanisme (art. A121-4 à A126-1)](#825)
+        - [Chapitre Ier : Dispositions générales communes aux schémas directeurs et aux plans d'occupation des sols (art. A121-4)](#826)
+        - [Chapitre  III : Plans d'occupation des sols (art. A123-1 à A123-2)](#827)
+          - [Section 3 : Contenu du plan d'occupation des sols (art. A123-1 à A123-2)](#828)
+        - [Chapitre  VI : Servitudes d'utilité publique affectant l'utilisation du sol (art. A126-1)](#829)
+      - [Titre  III : Espaces boisés (art. A130-1 à A130-3)](#830)
+      - [Titre  IV : Dispositions spéciales à certaines parties du territoire (art. A142-1)](#831)
+        - [Chapitre  II : Espaces naturels sensibles des départements (art. A142-1)](#832)
+      - [Titre  VI : Sanctions et servitudes (art. A160-1)](#833)
+        - [Section 3 : Agrément des associations exerçant leurs activités dans le domaine de la protection de la nature et de l'environnement et de l'amélioration du cadre de vie (art. A160-1)](#834)
+    - [Livre  II : Préemption et réserves foncières (art. A211-1 à A214-1)](#835)
+      - [Titre  Ier : Droits de préemption (art. A211-1 à A214-1)](#836)
+        - [Chapitre  Ier : Droit de préemption urbain (art. A211-1)](#837)
+        - [Chapitre  II : Zones d'aménagement différé (art. A212-1)](#838)
+        - [Chapitre  III : Dispositions communes au droit de préemption urbain et aux zones d'aménagement différé (art. A213-1)](#839)
+        - [Chapitre  IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce et les baux commerciaux (art. A214-1)](#840)
+    - [Livre  III : Aménagement foncier (art. A332-1 à A340-4)](#841)
+      - [Titre  III : Dispositions financières (art. A332-1)](#842)
+        - [Chapitre  II : Participation des constructeurs et des lotisseurs (art. A332-1)](#843)
+      - [Titre IV : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte (art. A340-1 à A340-4)](#844)
+    - [Livre  IV : Régime applicable aux constructions, aménagements et démolitions (art. A410-1 à A472-1)](#845)
+      - [Titre Ier : Certificat d'urbanisme (art. A410-1 à A410-5)](#846)
+      - [Titre  II : Dispositions communes aux diverses autorisations et aux déclarations préalables (art. A421-1 à A424-19)](#847)
+        - [Chapitre  Ier : Champ d'application (art. A421-1)](#848)
+        - [Chapitre  III : Dépôt et instruction des demandes de permis et des déclarations (art. A423-1 à A423-4)](#849)
+        - [Chapitre  IV : Décisions (art. A424-1 à A424-19)](#850)
+          - [Section 1 : Contenu de la décision (art. A424-1 à A424-13)](#851)
+            - [Sous-section 1 : Dispositions communes (art. A424-1 à A424-8)](#852)
+            - [Sous-section 2 : Dispositions propres aux constructions (art. A424-9)](#853)
+            - [Sous-section 3 : Dispositions propres aux lotissements (art. A424-10 à A424-11)](#854)
+            - [Sous-section 4 : Dispositions propres aux terrains de camping et aux parcs résidentiels de loisirs (art. A424-12 à A424-13)](#855)
+          - [Section 2 : Notification de la décision (art. A424-14)](#856)
+          - [Section 3 : Affichage de la décision (art. A424-15 à A424-19)](#857)
+      - [Titre  III : Dispositions propres aux constructions (art. A431-1 à A434-1)](#858)
+        - [Chapitre Ier : Dispositions générales (art. A431-1 à A431-11)](#859)
+          - [Section 1 : Déclaration préalable (art. A431-1 à A431-3)](#860)
+          - [Section 2 : Permis de construire (art. A431-4 à A431-8)](#861)
+          - [Section 3 : Dispositions communes (art. A431-9)](#862)
+          - [Section 4 : Dispositions applicables aux constructions soumises à des règles parasismiques (art. A431-10 à A431-11)](#863)
+        - [Chapitre  IV : Dispositions diverses (art. A434-1)](#864)
+      - [Titre  IV : Dispositions propres aux aménagements (art. A441-1 à A444-1)](#865)
+        - [Chapitre Ier : Dispositions communes (art. A441-1 à A441-10)](#866)
+          - [Section 1 : Déclaration préalable (art. A441-1 à A441-3)](#867)
+          - [Section 2 : Permis d'aménager (art. A441-4 à A441-8)](#868)
+          - [Section 3 : Dispositions communes (art. A441-9 à A441-10)](#869)
+        - [Chapitre  IV : Modèles nationaux de demande et de décision (art. A444-1)](#870)
+      - [Titre  V : Dispositions propres aux démolitions (art. A451-1 à A453-4)](#871)
+        - [Chapitre Ier : Demande de permis de démolir (art. A451-1 à A451-3)](#872)
+        - [Chapitre  III : Modèles nationaux de demande et de décision (art. A453-4)](#873)
+      - [Titre  VI : Contrôle de la conformité des travaux (art. A462-1 à A462-4)](#874)
+        - [Chapitre  II : Achèvement des travaux de construction ou d'aménagement (art. A462-1 à A462-4)](#875)
+          - [Section 1 : Dispositions communes (art. A462-1)](#876)
+          - [Section 2 : Dispositions applicables aux constructions soumises à des règles parasismiques (art. A462-2 à A462-4)](#877)
+      - [Titre  VII : Dispositions diverses (art. A472-1)](#878)
+        - [Chapitre  II : Remontées mécaniques (art. A472-1)](#879)
+    - [Livre  V : Implantation des services, établissements et entreprises (art. A520-1 à A520-11)](#880)
+      - [Titre  II : Dispositions financières concernant la région d'Ile-de-France (art. A520-1 à A520-11)](#881)
+        - [Section 1 : Dispositions générales (art. A520-1 à A520-11)](#882)
+          - [Sous-section 1 : Perception des redevances (art. A520-1 à A520-3)](#883)
+          - [Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance (art. A520-4 à A520-11)](#884)
+    - [Livre  VI : Organismes consultatifs et dispositions diverses (art. A614-1 à A614-4)](#885)
+      - [Titre Ier : Organismes consultatifs (art. A614-1 à A614-4)](#886)
+        - [Chapitre  IV : Architectes-conseils et paysagistes-conseils (art. A614-1 à A614-4)](#887)
+  - [Annexes (art. A431-10 Annexe à A462-4 Annexe)](#888)
+    - [Attestation du contrôleur technique établissant qu'il a fait connaître au maître d'ouvrage de la construction son avis sur la prise en compte au stade de la conception des règles parasismiques. (art. A431-10 Annexe)](#889)
+    - [Attestation du contrôleur technique justifiant de la prise en compte de ses avis par le maître d'ouvrage de la construction sur le respect des règles de construction parasismique (art. A462-4 Annexe)](#890)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Réglementation de l'urbanisme<a id=2></a>
@@ -39704,9 +39711,10 @@ _Anciens textes_:
 
 ###### Article R113-18
 
-Lorsque, pour mettre en œuvre la politique définie à l'article L. 113-8, le conseil départemental a décidé d'instituer la
-part départementale de la taxe d'aménagement destinée à financer les espaces naturels sensibles prévue à l'article L. 113-10,
-un tableau annexe au budget du département fait le bilan des recettes et des emplois de cette taxe.
+Lorsque, pour mettre en œuvre la politique définie à l'article L. 113-8, la part départementale de la taxe d'aménagement
+destinée à financer les espaces naturels sensibles prévue à l'article L. 113-10 a été instituée par la collectivité
+territoriale compétente, un tableau annexe au budget de cette collectivité fait le bilan des recettes et des emplois de cette
+taxe.
 
 **Liens relatifs à cet article**
 
@@ -39714,18 +39722,14 @@ _Codifié par_:
 
   - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art.
+  - Décret n°2017-1422 du 2 octobre 2017 - art. 1
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L113-10 (V)
-  - Code de l'urbanisme - art. L113-8 (V)
-
-_Anciens textes_:
-
-  - Code de l'urbanisme - art. R142-1 (Ab)
+  - Code de l'urbanisme - art. L113-10
+  - Code de l'urbanisme - art. L113-8
 
 
 ##### Section 3 : Espaces agricoles et naturels périurbains<a id=462></a>
@@ -69632,149 +69636,75 @@ _Codifié par_:
 
 ### Titre II : Dispositions financières concernant la région parisienne<a id=798></a>
 
-#### Section 1 : Dispositions générales<a id=799></a>
+#### Section 1 : Généralités et champ d'application<a id=799></a>
 
 ###### Article R520-1
 
-1. Sont considérés comme locaux de recherche en vue de l'application de l'article L. 520-1 les locaux et leurs annexes de
-toute nature utilisés pour des activités ayant le caractère de recherches fondamentales, de recherches appliquées ou
-d'opérations de développement, quelle qu'en soit la nature et quel qu'en soit l'objet ou la dénomination, effectuées soit en
-bureau d'études ou de calcul, soit en laboratoires soit en ateliers pilotes, soit en stations expérimentales ou encore
-opérées dans des installations agricoles ou industrielles. 
-
-2. Lorsque à l'intérieur d'un même périmètre coexistent un établissement et un ou plusieurs bâtiments utilisés pour des
-activités de recherches distinctes du processus de fabrication exercé dans les bâtiments industriels, ce ou ces bâtiments
-sont considérés, sauf preuve contraire, comme constituant un établissement de recherche.
+Sont soumises à la taxe prévue à l'article L. 520-1 les opérations emportant création ou augmentation de la surface de
+construction, définie au quatrième alinéa de l'article L. 331-10, relevant de l'une des catégories de locaux mentionnées à
+l'article L. 520-1.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Codifié par_:
 
-  - Décret n°60-941 1960-09-05 ART. 1
+  - Décret n°73-1023 1973-11-08
+
+_Modifié par_:
+
+  - Décret n°2017-1421 du 2 octobre 2017 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L331-10
 
 _Cité par_:
 
   - Code de l'urbanisme - art. L520-1 (V)
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
-
-###### Article R520-1-1
-
-Sont considérés comme locaux à usage de bureaux en vue de l'application de l'article L. 520-1 et sous réserve de la franchise
-de 1 000 mètres carrés par établissement mentionnée à l'article L. 520-7 : 
-
-1. Tous les locaux et leurs annexes tels que couloirs, dégagements salles de réunion, d'exposition, d'archives, salles
-d'attente et de réception, où sont exercées des activités de direction, de services, de conseil, d'étude, d'ingénierie, de
-traitement mécanographique ou d'informatique de gestion ; 
-
-2. Quelle que soit leur implantation les bureaux de la direction générale d'une entreprise industrielle, de ses services
-généraux, financiers, juridiques et commerciaux. 
-
-Au sens de la présente réglementation est réputé établissement industriel un ensemble de locaux et installations utilisés
-pour des activités concourant directement à la fabrication de produits commercialisables.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
-_Abrogé par_:
-
-  - Décret n°2017-1421 du 2 octobre 2017 - art. 1
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. L520-1 (V)
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L520-7
-
-
-###### Article R520-1-2
-
-Ne sont pas pris en considération pour établir l'assiette de la redevance instituée par l'article L. 520-1 : 
-
-1. Dans tous les établissements et leurs annexes de toute nature, les locaux de caractère social ou sanitaire ; 
-
-2. Dans les magasins de vente et dans les entrepôts commerciaux les locaux à usage de bureaux à concurrence de 5 % de la
-superficie totale de l'ensemble des locaux construits.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L520-1
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
-_Abrogé par_:
-
-  - Décret n°2017-1421 du 2 octobre 2017 - art. 1
 
 
 ###### Article R520-2
 
-Les montants prévus pour la redevance mentionnée à l'article R. 520-3 s'appliquent à la surface utile de plancher construite
-ou transformée telle qu'elle résulte soit du permis de construire, soit des déclarations visées aux articles L. 421-4 et L.
-520-9, soit des constatations effectuées par l'autorité administrative après l'achèvement des travaux. 
+Sont soumis à la taxe les changements d'affectation de locaux mentionnés à l'article L. 520-2, y compris lorsque le
+changement d'affectation est réalisé sans travaux.
 
-La surface utile de plancher est réputée égale, sauf preuve contraire, à la surface couverte à chaque niveau affectée d'un
-abattement forfaitaire de 5 %.
+Sont également soumis à la taxe les changements en raison desquels un local, relevant du champ d'application de la taxe,
+cesse de bénéficier d'une des exonérations prévues à l'article L. 520-6.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°60-941 1960-09-05 ART. 2
+  - Décret n°2017-1421 du 2 octobre 2017 - art. 1
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L421-4 (V)
-  - Code de l'urbanisme - art. L520-9 (V)
+  - Code de l'urbanisme - art. L520-2
+  - Code de l'urbanisme - art. L520-6
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
-_Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 11 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
+#### Section 2 : Redevable et fait générateur<a id=800></a>
 
 ###### Article R520-3
 
-En cas de création par voie de construction ou de transformation, de locaux passibles de la redevance et sans préjudice de
-l'autorisation prévue à l'article L. 631-7 du code de la construction et de l'habitation si celle-ci est requise, la
-déclaration d'achèvement des travaux prévue à l'article L. 462-1 doit être faite dans les formes particulières fixées par un
-arrêté du ministre chargé de l'urbanisme et mentionner, avec toutes justifications utiles à l'appui, la personne physique ou
-morale propriétaire des locaux. 
+Le début des travaux ou le changement d'affectation, mentionnés à l'article L. 520-4, constituent un fait générateur pour les
+seules opérations qui ne sont pas soumises à un régime d'autorisation en vertu du présent code. Lorsqu'un changement
+d'affectation s'accompagne de travaux, le fait générateur de la taxe est le début des travaux. 
 
-Si l'avis de mise en recouvrement est établi antérieurement au dépôt de la déclaration visée à l'alinéa précédent, il est
-décerné au titulaire du permis de construire, sauf à celui-ci à établir qu'il n'a pas la qualité de maître de l'ouvrage. 
-
-Dans le cas contraire, il est décerné au propriétaire des locaux.
+Pour les opérations soumises à un régime d'autorisation en vertu du présent code, en cas de constructions ou d'aménagements
+sans autorisation ou en infraction aux obligations résultant de l'autorisation de construire ou d'aménager, le fait
+générateur est constitué par l'établissement du procès-verbal constatant l'achèvement des constructions ou des aménagements
+en cause.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°60-941 1960-09-05 ART. 3
-
-_Modifié par_:
-
-  - Décret n°2007-18 du 5 janvier 2007 - art. 11 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
 _Cite_:
 
-  - Code de l'urbanisme - art. L462-1 (V)
-  - Code de la construction et de l'habitation. - art. L631-7 (V)
+  - Code de l'urbanisme - art. L520-4
 
 _Cité par_:
 
@@ -69784,30 +69714,31 @@ _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
+_Modifié par_:
+
+  - Décret n°2017-1421 du 2 octobre 2017 - art. 1
+
+
+#### Section 3 : Exonérations<a id=801></a>
 
 ###### Article R520-4
 
-La déclaration prévue au deuxième alinéa de l'article L. 520-9 de doit être faite préalablement à la nouvelle affectation
-donnée aux locaux. Elle doit comporter, outre tous renseignements utiles sur les propriétaires des anciens et des nouveaux
-locaux et, la cas échéant, sur le maître de l'ouvrage, l'indication de la nouvelle affectation des locaux et celle des
-surfaces de plancher transformées et des nouvelles surfaces. 
-
-Les modalités d'application du présent article, notamment les formes du dépôt de la déclaration, seront fixées par le
-ministre chargé de l'urbanisme.
+Pour l'application du 4° de l'article L. 520-6, est réputé établissement industriel un établissement dont l'activité
+nécessite d'importants moyens techniques lorsqu'elle consiste dans la fabrication ou la transformation de biens.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°60-941 1960-09-05 ART. 4
 
 _Cité par_:
 
   - Décret n°87-744 du 9 septembre 1987 - art. 3 (V)
 
+_Modifié par_:
+
+  - Décret n°2017-1421 du 2 octobre 2017 - art. 1
+
 _Cite_:
 
-  - Code de l'urbanisme - art. L520-9 (V)
+  - Code de l'urbanisme - art. L520-6
 
 _Codifié par_:
 
@@ -69816,36 +69747,24 @@ _Codifié par_:
 
 ###### Article R520-5
 
-Les personnes passibles de la redevance en raison de la construction de locaux à usage de bureaux ou, en vertu de l'article
-L. 520-9, en raison de la transformation en de tels locaux de locaux précédemment affectés à d'autres usages, sont exonérées
-de ladite redevance à la condition de justifier d'une utilisation exclusive de ces locaux par des membres d'une profession
-libérale ou des officiers ministériels ou de leur affectation exclusive à un groupement constitué dans les formes prévues à
-l'article 10 de la loi du 1er juillet 1901. 
-
-Les propriétaires de locaux exonérés de la redevance en vertu de l'alinéa précédent sont tenus obligation, si l'utilisation
-ou l'affectation qui a entraîné l'exonération vient à cesser, d'en faire la déclaration dans un délai d'un mois à compter de
-cette cessation et d'acquitter la redevance si elle est due en vertu de la législation en vigueur à la date d'expiration
-dudit délai et au taux applicable à cette date.
+Pour l'application du 5° de l'article L. 520-6, sont considérés comme locaux de recherche les locaux et leurs annexes de
+toute nature utilisés pour des activités ayant le caractère de recherches fondamentales ou de recherches appliquées
+comportant des aménagements particuliers les rendant impropres à une autre utilisation.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - Loi du 1er juillet 1901 - art. 10 (V)
-  - Code de l'urbanisme - art. L520-9 (V)
-
-_Anciens textes_:
-
-  - Décret n°60-941 1960-09-05 art. 5
+  - Décret n°2017-1421 du 2 octobre 2017 - art. 1
 
 _Cité par_:
 
   - Code de l'urbanisme - art. A520-4 (V)
   - Code de l'urbanisme - art. R520-10 (M)
 
-**Liens**:
+_Cite_:
 
-  - TXT_ASSOCIE: Code de l'urbanisme - art. R520-10 (V)
+  - Code de l'urbanisme - art. L520-6
 
 _Codifié par_:
 
@@ -69854,52 +69773,47 @@ _Codifié par_:
 
 ###### Article R520-6
 
-La détermination de l'assiette et la liquidation de la redevance font l'objet de décisions du directeur départemental de
-l'équipement ou, dans les conditions prévues à l'alinéa suivant, du maire. 
+Les personnes passibles de la taxe en raison de la construction de locaux à usage de bureaux ou en raison du changement
+d'affectation en de tels locaux de locaux précédemment affectés à d'autres usages, sont exonérées de ladite taxe à la
+condition de justifier d'une utilisation exclusive de ces locaux par des membres d'une profession libérale réglementée ou des
+officiers ministériels ou de leur affectation exclusive à une association constituée dans les formes prévues à l'article 10
+de la loi du 1er juillet 1901. 
 
-Lorsque le maire est compétent pour délivrer les permis de construire au nom de la commune, en application du a de l'article
-L. 422-1, il peut se voir confier, sur sa demande ou avec son accord, par arrêté du préfet pris sur proposition du directeur
-départemental de l'équipement, la détermination de l'assiette et la liquidation de la redevance. 
-
-Le directeur départemental de l'équipement et le maire peuvent déléguer leur signature aux agents placés sous leur autorité. 
-
-A défaut de paiement de la redevance dans le délai fixé à l'avertissement portant notification de la décision visée au
-premier alinéa, la créance fait l'objet d'un titre de perception. Ce dernier est émis conformément aux dispositions de
-l'article L. 2323-1 du code général de la propriété des personnes publiques par le directeur départemental ou, le cas
-échéant, régional des finances publiques dans le délai de deux ans à compter soit de la délivrance du permis de construire,
-soit du dépôt des déclarations prévues par les articles L. 421-4 et L. 520-9 du présent code ou à défaut de la constatation
-du début des travaux.
+Les propriétaires de locaux exonérés de la taxe en vertu du premier alinéa sont tenus, si le motif qui a entraîné
+l'exonération vient à cesser, d'en faire la déclaration, dans les conditions prévues par l'article R. 520-11.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+_Codifié par_:
 
-  - Décret n°2014-551 du 27 mai 2014 - art. 31
+  - Décret n°73-1023 1973-11-08
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. L2323-1 (M)
-  - Code de l'urbanisme - art. L421-4 (VD)
-  - Code de l'urbanisme - art. L422-1 (V)
-  - Code de l'urbanisme - art. L520-9 (V)
+  - Loi du 1er juillet 1901 - art. 10 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-1421 du 2 octobre 2017 - art. 1
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R520-11 (M)
 
-_Codifié par_:
 
-  - Décret n°73-1023 1973-11-08
-
+#### Section 4 : Assiette<a id=802></a>
 
 ###### Article R520-7
 
-A défaut de paiement par le débiteur désigné sur le titre de perception, le directeur départemental ou, le cas échéant,
-régional des finances publiques peut émettre de nouveaux titres de perception au nom des propriétaires successifs des locaux
-et en poursuivre le recouvrement en principal, pénalité et intérêts, pendant un délai d'un an après la déclaration
-d'achèvement des travaux ou de la constatation de l'achèvement de ces travaux.
+Pour l'application du II de l'article L. 520-7, sont déduits de l'assiette de la taxe de chaque catégorie de local les mètres
+carrés de surface de construction relevant de la même catégorie de local et passibles de la taxe avant l'opération de
+reconstruction ou de réhabilitation.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L520-7
 
 _Codifié par_:
 
@@ -69907,34 +69821,37 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-551 du 27 mai 2014 - art. 31
+  - Décret n°2017-1421 du 2 octobre 2017 - art. 1
 
+
+#### Section 5 : Plafonnement de la taxe<a id=803></a>
 
 ###### Article R520-8
 
-Les redevances afférentes à des constructions réalisées à la suite d'un agrément à titre précaire et pour une durée limitée
-dans les conditions prévues par l'article R. 510-11 et d'un permis de construire délivré dans les conditions fixées par les
-articles L. 433-1 à L. 433-5 sont, le cas échéant, remboursées à la demande du redevable si celui-ci justifie que les locaux
-en cause ont été démolis dans les six mois à compter de l'expiration du délai de précarité.
+La part du coût de l'opération imputable à l'acquisition et à l'aménagement de la surface de construction, mentionnée à
+l'article L. 520-9, comprend :
+
+1° Le coût d'acquisition du terrain d'assiette ;
+
+2° Les coûts d'aménagement du terrain permettant le passage d'un terrain brut à un terrain constructible ;
+
+3° Les coûts de démolition totale ou partielle de l'immeuble bâti.
+
+Ces coûts s'entendent hors taxe sur la valeur ajoutée déductible.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°60-941 1960-09-05 ART. 9
-
 _Modifié par_:
 
-  - Décret n°2007-18 du 5 janvier 2007 - art. 11 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+  - Décret n°2017-1421 du 2 octobre 2017 - art. 1
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L433-1 (V)
-  - Code de l'urbanisme - art. L433-5 (V)
-  - Code de l'urbanisme - art. R*510-11 (V)
+  - Code de l'urbanisme - art. L520-9
 
 _Cité par_:
 
+  - Code de l'urbanisme - art. R520-12 (V)
   - Code de l'urbanisme - art. R520-9 (V)
 
 _Codifié par_:
@@ -69944,53 +69861,57 @@ _Codifié par_:
 
 ###### Article R520-9
 
-Est exonérée de la redevance prévue à l'article L. 520-1 la reconstitution par leur propriétaire initial ou, dans le cas de
-mutation successorale, par le bénéficiaire de la mutation, de locaux détruits par sinistre ou expropriés pour cause d'utilité
-publique, sous réserve que le sinistre ou l'expropriation ait interrompu une activité économique effective. Cette exonération
-est applicable aux opérations ayant fait l'objet d'une demande de permis de construire au plus tard dans les dix-huit mois
-qui suivent le sinistre ou l'expropriation, dans la limite d'une superficie de planchers utile égale à celle des locaux
-sinistrés ou expropriés et à condition que la reconstitution soit effectuée, sans changement d'affectation, soit sur place,
-soit dans une localité comportant un montant de redevance qui ne soit pas supérieur au montant applicable dans la localité où
-étaient situés les locaux sinistrés ou expropriés.
+Lorsqu'une opération réalisée sur un terrain partiellement bâti a pour objet d'augmenter la surface de construction et
+qu'elle ne relève pas des dispositions du II de l'article L. 520-7, les coûts mentionnés à l'article R. 520-8 ne sont retenus
+qu'à proportion de l'extension de surface sur la surface totale de construction après extension.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°60-941 1960-09-05 ART. 10
+  - Décret n°2017-1421 du 2 octobre 2017 - art. 1
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L520-1 (V)
+  - Code de l'urbanisme - art. L520-7
+  - Code de l'urbanisme - art. R520-8
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
 
+#### Section 6 : Etablissement de la taxe<a id=804></a>
+
 ###### Article R520-10
 
-Au cas où la construction de locaux passibles de la redevance a été entreprise avant la délivrance du permis de construire ou
-la transformation de locaux faite avant la déclaration prévue à l'article L. 520-9, ainsi qu'en cas d'inexécution des
-obligations découlant du deuxième alinéa de l'article R. 520-5, le ministre chargé de l'urbanisme arrête d'office le montant
-de la redevance à un taux double du montant de la redevance éludée. 
+I.-Les autorités compétentes pour délivrer les autorisations d'urbanisme transmettent aux services de l'Etat mentionnés à
+l'article L. 520-10, dans le délai d'un mois à compter de la date soit de la délivrance de l'autorisation de construire ou
+d'aménager ou du permis modificatif, soit de la naissance d'une autorisation tacite de construire ou d'aménager, soit de la
+décision de non-opposition à une déclaration préalable :
 
-En cas d'énonciations inexactes dans la demande de permis de construire ou dans la déclaration prévue à l'article L. 520-9,
-la redevance correspondant aux surfaces non mentionnées est doublée. 
+1° Une copie du formulaire de déclaration préalable ou de demande d'autorisation ;
 
-En cas de retard, à compter de la date d'échéance dans le paiement de la redevance, il est dû un intérêt de 1 % par mois de
-retard.
+2° Le formulaire de déclaration mentionné à l'article R. 520-12 ;
+
+3° Selon les cas, une copie de la décision ou la date à laquelle l'autorisation ou la décision de non-opposition à
+déclaration préalable est devenue tacite.
+
+II.-Pour les constructions ou les aménagements réalisés sans autorisation ou en infraction aux obligations résultant de
+l'autorisation de construire ou d'aménager, les services de l'Etat ayant établi le procès-verbal constatant l'achèvement des
+travaux de construction ou des aménagements en cause le transmettent sans délai aux services mentionnés à l'article L.
+520-10.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°60-941 1960-09-05 ART. 12
+  - Décret n°2017-1421 du 2 octobre 2017 - art. 1
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L520-9 (V)
-  - Code de l'urbanisme - art. R520-5 (V)
+  - Code de l'urbanisme - art. L520-10
+  - Code de l'urbanisme - art. R*520-12
 
 **Liens**:
 
@@ -70003,127 +69924,195 @@ _Codifié par_:
 
 ###### Article R520-11
 
-Un arrêté conjoint du ministre chargé de l'urbanisme et du ministre chargé du budget fixe les conditions dans lesquelles la
-redevance est liquidée et perçue par les autorités mentionnées à l'article R. 520-6.
+Lorsque la création ou l'augmentation de la surface de construction relevant de l'une des catégories de locaux mentionnées à
+l'article L. 520-1 n'est pas soumise à un régime d'autorisation en vertu du présent code, le formulaire de déclaration est
+adressé par le propriétaire des locaux aux services de l'Etat mentionnés à l'article L. 520-10, dans le délai d'un mois à
+compter de la date du début des travaux ou du changement d'affectation.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2017-1421 du 2 octobre 2017 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L520-1
+  - Code de l'urbanisme - art. L520-10
+
 _Cité par_:
 
+  - Code de l'urbanisme - art. R520-13 (V)
   - Code de l'urbanisme - art. R520-6 (V)
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
-_Modifié par_:
 
-  - Décret n°2014-551 du 27 mai 2014 - art. 31
+###### Article R520-12
 
+Le formulaire de déclaration des éléments nécessaires au calcul de la taxe, établi par arrêté du ministre chargé de
+l'urbanisme, comprend les éléments suivants :
 
-#### Section 2 : Montant des redevances<a id=800></a>
+1° L'identité, la qualité et les coordonnées du déclarant ;
 
-###### Article R*520-12
+2° L'identité et les coordonnées du propriétaire des locaux ou du titulaire de droits réels sur ces locaux ;
 
-Le montant de la redevance instituée par l'article L. 520-1 est de : 
+3° Les références du terrain, les caractéristiques et l'affectation des locaux existants ;
 
-1° 244 euros par mètre carré dans :
+4° Les caractéristiques et l'affectation des locaux projetés ;
 
-- la partie de Paris comprenant les arrondissements suivants : 
+5° L'indication des surfaces de construction non passibles de la taxe ou exonérées ;
 
-1er, 2e, 3e, 4e, 6e, 7e, 8e, 9e, 14e, 15e, 16e et 17e ;
+6° Le détail et la justification des éléments mentionnés à l'article R. 520-8 ;
 
-- les communes ci-après du département des Hauts-de-Seine : 
-
-Asnières, Bois-Colombes, Boulogne-Billancourt, Châtillon, Colombes, Clichy, Courbevoie, Garches, Issy-les-Moulineaux, La
-Garenne-Colombes, Gennevilliers, Levallois-Perret, Malakoff, Marnes-la-Coquette, Nanterre, Neuilly-sur-Seine, Puteaux, Rueil-
-Malmaison, Saint-Cloud, Sèvres, Suresnes, Vanves, Vaucresson et Ville-d'Avray. 
-
-2° 152 euros par mètre carré dans :
-
-- les communes ci-après du département des Hauts-de-Seine : 
-
-Bagneux, Bourg-la-Reine, Chaville, Clamart, Fontenay-aux-Roses, Meudon, Montrouge, Le Plessis-Robinson et Sceaux ;
-
-- les communes ci-après du département des Yvelines : 
-
-Bougival, Carrières-sur-Seine, La Celle-Saint-Cloud, Chatou, Croissy-sur-Seine, Le Mesnil-le-Roi, Montesson et Le Vésinet. 
-
-3° 61 euros par mètre carré dans :
-
-- les arrondissements de Paris non visés au 1° ci-dessus ;
-
-- les communes ci-après du département des Hauts-de-Seine : 
-
-Antony, Châtenay-Malabry et Villeneuve-la-Garenne ;
-
-- le département de la Seine-Saint-Denis, à l'exception des communes de Gournay-sur-Marne, Neuilly-sur-Marne, Neuilly-
-Plaisance et Noisy-le-Grand ;
-
-- le département du Val-de-Marne, à l'exception des communes de Bry-sur-Marne, Mandres-les-Roses, Marolles-en-Brie, Périgny,
-La Queue-en-Brie, Santeny et Villiers-sur-Marne ;
-
-- les communes ci-après du département des Yvelines : 
-
-Achères, Aigremont, Les Alluets-le-Roi, Andrésy, Bailly, Carrières-sous-Poissy, Chambourcy, Chanteloup-les-Vignes, Chavenay,
-Le Chesnay, Crespières, Davron, L'Etang-la-Ville, Feucherolles, Fontenay-le-Fleury, Fourqueux, Houilles, Jouy-en-Josas,
-Louveciennes, Maisons-Laffitte, Mareil-Marly, Marly-le-Roi, Medan, Morainvilliers, Noisy-le-Roi, Orgeval, Le Pecq, Poissy, Le
-Port-Marly, Rennemoulin, Rocquencourt, Saint-Cyr-l'Ecole, Saint-Germain-en-Laye, Saint-Nom-la-Bretêche, Sartrouville, Triel-
-sur-Seine, Vélizy-Villacoublay, Verneuil-sur-Seine, Vernouillet, Versailles, Villennes-sur-Seine, Villepreux et Viroflay ;
-
-- les communes ci-après du département de l'Essonne : 
-
-Athis-Mons, Bièvres, Boussy-Saint-Antoine, Brunoy, Bures-sur-Yvette, Chilly-Mazarin, Crosne, Draveil, Epinay-sous-Sénart,
-Epinay-sur-Orge, Gif-sur-Yvette, Gometz-le-Châtel, Igny, Juvisy-sur-Orge, Longjumeau, Massy, Montgeron, Morangis, Morsang-
-sur-Orge, Orsay, Palaiseau, Paray-Vieille-Poste, Quincy-sous-Sénart, Savigny-sur-Orge, Les Ulis, Vauhallan, Verrières-le-
-Buisson, Vigneux-sur-Seine, Villebon-sur-Yvette, Villemoisson-sur-Orge, Villiers-sur-Orge, Viry-Châtillon, Wissous et
-Yerres ;
-
-- les communes ci-après du département du Val-d'Oise : 
-
-Andilly, Argenteuil, Arnouville-lès-Gonesse, Beauchamp, Bessancourt, Bezons, Bonneuil-en-France, Bouqueval, Chennevières-lès-
-Louvres, Deuil-la-Barre, Eaubonne, Enghien-les-Bains, Epiais-les-Louvres, Ermont, Franconville, Garges-lès-Gonesse, Gonesse,
-Goussainville, Groslay, Louvres, Margency, Montlignon, Montmagny, Montmorency, Le Plessis-Bouchard, Roissy-en-France, Saint-
-Gratien, Saint-Leu-la-Forêt, Saint-Prix, Sannois, Sarcelles, Soisy-sous-Montmorency, Taverny, Le Thillay, Vaudherland,
-Vemars, Villeron et Villiers-le-Bel ;
-
-- les communes ci-après du département de Seine-et-Marne : 
-
-Mauregard, Le Mesnil-Amelot, Mitry-Mory et Villeparisis.
+7° Pour l'application de l'article L. 520-12, le montant de la taxe versée au titre d'une précédente affectation.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_SOURCE: Directive 96-26 CE 1996-04-29
-  - TXT_SOURCE: Directive 98-76 CE 1998-10-01
-  - SPEC_APPLI: Décret n°2001-1327 2001-12-28 art. 5 : champ d'application
-  - TXT_SOURCE: Code de l'urbanisme L520-1 Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 2866/98 1998-12-31
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-_Anciens textes_:
-
-  - Décret n°72-274 1972-04-11 ART. 1
-
 _Modifié par_:
 
-  - Décret n°2001-1327 du 28 décembre 2001 - art. 1 () JORF 29 décembre 2001 en vigueur le 1er janvier 2002
+  - Décret n°2017-1421 du 2 octobre 2017 - art. 1
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L520-1 (V)
+  - Code de l'urbanisme - art. L520-12
+  - Code de l'urbanisme - art. R520-8 (V)
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R520-10 (V)
+  - Code de l'urbanisme - art. R520-13 (V)
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
 
-### Titre III : Implantation hors de la région parisienne de certaines activités<a id=801></a>
+###### Article R520-13
+
+Le formulaire de déclaration prévu à l'article R. 520-12 est déposé tardivement lorsque :
+
+1° Il n'est pas joint à la demande d'autorisation d'urbanisme au plus tard à la date de la délivrance de l'autorisation de
+construire ou d'aménager ou du permis modificatif, ou de la naissance d'une autorisation tacite de construire ou d'aménager,
+ou de la décision de non-opposition à une déclaration préalable ;
+
+2° La transmission aux services de l'Etat est effectuée plus d'un mois après la date du fait générateur de la taxe, dans les
+cas prévus à l'article R. 520-11 ;
+
+3° Un procès-verbal constatant l'achèvement des constructions ou des aménagements a été établi, pour les constructions ou les
+aménagements réalisés sans autorisation ou en infraction aux obligations résultant de l'autorisation de construire ou
+d'aménager.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1421 du 2 octobre 2017 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R520-11 (V)
+  - Code de l'urbanisme - art. R520-12 (V)
+
+
+###### Article R520-14
+
+Les taxes afférentes à des constructions réalisées à la suite d'un agrément à titre précaire et pour une durée limitée dans
+les conditions prévues par l'article R. 510-11 et d'un permis de construire délivré dans les conditions fixées par les
+articles L. 433-1 à L. 433-5 sont remboursées à la demande du redevable si celui-ci justifie que les locaux en cause ont été
+démolis dans les six mois à compter de l'expiration du délai de précarité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1421 du 2 octobre 2017 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L433-1
+  - Code de l'urbanisme - art. L433-5
+  - Code de l'urbanisme - art. R*510-11
+
+
+###### Article R520-15
+
+Pour l'application du 2° de l'article L. 520-13, le propriétaire peut reconstituer en exonération de taxe les locaux
+sinistrés ou expropriés, sans changement d'affectation, dans la limite d'un montant correspondant à la surface de
+construction égale à celle des locaux sinistrés ou expropriés à laquelle est appliquée le tarif de la circonscription où
+étaient situés ces locaux.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1421 du 2 octobre 2017 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L520-13
+
+
+#### Section 7 : Contrôle et sanctions<a id=805></a>
+
+###### Article R520-16
+
+La notification d'une proposition de rectification ou de l'information prévue au deuxième alinéa de l'article L. 520-16
+interrompt le délai prévu au deuxième alinéa de l'article L. 520-17. Le titre de perception est alors émis par le directeur
+du service de l'Etat chargé de l'urbanisme avant le 31 décembre de la troisième année suivant celle de cette notification.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1421 du 2 octobre 2017 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L520-16
+  - Code de l'urbanisme - art. L520-17
+
+
+#### Section 8 : Recouvrement<a id=806></a>
+
+###### Article R520-17
+
+La taxe est recouvrée dans les conditions prévues pour les recettes de l'Etat mentionnées aux articles 112 à 124 du décret du
+7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 112 (V)
+
+_Créé par_:
+
+  - Décret n°2017-1421 du 2 octobre 2017 - art. 1
+
+
+#### Section 9 : Recours<a id=807></a>
+
+###### Article R520-18
+
+Les responsables des services de l'Etat mentionnés à l'article L. 520-10 sont compétents pour statuer sur les réclamations.
+
+Ils peuvent déléguer cette compétence aux agents placés sous leur autorité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1421 du 2 octobre 2017 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L520-10
+
+
+### Titre III : Implantation hors de la région parisienne de certaines activités<a id=808></a>
 
 ###### Article R530-3
 
@@ -70186,7 +70175,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-### Titre V : Sanctions<a id=802></a>
+### Titre V : Sanctions<a id=809></a>
 
 ###### Article R550-1
 
@@ -70210,7 +70199,7 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-## Livre VI : Dispositions relatives au contentieux de l'urbanisme et dispositions diverses<a id=803></a>
+## Livre VI : Dispositions relatives au contentieux de l'urbanisme et dispositions diverses<a id=810></a>
 
 ###### Article R*600-1
 
@@ -70303,9 +70292,9 @@ _Codifié par_:
   - Décret n°73-1023 1973-11-08
 
 
-### Titre Ier : Infractions et sanctions<a id=804></a>
+### Titre Ier : Infractions et sanctions<a id=811></a>
 
-#### Section 1 :  Assermentation des agents chargés de constater les infractions<a id=805></a>
+#### Section 1 :  Assermentation des agents chargés de constater les infractions<a id=812></a>
 
 ###### Article R610-1
 
@@ -70381,7 +70370,7 @@ _Cite_:
   - Code de l'urbanisme - art. R610-1 (V)
 
 
-### Titre II : Dispositions diverses<a id=806></a>
+### Titre II : Dispositions diverses<a id=813></a>
 
 ###### Article R*620-1
 
@@ -70426,15 +70415,15 @@ _Anciens textes_:
   - Code de l'urbanisme - art. R*160-7 (Ab)
 
 
-# Partie réglementaire - Arrêtés<a id=807></a>
+# Partie réglementaire - Arrêtés<a id=814></a>
 
-## Livre Ier : Règles générales d'aménagement et d'urbanisme<a id=808></a>
+## Livre Ier : Règles générales d'aménagement et d'urbanisme<a id=815></a>
 
-### Titre  Ier : Règles générales d'utilisation du sol<a id=809></a>
+### Titre  Ier : Règles générales d'utilisation du sol<a id=816></a>
 
-#### Chapitre Ier : Règles générales de l'urbanisme<a id=810></a>
+#### Chapitre Ier : Règles générales de l'urbanisme<a id=817></a>
 
-##### Section 1 : Règlement national d'urbanisme<a id=811></a>
+##### Section 1 : Règlement national d'urbanisme<a id=818></a>
 
 ###### Article A111-1
 
@@ -70456,9 +70445,9 @@ _Cite_:
   - Code de l'urbanisme - art. *R111-24-2 (V)
 
 
-##### Section 2 : Dispositions relatives à l'implantation des habitations légères de loisirs, à l'installation des résidences mobiles de loisirs et des caravanes et au camping<a id=812></a>
+##### Section 2 : Dispositions relatives à l'implantation des habitations légères de loisirs, à l'installation des résidences mobiles de loisirs et des caravanes et au camping<a id=819></a>
 
-##### Sous-section 1 : Résidences mobiles de loisirs<a id=813></a>
+##### Sous-section 1 : Résidences mobiles de loisirs<a id=820></a>
 
 ###### Article A111-2
 
@@ -70487,7 +70476,7 @@ _Créé par_:
   - Arrêté 2007-09-28 art. 1 JORF 6 octobre 2007 en vigueur le 1er octobre 2007
 
 
-##### Sous-section 2 : Caravanes<a id=814></a>
+##### Sous-section 2 : Caravanes<a id=821></a>
 
 ###### Article A111-4
 
@@ -70522,7 +70511,7 @@ _Créé par_:
   - Arrêté 2007-09-28 art. 1 JORF 6 octobre 2007 en vigueur le 1er octobre 2007
 
 
-##### Sous-section 3 : Terrains de camping et parcs résidentiels de loisirs<a id=815></a>
+##### Sous-section 3 : Terrains de camping et parcs résidentiels de loisirs<a id=822></a>
 
 ###### Article A111-6
 
@@ -70540,7 +70529,7 @@ _Cite_:
   - Code de l'urbanisme - art. A111-7 (V)
 
 
-##### Paragraphe 1 : Terrains de camping<a id=816></a>
+##### Paragraphe 1 : Terrains de camping<a id=823></a>
 
 ###### Article A111-7
 
@@ -70611,7 +70600,7 @@ _Cite_:
   - Code de l'urbanisme - art. A111-7 (V)
 
 
-##### Paragraphe 2 : Parcs résidentiels de loisirs<a id=817></a>
+##### Paragraphe 2 : Parcs résidentiels de loisirs<a id=824></a>
 
 ###### Article A111-9
 
@@ -70676,9 +70665,9 @@ _Cite_:
   - Code de l'urbanisme - art. A111-7 (V)
 
 
-### Titre  II : Prévisions et règles d'urbanisme<a id=818></a>
+### Titre  II : Prévisions et règles d'urbanisme<a id=825></a>
 
-#### Chapitre Ier : Dispositions générales communes aux schémas directeurs et aux plans d'occupation des sols<a id=819></a>
+#### Chapitre Ier : Dispositions générales communes aux schémas directeurs et aux plans d'occupation des sols<a id=826></a>
 
 ###### Article A121-4
 
@@ -70693,9 +70682,9 @@ _Cite_:
   - Code de l'urbanisme - art. L121-8 (V)
 
 
-#### Chapitre  III : Plans d'occupation des sols<a id=820></a>
+#### Chapitre  III : Plans d'occupation des sols<a id=827></a>
 
-##### Section 3 : Contenu du plan d'occupation des sols<a id=821></a>
+##### Section 3 : Contenu du plan d'occupation des sols<a id=828></a>
 
 ###### Article A123-1
 
@@ -70852,7 +70841,7 @@ _Cite_:
   - Code de l'urbanisme - art. R*123-21 (V)
 
 
-#### Chapitre  VI : Servitudes d'utilité publique affectant l'utilisation du sol<a id=822></a>
+#### Chapitre  VI : Servitudes d'utilité publique affectant l'utilisation du sol<a id=829></a>
 
 ###### Article A126-1
 
@@ -70875,7 +70864,7 @@ _Cite_:
   - Code de l'urbanisme - art. R*126-1 (V)
 
 
-### Titre  III : Espaces boisés<a id=823></a>
+### Titre  III : Espaces boisés<a id=830></a>
 
 ###### Article A130-1
 
@@ -70947,9 +70936,9 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. L300-1 (V)
 
 
-### Titre  IV : Dispositions spéciales à certaines parties du territoire<a id=824></a>
+### Titre  IV : Dispositions spéciales à certaines parties du territoire<a id=831></a>
 
-#### Chapitre  II : Espaces naturels sensibles des départements<a id=825></a>
+#### Chapitre  II : Espaces naturels sensibles des départements<a id=832></a>
 
 ###### Article A142-1
 
@@ -70974,9 +70963,9 @@ _Cite_:
   - Code de l'urbanisme - art. R142-9 (V)
 
 
-### Titre  VI : Sanctions et servitudes<a id=826></a>
+### Titre  VI : Sanctions et servitudes<a id=833></a>
 
-#### Section 3 : Agrément des associations exerçant leurs activités dans le domaine de la protection de la nature et de l'environnement et de l'amélioration du cadre de vie<a id=827></a>
+#### Section 3 : Agrément des associations exerçant leurs activités dans le domaine de la protection de la nature et de l'environnement et de l'amélioration du cadre de vie<a id=834></a>
 
 ###### Article A160-1
 
@@ -70997,11 +70986,11 @@ _Cite_:
   - Code de l'urbanisme - art. L480-1 (V)
 
 
-## Livre  II : Préemption et réserves foncières<a id=828></a>
+## Livre  II : Préemption et réserves foncières<a id=835></a>
 
-### Titre  Ier : Droits de préemption<a id=829></a>
+### Titre  Ier : Droits de préemption<a id=836></a>
 
-#### Chapitre  Ier : Droit de préemption urbain<a id=830></a>
+#### Chapitre  Ier : Droit de préemption urbain<a id=837></a>
 
 ###### Article A211-1
 
@@ -71025,7 +71014,7 @@ _Cite_:
   - Code de l'urbanisme - art. R211-7 (V)
 
 
-#### Chapitre  II : Zones d'aménagement différé<a id=831></a>
+#### Chapitre  II : Zones d'aménagement différé<a id=838></a>
 
 ###### Article A212-1
 
@@ -71049,7 +71038,7 @@ _Cite_:
   - Code de l'urbanisme - art. R212-4 (V)
 
 
-#### Chapitre  III : Dispositions communes au droit de préemption urbain et aux zones d'aménagement différé<a id=832></a>
+#### Chapitre  III : Dispositions communes au droit de préemption urbain et aux zones d'aménagement différé<a id=839></a>
 
 ###### Article A213-1
 
@@ -71081,7 +71070,7 @@ _Cite_:
   - Code de l'urbanisme - art. R213-5 (V)
 
 
-#### Chapitre  IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce et les baux commerciaux<a id=833></a>
+#### Chapitre  IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce et les baux commerciaux<a id=840></a>
 
 ###### Article A214-1
 
@@ -71102,11 +71091,11 @@ _Cite_:
   - Code de l'urbanisme - art. L214-1
 
 
-## Livre  III : Aménagement foncier<a id=834></a>
+## Livre  III : Aménagement foncier<a id=841></a>
 
-### Titre  III : Dispositions financières<a id=835></a>
+### Titre  III : Dispositions financières<a id=842></a>
 
-#### Chapitre  II : Participation des constructeurs et des lotisseurs<a id=836></a>
+#### Chapitre  II : Participation des constructeurs et des lotisseurs<a id=843></a>
 
 ###### Article A332-1
 
@@ -71127,7 +71116,7 @@ _Cite_:
   - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
-### Titre IV : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte<a id=837></a>
+### Titre IV : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte<a id=844></a>
 
 ###### Article A340-1
 
@@ -71198,9 +71187,9 @@ _Modifié par_:
   - Arrêté du 22 mars 2016 - art. 1
 
 
-## Livre  IV : Régime applicable aux constructions, aménagements et démolitions<a id=838></a>
+## Livre  IV : Régime applicable aux constructions, aménagements et démolitions<a id=845></a>
 
-### Titre Ier : Certificat d'urbanisme<a id=839></a>
+### Titre Ier : Certificat d'urbanisme<a id=846></a>
 
 ###### Article A410-1
 
@@ -71339,9 +71328,9 @@ _Cite_:
   - Code de l'urbanisme - art. L410-1 (V)
 
 
-### Titre  II : Dispositions communes aux diverses autorisations et aux déclarations préalables<a id=840></a>
+### Titre  II : Dispositions communes aux diverses autorisations et aux déclarations préalables<a id=847></a>
 
-#### Chapitre  Ier : Champ d'application<a id=841></a>
+#### Chapitre  Ier : Champ d'application<a id=848></a>
 
 ###### Article A421-1
 
@@ -71403,7 +71392,7 @@ _Cite_:
   - Code de l'urbanisme - art. *R421-8 (V)
 
 
-#### Chapitre  III : Dépôt et instruction des demandes de permis et des déclarations<a id=842></a>
+#### Chapitre  III : Dépôt et instruction des demandes de permis et des déclarations<a id=849></a>
 
 ###### Article A423-1
 
@@ -71475,11 +71464,11 @@ _Modifié par_:
   - Arrêté du 25 mars 2013 - art. 1
 
 
-#### Chapitre  IV : Décisions<a id=843></a>
+#### Chapitre  IV : Décisions<a id=850></a>
 
-##### Section 1 : Contenu de la décision<a id=844></a>
+##### Section 1 : Contenu de la décision<a id=851></a>
 
-##### Sous-section 1 : Dispositions communes<a id=845></a>
+##### Sous-section 1 : Dispositions communes<a id=852></a>
 
 ###### Article A424-1
 
@@ -71720,7 +71709,7 @@ _Cite_:
   - Code de l'urbanisme - art. R*424-17
 
 
-##### Sous-section 2 : Dispositions propres aux constructions<a id=846></a>
+##### Sous-section 2 : Dispositions propres aux constructions<a id=853></a>
 
 ###### Article A424-9
 
@@ -71745,7 +71734,7 @@ _Cite_:
   - Code des assurances - art. L242-1 (V)
 
 
-##### Sous-section 3 : Dispositions propres aux lotissements<a id=847></a>
+##### Sous-section 3 : Dispositions propres aux lotissements<a id=854></a>
 
 ###### Article A424-10
 
@@ -71781,7 +71770,7 @@ _Cite_:
   - Code de l'urbanisme - art. *R442-13 (V)
 
 
-##### Sous-section 4 : Dispositions propres aux terrains de camping et aux parcs résidentiels de loisirs<a id=848></a>
+##### Sous-section 4 : Dispositions propres aux terrains de camping et aux parcs résidentiels de loisirs<a id=855></a>
 
 ###### Article A424-12
 
@@ -71813,7 +71802,7 @@ _Créé par_:
   - Arrêté 2007-09-11 art. 4 I JORF 13 septembre 2007 en vigueur le le 1er octobre 2007
 
 
-##### Section 2 : Notification de la décision<a id=849></a>
+##### Section 2 : Notification de la décision<a id=856></a>
 
 ###### Article A424-14
 
@@ -71828,7 +71817,7 @@ _Créé par_:
   - Arrêté 2007-09-11 art. 4 I JORF 13 septembre 2007 en vigueur le le 1er octobre 2007
 
 
-##### Section 3 : Affichage de la décision<a id=850></a>
+##### Section 3 : Affichage de la décision<a id=857></a>
 
 ###### Article A424-15
 
@@ -71972,11 +71961,11 @@ _Cite_:
   - Code de l'urbanisme - art. R*424-16
 
 
-### Titre  III : Dispositions propres aux constructions<a id=851></a>
+### Titre  III : Dispositions propres aux constructions<a id=858></a>
 
-#### Chapitre Ier : Dispositions générales<a id=852></a>
+#### Chapitre Ier : Dispositions générales<a id=859></a>
 
-##### Section 1 : Déclaration préalable<a id=853></a>
+##### Section 1 : Déclaration préalable<a id=860></a>
 
 ###### Article A431-1
 
@@ -72047,7 +72036,7 @@ _Cite_:
   - Code de l'urbanisme - art. R*423-3 (V)
 
 
-##### Section 2 : Permis de construire<a id=854></a>
+##### Section 2 : Permis de construire<a id=861></a>
 
 ###### Article A431-4
 
@@ -72149,7 +72138,7 @@ _Modifié par_:
   - Décret n°2015-1165 du 21 septembre 2015 - art. 8 (V)
 
 
-##### Section 3 : Dispositions communes<a id=855></a>
+##### Section 3 : Dispositions communes<a id=862></a>
 
 ###### Article A431-9
 
@@ -72188,7 +72177,7 @@ _Cite_:
   - Code de l'urbanisme - art. R*431-9
 
 
-##### Section 4 : Dispositions applicables aux constructions soumises à des règles parasismiques<a id=856></a>
+##### Section 4 : Dispositions applicables aux constructions soumises à des règles parasismiques<a id=863></a>
 
 ###### Article A431-10
 
@@ -72250,7 +72239,7 @@ _Cite_:
   - Code de l'urbanisme - art. A431-10 (V)
 
 
-#### Chapitre  IV : Dispositions diverses<a id=857></a>
+#### Chapitre  IV : Dispositions diverses<a id=864></a>
 
 ###### Article A434-1
 
@@ -72270,11 +72259,11 @@ _Modifié par_:
   - Arrêté du 10 février 2012 - art. 1
 
 
-### Titre  IV : Dispositions propres aux aménagements<a id=858></a>
+### Titre  IV : Dispositions propres aux aménagements<a id=865></a>
 
-#### Chapitre Ier : Dispositions communes<a id=859></a>
+#### Chapitre Ier : Dispositions communes<a id=866></a>
 
-##### Section 1 : Déclaration préalable<a id=860></a>
+##### Section 1 : Déclaration préalable<a id=867></a>
 
 ###### Article A441-1
 
@@ -72339,7 +72328,7 @@ _Cite_:
   - Code de l'urbanisme - art. R*423-3 (V)
 
 
-##### Section 2 : Permis d'aménager<a id=861></a>
+##### Section 2 : Permis d'aménager<a id=868></a>
 
 ###### Article A441-4
 
@@ -72435,7 +72424,7 @@ _Modifié par_:
   - Décret n°2015-1165 du 21 septembre 2015 - art. 8 (V)
 
 
-##### Section 3 : Dispositions communes<a id=862></a>
+##### Section 3 : Dispositions communes<a id=869></a>
 
 ###### Article A441-9
 
@@ -72480,7 +72469,7 @@ _Cite_:
   - Code de l'urbanisme - art. R*431-8 (V)
 
 
-#### Chapitre  IV : Modèles nationaux de demande et de décision<a id=863></a>
+#### Chapitre  IV : Modèles nationaux de demande et de décision<a id=870></a>
 
 ###### Article A444-1
 
@@ -72500,9 +72489,9 @@ _Modifié par_:
   - Arrêté du 10 février 2012 - art. 1
 
 
-### Titre  V : Dispositions propres aux démolitions<a id=864></a>
+### Titre  V : Dispositions propres aux démolitions<a id=871></a>
 
-#### Chapitre Ier : Demande de permis de démolir<a id=865></a>
+#### Chapitre Ier : Demande de permis de démolir<a id=872></a>
 
 ###### Article A451-1
 
@@ -72562,7 +72551,7 @@ _Cite_:
   - Code de l'urbanisme - art. R*423-3 (V)
 
 
-#### Chapitre  III : Modèles nationaux de demande et de décision<a id=866></a>
+#### Chapitre  III : Modèles nationaux de demande et de décision<a id=873></a>
 
 ###### Article A453-4
 
@@ -72581,11 +72570,11 @@ _Modifié par_:
   - Arrêté du 10 février 2012 - art. 1
 
 
-### Titre  VI : Contrôle de la conformité des travaux<a id=867></a>
+### Titre  VI : Contrôle de la conformité des travaux<a id=874></a>
 
-#### Chapitre  II : Achèvement des travaux de construction ou d'aménagement<a id=868></a>
+#### Chapitre  II : Achèvement des travaux de construction ou d'aménagement<a id=875></a>
 
-##### Section 1 : Dispositions communes<a id=869></a>
+##### Section 1 : Dispositions communes<a id=876></a>
 
 ###### Article A462-1
 
@@ -72610,7 +72599,7 @@ _Cite_:
   - Code de l'urbanisme - art. R462-1
 
 
-##### Section 2 : Dispositions applicables aux constructions soumises à des règles parasismiques<a id=870></a>
+##### Section 2 : Dispositions applicables aux constructions soumises à des règles parasismiques<a id=877></a>
 
 ###### Article A462-2
 
@@ -72706,9 +72695,9 @@ _Codifié par_:
   - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-### Titre  VII : Dispositions diverses<a id=871></a>
+### Titre  VII : Dispositions diverses<a id=878></a>
 
-#### Chapitre  II : Remontées mécaniques<a id=872></a>
+#### Chapitre  II : Remontées mécaniques<a id=879></a>
 
 ###### Article A472-1
 
@@ -72728,13 +72717,13 @@ _Créé par_:
   - Arrêté du 23 novembre 2007 - art. 1
 
 
-## Livre  V : Implantation des services, établissements et entreprises<a id=873></a>
+## Livre  V : Implantation des services, établissements et entreprises<a id=880></a>
 
-### Titre  II : Dispositions financières concernant la région d'Ile-de-France<a id=874></a>
+### Titre  II : Dispositions financières concernant la région d'Ile-de-France<a id=881></a>
 
-#### Section 1 : Dispositions générales<a id=875></a>
+#### Section 1 : Dispositions générales<a id=882></a>
 
-##### Sous-section 1 : Perception des redevances<a id=876></a>
+##### Sous-section 1 : Perception des redevances<a id=883></a>
 
 ###### Article A520-1
 
@@ -72825,7 +72814,7 @@ _Cite_:
   - Code de l'urbanisme - art. A520-2 (VT)
 
 
-##### Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance<a id=877></a>
+##### Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance<a id=884></a>
 
 ###### Article A520-4
 
@@ -72938,11 +72927,11 @@ _Cite_:
   - Code de l'urbanisme - art. A520-4 (V)
 
 
-## Livre  VI : Organismes consultatifs et dispositions diverses<a id=878></a>
+## Livre  VI : Organismes consultatifs et dispositions diverses<a id=885></a>
 
-### Titre Ier : Organismes consultatifs<a id=879></a>
+### Titre Ier : Organismes consultatifs<a id=886></a>
 
-#### Chapitre  IV : Architectes-conseils et paysagistes-conseils<a id=880></a>
+#### Chapitre  IV : Architectes-conseils et paysagistes-conseils<a id=887></a>
 
 ###### Article A614-1
 
@@ -73033,9 +73022,9 @@ _Cite_:
   - Code de l'urbanisme - art. A614-1 (V)
 
 
-# Annexes<a id=881></a>
+# Annexes<a id=888></a>
 
-## Attestation du contrôleur technique établissant qu'il a fait connaître au maître d'ouvrage de la construction son avis sur la prise en compte au stade de la conception des règles parasismiques.<a id=882></a>
+## Attestation du contrôleur technique établissant qu'il a fait connaître au maître d'ouvrage de la construction son avis sur la prise en compte au stade de la conception des règles parasismiques.<a id=889></a>
 
 ###### Article A431-10 Annexe
 
@@ -73079,7 +73068,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L111-23 (V)
 
 
-## Attestation du contrôleur technique justifiant de la prise en compte de ses avis par le maître d'ouvrage de la construction sur le respect des règles de construction parasismique<a id=883></a>
+## Attestation du contrôleur technique justifiant de la prise en compte de ses avis par le maître d'ouvrage de la construction sur le respect des règles de construction parasismique<a id=890></a>
 
 ###### Article A462-4 Annexe
 

@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2017-10-05
+Version Consolidée au 2017-10-06
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -738,7 +738,7 @@ Version Consolidée au 2017-10-05
           - [Section 6 : Instruction des demandes de permis et des déclarations préalables (art. R*423-50 à R423-71-2)](#735)
             - [Sous-section 1 : Consultation des personnes publiques, services ou commissions intéressés (art. R*423-50 à R*423-56-1)](#736)
             - [Sous-section 2 : Enquête publique (art. R*423-57 à R*423-58)](#737)
-            - [Sous-section 3 : Délais et conditions d'émission des avis ou accords des personnes publiques, services ou commissions intéressés (art. R*423-59 à R*423-71-1)](#738)
+            - [Sous-section 3 : Délais et conditions d'émission des avis ou accords des personnes publiques, services ou commissions intéressés (art. R*423-59 à R423-70-1)](#738)
             - [Sous-section 4 : Procédures intégrées (art. R423-71-2)](#739)
           - [Section 7 : Dispositions particulières aux demandes et aux déclarations lorsque la décision est de la compétence de l'Etat (art. R*423-72 à R*423-74)](#740)
         - [Chapitre IV : Décisions (art. R*424-1 à R424-24)](#741)
@@ -751,7 +751,7 @@ Version Consolidée au 2017-10-05
           - [Section 7 : Prorogation du permis ou de la décision intervenue sur la déclaration préalable (art. R*424-21 à R*424-23)](#748)
           - [Section 8 : Prise en considération d'un projet de travaux publics ou d'une opération d'aménagement en application de l'article L. 424-1 (art. R424-24)](#749)
         - [Chapitre V : Opérations soumises à un régime d'autorisation prévu par une autre législation (art. R*425-1 à R*425-31)](#750)
-          - [Section 1 : Opérations pour lesquelles le permis ou la décision prise sur la déclaration préalable tient lieu de l'autorisation prévue par une autre législation (art. R*425-1 à R*425-15-1)](#751)
+          - [Section 1 : Opérations pour lesquelles le permis ou la décision prise sur la déclaration préalable tient lieu de l'autorisation prévue par une autre législation (art. R*425-1 à R425-15-2)](#751)
           - [Section 2 : Opérations pour lesquelles le permis ou la décision prise sur la déclaration préalable est subordonné à un accord prévu par une autre législation (art. *R425-22-1 à R*425-22)](#752)
           - [Section 3 : Opérations pour lesquelles l'autorisation prévue par une autre législation dispense de permis ou de déclaration préalable (art. R*425-23 à R425-29-2)](#753)
           - [Section 4 : Opérations pour lesquelles la délivrance d'un permis ou la réalisation des travaux est différée dans l'attente de formalités prévues par une autre législation (art. R*425-30 à R*425-31)](#754)
@@ -63667,6 +63667,27 @@ _Cite_:
   - Code de l'environnement - art. R414-25 (V)
 
 
+###### Article R423-70-1
+
+Par exception aux dispositions de l'article R. * 423-59, lorsque la demande de permis de construire ou la déclaration
+préalable porte sur des travaux conduisant à la création de plusieurs locaux à usage d'habitation dans un immeuble existant,
+dans une zone où a été instituée l'autorisation préalable prévue par l'article L. 111-6-1-1 ou l'article L. 111-6-1-2 du code
+de la construction et de l'habitation, l'accord de l'autorité compétente pour délivrer cette même autorisation préalable est
+réputé donné à l'issue d'un délai de quinze jours.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1431 du 3 octobre 2017 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R*423-59
+  - Code de la construction et de l'habitation. - art. L111-6-1-1
+  - Code de la construction et de l'habitation. - art. L111-6-1-2
+
+
 ##### Sous-section 4 : Procédures intégrées<a id=739></a>
 
 ###### Article R423-71-2
@@ -64847,6 +64868,26 @@ _Cite_:
 
   - Code de commerce - art. L752-1
   - Code de commerce - art. L752-17
+
+
+###### Article R425-15-2
+
+Lorsque le projet porte sur des travaux conduisant à la création de plusieurs locaux à usage d'habitation dans un immeuble
+existant, dans une zone où a été instituée l'autorisation préalable prévue par l'article L. 111-6-1-1 ou l'article L.
+111-6-1-2 du code de la construction et de l'habitation, le permis de construire ou la décision prise sur la déclaration
+préalable tient lieu de cette même autorisation préalable dès lors que la décision a fait l'objet de l'accord de l'autorité
+compétente pour délivrer cette même autorisation préalable.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1431 du 3 octobre 2017 - art. 2
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L111-6-1-1
+  - Code de la construction et de l'habitation. - art. L111-6-1-2
 
 
 ##### Section 2 : Opérations pour lesquelles le permis ou la décision prise sur la déclaration préalable est subordonné à un accord prévu par une autre législation<a id=752></a>

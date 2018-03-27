@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2018-03-02
+Version Consolidée au 2018-03-28
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -21821,6 +21821,9 @@ public de coopération intercommunale compétent, les zones d'aménagement conce
 régions, des départements ou de leurs établissements publics et concessionnaires et les zones d'aménagement concerté situées,
 en tout ou partie, à l'intérieur d'un périmètre d'opération d'intérêt national.
 
+La décision qui approuve le périmètre et le programme de la zone peut également approuver l'aménagement et l'équipement de
+celle-ci.
+
 Une même zone d'aménagement concerté peut être créée sur plusieurs emplacements territorialement distincts.
 
 **Liens relatifs à cet article**
@@ -21864,21 +21867,19 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1585 C (VT)
   - Code général des impôts, CGI. - art. 1594-0 G (VD)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
-  - SPEC_APPLI: Décret n°2001-261 du 27 mars 2001 - art. 3 (V)
-  - TXT_ASSOCIE: Code de l'urbanisme - art. L333-7 (Ab)
-  - TXT_ASSOCIE: Code de l'urbanisme - art. L333-8 (Ab)
-
 _Modifié par_:
 
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 7
+  - Loi n°2018-202 du 26 mars 2018 - art. 14
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L333-7 (M)
-  - Code de l'urbanisme - art. L333-8 (M)
+  - Code de l'urbanisme - art. L333-7
+  - Code de l'urbanisme - art. L333-8
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de l'urbanisme - art. L333-7 (Ab)
+  - TXT_ASSOCIE: Code de l'urbanisme - art. L333-8 (Ab)
 
 _Anciens textes_:
 

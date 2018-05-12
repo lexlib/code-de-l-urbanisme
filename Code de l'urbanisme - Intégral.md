@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2018-03-28
+Version Consolidée au 2018-05-13
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -59724,7 +59724,12 @@ sur une liste fixée par arrêté conjoint du ministre chargé de l'urbanisme et
 c) Les dispositifs techniques nécessaires aux systèmes de radiocommunication numérique de la police et de la gendarmerie
 nationales ;
 
-d) Les constructions situées à l'intérieur de l'enceinte des établissements pénitentiaires.
+d) Les constructions situées à l'intérieur de l'enceinte des établissements pénitentiaires ;
+
+e) Les constructions situées sur une propriété immobilière de l'Etat, soit au sein d'établissements, d'installations ou
+d'ouvrages désignés par l'autorité administrative en application de l'article L. 1332-1 du code de la défense, soit destinées
+elles-mêmes à être désignées par cette autorité, et réalisées pour le compte des services mentionnés à l'article R. 811-1 du
+code de la sécurité intérieurerelevant du ministre de la défense.
 
 **Liens relatifs à cet article**
 
@@ -59732,6 +59737,7 @@ _Cité par_:
 
   - Arrêté du 5 décembre 2008 (V)
   - Arrêté du 24 novembre 2009 - art. 6 (V)
+  - Décret n°2018-346 du 9 mai 2018 - art. 4
   - Code de l'environnement - art. R123-44 (V)
   - Code de l'urbanisme - art. *R421-13 (V)
   - Code de l'urbanisme - art. *R421-16 (V)
@@ -59741,7 +59747,15 @@ _Cité par_:
   - Code de l'urbanisme - art. R445-12 (Ab)
   - Code de l'urbanisme - art. R445-8 (Ab)
   - Code de la défense. - art. R2313-2 (V)
+
+_Modifié par_:
+
   - Décret n°2018-346 du 9 mai 2018 - art. 4
+
+_Cite_:
+
+  - Code de la défense. - art. L1332-1
+  - Code de la sécurité intérieure - art. R811-1
 
 _Anciens textes_:
 

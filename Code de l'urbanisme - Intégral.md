@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2018-06-03
+Version Consolidée au 2018-07-19
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -47357,18 +47357,15 @@ commissaire enquêteur ou de la commission d'enquête ainsi que le procès-verba
 pour avis par le préfet à l'organe délibérant de l'établissement public de coopération intercommunale compétent ou au conseil
 municipal. Si ceux-ci ne se sont pas prononcés dans un délai de deux mois, ils sont réputés avoir donné un avis favorable.
 
-Le ministre chargé de l'urbanisme contresigne ou cosigne la déclaration d'utilité publique emportant approbation des
-nouvelles dispositions du plan local d'urbanisme lorsque cette déclaration ne relève pas de la compétence du préfet.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art.
+  - Décret n°2018-617 du 17 juillet 2018 - art. 5
 
 _Anciens textes_:
 
@@ -71084,14 +71081,13 @@ _Codifié par_:
 
 ###### Article R*600-1
 
-En cas de déféré du préfet ou de recours contentieux à l'encontre d'un certificat d'urbanisme, d'une décision de non-
-opposition à une déclaration préalable ou d'un permis de construire, d'aménager ou de démolir, le préfet ou l'auteur du
-recours est tenu, à peine d'irrecevabilité, de notifier son recours à l'auteur de la décision et au titulaire de
-l'autorisation. Cette notification doit également être effectuée dans les mêmes conditions en cas de demande tendant à
-l'annulation ou à la réformation d'une décision juridictionnelle concernant un certificat d'urbanisme, une décision de non-
-opposition à une déclaration préalable ou un permis de construire, d'aménager ou de démolir. L'auteur d'un recours
-administratif est également tenu de le notifier à peine d'irrecevabilité du recours contentieux qu'il pourrait intenter
-ultérieurement en cas de rejet du recours administratif.
+En cas de déféré du préfet ou de recours contentieux à l'encontre d'un certificat d'urbanisme, ou d'une décision relative à
+l'occupation ou l'utilisation du sol régie par le présent code, le préfet ou l'auteur du recours est tenu, à peine
+d'irrecevabilité, de notifier son recours à l'auteur de la décision et au titulaire de l'autorisation. Cette notification
+doit également être effectuée dans les mêmes conditions en cas de demande tendant à l'annulation ou à la réformation d'une
+décision juridictionnelle concernant un certificat d'urbanisme, ou une décision relative à l'occupation ou l'utilisation du
+sol régie par le présent code. L'auteur d'un recours administratif est également tenu de le notifier à peine d'irrecevabilité
+du recours contentieux qu'il pourrait intenter ultérieurement en cas de rejet du recours administratif.
 
 La notification prévue au précédent alinéa doit intervenir par lettre recommandée avec accusé de réception, dans un délai de
 quinze jours francs à compter du dépôt du déféré ou du recours.
@@ -71102,10 +71098,18 @@ lettre recommandée auprès des services postaux.
 
 **Nota:**
 
-Décret 2007-18 du 5 janvier 2007 art. 26 3. : Ces dispositions s'appliquent aux actions introduites à compter du 1er juillet
-2007. Cette date est reportée au 1er octobre 2007 par l'article 4 du décret n° 2007-817 du 11 mai 2007.
+Conformément à l’article 9 du décret n° 2018-617 du 17 juillet 2018, ces dispositions sont applicables aux requêtes dirigées
+contre des décisions intervenues après le 1er octobre 2018.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+_Modifié par_:
+
+  - Décret n°2018-617 du 17 juillet 2018 - art. 7
 
 **Liens**:
 
@@ -71116,10 +71120,6 @@ _Cité par_:
   - Code de l'urbanisme - art. A424-17 (V)
   - Code de l'urbanisme - art. R*424-15 (V)
   - Code de l'urbanisme - art. R*760-1 (Ab)
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*600-2
@@ -71151,26 +71151,100 @@ _Codifié par_:
 ###### Article R*600-3
 
 Aucune action en vue de l'annulation d'un permis de construire ou d'aménager ou d'une décision de non-opposition à une
-déclaration préalable n'est recevable à l'expiration d'un délai d'un an à compter de l'achèvement de la construction ou de
-l'aménagement.
+déclaration préalable n'est recevable à l'expiration d'un délai de six mois à compter de l'achèvement de la construction ou
+de l'aménagement.
 
 Sauf preuve contraire, la date de cet achèvement est celle de la réception de la déclaration d'achèvement mentionnée à
 l'article R. 462-1.
 
 **Nota:**
 
-Décret 2007-18 2007-01-05 art. 26 3. : ces dispositions sont applicables aux actions introduites à compter du 1er juillet
-2007.
+Conformément à l’article 9 du décret n° 2018-617 du 17 juillet 2018, ces dispositions sont applicables aux requêtes dirigées
+contre des décisions intervenues après le 1er octobre 2018.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R462-1 (V)
+  - Code de l'urbanisme - art. R462-1
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+_Modifié par_:
+
+  - Décret n°2018-617 du 17 juillet 2018 - art. 7
+
+
+###### Article R*600-4
+
+Les requêtes dirigées contre une décision relative à l'occupation ou l'utilisation du sol régie par le présent code doivent,
+à peine d'irrecevabilité, être accompagnées du titre de propriété, de la promesse de vente, du bail, du contrat préliminaire
+mentionné à l'article L. 261-15 du code de la construction et de l'habitation, du contrat de bail, ou de tout autre acte de
+nature à établir le caractère régulier de l'occupation ou de la détention de son bien par le requérant.
+
+Lorsqu'elles sont introduites par une association, ces mêmes requêtes doivent, à peine d'irrecevabilité, être accompagnées
+des statuts de celle-ci, ainsi que du récépissé attestant de sa déclaration en préfecture.
+
+Le présent article n'est pas applicable aux décisions contestées par le pétitionnaire.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2018-617 du 17 juillet 2018, ces dispositions sont applicables aux requêtes dirigées
+contre des décisions intervenues après le 1er octobre 2018.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2018-617 du 17 juillet 2018 - art. 7
+
+
+###### Article R600-5
+
+Par dérogation à l'article R. 611-7-1 du code de justice administrative, et sans préjudice de l'application de l'article R.
+613-1 du même code, lorsque la juridiction est saisie d'une requête relative à une décision d'occupation ou d'utilisation du
+sol régie par le présent code, ou d'une demande tendant à l'annulation ou à la réformation d'une décision juridictionnelle
+concernant une telle décision, les parties ne peuvent plus invoquer de moyens nouveaux passé un délai de deux mois à compter
+de la communication aux parties du premier mémoire en défense. Cette communication s'effectue dans les conditions prévues au
+deuxième alinéa de l'article R. 611-3 du code de justice administrative.
+
+Le président de la formation de jugement, ou le magistrat qu'il désigne à cet effet, peut, à tout moment, fixer une nouvelle
+date de cristallisation des moyens lorsque le jugement de l'affaire le justifie.
+
+Le présent article n'est pas applicable aux décisions contestées par le pétitionnaire.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2018-617 du 17 juillet 2018, ces dispositions sont applicables aux requêtes
+enregistrées à compter du 1er octobre 2018.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-617 du 17 juillet 2018 - art. 7
+
+
+###### Article R600-6
+
+Le juge statue dans un délai de dix mois sur les recours contre les permis de construire un bâtiment comportant plus de deux
+logements ou contre les permis d'aménager un lotissement.
+
+La cour administrative d'appel statue dans le même délai sur les jugements rendus sur les requêtes mentionnées au premier
+alinéa.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2018-617 du 17 juillet 2018, ces dispositions sont applicables aux requêtes
+enregistrées à compter du 1er octobre 2018.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-617 du 17 juillet 2018 - art. 7
 
 
 ### Titre Ier : Infractions et sanctions<a id=811></a>

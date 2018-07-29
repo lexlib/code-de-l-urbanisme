@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2018-07-19
+Version Consolidée au 2018-07-30
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -663,7 +663,7 @@ Version Consolidée au 2018-07-19
         - [Chapitre V : Etablissement public national d'aménagement et de restructuration des espaces commerciaux et artisanaux (art. R325-1 à R325-9)](#660)
           - [Section 1 : Organisation administrative (art. R325-1 à R325-7)](#661)
           - [Section 2 : Organisation financière (art. R325-8 à R325-9)](#662)
-        - [Chapitre VIII : Etablissement public de gestion du quartier d'affaires de La Défense (art. R328-1 à R328-13)](#663)
+        - [Chapitre VIII : Etablissement public de gestion du quartier d'affaires de La Défense (art. R328-1 à R328-14)](#663)
         - [Chapitre IX : Organisme de foncier solidaire (art. R329-1 à R329-17)](#664)
           - [Section 1 : Régime de l'organisme de foncier solidaire (art. R329-1 à R329-5)](#665)
           - [Section 2 : Agrément de l'organisme de foncier solidaire (art. R329-6 à R329-10)](#666)
@@ -57324,6 +57324,27 @@ _Cite_:
 _Modifié par_:
 
   - Décret n°2017-1040 du 10 mai 2017 - art. 1
+
+
+###### Article R328-14
+
+Le périmètre prévu à l'article L. 328-2 correspond au périmètre de l'opération d'intérêt national mentionnée au 6° de
+l'article R. 102-3. 
+
+Le périmètre prévu à l'article L. 328-3 correspond au périmètre de l'opération d'intérêt national mentionnée au 2° du même
+article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-665 du 27 juillet 2018 - art. 2
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L328-2
+  - Code de l'urbanisme - art. L328-3
+  - Code de l'urbanisme - art. R102-3
 
 
 #### Chapitre IX : Organisme de foncier solidaire<a id=664></a>

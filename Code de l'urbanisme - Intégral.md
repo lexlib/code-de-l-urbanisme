@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2018-07-30
+Version Consolidée au 2018-08-06
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -24924,13 +24924,13 @@ _Cite_:
 Il est institué, auprès du conseil d'administration, un comité consultatif de personnalités représentatives d'associations
 reconnues d'utilité publique, des organisations professionnelles agricoles, des chambres consulaires, des organisations
 professionnelles et syndicales ainsi que des associations agréées dans le domaine de l'environnement. Ce comité comprend un
-député et un sénateur désignés par leur assemblée respective, ainsi qu'un représentant de la ville de Paris et un
-représentant de chacun des départements de la région d'Ile-de-France qui ne sont pas représentés au conseil d'administration.
-Ce comité est saisi par le conseil d'administration des projets concernant la stratégie et les grandes opérations
-d'équipement et d'aménagement de l'établissement public, les plans d'investissement de celui-ci et les orientations
-envisagées pour agir en faveur de la protection des espaces naturels, agricoles et forestiers. Il peut être saisi de tout
-autre sujet par le conseil d'administration, émettre des propositions et demander que des questions soient inscrites à
-l'ordre du jour d'une réunion du conseil d'administration.
+député et un sénateur, ainsi qu'un représentant de la ville de Paris et un représentant de chacun des départements de la
+région d'Ile-de-France qui ne sont pas représentés au conseil d'administration. Ce comité est saisi par le conseil
+d'administration des projets concernant la stratégie et les grandes opérations d'équipement et d'aménagement de
+l'établissement public, les plans d'investissement de celui-ci et les orientations envisagées pour agir en faveur de la
+protection des espaces naturels, agricoles et forestiers. Il peut être saisi de tout autre sujet par le conseil
+d'administration, émettre des propositions et demander que des questions soient inscrites à l'ordre du jour d'une réunion du
+conseil d'administration.
 
 **Nota:**
 
@@ -24946,9 +24946,9 @@ _Cité par_:
   - Décret n°2019-471 du 20 mai 2019 (V)
   - Décret n°2019-471 du 20 mai 2019 - art. 1
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2014-58 du 27 janvier 2014 - art. 25 (V)
+  - Loi n°2018-699 du 3 août 2018 - art. 75
 
 
 ###### Article L321-40

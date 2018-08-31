@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2018-08-12
+Version Consolidée au 2018-09-01
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -35790,7 +35790,10 @@ le périmètre défini par le décret n° 2016-1439 du 26 octobre 2016 ;
 décembre 2016 ; 
 
 20° A l'opération d'aménagement dite de la Porte Sud du Grand Paris, sur les communes de Bondoufle, Courcouronnes, Corbeil-
-Essonnes, Evry, Fleury-Mérogis et Ris-Orangis, dans le périmètre défini par le décret n° 2017-560 du 14 avril 2017.
+Essonnes, Evry, Fleury-Mérogis et Ris-Orangis, dans le périmètre défini par le décret n° 2017-560 du 14 avril 2017 ; 
+
+21° A la réalisation, pour les jeux Olympiques et Paralympiques 2024, de certains ouvrages olympiques en Seine-Saint-Denis,
+dans le périmètre défini par le décret n° 2018-223 du 30 mars 2018.
 
 **Liens relatifs à cet article**
 
@@ -35833,7 +35836,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-560 du 14 avril 2017 - art. 1
+  - Décret n°2018-223 du 30 mars 2018 - art. 1
 
 _Anciens textes_:
 

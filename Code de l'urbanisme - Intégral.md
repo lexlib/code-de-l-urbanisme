@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2018-09-01
+Version Consolidée au 2018-10-01
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -64202,16 +64202,27 @@ _Modifié par_:
 
 ###### Article R*424-5
 
+En cas d'autorisation ou de non-opposition à déclaration préalable, la décision mentionne la date d'affichage en mairie de
+l'avis de dépôt prévu à l'article R. * 423-6. 
+
 Si la décision comporte rejet de la demande, si elle est assortie de prescriptions ou s'il s'agit d'un sursis à statuer, elle
-doit être motivée.
+doit être motivée. 
 
 Il en est de même lorsqu'une dérogation ou une adaptation mineure est accordée.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code de l'urbanisme - art. R*423-6
+
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+_Modifié par_:
+
+  - Décret n°2018-617 du 17 juillet 2018 - art. 6
 
 _Cité par_:
 
@@ -64431,7 +64442,9 @@ _Codifié par_:
 ###### Article R*424-13
 
 En cas de permis tacite ou de non-opposition à un projet ayant fait l'objet d'une déclaration, l'autorité compétente en
-délivre certificat sur simple demande du demandeur, du déclarant ou de ses ayants droit. 
+délivre certificat sur simple demande du demandeur, du déclarant ou de ses ayants droit.
+
+Ce certificat mentionne la date d'affichage en mairie de l'avis de dépôt prévu à l'article R.* 423-6.
 
 En cas de permis tacite, ce certificat indique la date à laquelle le dossier a été transmis au préfet ou à son délégué dans
 les conditions définies aux articles L. 2131-1 et L. 2131-2 du code général des collectivités territoriales
@@ -64444,7 +64457,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-274 du 28 février 2012 - art. 3
+  - Décret n°2018-617 du 17 juillet 2018 - art. 6
 
 _Cité par_:
 
@@ -71525,6 +71538,26 @@ alinéa.
 
 Conformément à l’article 9 du décret n° 2018-617 du 17 juillet 2018, ces dispositions sont applicables aux requêtes
 enregistrées à compter du 1er octobre 2018.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-617 du 17 juillet 2018 - art. 7
+
+
+###### Article R600-7
+
+Toute personne peut se faire délivrer par le greffe de la juridiction devant laquelle un recours est susceptible d'être formé
+contre une décision relative à l'occupation ou l'utilisation du sol régie par le présent code, ou contre un jugement portant
+sur une telle décision, un document qui, soit atteste de l'absence de recours contentieux ou d'appel portant sur cette
+décision devant cette juridiction, soit, dans l'hypothèse où un recours ou un appel a été enregistré au greffe de la
+juridiction, indique la date d'enregistrement de ce recours ou de cet appel.
+
+Toute personne peut se faire délivrer par le secrétariat de la section du contentieux du Conseil d'Etat un document attestant
+de l'absence de pourvoi contre un jugement ou un arrêt relatif à une décision relative à l'occupation ou l'utilisation du sol
+régie par le présent code ou, dans l'hypothèse où un pourvoi a été enregistré, indiquant la date d'enregistrement de ce
+pourvoi.
 
 **Liens relatifs à cet article**
 

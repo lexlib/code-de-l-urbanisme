@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2018-10-01
+Version Consolidée au 2018-10-31
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -72357,27 +72357,24 @@ _Cite_:
 
 ###### Article A126-1
 
-La représentation des différentes servitudes d'utilité publique figurant sur la liste mentionnée à l'article R. 126-1 est
-fixée conformément au code alphanumérique et aux symboles graphiques annexés au présent article (Annexe non reproduite, voir
-JORF du 14 août 1987).
+La représentation des différentes servitudes d'utilité publique figurant sur la liste mentionnée aux articles R. 151-51 et R.
+161-8 et annexée au livre Ier est fixée conformément aux standards de numérisation validés par la structure de coordination
+nationale prévue par les articles 18 et 19, paragraphe 2, de la directive 2007/2/ CE du Parlement européen et du Conseil du
+14 mars 2007 établissant une infrastructure d'information géographique dans la Communauté européenne.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Arrêté 1984-05-11 art. 2 JONC 17 juillet 1984
-
-_Modifié par_:
-
-  - Arrêté 1987-07-29 art. 1 JORF 14 août 1987
 
 _Cité par_:
 
   - Arrêté du 22 octobre 2018 (V)
 
+_Modifié par_:
+
+  - Arrêté du 22 octobre 2018 - art. 1
+
 _Cite_:
 
-  - Code de l'urbanisme - art. R*126-1 (V)
+  - Code de l'urbanisme - art. R*126-1
 
 
 ### Titre  III : Espaces boisés<a id=832></a>

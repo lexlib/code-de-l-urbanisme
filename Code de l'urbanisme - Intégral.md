@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2018-10-31
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -27245,47 +27245,48 @@ _Cité par_:
 
 ###### Article L331-2
 
-La part communale ou intercommunale de la taxe d'aménagement est instituée : 
+La part communale ou intercommunale de la taxe d'aménagement est instituée :
 
 1° De plein droit dans les communes dotées d'un plan local d'urbanisme ou d'un plan d'occupation des sols, sauf renonciation
-expresse décidée par délibération dans les conditions prévues au neuvième alinéa ; 
+expresse décidée par délibération dans les conditions prévues au neuvième alinéa ;
 
-2° Par délibération du conseil municipal dans les autres communes ; 
+2° Par délibération du conseil municipal dans les autres communes ;
 
 3° De plein droit dans les communautés urbaines, les métropoles et la métropole de Lyon, sauf renonciation expresse décidée
-par délibération dans les conditions prévues au neuvième alinéa ; 
+par délibération dans les conditions prévues au neuvième alinéa ;
 
-Le présent 3° n'est pas applicable à la métropole du Grand Paris ; 
+Le présent 3° n'est pas applicable à la métropole du Grand Paris ;
 
 4° Par délibération de l'organe délibérant dans les autres établissements publics de coopération intercommunale compétents en
 matière de plan local d'urbanisme en lieu et place des communes qu'ils regroupent et avec leur accord exprimé dans les
-conditions prévues par le II de l'article L. 5211-5 du code général des collectivités territoriales. 
+conditions prévues par le II de l'article L. 5211-5 du code général des collectivités territoriales.
 
 La taxe mentionnée aux 1° à 4° est instituée sur l'ensemble du territoire de la commune ou dans l'ensemble des communes
-membres de l'établissement public de coopération intercommunale ou situées dans le périmètre de la métropole de Lyon. 
+membres de l'établissement public de coopération intercommunale ou situées dans le périmètre de la métropole de Lyon.
 
 Dans les cas mentionnés aux 1° et 2°, tout ou partie de la taxe perçue par la commune peut être reversé à l'établissement
 public de coopération intercommunale ou aux groupements de collectivités dont elle est membre, compte tenu de la charge des
 équipements publics relevant, sur le territoire de cette commune, de leurs compétences, dans les conditions prévues par
 délibérations concordantes du conseil municipal et de l'organe délibérant de l'établissement public de coopération
-intercommunale ou du groupement de collectivités. 
+intercommunale ou du groupement de collectivités.
 
 Dans les cas mentionnés aux 3° et 4°, une délibération de l'organe délibérant prévoit les conditions de reversement de tout
 ou partie de la taxe perçue par l'établissement public de coopération intercommunale ou la métropole de Lyon à ses communes
-membres ou groupements de collectivités compte tenu de la charge des équipements publics relevant de leurs compétences. 
+membres ou groupements de collectivités compte tenu de la charge des équipements publics relevant de leurs compétences.
 
 Les délibérations par lesquelles le conseil municipal, le conseil de la métropole de Lyon ou l'organe délibérant de
 l'établissement public de coopération intercommunale institue la taxe, renonce à la percevoir ou la supprime sont valables
-pour une durée minimale de trois ans à compter de leur entrée en vigueur. 
+pour une durée minimale de trois ans à compter de leur entrée en vigueur.
 
 Nonobstant leur durée initialement prévue, les délibérations mentionnées au dixième alinéa renonçant à percevoir la taxe, ou
 la supprimant, prises par les conseils municipaux ou, le cas échéant, par l'organe délibérant de l'établissement public de
 coopération intercommunale participant à la création d'une commune nouvelle, demeurent applicables uniquement la première
-année suivant celle au cours de laquelle l'arrêté portant création de la commune nouvelle a été pris. 
+année suivant celle au cours de laquelle l'arrêté portant création de la commune nouvelle a été pris.
 
 Le produit de la taxe est affecté en section d'investissement du budget des communes ou des établissements publics de
-coopération intercommunale. A l'exclusion de la fraction prévue au dernier alinéa de l'article L. 331-3, le produit de la
-taxe est affecté en section d'investissement du budget principal de la métropole de Lyon.
+coopération intercommunale. A l'exclusion de la fraction prévue à l'avant-dernier et au dernier alinéa de l'article L. 331-3,
+le produit de la taxe est affecté en section d'investissement du budget principal de la métropole de Lyon et de la Ville de
+Paris.
 
 **Nota:**
 
@@ -27295,7 +27296,7 @@ taxe est affecté en section d'investissement du budget principal de la métropo
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 5
+  - Ordonnance n°2018-75 du 8 février 2018 - art. 3
 
 _Cite_:
 
@@ -27304,7 +27305,7 @@ _Cite_:
 _Cité par_:
 
   - Code de l'urbanisme - art. L331-14 (VD)
-  - Code de l'urbanisme - art. L331-15 (V)
+  - Code de l'urbanisme - art. L331-15 (VD)
   - Code de l'urbanisme - art. L331-3 (VD)
   - Code de l'urbanisme - art. L331-4 (V)
   - Code de l'urbanisme - art. L331-7 (VD)
@@ -27321,64 +27322,68 @@ _Codifié par_:
 ###### Article L331-3
 
 La part départementale de la taxe d'aménagement est instituée par délibération du conseil départemental ou de l'Assemblée de
-Corse dans les conditions fixées au dixième alinéa de l'article L. 331-2 en vue de financer : 
+Corse dans les conditions fixées au dixième alinéa de l'article L. 331-2 en vue de financer :
 
-1° La politique de protection des espaces naturels sensibles prévue à l'article L. 113-8 ainsi que les dépenses : 
+1° La politique de protection des espaces naturels sensibles prévue à l'article L. 113-8 ainsi que les dépenses :
 
 a) Pour l'acquisition, par voie amiable, par expropriation ou par exercice du droit de préemption mentionné à l'article L.
 215-4, de terrains ou ensembles de droits sociaux donnant vocation à l'attribution en propriété ou en jouissance de terrains,
 ainsi que pour l'aménagement et l'entretien de tout espace naturel, boisé ou non, appartenant au département, sous réserve de
-son ouverture au public dans les conditions prévues à l'article L. 215-21 ; 
+son ouverture au public dans les conditions prévues à l'article L. 215-21 ;
 
 b) Pour sa participation à l'acquisition, à l'aménagement et la gestion des terrains du Conservatoire de l'espace littoral et
 des rivages lacustres, pour sa participation à l'acquisition de terrains par une commune ou par un établissement public de
 coopération intercommunale compétent, ainsi qu'à l'entretien des terrains acquis par l'une et l'autre de ces personnes
 publiques ou par l'agence des espaces verts de la région d'Ile-de-France dans l'exercice du droit de préemption, par
-délégation ou par substitution, prévu aux articles L. 215-4 à L. 215-8 ; 
+délégation ou par substitution, prévu aux articles L. 215-4 à L. 215-8 ;
 
 c) Pour l'aménagement et l'entretien d'espaces naturels, boisés ou non, appartenant aux collectivités publiques ou à leurs
 établissements publics et ouverts au public, ou appartenant à des propriétaires privés à la condition qu'ils aient fait
-l'objet d'une convention passée en application de l'article L. 113-6 ; 
+l'objet d'une convention passée en application de l'article L. 113-6 ;
 
 d) Pour l'aménagement et la gestion des parties naturelles de la zone dite des cinquante pas géométriques, définie à
-l'article L. 121-45 ; 
+l'article L. 121-45 ;
 
 e) Pour l'acquisition, l'aménagement et la gestion des sentiers figurant sur un plan départemental des itinéraires de
 promenade et de randonnée, établi dans les conditions prévues à l'article L. 361-1 du code de l'environnement, ainsi que des
 chemins et servitudes de halage et de marchepied des voies d'eau domaniales concédées qui ne sont pas ouvertes à la
 circulation générale et pour l'acquisition, par voie amiable ou par exercice du droit de préemption mentionné à l'article L.
-215-4, l'aménagement et la gestion des chemins le long des autres cours d'eau et plans d'eau ; 
+215-4, l'aménagement et la gestion des chemins le long des autres cours d'eau et plans d'eau ;
 
 f) Pour l'acquisition par un département, une commune, un établissement public de coopération intercommunale ou le
 Conservatoire de l'espace littoral et des rivages lacustres, de bois et forêts ou de droits sociaux donnant vocation à
 l'attribution en propriété ou en jouissance de bois et forêts, sous réserve de leur ouverture au public dans les conditions
-prévues à l'article L. 215-21 ; 
+prévues à l'article L. 215-21 ;
 
 g) Pour l'acquisition, l'aménagement et la gestion des espaces, sites et itinéraires figurant au plan départemental des
 espaces, sites et itinéraires relatifs aux sports de nature, établi en application de l'article L. 311-3 du code du sport,
 sous réserve que l'aménagement ou la gestion envisagés maintiennent ou améliorent la qualité des sites, des paysages et des
-milieux naturels ; 
+milieux naturels ;
 
 h) Pour l'acquisition, la gestion et l'entretien des sites Natura 2000 désignés à l'article L. 414-1 du code de
-l'environnement et des territoires classés en réserve naturelle au sens de l'article L. 332-1 du même code ; 
+l'environnement et des territoires classés en réserve naturelle au sens de l'article L. 332-1 du même code ;
 
 i) Pour les études et inventaires du patrimoine naturel nécessaires à l'élaboration et à la mise en œuvre de la politique de
-protection et de gestion des espaces naturels sensibles destinés à être ouverts au public ; 
+protection et de gestion des espaces naturels sensibles destinés à être ouverts au public ;
 
-j) Pour l'acquisition de sites destinés à la préservation de la ressource en eau, leur aménagement et leur gestion ; 
+j) Pour l'acquisition de sites destinés à la préservation de la ressource en eau, leur aménagement et leur gestion ;
 
 k) Pour les travaux contribuant à la préservation ou à la remise en bon état des continuités écologiques identifiées dans les
-schémas prévus à l'article L. 371-3 du code de l'environnement ; 
+schémas prévus à l'article L. 371-3 du code de l'environnement ;
 
 2° Les dépenses des conseils d'architecture, d'urbanisme et de l'environnement en application de l'article 8 de la loi n°
-77-2 du 3 janvier 1977 sur l'architecture. 
+77-2 du 3 janvier 1977 sur l'architecture.
 
 La part départementale de la taxe est instituée dans toutes les communes du département et perçue sur la totalité du
-territoire du département. Le produit de la part départementale de la taxe a le caractère d'une recette de fonctionnement. 
+territoire du département. Le produit de la part départementale de la taxe a le caractère d'une recette de fonctionnement.
 
 La métropole de Lyon est substituée au département du Rhône pour l'application du présent article aux autorisations
 d'urbanisme délivrées à compter du 1er janvier 2017 dans le périmètre de la métropole de Lyon. Les produits perçus à ce titre
 reviennent à la métropole de Lyon, en sus de ceux qui lui échoient en vertu du 3° de l'article L. 331-2.
+
+La Ville de Paris est substituée au département de Paris pour l'application du présent article aux autorisations d'urbanisme
+délivrées à compter du 1er janvier 2019 sur le territoire de la Ville de Paris. Les produits perçus à ce titre reviennent à
+la Ville de Paris, en sus de ceux qui lui échoient en vertu du 1° de l'article L. 331-2.
 
 **Liens relatifs à cet article**
 
@@ -27399,7 +27404,7 @@ _Cité par_:
 
   - Loi n°89-935 du 29 décembre 1989 - art. 118 (VD)
   - Code de l'urbanisme - art. L113-10 (VD)
-  - Code de l'urbanisme - art. L331-17 (VT)
+  - Code de l'urbanisme - art. L331-17 (VD)
   - Code de l'urbanisme - art. L331-2 (VD)
   - Code de l'urbanisme - art. L331-8 (VD)
   - Code de l'urbanisme - art. L331-9 (VD)
@@ -27408,7 +27413,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 5
+  - Ordonnance n°2018-75 du 8 février 2018 - art. 3
 
 _Codifié par_:
 
@@ -27531,69 +27536,72 @@ _Modifié par_:
 
 ###### Article L331-7
 
-Sont exonérés de la part communale ou intercommunale de la taxe : 
+Sont exonérés de la part communale ou intercommunale de la taxe :
 
 1° Les constructions et aménagements destinés à être affectés à un service public ou d'utilité publique, dont la liste est
-fixée par un décret en Conseil d'Etat ; 
+fixée par un décret en Conseil d'Etat ;
 
 2° Les constructions de locaux d'habitation et d'hébergement mentionnés aux articles 278 sexies et 296 ter du code général
 des impôts et, en Guyane et à Mayotte, les constructions de mêmes locaux, dès lors qu'ils sont financés dans les conditions
-du II de l'article R. 331-1 du code de la construction et de l'habitation ou du b du 2 de l'article R. 372-9 du même code ; 
+du II de l'article R. 331-1 du code de la construction et de l'habitation ou du b du 2 de l'article R. 372-9 du même code ;
 
 3° Dans les exploitations et coopératives agricoles, les surfaces de plancher des serres de production, celles des locaux
 destinés à abriter les récoltes, à héberger les animaux, à ranger et à entretenir le matériel agricole, celles des locaux de
 production et de stockage des produits à usage agricole, celles des locaux de transformation et de conditionnement des
 produits provenant de l'exploitation et, dans les centres équestres de loisir, les surfaces des bâtiments affectées aux
-activités équestres ; 
+activités équestres ;
 
 4° Les constructions et aménagements réalisés dans les périmètres des opérations d'intérêt national prévues à l'article L.
 102-12 lorsque le coût des équipements, dont la liste est fixée par décret en Conseil d'Etat, a été mis à la charge des
-constructeurs ou des aménageurs ; 
+constructeurs ou des aménageurs ;
 
 5° Les constructions et aménagements réalisés dans les zones d'aménagement concerté mentionnées à l'article L. 311-1 lorsque
 le coût des équipements publics, dont la liste est fixée par un décret en Conseil d'Etat, a été mis à la charge des
 constructeurs ou des aménageurs. Cette liste peut être complétée par une délibération du conseil municipal ou de l'organe
-délibérant de l'établissement public de coopération intercommunale valable pour une durée minimale de trois ans ; 
+délibérant de l'établissement public de coopération intercommunale valable pour une durée minimale de trois ans ;
 
 6° Les constructions et aménagements réalisés dans les périmètres délimités par une convention de projet urbain partenarial
 prévue par l'article L. 332-11-3, dans les limites de durée prévues par cette convention, en application de l'article L.
-332-11-4 ; 
+332-11-4 ;
 
 7° Les aménagements prescrits par un plan de prévention des risques naturels prévisibles, un plan de prévention des risques
 technologiques ou un plan de prévention des risques miniers sur des biens construits ou aménagés conformément aux
 dispositions du présent code avant l'approbation de ce plan et mis à la charge des propriétaires ou exploitants de ces
-biens ; 
+biens ;
 
 8° La reconstruction à l'identique d'un bâtiment détruit ou démoli depuis moins de dix ans dans les conditions prévues au
 premier alinéa de l'article L. 111-15, sous réserve des dispositions du 4° de l'article L. 331-30, ainsi que la
 reconstruction sur d'autres terrains de la même commune ou des communes limitrophes des bâtiments de même nature que les
 locaux sinistrés dont le terrain d'implantation a été reconnu comme extrêmement dangereux et classé inconstructible, pourvu
 que le contribuable justifie que les indemnités versées en réparation des dommages occasionnés à l'immeuble ne comprennent
-pas le montant de la taxe d'aménagement normalement exigible sur les reconstructions ; 
+pas le montant de la taxe d'aménagement normalement exigible sur les reconstructions ;
 
-9° Les constructions dont la surface est inférieure ou égale à 5 mètres carrés. 
+9° Les constructions dont la surface est inférieure ou égale à 5 mètres carrés.
 
 Ces exonérations s'appliquent à la part de taxe d'aménagement perçue par la métropole de Lyon en vertu du 3° de l'article L.
+331-2.
+
+Ces exonérations s'appliquent à la part de taxe d'aménagement perçue par la Ville de Paris en vertu du 1° de l'article L.
 331-2.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 5
+  - Ordonnance n°2018-75 du 8 février 2018 - art. 3
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 278 sexies
   - Code général des impôts, CGI. - art. 296 ter
-  - Code de l'urbanisme - art. L102-12 (VD)
-  - Code de l'urbanisme - art. L111-15 (VD)
-  - Code de l'urbanisme - art. L311-1 (V)
-  - Code de l'urbanisme - art. L331-2 (V)
-  - Code de l'urbanisme - art. L332-11-3 (VD)
-  - Code de l'urbanisme - art. L332-11-4 (V)
-  - Code de la construction et de l'habitation. - art. R331-1 (V)
-  - Code de la construction et de l'habitation. - art. R372-9 (V)
+  - Code de l'urbanisme - art. L102-12
+  - Code de l'urbanisme - art. L111-15
+  - Code de l'urbanisme - art. L311-1
+  - Code de l'urbanisme - art. L331-2
+  - Code de l'urbanisme - art. L332-11-3
+  - Code de l'urbanisme - art. L332-11-4
+  - Code de la construction et de l'habitation. - art. R331-1
+  - Code de la construction et de l'habitation. - art. R372-9
 
 _Cité par_:
 
@@ -27601,7 +27609,7 @@ _Cité par_:
   - Code de l'urbanisme - art. L331-41 (M)
   - Code de l'urbanisme - art. L331-6 (V)
   - Code de l'urbanisme - art. L331-8 (VD)
-  - Code de l'urbanisme - art. L331-9 (V)
+  - Code de l'urbanisme - art. L331-9 (VD)
   - Code de l'urbanisme - art. R*331-4 (V)
   - Code de l'urbanisme - art. R*331-5 (V)
   - Code de l'urbanisme - art. R*331-6 (V)
@@ -27616,24 +27624,20 @@ _Codifié par_:
 ###### Article L331-8
 
 Sont exonérés des parts départementale et régionale les constructions et aménagements mentionnés aux 1° à 3° et 7° à 9° de
-l'article L. 331-7. 
+l'article L. 331-7.
 
-Ces exonérations s'appliquent à la part de taxe d'aménagement prévue au dernier alinéa de l'article L. 331-3.
-
-**Nota:**
-
-Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
-compter des impositions dues au titre de 2015.
+Ces exonérations s'appliquent à la part de taxe d'aménagement prévue à l'avant dernier et au dernier alinéa de l'article L.
+331-3.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
+  - Ordonnance n°2018-75 du 8 février 2018 - art. 3
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L331-3 (VT)
+  - Code de l'urbanisme - art. L331-3
   - Code de l'urbanisme - art. L331-7
 
 
@@ -27642,39 +27646,43 @@ _Cite_:
 Par délibération prise dans les conditions prévues au premier alinéa de l'article L. 331-14, les organes délibérants des
 communes ou des établissements publics de coopération intercommunale, le conseil de la métropole de Lyon, les conseils
 départementaux, l'Assemblée de Corse et le conseil régional de la région d'Ile-de-France peuvent exonérer de la taxe
-d'aménagement, en tout ou partie, chacune des catégories de construction ou aménagement suivantes : 
+d'aménagement, en tout ou partie, chacune des catégories de construction ou aménagement suivantes :
 
 1° Les locaux d'habitation et d'hébergement mentionnés au 1° de l'article L. 331-12 qui ne bénéficient pas de l'exonération
-prévue au 2° de l'article L. 331-7 ; 
+prévue au 2° de l'article L. 331-7 ;
 
 2° Dans la limite de 50 % de leur surface, les surfaces des locaux à usage d'habitation principale qui ne bénéficient pas de
 l'abattement mentionné au 2° de l'article L. 331-12 et qui sont financés à l'aide du prêt ne portant pas intérêt prévu à
-l'article L. 31-10-1 du code de la construction et de l'habitation ; 
+l'article L. 31-10-1 du code de la construction et de l'habitation ;
 
-3° Les locaux à usage industriel et artisanal mentionnés au 3° de l'article L. 331-12 du présent code ; 
+3° Les locaux à usage industriel et artisanal mentionnés au 3° de l'article L. 331-12 du présent code ;
 
-4° Les commerces de détail d'une surface de vente inférieure à 400 mètres carrés ; 
+4° Les commerces de détail d'une surface de vente inférieure à 400 mètres carrés ;
 
 5° Les immeubles classés parmi les monuments historiques ou inscrits à l'inventaire supplémentaire des monuments
-historiques ; 
+historiques ;
 
-6° Les surfaces annexes à usage de stationnement des locaux mentionnés au 1° et ne bénéficiant pas de l'exonération totale ; 
+6° Les surfaces annexes à usage de stationnement des locaux mentionnés au 1° et ne bénéficiant pas de l'exonération totale ;
 
-7° Les surfaces des locaux annexes à usage de stationnement des immeubles autres que d'habitations individuelles ; 
+7° Les surfaces des locaux annexes à usage de stationnement des immeubles autres que d'habitations individuelles ;
 
-8° Les abris de jardin, les pigeonniers et colombiers soumis à déclaration préalable ; 
+8° Les abris de jardin, les pigeonniers et colombiers soumis à déclaration préalable ;
 
-9° Les maisons de santé mentionnées à l'article L. 6323-3 du code de la santé publique        . 
+9° Les maisons de santé mentionnées à l'article L. 6323-3 du code de la santé publique .
 
 Pour les autorisations d'urbanisme délivrées à compter du 1er janvier 2017, les exonérations adoptées par la métropole de
 Lyon sur le fondement du présent article s'appliquent simultanément à la part de taxe d'aménagement perçue en vertu du 3° de
 l'article L. 331-2 et à celle qui lui revient en application de l'article L. 331-3.
 
+Pour les autorisations d'urbanisme délivrées à compter du 1er janvier 2020, les exonérations adoptées par la Ville de Paris
+relatives à la part de taxe d'aménagement perçue en vertu du 1° de l'article L. 331-2 s'appliquent également à celle qui lui
+revient en application de l'article L. 331-3.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 98
+  - Ordonnance n°2018-75 du 8 février 2018 - art. 3
 
 _Cite_:
 
@@ -27683,7 +27691,7 @@ _Cite_:
   - Code de l'urbanisme - art. L331-14
   - Code de l'urbanisme - art. L331-2
   - Code de l'urbanisme - art. L331-3
-  - Code de l'urbanisme - art. L331-7
+  - Code de l'urbanisme - art. L331-7 (VD)
   - Code de la construction et de l'habitation. - art. L31-10-1
 
 _Cité par_:
@@ -27854,44 +27862,42 @@ _Cité par_:
 
 Par délibération adoptée avant le 30 novembre, les communes ou établissements publics de coopération intercommunale
 bénéficiaires de la part communale ou intercommunale de la taxe d'aménagement fixent les taux applicables à compter du 1er
-janvier de l'année suivante. 
+janvier de l'année suivante.
 
 Les communes ou établissements publics de coopération intercommunale peuvent fixer des taux différents dans une fourchette
 comprise entre 1 % et 5 %, selon les aménagements à réaliser, par secteurs de leur territoire définis par un document
 graphique figurant, à titre d'information, dans une annexe au plan local d'urbanisme ou au plan d'occupation des sols. A
 défaut de plan local d'urbanisme ou de plan d'occupation des sols, la délibération déterminant les taux et les secteurs ainsi
 que le plan font l'objet d'un affichage en mairie, conformément aux dispositions des articles L. 2121-24 et L. 2131-1 du code
-général des collectivités territoriales. 
+général des collectivités territoriales.
 
 La délibération est valable pour une période d'un an. Elle est reconduite de plein droit pour l'année suivante si une
-nouvelle délibération n'a pas été adoptée dans le délai prévu au premier alinéa. 
+nouvelle délibération n'a pas été adoptée dans le délai prévu au premier alinéa.
 
 En l'absence de toute délibération fixant le taux de la taxe, ce dernier est fixé à 1 % dans les communes ou les
-établissements publics de coopération intercommunale où la taxe est instituée de plein droit. 
+établissements publics de coopération intercommunale où la taxe est instituée de plein droit.
 
 Les dispositions du présent article s'appliquent à la métropole de Lyon sur la part de taxe d'aménagement prévue au 3° de
 l'article L. 331-2.
 
-**Nota:**
-
-Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
-compter des impositions dues au titre de 2015.
+Les dispositions du présent article s'appliquent à la Ville de Paris sur la part de taxe d'aménagement prévue au 1° de
+l'article L. 331-2.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
+  - Ordonnance n°2018-75 du 8 février 2018 - art. 3
 
 _Cite_:
 
   - Code général des collectivités territoriales - art. L2121-24
   - Code général des collectivités territoriales - art. L2131-1
-  - Code de l'urbanisme - art. L331-2 (V)
+  - Code de l'urbanisme - art. L331-2
 
 _Cité par_:
 
-  - Code de l'urbanisme - art. L331-16 (V)
+  - Code de l'urbanisme - art. L331-16 (M)
   - Code de l'urbanisme - art. L331-9 (VD)
   - Code de l'urbanisme - art. R*123-13 (VT)
   - Code de l'urbanisme - art. R151-52 (V)
@@ -27904,34 +27910,32 @@ _Cité par_:
 Le taux de la part communale ou intercommunale de la taxe d'aménagement peut être augmenté jusqu'à 20 % dans certains
 secteurs par une délibération motivée, si la réalisation de travaux substantiels de voirie ou de réseaux ou la création
 d'équipements publics généraux est rendue nécessaire en raison de l'importance des constructions nouvelles édifiées dans ces
-secteurs. 
+secteurs.
 
 Il ne peut être mis à la charge des aménageurs ou constructeurs que le coût des équipements publics à réaliser pour répondre
 aux besoins des futurs habitants ou usagers des constructions à édifier dans ces secteurs ou, lorsque la capacité des
-équipements excède ces besoins, la fraction du coût proportionnelle à ceux-ci. 
+équipements excède ces besoins, la fraction du coût proportionnelle à ceux-ci.
 
 En cas de vote d'un taux supérieur à 5 % dans un ou plusieurs secteurs, les contributions mentionnées au d du 2° et au 3° de
 l'article L. 332-6-1, dans leur rédaction antérieure à l'entrée en vigueur de la loi n° 2014-1655 du 29 décembre 2014 de
-finances rectificative pour 2014, ne sont plus applicables dans ce ou ces secteurs. 
+finances rectificative pour 2014, ne sont plus applicables dans ce ou ces secteurs.
 
 Les dispositions du présent article s'appliquent à la métropole de Lyon sur la part de taxe d'aménagement prévue au 3° de
 l'article L. 331-2.
 
-**Nota:**
-
-Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
-compter des impositions dues au titre de 2015.
+Les dispositions du présent article s'appliquent à la Ville de Paris sur la part de taxe d'aménagement prévue au 1° de
+l'article L. 331-2.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
+  - Ordonnance n°2018-75 du 8 février 2018 - art. 3
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L331-2
-  - Code de l'urbanisme - art. L332-6-1 (V)
+  - Code de l'urbanisme - art. L331-2 (VD)
+  - Code de l'urbanisme - art. L332-6-1
 
 _Cité par_:
 
@@ -27971,26 +27975,29 @@ _Cité par_:
 ###### Article L331-17
 
 Par délibération adoptée avant le 30 novembre, les conseils départementaux et l'Assemblée de Corse fixent le taux de la part
-départementale de la taxe d'aménagement applicable à compter du 1er janvier de l'année suivante. 
+départementale de la taxe d'aménagement applicable à compter du 1er janvier de l'année suivante.
 
-Les conseils départementaux fixent dans cette délibération ou, au  plus  tard, lors de l'établissement de leur budget annuel
-les taux de   répartition de la part départementale de la taxe d'aménagement entre la   politique de protection des espaces
-naturels sensibles et les conseils   d'architecture, d'urbanisme et de l'environnement.
+Les conseils départementaux fixent dans cette délibération ou, au plus tard, lors de l'établissement de leur budget annuel
+les taux de répartition de la part départementale de la taxe d'aménagement entre la politique de protection des espaces
+naturels sensibles et les conseils d'architecture, d'urbanisme et de l'environnement.
 
-Le taux de la part départementale de la taxe ne peut excéder 2,5 %. 
+Le taux de la part départementale de la taxe ne peut excéder 2,5 %.
 
-Les délibérations prévues aux premier et deuxième alinéas sont  valables  pour une période d'un an. Elles sont reconduites de
-plein  droit pour  l'année suivante si une nouvelle délibération n'a pas été  adoptée dans  les délais prévus aux mêmes
-premier et deuxième alinéas.
+Les délibérations prévues aux premier et deuxième alinéas sont valables pour une période d'un an. Elles sont reconduites de
+plein droit pour l'année suivante si une nouvelle délibération n'a pas été adoptée dans les délais prévus aux mêmes premier
+et deuxième alinéas.
 
 Les dispositions du présent article s'appliquent, à compter du 1er janvier 2016, à la métropole de Lyon pour la part de taxe
+d'aménagement prévue à l'article L. 331-3.
+
+Les dispositions du présent article s'appliquent, à compter du 1er janvier 2019, à la Ville de Paris pour la part de taxe
 d'aménagement prévue à l'article L. 331-3.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 5
+  - Ordonnance n°2018-75 du 8 février 2018 - art. 3
 
 _Cite_:
 

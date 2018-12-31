@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2018-12-27
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -28155,47 +28155,48 @@ _Cité par_:
 
 ###### Article L331-2
 
-La part communale ou intercommunale de la taxe d'aménagement est instituée : 
+La part communale ou intercommunale de la taxe d'aménagement est instituée :
 
 1° De plein droit dans les communes dotées d'un plan local d'urbanisme ou d'un plan d'occupation des sols, sauf renonciation
-expresse décidée par délibération dans les conditions prévues au neuvième alinéa ; 
+expresse décidée par délibération dans les conditions prévues au neuvième alinéa ;
 
-2° Par délibération du conseil municipal dans les autres communes ; 
+2° Par délibération du conseil municipal dans les autres communes ;
 
 3° De plein droit dans les communautés urbaines, les métropoles et la métropole de Lyon, sauf renonciation expresse décidée
-par délibération dans les conditions prévues au neuvième alinéa ; 
+par délibération dans les conditions prévues au neuvième alinéa ;
 
-Le présent 3° n'est pas applicable à la métropole du Grand Paris ; 
+Le présent 3° n'est pas applicable à la métropole du Grand Paris ;
 
 4° Par délibération de l'organe délibérant dans les autres établissements publics de coopération intercommunale compétents en
 matière de plan local d'urbanisme en lieu et place des communes qu'ils regroupent et avec leur accord exprimé dans les
-conditions prévues par le II de l'article L. 5211-5 du code général des collectivités territoriales. 
+conditions prévues par le II de l'article L. 5211-5 du code général des collectivités territoriales.
 
 La taxe mentionnée aux 1° à 4° est instituée sur l'ensemble du territoire de la commune ou dans l'ensemble des communes
-membres de l'établissement public de coopération intercommunale ou situées dans le périmètre de la métropole de Lyon. 
+membres de l'établissement public de coopération intercommunale ou situées dans le périmètre de la métropole de Lyon.
 
 Dans les cas mentionnés aux 1° et 2°, tout ou partie de la taxe perçue par la commune peut être reversé à l'établissement
 public de coopération intercommunale ou aux groupements de collectivités dont elle est membre, compte tenu de la charge des
 équipements publics relevant, sur le territoire de cette commune, de leurs compétences, dans les conditions prévues par
 délibérations concordantes du conseil municipal et de l'organe délibérant de l'établissement public de coopération
-intercommunale ou du groupement de collectivités. 
+intercommunale ou du groupement de collectivités.
 
 Dans les cas mentionnés aux 3° et 4°, une délibération de l'organe délibérant prévoit les conditions de reversement de tout
 ou partie de la taxe perçue par l'établissement public de coopération intercommunale ou la métropole de Lyon à ses communes
-membres ou groupements de collectivités compte tenu de la charge des équipements publics relevant de leurs compétences. 
+membres ou groupements de collectivités compte tenu de la charge des équipements publics relevant de leurs compétences.
 
 Les délibérations par lesquelles le conseil municipal, le conseil de la métropole de Lyon ou l'organe délibérant de
 l'établissement public de coopération intercommunale institue la taxe, renonce à la percevoir ou la supprime sont valables
-pour une durée minimale de trois ans à compter de leur entrée en vigueur. 
+pour une durée minimale de trois ans à compter de leur entrée en vigueur.
 
 Nonobstant leur durée initialement prévue, les délibérations mentionnées au dixième alinéa renonçant à percevoir la taxe, ou
 la supprimant, prises par les conseils municipaux ou, le cas échéant, par l'organe délibérant de l'établissement public de
 coopération intercommunale participant à la création d'une commune nouvelle, demeurent applicables uniquement la première
-année suivant celle au cours de laquelle l'arrêté portant création de la commune nouvelle a été pris. 
+année suivant celle au cours de laquelle l'arrêté portant création de la commune nouvelle a été pris.
 
 Le produit de la taxe est affecté en section d'investissement du budget des communes ou des établissements publics de
-coopération intercommunale. A l'exclusion de la fraction prévue au dernier alinéa de l'article L. 331-3, le produit de la
-taxe est affecté en section d'investissement du budget principal de la métropole de Lyon.
+coopération intercommunale. A l'exclusion de la fraction prévue à l'avant-dernier et au dernier alinéa de l'article L. 331-3,
+le produit de la taxe est affecté en section d'investissement du budget principal de la métropole de Lyon et de la Ville de
+Paris.
 
 **Nota:**
 
@@ -28205,7 +28206,7 @@ taxe est affecté en section d'investissement du budget principal de la métropo
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 5
+  - Ordonnance n°2018-75 du 8 février 2018 - art. 3
 
 _Cite_:
 
@@ -28214,7 +28215,7 @@ _Cite_:
 _Cité par_:
 
   - Code de l'urbanisme - art. L331-14 (VD)
-  - Code de l'urbanisme - art. L331-15 (V)
+  - Code de l'urbanisme - art. L331-15 (VD)
   - Code de l'urbanisme - art. L331-3 (VD)
   - Code de l'urbanisme - art. L331-4 (V)
   - Code de l'urbanisme - art. L331-7 (VD)
@@ -28235,64 +28236,68 @@ _Codifié par_:
 ###### Article L331-3
 
 La part départementale de la taxe d'aménagement est instituée par délibération du conseil départemental ou de l'Assemblée de
-Corse dans les conditions fixées au dixième alinéa de l'article L. 331-2 en vue de financer : 
+Corse dans les conditions fixées au dixième alinéa de l'article L. 331-2 en vue de financer :
 
-1° La politique de protection des espaces naturels sensibles prévue à l'article L. 113-8 ainsi que les dépenses : 
+1° La politique de protection des espaces naturels sensibles prévue à l'article L. 113-8 ainsi que les dépenses :
 
 a) Pour l'acquisition, par voie amiable, par expropriation ou par exercice du droit de préemption mentionné à l'article L.
 215-4, de terrains ou ensembles de droits sociaux donnant vocation à l'attribution en propriété ou en jouissance de terrains,
 ainsi que pour l'aménagement et l'entretien de tout espace naturel, boisé ou non, appartenant au département, sous réserve de
-son ouverture au public dans les conditions prévues à l'article L. 215-21 ; 
+son ouverture au public dans les conditions prévues à l'article L. 215-21 ;
 
 b) Pour sa participation à l'acquisition, à l'aménagement et la gestion des terrains du Conservatoire de l'espace littoral et
 des rivages lacustres, pour sa participation à l'acquisition de terrains par une commune ou par un établissement public de
 coopération intercommunale compétent, ainsi qu'à l'entretien des terrains acquis par l'une et l'autre de ces personnes
 publiques ou par l'agence des espaces verts de la région d'Ile-de-France dans l'exercice du droit de préemption, par
-délégation ou par substitution, prévu aux articles L. 215-4 à L. 215-8 ; 
+délégation ou par substitution, prévu aux articles L. 215-4 à L. 215-8 ;
 
 c) Pour l'aménagement et l'entretien d'espaces naturels, boisés ou non, appartenant aux collectivités publiques ou à leurs
 établissements publics et ouverts au public, ou appartenant à des propriétaires privés à la condition qu'ils aient fait
-l'objet d'une convention passée en application de l'article L. 113-6 ; 
+l'objet d'une convention passée en application de l'article L. 113-6 ;
 
 d) Pour l'aménagement et la gestion des parties naturelles de la zone dite des cinquante pas géométriques, définie à
-l'article L. 121-45 ; 
+l'article L. 121-45 ;
 
 e) Pour l'acquisition, l'aménagement et la gestion des sentiers figurant sur un plan départemental des itinéraires de
 promenade et de randonnée, établi dans les conditions prévues à l'article L. 361-1 du code de l'environnement, ainsi que des
 chemins et servitudes de halage et de marchepied des voies d'eau domaniales concédées qui ne sont pas ouvertes à la
 circulation générale et pour l'acquisition, par voie amiable ou par exercice du droit de préemption mentionné à l'article L.
-215-4, l'aménagement et la gestion des chemins le long des autres cours d'eau et plans d'eau ; 
+215-4, l'aménagement et la gestion des chemins le long des autres cours d'eau et plans d'eau ;
 
 f) Pour l'acquisition par un département, une commune, un établissement public de coopération intercommunale ou le
 Conservatoire de l'espace littoral et des rivages lacustres, de bois et forêts ou de droits sociaux donnant vocation à
 l'attribution en propriété ou en jouissance de bois et forêts, sous réserve de leur ouverture au public dans les conditions
-prévues à l'article L. 215-21 ; 
+prévues à l'article L. 215-21 ;
 
 g) Pour l'acquisition, l'aménagement et la gestion des espaces, sites et itinéraires figurant au plan départemental des
 espaces, sites et itinéraires relatifs aux sports de nature, établi en application de l'article L. 311-3 du code du sport,
 sous réserve que l'aménagement ou la gestion envisagés maintiennent ou améliorent la qualité des sites, des paysages et des
-milieux naturels ; 
+milieux naturels ;
 
 h) Pour l'acquisition, la gestion et l'entretien des sites Natura 2000 désignés à l'article L. 414-1 du code de
-l'environnement et des territoires classés en réserve naturelle au sens de l'article L. 332-1 du même code ; 
+l'environnement et des territoires classés en réserve naturelle au sens de l'article L. 332-1 du même code ;
 
 i) Pour les études et inventaires du patrimoine naturel nécessaires à l'élaboration et à la mise en œuvre de la politique de
-protection et de gestion des espaces naturels sensibles destinés à être ouverts au public ; 
+protection et de gestion des espaces naturels sensibles destinés à être ouverts au public ;
 
-j) Pour l'acquisition de sites destinés à la préservation de la ressource en eau, leur aménagement et leur gestion ; 
+j) Pour l'acquisition de sites destinés à la préservation de la ressource en eau, leur aménagement et leur gestion ;
 
 k) Pour les travaux contribuant à la préservation ou à la remise en bon état des continuités écologiques identifiées dans les
-schémas prévus à l'article L. 371-3 du code de l'environnement ; 
+schémas prévus à l'article L. 371-3 du code de l'environnement ;
 
 2° Les dépenses des conseils d'architecture, d'urbanisme et de l'environnement en application de l'article 8 de la loi n°
-77-2 du 3 janvier 1977 sur l'architecture. 
+77-2 du 3 janvier 1977 sur l'architecture.
 
 La part départementale de la taxe est instituée dans toutes les communes du département et perçue sur la totalité du
-territoire du département. Le produit de la part départementale de la taxe a le caractère d'une recette de fonctionnement. 
+territoire du département. Le produit de la part départementale de la taxe a le caractère d'une recette de fonctionnement.
 
 La métropole de Lyon est substituée au département du Rhône pour l'application du présent article aux autorisations
 d'urbanisme délivrées à compter du 1er janvier 2017 dans le périmètre de la métropole de Lyon. Les produits perçus à ce titre
 reviennent à la métropole de Lyon, en sus de ceux qui lui échoient en vertu du 3° de l'article L. 331-2.
+
+La Ville de Paris est substituée au département de Paris pour l'application du présent article aux autorisations d'urbanisme
+délivrées à compter du 1er janvier 2019 sur le territoire de la Ville de Paris. Les produits perçus à ce titre reviennent à
+la Ville de Paris, en sus de ceux qui lui échoient en vertu du 1° de l'article L. 331-2.
 
 **Liens relatifs à cet article**
 
@@ -28313,7 +28318,7 @@ _Cité par_:
 
   - Loi n°89-935 du 29 décembre 1989 - art. 118 (VD)
   - Code de l'urbanisme - art. L113-10 (VD)
-  - Code de l'urbanisme - art. L331-17 (VT)
+  - Code de l'urbanisme - art. L331-17 (VD)
   - Code de l'urbanisme - art. L331-2 (VD)
   - Code de l'urbanisme - art. L331-8 (VD)
   - Code de l'urbanisme - art. L331-9 (VD)
@@ -28322,7 +28327,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 5
+  - Ordonnance n°2018-75 du 8 février 2018 - art. 3
 
 _Anciens textes_:
 
@@ -28449,49 +28454,52 @@ _Modifié par_:
 
 ###### Article L331-7
 
-Sont exonérés de la part communale ou intercommunale de la taxe : 
+Sont exonérés de la part communale ou intercommunale de la taxe :
 
 1° Les constructions et aménagements destinés à être affectés à un service public ou d'utilité publique, dont la liste est
-fixée par un décret en Conseil d'Etat ; 
+fixée par un décret en Conseil d'Etat ;
 
 2° Les constructions de locaux d'habitation et d'hébergement mentionnés aux articles 278 sexies et 296 ter du code général
 des impôts et, en Guyane et à Mayotte, les constructions de mêmes locaux, dès lors qu'ils sont financés dans les conditions
-du II de l'article R. 331-1 du code de la construction et de l'habitation ou du b du 2 de l'article R. 372-9 du même code ; 
+du II de l'article R. 331-1 du code de la construction et de l'habitation ou du b du 2 de l'article R. 372-9 du même code ;
 
 3° Dans les exploitations et coopératives agricoles, les surfaces de plancher des serres de production, celles des locaux
 destinés à abriter les récoltes, à héberger les animaux, à ranger et à entretenir le matériel agricole, celles des locaux de
 production et de stockage des produits à usage agricole, celles des locaux de transformation et de conditionnement des
 produits provenant de l'exploitation et, dans les centres équestres de loisir, les surfaces des bâtiments affectées aux
-activités équestres ; 
+activités équestres ;
 
 4° Les constructions et aménagements réalisés dans les périmètres des opérations d'intérêt national prévues à l'article L.
 102-12 lorsque le coût des équipements, dont la liste est fixée par décret en Conseil d'Etat, a été mis à la charge des
-constructeurs ou des aménageurs ; 
+constructeurs ou des aménageurs ;
 
 5° Les constructions et aménagements réalisés dans les zones d'aménagement concerté mentionnées à l'article L. 311-1 lorsque
 le coût des équipements publics, dont la liste est fixée par un décret en Conseil d'Etat, a été mis à la charge des
 constructeurs ou des aménageurs. Cette liste peut être complétée par une délibération du conseil municipal ou de l'organe
-délibérant de l'établissement public de coopération intercommunale valable pour une durée minimale de trois ans ; 
+délibérant de l'établissement public de coopération intercommunale valable pour une durée minimale de trois ans ;
 
 6° Les constructions et aménagements réalisés dans les périmètres délimités par une convention de projet urbain partenarial
 prévue par l'article L. 332-11-3, dans les limites de durée prévues par cette convention, en application de l'article L.
-332-11-4 ; 
+332-11-4 ;
 
 7° Les aménagements prescrits par un plan de prévention des risques naturels prévisibles, un plan de prévention des risques
 technologiques ou un plan de prévention des risques miniers sur des biens construits ou aménagés conformément aux
 dispositions du présent code avant l'approbation de ce plan et mis à la charge des propriétaires ou exploitants de ces
-biens ; 
+biens ;
 
 8° La reconstruction à l'identique d'un bâtiment détruit ou démoli depuis moins de dix ans dans les conditions prévues au
 premier alinéa de l'article L. 111-15, sous réserve des dispositions du 4° de l'article L. 331-30, ainsi que la
 reconstruction sur d'autres terrains de la même commune ou des communes limitrophes des bâtiments de même nature que les
 locaux sinistrés dont le terrain d'implantation a été reconnu comme extrêmement dangereux et classé inconstructible, pourvu
 que le contribuable justifie que les indemnités versées en réparation des dommages occasionnés à l'immeuble ne comprennent
-pas le montant de la taxe d'aménagement normalement exigible sur les reconstructions ; 
+pas le montant de la taxe d'aménagement normalement exigible sur les reconstructions ;
 
-9° Les constructions dont la surface est inférieure ou égale à 5 mètres carrés. 
+9° Les constructions dont la surface est inférieure ou égale à 5 mètres carrés.
 
 Ces exonérations s'appliquent à la part de taxe d'aménagement perçue par la métropole de Lyon en vertu du 3° de l'article L.
+331-2.
+
+Ces exonérations s'appliquent à la part de taxe d'aménagement perçue par la Ville de Paris en vertu du 1° de l'article L.
 331-2.
 
 **Liens relatifs à cet article**
@@ -28502,20 +28510,20 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 5
+  - Ordonnance n°2018-75 du 8 février 2018 - art. 3
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 278 sexies
   - Code général des impôts, CGI. - art. 296 ter
-  - Code de l'urbanisme - art. L102-12 (VD)
-  - Code de l'urbanisme - art. L111-15 (VD)
-  - Code de l'urbanisme - art. L311-1 (V)
-  - Code de l'urbanisme - art. L331-2 (V)
-  - Code de l'urbanisme - art. L332-11-3 (VD)
-  - Code de l'urbanisme - art. L332-11-4 (V)
-  - Code de la construction et de l'habitation. - art. R331-1 (V)
-  - Code de la construction et de l'habitation. - art. R372-9 (V)
+  - Code de l'urbanisme - art. L102-12
+  - Code de l'urbanisme - art. L111-15
+  - Code de l'urbanisme - art. L311-1
+  - Code de l'urbanisme - art. L331-2
+  - Code de l'urbanisme - art. L332-11-3
+  - Code de l'urbanisme - art. L332-11-4
+  - Code de la construction et de l'habitation. - art. R331-1
+  - Code de la construction et de l'habitation. - art. R372-9
 
 _Cité par_:
 
@@ -28524,7 +28532,7 @@ _Cité par_:
   - Code de l'urbanisme - art. L331-41 (M)
   - Code de l'urbanisme - art. L331-6 (V)
   - Code de l'urbanisme - art. L331-8 (VD)
-  - Code de l'urbanisme - art. L331-9 (V)
+  - Code de l'urbanisme - art. L331-9 (VD)
   - Code de l'urbanisme - art. R*331-5 (V)
   - Code de l'urbanisme - art. R*331-6 (V)
   - Code de l'urbanisme - art. R331-3 (V)
@@ -28539,24 +28547,20 @@ _Codifié par_:
 ###### Article L331-8
 
 Sont exonérés des parts départementale et régionale les constructions et aménagements mentionnés aux 1° à 3° et 7° à 9° de
-l'article L. 331-7. 
+l'article L. 331-7.
 
-Ces exonérations s'appliquent à la part de taxe d'aménagement prévue au dernier alinéa de l'article L. 331-3.
-
-**Nota:**
-
-Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
-compter des impositions dues au titre de 2015.
+Ces exonérations s'appliquent à la part de taxe d'aménagement prévue à l'avant dernier et au dernier alinéa de l'article L.
+331-3.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
+  - Ordonnance n°2018-75 du 8 février 2018 - art. 3
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L331-3 (VT)
+  - Code de l'urbanisme - art. L331-3
   - Code de l'urbanisme - art. L331-7
 
 
@@ -28565,39 +28569,43 @@ _Cite_:
 Par délibération prise dans les conditions prévues au premier alinéa de l'article L. 331-14, les organes délibérants des
 communes ou des établissements publics de coopération intercommunale, le conseil de la métropole de Lyon, les conseils
 départementaux, l'Assemblée de Corse et le conseil régional de la région d'Ile-de-France peuvent exonérer de la taxe
-d'aménagement, en tout ou partie, chacune des catégories de construction ou aménagement suivantes : 
+d'aménagement, en tout ou partie, chacune des catégories de construction ou aménagement suivantes :
 
 1° Les locaux d'habitation et d'hébergement mentionnés au 1° de l'article L. 331-12 qui ne bénéficient pas de l'exonération
-prévue au 2° de l'article L. 331-7 ; 
+prévue au 2° de l'article L. 331-7 ;
 
 2° Dans la limite de 50 % de leur surface, les surfaces des locaux à usage d'habitation principale qui ne bénéficient pas de
 l'abattement mentionné au 2° de l'article L. 331-12 et qui sont financés à l'aide du prêt ne portant pas intérêt prévu à
-l'article L. 31-10-1 du code de la construction et de l'habitation ; 
+l'article L. 31-10-1 du code de la construction et de l'habitation ;
 
-3° Les locaux à usage industriel et artisanal mentionnés au 3° de l'article L. 331-12 du présent code ; 
+3° Les locaux à usage industriel et artisanal mentionnés au 3° de l'article L. 331-12 du présent code ;
 
-4° Les commerces de détail d'une surface de vente inférieure à 400 mètres carrés ; 
+4° Les commerces de détail d'une surface de vente inférieure à 400 mètres carrés ;
 
 5° Les immeubles classés parmi les monuments historiques ou inscrits à l'inventaire supplémentaire des monuments
-historiques ; 
+historiques ;
 
-6° Les surfaces annexes à usage de stationnement des locaux mentionnés au 1° et ne bénéficiant pas de l'exonération totale ; 
+6° Les surfaces annexes à usage de stationnement des locaux mentionnés au 1° et ne bénéficiant pas de l'exonération totale ;
 
-7° Les surfaces des locaux annexes à usage de stationnement des immeubles autres que d'habitations individuelles ; 
+7° Les surfaces des locaux annexes à usage de stationnement des immeubles autres que d'habitations individuelles ;
 
-8° Les abris de jardin, les pigeonniers et colombiers soumis à déclaration préalable ; 
+8° Les abris de jardin, les pigeonniers et colombiers soumis à déclaration préalable ;
 
-9° Les maisons de santé mentionnées à l'article L. 6323-3 du code de la santé publique        . 
+9° Les maisons de santé mentionnées à l'article L. 6323-3 du code de la santé publique .
 
 Pour les autorisations d'urbanisme délivrées à compter du 1er janvier 2017, les exonérations adoptées par la métropole de
 Lyon sur le fondement du présent article s'appliquent simultanément à la part de taxe d'aménagement perçue en vertu du 3° de
 l'article L. 331-2 et à celle qui lui revient en application de l'article L. 331-3.
 
+Pour les autorisations d'urbanisme délivrées à compter du 1er janvier 2020, les exonérations adoptées par la Ville de Paris
+relatives à la part de taxe d'aménagement perçue en vertu du 1° de l'article L. 331-2 s'appliquent également à celle qui lui
+revient en application de l'article L. 331-3.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 98
+  - Ordonnance n°2018-75 du 8 février 2018 - art. 3
 
 _Cite_:
 
@@ -28606,7 +28614,7 @@ _Cite_:
   - Code de l'urbanisme - art. L331-14
   - Code de l'urbanisme - art. L331-2
   - Code de l'urbanisme - art. L331-3
-  - Code de l'urbanisme - art. L331-7
+  - Code de l'urbanisme - art. L331-7 (VD)
   - Code de la construction et de l'habitation. - art. L31-10-1
 
 _Cité par_:
@@ -28777,44 +28785,42 @@ _Cité par_:
 
 Par délibération adoptée avant le 30 novembre, les communes ou établissements publics de coopération intercommunale
 bénéficiaires de la part communale ou intercommunale de la taxe d'aménagement fixent les taux applicables à compter du 1er
-janvier de l'année suivante. 
+janvier de l'année suivante.
 
 Les communes ou établissements publics de coopération intercommunale peuvent fixer des taux différents dans une fourchette
 comprise entre 1 % et 5 %, selon les aménagements à réaliser, par secteurs de leur territoire définis par un document
 graphique figurant, à titre d'information, dans une annexe au plan local d'urbanisme ou au plan d'occupation des sols. A
 défaut de plan local d'urbanisme ou de plan d'occupation des sols, la délibération déterminant les taux et les secteurs ainsi
 que le plan font l'objet d'un affichage en mairie, conformément aux dispositions des articles L. 2121-24 et L. 2131-1 du code
-général des collectivités territoriales. 
+général des collectivités territoriales.
 
 La délibération est valable pour une période d'un an. Elle est reconduite de plein droit pour l'année suivante si une
-nouvelle délibération n'a pas été adoptée dans le délai prévu au premier alinéa. 
+nouvelle délibération n'a pas été adoptée dans le délai prévu au premier alinéa.
 
 En l'absence de toute délibération fixant le taux de la taxe, ce dernier est fixé à 1 % dans les communes ou les
-établissements publics de coopération intercommunale où la taxe est instituée de plein droit. 
+établissements publics de coopération intercommunale où la taxe est instituée de plein droit.
 
 Les dispositions du présent article s'appliquent à la métropole de Lyon sur la part de taxe d'aménagement prévue au 3° de
 l'article L. 331-2.
 
-**Nota:**
-
-Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
-compter des impositions dues au titre de 2015.
+Les dispositions du présent article s'appliquent à la Ville de Paris sur la part de taxe d'aménagement prévue au 1° de
+l'article L. 331-2.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
+  - Ordonnance n°2018-75 du 8 février 2018 - art. 3
 
 _Cite_:
 
   - Code général des collectivités territoriales - art. L2121-24
   - Code général des collectivités territoriales - art. L2131-1
-  - Code de l'urbanisme - art. L331-2 (V)
+  - Code de l'urbanisme - art. L331-2
 
 _Cité par_:
 
-  - Code de l'urbanisme - art. L331-16 (V)
+  - Code de l'urbanisme - art. L331-16 (M)
   - Code de l'urbanisme - art. L331-9 (VD)
   - Code de l'urbanisme - art. R*123-13 (VT)
   - Code de l'urbanisme - art. R151-52 (V)
@@ -28827,34 +28833,32 @@ _Cité par_:
 Le taux de la part communale ou intercommunale de la taxe d'aménagement peut être augmenté jusqu'à 20 % dans certains
 secteurs par une délibération motivée, si la réalisation de travaux substantiels de voirie ou de réseaux ou la création
 d'équipements publics généraux est rendue nécessaire en raison de l'importance des constructions nouvelles édifiées dans ces
-secteurs. 
+secteurs.
 
 Il ne peut être mis à la charge des aménageurs ou constructeurs que le coût des équipements publics à réaliser pour répondre
 aux besoins des futurs habitants ou usagers des constructions à édifier dans ces secteurs ou, lorsque la capacité des
-équipements excède ces besoins, la fraction du coût proportionnelle à ceux-ci. 
+équipements excède ces besoins, la fraction du coût proportionnelle à ceux-ci.
 
 En cas de vote d'un taux supérieur à 5 % dans un ou plusieurs secteurs, les contributions mentionnées au d du 2° et au 3° de
 l'article L. 332-6-1, dans leur rédaction antérieure à l'entrée en vigueur de la loi n° 2014-1655 du 29 décembre 2014 de
-finances rectificative pour 2014, ne sont plus applicables dans ce ou ces secteurs. 
+finances rectificative pour 2014, ne sont plus applicables dans ce ou ces secteurs.
 
 Les dispositions du présent article s'appliquent à la métropole de Lyon sur la part de taxe d'aménagement prévue au 3° de
 l'article L. 331-2.
 
-**Nota:**
-
-Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
-compter des impositions dues au titre de 2015.
+Les dispositions du présent article s'appliquent à la Ville de Paris sur la part de taxe d'aménagement prévue au 1° de
+l'article L. 331-2.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
+  - Ordonnance n°2018-75 du 8 février 2018 - art. 3
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L331-2
-  - Code de l'urbanisme - art. L332-6-1 (V)
+  - Code de l'urbanisme - art. L331-2 (VD)
+  - Code de l'urbanisme - art. L332-6-1
 
 _Cité par_:
 
@@ -28894,26 +28898,29 @@ _Cité par_:
 ###### Article L331-17
 
 Par délibération adoptée avant le 30 novembre, les conseils départementaux et l'Assemblée de Corse fixent le taux de la part
-départementale de la taxe d'aménagement applicable à compter du 1er janvier de l'année suivante. 
+départementale de la taxe d'aménagement applicable à compter du 1er janvier de l'année suivante.
 
-Les conseils départementaux fixent dans cette délibération ou, au  plus  tard, lors de l'établissement de leur budget annuel
-les taux de   répartition de la part départementale de la taxe d'aménagement entre la   politique de protection des espaces
-naturels sensibles et les conseils   d'architecture, d'urbanisme et de l'environnement.
+Les conseils départementaux fixent dans cette délibération ou, au plus tard, lors de l'établissement de leur budget annuel
+les taux de répartition de la part départementale de la taxe d'aménagement entre la politique de protection des espaces
+naturels sensibles et les conseils d'architecture, d'urbanisme et de l'environnement.
 
-Le taux de la part départementale de la taxe ne peut excéder 2,5 %. 
+Le taux de la part départementale de la taxe ne peut excéder 2,5 %.
 
-Les délibérations prévues aux premier et deuxième alinéas sont  valables  pour une période d'un an. Elles sont reconduites de
-plein  droit pour  l'année suivante si une nouvelle délibération n'a pas été  adoptée dans  les délais prévus aux mêmes
-premier et deuxième alinéas.
+Les délibérations prévues aux premier et deuxième alinéas sont valables pour une période d'un an. Elles sont reconduites de
+plein droit pour l'année suivante si une nouvelle délibération n'a pas été adoptée dans les délais prévus aux mêmes premier
+et deuxième alinéas.
 
 Les dispositions du présent article s'appliquent, à compter du 1er janvier 2016, à la métropole de Lyon pour la part de taxe
+d'aménagement prévue à l'article L. 331-3.
+
+Les dispositions du présent article s'appliquent, à compter du 1er janvier 2019, à la Ville de Paris pour la part de taxe
 d'aménagement prévue à l'article L. 331-3.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 5
+  - Ordonnance n°2018-75 du 8 février 2018 - art. 3
 
 _Cite_:
 
@@ -31200,21 +31207,22 @@ _Cite_:
 ###### Article L421-9
 
 Lorsqu'une construction est achevée depuis plus de dix ans, le refus de permis de construire ou la décision d'opposition à
-déclaration préalable ne peut être fondé sur l'irrégularité de la construction initiale au regard du droit de l'urbanisme. 
+déclaration préalable ne peut être fondé sur l'irrégularité de la construction initiale au regard du droit de l'urbanisme.
 
-Les dispositions du premier alinéa ne sont pas applicables : 
+Les dispositions du premier alinéa ne sont pas applicables :
 
 1° Lorsque la construction est de nature, par sa situation, à exposer ses usagers ou des tiers à un risque de mort ou de
-blessures de nature à entraîner une mutilation ou une infirmité permanente ; 
+blessures de nature à entraîner une mutilation ou une infirmité permanente ;
 
-2° Lorsqu'une action en démolition a été engagée dans les conditions prévues par l'article L. 480-13 ; 
+2° Lorsqu'une action en démolition a été engagée dans les conditions prévues par l'article L. 480-13 ;
 
 3° Lorsque la construction est située dans un parc national créé en application des articles L. 331-1 et suivants du code de
-l'environnement ou dans un site classé en application des articles L. 341-2 et suivants du même code ; 
+l'environnement ou dans un site classé en application des articles L. 341-2 et suivants du même code ;
 
-4° Lorsque la construction est située sur le domaine public ; 
+4° Lorsque la construction est située sur le domaine public ;
 
-5° Lorsque la construction a été réalisée sans permis de construire ; 
+5° Lorsque la construction a été réalisée sans qu'aucun permis de construire n'ait été obtenu alors que celui-ci était
+requis ;
 
 6° Dans les zones mentionnées au 1° du II de l'article L. 562-1 du code de l'environnement.
 
@@ -31235,20 +31243,20 @@ _Cité par_:
   - Code de l'urbanisme - art. L460-2 (Ab)
   - Code des tribunaux administratifs et des cours adm - art. L24 (Ab)
 
-_Modifié par_:
-
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 6
-
 _Cite_:
 
-  - Code de l'urbanisme - art. L480-13 (V)
-  - Code de l'environnement - art. L331-1 (V)
-  - Code de l'environnement - art. L341-2 (V)
-  - Code de l'environnement - art. L562-1 (V)
+  - Code de l'urbanisme - art. L480-13
+  - Code de l'environnement - art. L331-1
+  - Code de l'environnement - art. L341-2
+  - Code de l'environnement - art. L562-1
 
 _Codifié par_:
 
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+_Modifié par_:
+
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 80
 
 
 #### Chapitre II : Compétence<a id=352></a>
@@ -33472,19 +33480,25 @@ décret en Conseil d'Etat.
 Toutefois, les dispositions résultant des modifications des documents du lotissement en application des articles L. 442-10,
 L. 442-11 et L. 442-13 sont opposables.
 
+L'annulation, totale ou partielle, ou la déclaration d'illégalité d'un schéma de cohérence territoriale, d'un plan local
+d'urbanisme, d'un document d'urbanisme en tenant lieu ou d'une carte communale pour un motif étranger aux règles d'urbanisme
+applicables au lotissement ne fait pas obstacle, pour l'application du présent article, au maintien de l'application des
+règles au vu desquelles le permis d'aménager a été accordé ou la décision de non-opposition a été prise.
+
+**Nota:**
+
+Conformément aux dispositions du V de l'article 80 de la loi n° 2018-1021 du 23 novembre 2018 ces dispositions entrent en
+vigueur le premier jour du deuxième mois suivant la publication de ladite loi.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 80
 
 _Cite_:
 
   - Code de l'urbanisme - art. L442-10
-
-_Codifié par_:
-
-  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-_Modifié par_:
-
-  - Loi n°2018-1021 du 23 novembre 2018 - art. 49
 
 
 #### Chapitre III : Dispositions applicables aux terrains de camping et aux autres terrains aménagés pour l'hébergement touristique<a id=370></a>
@@ -35055,15 +35069,16 @@ _Codifié par_:
 
 ###### Article L480-13
 
-Lorsqu'une construction a été édifiée conformément à un permis de construire : 
+Lorsqu'une construction a été édifiée conformément à un permis de construire :
 
 1° Le propriétaire ne peut être condamné par un tribunal de l'ordre judiciaire à la démolir du fait de la méconnaissance des
 règles d'urbanisme ou des servitudes d'utilité publique que si, préalablement, le permis a été annulé pour excès de pouvoir
-par la juridiction administrative et si la construction est située dans l'une des zones suivantes : 
+par la juridiction administrative et, sauf si le tribunal est saisi par le représentant de l'Etat dans le département sur le
+fondement du second alinéa de l'article L. 600-6, si la construction est située dans l'une des zones suivantes :
 
 a) Les espaces, paysages et milieux caractéristiques du patrimoine naturel et culturel montagnard mentionnés à l'article L.
 122-9 et au 2° de l'article L. 122-26, lorsqu'ils ont été identifiés et délimités par des documents réglementaires relatifs à
-l'occupation et à l'utilisation des sols ; 
+l'occupation et à l'utilisation des sols ;
 
 b) Les espaces terrestres et marins, sites et paysages remarquables ou caractéristiques du patrimoine naturel et culturel du
 littoral et les milieux nécessaires au maintien des équilibres biologiques mentionnés à l'article L. 146-6, lorsqu'ils ont
@@ -35071,49 +35086,49 @@ littoral et les milieux nécessaires au maintien des équilibres biologiques men
 s'agit d'une construction en bois antérieure au 1er janvier 2010, d'une superficie inférieure à mille mètres carrés, destinée
 à une exploitation d'agriculture biologique satisfaisant aux exigences ou conditions mentionnées à l'article L. 641-13 du
 code rural et de la pêche maritime et bénéficiant d'une appellation d'origine protégée définie à l'article L. 641-10 du même
-code ; 
+code ;
 
 c) La bande de trois cents mètres des parties naturelles des rives des plans d'eau naturels ou artificiels d'une superficie
-inférieure à mille hectares mentionnée à l'article L. 122-12 du présent code ; 
+inférieure à mille hectares mentionnée à l'article L. 122-12 du présent code ;
 
-d) La bande littorale de cent mètres mentionnée aux articles L. 121-16, L. 121-17 et L. 121-19 ; 
+d) La bande littorale de cent mètres mentionnée aux articles L. 121-16, L. 121-17 et L. 121-19 ;
 
-e) Les cœurs des parcs nationaux délimités en application de l'article L. 331-2 du code de l'environnement ; 
+e) Les cœurs des parcs nationaux délimités en application de l'article L. 331-2 du code de l'environnement ;
 
 f) Les réserves naturelles et les périmètres de protection autour de ces réserves institués en application, respectivement,
-de l'article L. 332-1 et des articles L. 332-16 à L. 332-18 du même code ; 
+de l'article L. 332-1 et des articles L. 332-16 à L. 332-18 du même code ;
 
-g) Les sites inscrits ou classés en application des articles L. 341-1 et L. 341-2 dudit code ; 
+g) Les sites inscrits ou classés en application des articles L. 341-1 et L. 341-2 dudit code ;
 
-h) Les sites désignés Natura 2000 en application de l'article L. 414-1 du même code ; 
+h) Les sites désignés Natura 2000 en application de l'article L. 414-1 du même code ;
 
 i) Les zones qui figurent dans les plans de prévention des risques technologiques mentionnées au 1° de l'article L. 515-16
 dudit code, celles qui figurent dans les plans de prévention des risques naturels prévisibles mentionnés aux 1° et 2° du II
 de l'article L. 562-1 du même code ainsi que celles qui figurent dans les plans de prévention des risques miniers prévus à
 l'article L. 174-5 du code minier, lorsque le droit de réaliser des aménagements, des ouvrages ou des constructions nouvelles
-et d'étendre les constructions existantes y est limité ou supprimé ; 
+et d'étendre les constructions existantes y est limité ou supprimé ;
 
 j) Les périmètres des servitudes relatives aux installations classées pour la protection de l'environnement instituées en
 application de l'article L. 515-8 du code de l'environnement, lorsque les servitudes instituées dans ces périmètres
-comportent une limitation ou une suppression du droit d'implanter des constructions ou des ouvrages ; 
+comportent une limitation ou une suppression du droit d'implanter des constructions ou des ouvrages ;
 
 k) Les périmètres des servitudes sur des terrains pollués, sur l'emprise des sites de stockage de déchets, sur l'emprise
 d'anciennes carrières ou dans le voisinage d'un site de stockage géologique de dioxyde de carbone instituées en application
 de l'article L. 515-12 du même code, lorsque les servitudes instituées dans ces périmètres comportent une limitation ou une
-suppression du droit d'implanter des constructions ou des ouvrages ; 
+suppression du droit d'implanter des constructions ou des ouvrages ;
 
-l) Les sites patrimoniaux remarquables créés en application des articles L. 631-1 et L. 631-2 du code du patrimoine ; 
+l) Les sites patrimoniaux remarquables créés en application des articles L. 631-1 et L. 631-2 du code du patrimoine ;
 
-m) Les abords des monuments historiques prévus aux articles L. 621-30 et L. 621-31 du même code ; 
+m) Les abords des monuments historiques prévus aux articles L. 621-30 et L. 621-31 du même code ;
 
-n) Les secteurs délimités par le plan local d'urbanisme en application des articles L. 151-19 et L. 151-23 du présent code. 
+n) Les secteurs délimités par le plan local d'urbanisme en application des articles L. 151-19 et L. 151-23 du présent code.
 
 L'action en démolition doit être engagée dans le délai de deux ans qui suit la décision devenue définitive de la juridiction
-administrative ; 
+administrative ;
 
 2° Le constructeur ne peut être condamné par un tribunal de l'ordre judiciaire à des dommages et intérêts que si,
 préalablement, le permis a été annulé pour excès de pouvoir ou si son illégalité a été constatée par la juridiction
-administrative. L'action en responsabilité civile doit être engagée au plus tard deux ans après l'achèvement des travaux. 
+administrative. L'action en responsabilité civile doit être engagée au plus tard deux ans après l'achèvement des travaux.
 
 Lorsque l'achèvement des travaux est intervenu avant la publication de la loi n° 2006-872 du 13 juillet 2006 portant
 engagement national pour le logement, la prescription antérieure continue à courir selon son régime.
@@ -35131,10 +35146,10 @@ _Cite_:
   - Code rural - art. L641-13
   - Code de l'urbanisme - art. L121-16
   - Code de l'urbanisme - art. L122-12
-  - Code de l'urbanisme - art. L122-26 (VD)
-  - Code de l'urbanisme - art. L122-9 (V)
-  - Code de l'urbanisme - art. L151-19 (V)
-  - Code de l'urbanisme - art. L151-23 (V)
+  - Code de l'urbanisme - art. L122-26
+  - Code de l'urbanisme - art. L122-9
+  - Code de l'urbanisme - art. L151-19
+  - Code de l'urbanisme - art. L151-23
   - Code de l'environnement - art. L331-2
   - Code de l'environnement - art. L332-1
   - Code de l'environnement - art. L332-16
@@ -35149,7 +35164,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2017-86 du 27 janvier 2017 - art. 117 (V)
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 80
 
 _Cité par_:
 
@@ -35161,7 +35176,7 @@ _Cité par_:
   - Code de l'urbanisme - art. L111-12 (VT)
   - Code de l'urbanisme - art. L421-9 (VD)
   - Code de l'urbanisme - art. L471-2 (V)
-  - Code de l'urbanisme - art. L600-6 (M)
+  - Code de l'urbanisme - art. L600-6 (VD)
   - Code de l'urbanisme - art. R*421-32 (Ab)
   - Code de l'urbanisme - art. R*424-19 (VD)
 
@@ -36483,7 +36498,7 @@ _Codifié par_:
 ###### Article L600-1-1
 
 Une association n'est recevable à agir contre une décision relative à l'occupation ou l'utilisation des sols que si le dépôt
-des statuts de l'association en préfecture est intervenu antérieurement à l'affichage en mairie de la demande du
+des statuts de l'association en préfecture est intervenu au moins un an avant l'affichage en mairie de la demande du
 pétitionnaire.
 
 **Liens relatifs à cet article**
@@ -36492,24 +36507,27 @@ _Codifié par_:
 
   - Décret n°73-1023 1973-11-08 JORF 13 NOVEMBRE 1973
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2006-872 du 13 juillet 2006 - art. 14 () JORF 16 juillet 2006
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 80
 
 
 ###### Article L600-1-2
 
 Une personne autre que l'Etat, les collectivités territoriales ou leurs groupements ou une association n'est recevable à
-former un recours pour excès de pouvoir contre un permis de construire, de démolir ou d'aménager que si la construction,
-l'aménagement ou les travaux sont de nature à affecter directement les conditions d'occupation, d'utilisation ou de
-jouissance du bien qu'elle détient ou occupe régulièrement ou pour lequel elle bénéficie d'une promesse de vente, de bail, ou
-d'un contrat préliminaire mentionné à l'article L. 261-15 du code de la construction et de l'habitation.
+former un recours pour excès de pouvoir contre une décision relative à l'occupation ou à l'utilisation du sol régie par le
+présent code que si la construction, l'aménagement ou le projet autorisé sont de nature à affecter directement les conditions
+d'occupation, d'utilisation ou de jouissance du bien qu'elle détient ou occupe régulièrement ou pour lequel elle bénéficie
+d'une promesse de vente, de bail, ou d'un contrat préliminaire mentionné à l'article L. 261-15 du code de la construction et
+de l'habitation.
+
+Le présent article n'est pas applicable aux décisions contestées par le pétitionnaire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2013-638 du 18 juillet 2013 - art. 1
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 80
 
 _Cité par_:
 
@@ -36589,10 +36607,16 @@ _Codifié par_:
 
 ###### Article L600-3
 
+Un recours dirigé contre une décision de non-opposition à déclaration préalable ou contre un permis de construire, d'aménager
+ou de démolir ne peut être assorti d'une requête en référé suspension que jusqu'à l'expiration du délai fixé pour la
+cristallisation des moyens soulevés devant le juge saisi en premier ressort.
+
+La condition d'urgence prévue à l'article L. 521-1 du code de justice administrative est présumée satisfaite.
+
 L'Etat, la commune ou l'établissement public de coopération intercommunale, lorsqu'ils défèrent à un tribunal administratif
 une décision relative à un permis de construire ou d'aménager et assortissent leur recours d'une demande de suspension,
 peuvent demander qu'il soit fait application des dispositions prévues aux troisième et quatrième alinéas de l'article L.
-2131-6 du code général des collectivités territoriales. 
+2131-6 du code général des collectivités territoriales.
 
 Lorsqu'une personne autre que celles mentionnées à l'alinéa précédent défère une décision relative à un permis de construire
 ou d'aménager et assortit son recours d'une demande de suspension, le juge des référés statue sur cette demande dans un délai
@@ -36613,11 +36637,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 21
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 80
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L2131-6 (V)
+  - Code général des collectivités territoriales - art. L2131-6
 
 _Codifié par_:
 
@@ -36671,10 +36695,12 @@ _Créé par_:
 
 ###### Article L600-5
 
-Le juge administratif qui, saisi de conclusions dirigées contre un permis de construire, de démolir ou d'aménager, estime,
+Sans préjudice de la mise en œuvre de l'article L. 600-5-1, le juge administratif qui, saisi de conclusions dirigées contre
+un permis de construire, de démolir ou d'aménager ou contre une décision de non-opposition à déclaration préalable, estime,
 après avoir constaté que les autres moyens ne sont pas fondés, qu'un vice n'affectant qu'une partie du projet peut être
-régularisé par un permis modificatif, peut limiter à cette partie la portée de l'annulation qu'il prononce et, le cas
-échéant, fixer le délai dans lequel le titulaire du permis pourra en demander la régularisation.
+régularisé, limite à cette partie la portée de l'annulation qu'il prononce et, le cas échéant, fixe le délai dans lequel le
+titulaire de l'autorisation pourra en demander la régularisation, même après l'achèvement des travaux. Le refus par le juge
+de faire droit à une demande d'annulation partielle est motivé.
 
 **Liens relatifs à cet article**
 
@@ -36690,22 +36716,39 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-638 du 18 juillet 2013 - art. 2
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 80
 
 
 ###### Article L600-5-1
 
-Le juge administratif qui, saisi de conclusions dirigées contre un permis de construire, de démolir ou d'aménager, estime,
-après avoir constaté que les autres moyens ne sont pas fondés, qu'un vice entraînant l'illégalité de cet acte est susceptible
-d'être régularisé par un permis modificatif peut, après avoir invité les parties à présenter leurs observations, surseoir à
-statuer jusqu'à l'expiration du délai qu'il fixe pour cette régularisation. Si un tel permis modificatif est notifié dans ce
-délai au juge, celui-ci statue après avoir invité les parties à présenter leurs observations.
+Sans préjudice de la mise en œuvre de l'article L. 600-5, le juge administratif qui, saisi de conclusions dirigées contre un
+permis de construire, de démolir ou d'aménager ou contre une décision de non-opposition à déclaration préalable estime, après
+avoir constaté que les autres moyens ne sont pas fondés, qu'un vice entraînant l'illégalité de cet acte est susceptible
+d'être régularisé, sursoit à statuer, après avoir invité les parties à présenter leurs observations, jusqu'à l'expiration du
+délai qu'il fixe pour cette régularisation, même après l'achèvement des travaux. Si une mesure de régularisation est notifiée
+dans ce délai au juge, celui-ci statue après avoir invité les parties à présenter leurs observations. Le refus par le juge de
+faire droit à une demande de sursis à statuer est motivé.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 80
+
+
+###### Article L600-5-2
+
+Lorsqu'un permis modificatif, une décision modificative ou une mesure de régularisation intervient au cours d'une instance
+portant sur un recours dirigé contre le permis de construire, de démolir ou d'aménager initialement délivré ou contre la
+décision de non-opposition à déclaration préalable initialement obtenue et que ce permis modificatif, cette décision
+modificative ou cette mesure de régularisation ont été communiqués aux parties à cette instance, la légalité de cet acte ne
+peut être contestée par les parties que dans le cadre de cette même instance.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Ordonnance n°2013-638 du 18 juillet 2013 - art. 2
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 80
 
 
 ###### Article L600-6
@@ -36715,15 +36758,14 @@ de construire pour un motif non susceptible de régularisation, le représentant
 action civile en vue de la démolition de la construction dans les conditions et délais définis par le 1° de l'article L.
 480-13.
 
+Le représentant de l'Etat dans le département peut également engager cette action lorsque la construction n'est pas située
+dans les zones mentionnées aux a à n du même 1°.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2015-990 du 6 août 2015 - art. 111
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L480-13 (M)
+  - Code de l'urbanisme - art. L480-13 (VD)
 
 _Cité par_:
 
@@ -36733,24 +36775,23 @@ _Codifié par_:
 
   - Décret n°73-1023 1973-11-08 JORF 13 NOVEMBRE 1973
 
+_Modifié par_:
+
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 80
+
 
 ###### Article L600-7
 
 Lorsque le droit de former un recours pour excès de pouvoir contre un permis de construire, de démolir ou d'aménager est mis
-en œuvre dans des conditions qui excèdent la défense des intérêts légitimes du requérant et qui causent un préjudice excessif
-au bénéficiaire du permis, celui-ci peut demander, par un mémoire distinct, au juge administratif saisi du recours de
-condamner l'auteur de celui-ci à lui allouer des dommages et intérêts. La demande peut être présentée pour la première fois
-en appel. 
-
-Lorsqu'une association régulièrement déclarée et ayant pour objet principal la protection de l'environnement au sens de
-l'article L. 141-1 du code de l'environnement est l'auteur du recours, elle est présumée agir dans les limites de la défense
-de ses intérêts légitimes.
+en œuvre dans des conditions qui traduisent un comportement abusif de la part du requérant et qui causent un préjudice au
+bénéficiaire du permis, celui-ci peut demander, par un mémoire distinct, au juge administratif saisi du recours de condamner
+l'auteur de celui-ci à lui allouer des dommages et intérêts. La demande peut être présentée pour la première fois en appel.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2013-638 du 18 juillet 2013 - art. 2
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 80
 
 _Cite_:
 
@@ -36759,22 +36800,26 @@ _Cite_:
 
 ###### Article L600-8
 
-Toute transaction par laquelle une personne ayant demandé au juge administratif l'annulation d'un permis de construire, de
-démolir ou d'aménager s'engage à se désister de ce recours en contrepartie du versement d'une somme d'argent ou de l'octroi
-d'un avantage en nature doit être enregistrée conformément à l'article 635 du code général des impôts.
+Toute transaction par laquelle une personne ayant demandé ou ayant l'intention de demander au juge administratif l'annulation
+d'un permis de construire, de démolir ou d'aménager s'engage à se désister de ce recours ou à ne pas introduire de recours en
+contrepartie du versement d'une somme d'argent ou de l'octroi d'un avantage en nature doit être enregistrée conformément à
+l'article 635 du code général des impôts.
 
-La contrepartie prévue par une transaction non enregistrée est réputée sans cause et les sommes versées ou celles qui
-correspondent au coût des avantages consentis sont sujettes à répétition. L'action en répétition se prescrit par cinq ans à
-compter du dernier versement ou de l'obtention de l'avantage en nature.
+La contrepartie prévue par une transaction non enregistrée dans le délai d'un mois prévu au même article 635, est réputée
+sans cause et les sommes versées ou celles qui correspondent au coût des avantages consentis sont sujettes à répétition.
+L'action en répétition se prescrit par cinq ans à compter du dernier versement ou de l'obtention de l'avantage en nature.
+
+Les transactions conclues avec des associations ne peuvent pas avoir pour contrepartie le versement d'une somme d'argent,
+sauf lorsque les associations agissent pour la défense de leurs intérêts matériels propres.
 
 Les acquéreurs successifs de biens ayant fait l'objet du permis mentionné au premier alinéa peuvent également exercer
 l'action en répétition prévue à l'alinéa précédent à raison du préjudice qu'ils ont subi.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2013-638 du 18 juillet 2013 - art. 3
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 80
 
 _Cite_:
 
@@ -36857,35 +36902,50 @@ _Cite_:
 
 ###### Article L600-12
 
+Sous réserve de l'application des articles L. 600-12-1 et L. 442-14, l'annulation ou la déclaration d'illégalité d'un schéma
+de cohérence territoriale, d'un plan local d'urbanisme, d'un document d'urbanisme en tenant lieu ou d'une carte communale a
+pour effet de remettre en vigueur le schéma de cohérence territoriale, le plan local d'urbanisme, le document d'urbanisme en
+tenant lieu ou la carte communale immédiatement antérieur.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 80
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. L174-6 (V)
+
+
+###### Article L600-12-1
+
 L'annulation ou la déclaration d'illégalité d'un schéma de cohérence territoriale, d'un plan local d'urbanisme, d'un document
-d'urbanisme en tenant lieu ou d'une carte communale a pour effet de remettre en vigueur le schéma de cohérence territoriale,
-le plan local d'urbanisme, le document d'urbanisme en tenant lieu ou la carte communale immédiatement antérieur.
+d'urbanisme en tenant lieu ou d'une carte communale sont par elles-mêmes sans incidence sur les décisions relatives à
+l'utilisation du sol ou à l'occupation des sols régies par le présent code délivrées antérieurement à leur prononcé dès lors
+que ces annulations ou déclarations d'illégalité reposent sur un motif étranger aux règles d'urbanisme applicables au projet.
+
+Le présent article n'est pas applicable aux décisions de refus de permis ou d'opposition à déclaration préalable. Pour ces
+décisions, l'annulation ou l'illégalité du document d'urbanisme leur ayant servi de fondement entraîne l'annulation de ladite
+décision.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 8
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. L174-6 (VD)
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 80
 
 
 ###### Article L600-13
 
-La requête introductive d'instance est caduque lorsque, sans motif légitime, le demandeur ne produit pas les pièces
-nécessaires au jugement de l'affaire dans un délai de trois mois à compter du dépôt de la requête ou dans le délai qui lui a
-été imparti par le juge. 
-
-La déclaration de caducité peut être rapportée si le demandeur fait connaître au greffe, dans un délai de quinze jours, le
-motif légitime qu'il n'a pas été en mesure d'invoquer en temps utile.
+Les dispositions du présent livre sont applicables aux recours pour excès de pouvoir formés contre les permis de construire
+qui tiennent lieu d'autorisation au titre d'une autre législation, sauf disposition contraire de cette dernière.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2017-86 du 27 janvier 2017 - art. 111
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 80
 
 
 ### Titre Ier : Infractions et sanctions<a id=405></a>
@@ -36893,28 +36953,32 @@ _Créé par_:
 ###### Article L610-1
 
 En cas d'infraction aux dispositions des plans locaux d'urbanisme, les articles L. 480-1 à L. 480-9 sont applicables, les
-obligations mentionnées à l'article L. 480-4 s'entendant également de celles résultant des plans locaux d'urbanisme. 
+obligations mentionnées à l'article L. 480-4 s'entendant également de celles résultant des plans locaux d'urbanisme.
 
-Les sanctions édictées à l'article L. 480-4 s'appliquent également : 
+Les sanctions édictées à l'article L. 480-4 s'appliquent également :
 
 1° En cas d'exécution de travaux ou d'utilisation du sol en méconnaissance des obligations imposées par les articles L. 111-1
-à L. 111-10, L. 111-15, L. 111-23, L. 115-3 et L. 131-1 à L. 131-7 ainsi que par les règlements pris pour leur application ; 
+à L. 111-10, L. 111-15, L. 111-23, L. 115-3 et L. 131-1 à L. 131-7 ainsi que par les règlements pris pour leur application ;
 
 2° En cas de coupes et d'abattages d'arbres effectués en infraction aux dispositions de l'article L. 421-4, sur les
 territoires des communes, parties de communes ou ensemble de communes où l'établissement d'un plan local d'urbanisme a été
-prescrit mais où ce plan n'a pas encore été rendu public ; 
+prescrit mais où ce plan n'a pas encore été rendu public ;
 
 3° En cas d'exécution de travaux ou d'utilisation du sol en infraction aux dispositions des articles L. 113-11 et L. 113-12
-relatifs à la protection des espaces naturels sensibles des départements ; 
+relatifs à la protection des espaces naturels sensibles des départements ;
 
 4° En cas d'exécution, dans une zone d'aménagement concerté, de travaux dont la réalisation doit obligatoirement être
 précédée d'une étude de sécurité publique en application de l'article L. 114-1, avant la réception de cette étude par la
-commission compétente en matière de sécurité publique. 
+commission compétente en matière de sécurité publique.
+
+Sauf en cas de fraude, le présent article n'est pas applicable lorsque le bénéficiaire d'une autorisation définitive relative
+à l'occupation ou l'utilisation du sol, délivrée selon les règles du présent code, exécute des travaux conformément à cette
+autorisation.
 
 Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 141-1 du code de
 l'environnement peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction
 aux alinéas premier et second du présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a
-pour objet de défendre. 
+pour objet de défendre.
 
 La commune ainsi que l'établissement public de coopération intercommunale compétent en matière d'urbanisme peuvent exercer
 les droits reconnus à la partie civile, en ce qui concerne les faits commis sur leur territoire et constituant une infraction
@@ -36922,25 +36986,21 @@ aux dispositions du présent article.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 8
-
-**Liens**:
-
-  - RECTIFICATION: Ordonnance n°2015-1174 du 23 septembre 2015 - art., v. init.
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 80
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L111-1 (VD)
-  - Code de l'urbanisme - art. L111-15 (VD)
-  - Code de l'urbanisme - art. L111-23 (VD)
-  - Code de l'urbanisme - art. L113-11 (VD)
-  - Code de l'urbanisme - art. L114-1 (VD)
-  - Code de l'urbanisme - art. L115-3 (VD)
-  - Code de l'urbanisme - art. L131-1 (VD)
-  - Code de l'urbanisme - art. L421-4 (VD)
-  - Code de l'urbanisme - art. L480-4 (V)
+  - Code de l'urbanisme - art. L111-1
+  - Code de l'urbanisme - art. L111-15
+  - Code de l'urbanisme - art. L111-23
+  - Code de l'urbanisme - art. L113-11
+  - Code de l'urbanisme - art. L114-1
+  - Code de l'urbanisme - art. L115-3
+  - Code de l'urbanisme - art. L131-1
+  - Code de l'urbanisme - art. L421-4
+  - Code de l'urbanisme - art. L480-4
   - Code de l'environnement - art. L141-1
 
 _Cité par_:

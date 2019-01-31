@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-02-01
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -496,7 +496,7 @@ Version Consolidée au 2019-01-01
         - [Chapitre II : Aménagement et protection de la montagne (art. R122-1 à R122-20)](#493)
           - [Section 1 : Dispositions générales (art. R122-1 à R122-18)](#494)
             - [Sous-section 1 : Régime d'urbanisation (art. R122-1 à R122-2)](#495)
-            - [Sous-section 2 : Préservation des espaces naturels, paysages et milieux caractéristiques (art. R122-3)](#496)
+            - [Sous-section 2 : Préservation des espaces naturels, paysages et milieux caractéristiques (art. R122-3 à R122-3-1)](#496)
             - [Sous-section 3 : Unités touristiques nouvelles (art. R122-4 à R122-18)](#497)
               - [Paragraphe 1 : Dispositions communes aux unités touristiques nouvelles structurantes et locales (art. R122-4 à R122-7)](#498)
               - [Paragraphe 2 : Unités touristiques nouvelles structurantes et unités touristiques nouvelles locales (art. R122-8 à R122-9)](#499)
@@ -43656,6 +43656,32 @@ _Cite_:
 _Anciens textes_:
 
   - Code de l'urbanisme - art. R145-15 (Ab)
+
+
+###### Article R122-3-1
+
+Le préfet territorialement compétent dispose d'un délai de quatre mois, à compter de la date de réception de la demande, pour
+notifier au demandeur l'autorisation expresse prévue au cinquième alinéa de l'article L. 122-11. 
+
+Faute de délivrance de l'autorisation dans ce même délai, cette dernière est réputée rejetée.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2018-1237 du 24 décembre 2018 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L122-11
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. R143-6 (V)
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
 
 
 ##### Sous-section 3 : Unités touristiques nouvelles<a id=497></a>

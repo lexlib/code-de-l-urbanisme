@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2019-02-01
+Version Consolidée au 2019-04-01
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -617,9 +617,9 @@ Version Consolidée au 2019-02-01
           - [Section 5 : Rétrocession des biens acquis par exercice du droit de préemption (art. R215-19)](#614)
     - [Livre III : Aménagement foncier (art. R300-1 à R340-7)](#615)
       - [Section 1 : Règles générales (art. R300-1 à R300-2)](#616)
-      - [Section 2 : Concessions d'aménagement (art. R*300-4 à R*300-11-9)](#617)
-        - [Sous-section 1 : Procédure relative aux concessions d'aménagement transférant un risque économique (art. R*300-4 à R*300-9)](#618)
-        - [Sous-section 2 : Procédure relative aux concessions d'aménagement ne transférant pas un risque économique (art. R*300-11-1 à R*300-11-3)](#619)
+      - [Section 2 : Concessions d'aménagement (art. R*300-5 à R*300-11-9)](#617)
+        - [Sous-section 1 : Procédure relative aux concessions d'aménagement transférant un risque économique (art. R*300-5 à R300-9)](#618)
+        - [Sous-section 2 : Procédure relative aux concessions d'aménagement ne transférant pas un risque économique (art. R*300-11-1 à R300-11-2)](#619)
         - [Sous-section 3 : Concessions d'aménagement accordées par l'Etat (art. R*300-11-9)](#620)
       - [Section 3 : Contrats conclus par le concessionnaire d'une opération d'aménagement (art. R*300-12 à R*300-13)](#621)
       - [Section 4 : Procédures intégrées (art. R300-15 à R300-27)](#622)
@@ -647,7 +647,7 @@ Version Consolidée au 2019-02-01
           - [Section 4 : Dispositions particulières à certaines opérations (art. R*318-14 à R318-15)](#644)
           - [Section 5 : Dispositions applicables aux communes de Paris, Marseille et Lyon ainsi qu'aux communes issues d'une fusion et comportant une ou plusieurs communes associées (art. R*318-16 à R*318-22)](#645)
       - [Titre II : Organismes d'exécution (art. R*321-1 à R329-17)](#646)
-        - [Chapitre Ier : Etablissements publics (art. R*321-1 à R*321-22)](#647)
+        - [Chapitre Ier : Etablissements publics (art. R*321-1 à R321-5)](#647)
         - [Chapitre II : Associations foncières urbaines (art. R*322-1 à R322-40)](#648)
           - [Section 1 : Dispositions générales (art. R*322-2 à R322-4)](#649)
           - [Section 2 : Dispositions concernant les associations foncières urbaines de remembrement (art. R*322-6 à R*322-24)](#650)
@@ -679,7 +679,7 @@ Version Consolidée au 2019-02-01
           - [Section 1 : Taxe d'aménagement (art. R331-1 à R331-16)](#676)
             - [Sous-section 1 : Généralités (art. R331-1 à R331-2)](#677)
             - [Sous-section 2 : Champ d'application et fait générateur (art. R331-3)](#678)
-            - [Sous-section 3 :  Exonérations (art. R*331-4 à R*331-6)](#679)
+            - [Sous-section 3 :  Exonérations (art. R*331-5 à R331-4)](#679)
             - [Sous-section 4 : Base d'imposition (art. R331-7)](#680)
             - [Sous-section 5 : Taux d'imposition (art. R331-8)](#681)
             - [Sous-section 6 : Etablissement de la taxe (art. R331-9 à R331-11)](#682)
@@ -21566,16 +21566,13 @@ _Codifié par_:
 ###### Article L300-3
 
 I.-L'Etat, les collectivités territoriales et leurs établissements publics peuvent, par convention de mandat passée avec
-toute personne publique ou privée et dans les conditions prévues par le code des marchés publics ou par l'ordonnance n°
-2005-649 du 6 juin 2005 relative aux marchés passés par certaines personnes publiques ou privées non soumises au code des
-marchés publics, lui confier le soin de faire procéder en leur nom et pour leur compte à une ou plusieurs des missions
-suivantes :
+toute personne publique ou privée et dans les conditions prévues par le code de la commande publique, lui confier le soin de
+faire procéder en leur nom et pour leur compte à une ou plusieurs des missions suivantes :
 
 1° La réalisation d'études, notamment d'études préalables nécessaires à une opération d'aménagement ;
 
 2° La réalisation de travaux et la construction d'ouvrages ou de bâtiments de toute nature, lorsque ces travaux ou
-constructions n'entrent pas dans le champ d'application de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise
-d'ouvrage publique et à ses rapports avec la maîtrise d'œuvre privée ;
+constructions n'entrent pas dans le champ d'application du livre IV de la deuxième partie du code de la commande publique ;
 
 3° L'achat et la revente de biens fonciers ou immobiliers dans le respect de la loi n° 70-9 du 2 janvier 1970 réglementant
 les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et les fonds de commerce.
@@ -21599,8 +21596,8 @@ procèdent au remboursement des dépenses exposées par elle. Dans ce dernier ca
 lieu, les garanties exigées ;
 
 5° Les conditions dans lesquelles la conclusion des marchés peut être confiée au mandataire. Le mandataire peut être chargé
-de procéder, au nom et pour le compte de la personne publique, aux paiements afférents aux marchés nécessaires à l'exécution
-du mandat.
+de procéder, au nom et pour le compte de la personne publique, aux paiements afférents aux marchés publics nécessaires à
+l'exécution du mandat.
 
 **Liens relatifs à cet article**
 
@@ -21611,12 +21608,10 @@ _Codifié par_:
 _Cite_:
 
   - Loi n°70-9 du 2 janvier 1970
-  - Loi n°85-704 du 12 juillet 1985
-  - Ordonnance n°2005-649 du 6 juin 2005
 
 _Modifié par_:
 
-  - Loi n°2018-1021 du 23 novembre 2018 - art. 15
+  - Ordonnance n°2018-1074 du 26 novembre 2018 - art. 10
 
 
 ###### Article L300-4
@@ -21694,14 +21689,14 @@ _Cite_:
 
 ###### Article L300-5
 
-I. ―  Le traité de concession d'aménagement précise les obligations de chacune des parties, notamment :
+I. – Le traité de concession d'aménagement précise les obligations de chacune des parties, notamment :
 
 1° L'objet du contrat, sa durée et les conditions dans lesquelles il peut éventuellement être prorogé, ou modifié ;
 
 2° Les conditions de rachat, de résiliation ou de déchéance par le concédant, ainsi que, éventuellement, les conditions et
 les modalités d'indemnisation du concessionnaire.
 
-II. ―  Lorsque le concédant décide de participer au coût de l'opération, sous forme d'apport financier ou d'apport en
+II. – Lorsque le concédant décide de participer au coût de l'opération, sous forme d'apport financier ou d'apport en
 terrains, le traité de concession précise en outre, à peine de nullité :
 
 1° Les modalités de cette participation financière, qui peut prendre la forme d'apports en nature ;
@@ -21730,20 +21725,21 @@ concédant ou par l'autorité administrative lorsque celui-ci est l'Etat. Toute 
 avenant au traité de concession, approuvé par l'organe délibérant du concédant ou par l'autorité administrative lorsque
 celui-ci est l'Etat.
 
-III. ―  L'opération d'aménagement peut bénéficier, avec l'accord préalable du concédant, de subventions versées par l'Etat,
+III. – L'opération d'aménagement peut bénéficier, avec l'accord préalable du concédant, de subventions versées par l'Etat,
 des collectivités territoriales et leurs groupements ou des établissements publics. Dans ce cas, le traité de concession est
 soumis aux dispositions du II, même si le concédant ne participe pas au financement de l'opération. Le concessionnaire doit
 également rendre compte de l'utilisation des subventions reçues aux personnes publiques qui les ont allouées.
 
-IV. ―  L'article 52 de l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de concession n'est pas applicable
-aux concessions d'aménagement.
+IV. – L'article L. 3131-5 du code de la commande publique n'est pas applicable aux concessions d'aménagement.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
+  - Loi n°94-112 du 9 février 1994 - art. 6 (V)
   - Loi n°2013-1278 du 29 décembre 2013 - art. 29 (V)
   - Loi n°2014-891 du 8 août 2014 - art. 27 (V)
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 12 (V)
   - Code de l'urbanisme - art. L311-5 (V)
   - Code de l'urbanisme - art. R*300-10 (T)
   - Code de l'urbanisme - art. R*300-11 (VT)
@@ -21757,28 +21753,25 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2313-1 (VT)
   - Code rural - art. L112-9 (V)
   - Code rural - art. L112-9-1 (T)
-  - Loi n°94-112 du 9 février 1994 - art. 6 (V)
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 12 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2018-1074 du 26 novembre 2018 - art. 10
 
 _Cite_:
 
-  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 52
+  - Code de la commande publique - art. L3131-5
 
 _Codifié par_:
 
   - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
-_Modifié par_:
-
-  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 75
-
 
 ###### Article L300-5-1
 
-Lorsque le concessionnaire n'est pas soumis au code des marchés publics ou aux dispositions de l'ordonnance n° 2005-649 du 6
-juin 2005 relative aux marchés passés par certaines personnes publiques ou privées non soumises au code des marchés publics,
-les contrats d'études, de maîtrise d'oeuvre et de travaux conclus par lui pour l'exécution de la concession sont soumis à une
-procédure de publicité et de mise en concurrence définie par décret en Conseil d'Etat.
+Lorsque le concessionnaire n'est pas soumis au code de la commande publique, les contrats d'études, de maîtrise d'œuvre et de
+travaux conclus par lui pour l'exécution de la concession sont soumis à une procédure de publicité et de mise en concurrence
+définie par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -21788,11 +21781,11 @@ _Codifié par_:
 
 _Cite_:
 
-  - Ordonnance n°2005-649 du 6 juin 2005 (V)
+  - Ordonnance n°2005-649 du 6 juin 2005
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-809 du 20 juillet 2005 - art. 3 () JORF 21 juillet 2005
+  - Ordonnance n°2018-1074 du 26 novembre 2018 - art. 10
 
 _Cité par_:
 
@@ -52670,34 +52663,6 @@ _Codifié par_:
 
 #### Sous-section 1 : Procédure relative aux concessions d'aménagement transférant un risque économique<a id=618></a>
 
-###### Article R*300-4
-
-Les dispositions de l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de concession, du décret n° 2016-86 du
-1er février 2016 relatif aux contrats de concession et les dispositions de la présente sous-section sont applicables aux
-concessions d'aménagement lorsque le concessionnaire assume un risque économique lié à l'opération d'aménagement.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2016-86 du 1er février 2016 - art. 51
-
-_Cite_:
-
-  - Code des marchés publics - art. 26
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. R*300-10 (T)
-  - Code de l'urbanisme - art. R*300-11-1 (V)
-  - Code de l'urbanisme - art. R*300-11-7 (V)
-  - Code de l'urbanisme - art. R300-11-8 (V)
-
-_Nouveaux textes_:
-
-  - Code de l'urbanisme - art. R*300-5 (VD)
-
-
 ###### Article R*300-5
 
 Préalablement à la passation d'une concession d'aménagement, le concédant publie, dans une publication habilitée à recevoir
@@ -52719,22 +52684,50 @@ _Cité par_:
   - Code de l'urbanisme - art. R300-9-1 (VT)
 
 
-###### Article R*300-7
+###### Article R300-4
 
-Sans préjudice des articles 4,5 et 18 du décret n° 2016-86 du 1er février 2016 relatif aux contrats de concession, le
-concédant adresse à chacun des candidats un document précisant les caractéristiques essentielles de la concession
-d'aménagement et indiquant le programme global prévisionnel des équipements et des constructions projetés ainsi que les
-conditions de mise en œuvre de l'opération.
+Les dispositions de la troisième partie du code de la commande publique et les dispositions de la présente sous-section sont
+applicables aux concessions d'aménagement lorsque le concessionnaire assume un risque économique lié à l'opération
+d'aménagement.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 8
+
+_Cite_:
+
+  - Code des marchés publics - art. 26
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. R*300-10 (T)
+  - Code de l'urbanisme - art. R*300-11-1 (V)
+  - Code de l'urbanisme - art. R*300-11-7 (V)
+  - Code de l'urbanisme - art. R300-11-8 (V)
+
+_Nouveaux textes_:
+
+  - Code de l'urbanisme - art. R*300-5 (VD)
+
+
+###### Article R300-7
+
+Sans préjudice des articles R. 3122-7 à R. 3122-12, R. 3123-14, R. 3123-15, R. 3124-2 et R. 3124-3 du code de la commande
+publique, le concédant adresse à chacun des candidats un document précisant les caractéristiques essentielles de la
+concession d'aménagement et indiquant le programme global prévisionnel des équipements et des constructions projetés ainsi
+que les conditions de mise en œuvre de l'opération.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°2016-86 du 1er février 2016 - art. 4 (V)
+  - Décret n°2016-86 du 1er février 2016 - art. 4
 
 _Modifié par_:
 
-  - Décret n°2016-86 du 1er février 2016 - art. 51
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 8
 
 _Cité par_:
 
@@ -52749,14 +52742,13 @@ _Nouveaux textes_:
   - Code de l'urbanisme - art. R*300-8 (VD)
 
 
-###### Article R*300-9
+###### Article R300-9
 
 Lorsque le concédant est une collectivité territoriale ou un groupement de collectivités territoriales, l'organe délibérant
 désigne en son sein à la représentation proportionnelle à la plus forte moyenne les membres composant la commission chargée
-d'émettre un avis sur les propositions reçues, préalablement à l'engagement de la négociation prévue à l'article 46 de
-l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de concession. Il désigne la personne habilitée à engager
-ces discussions et à signer la convention. Cette personne peut recueillir l'avis de la commission à tout moment de la
-procédure. 
+d'émettre un avis sur les propositions reçues, préalablement à l'engagement de la négociation prévue à l'article L. 3124-1 du
+code de la commande publique. Il désigne la personne habilitée à engager ces discussions et à signer la convention. Cette
+personne peut recueillir l'avis de la commission à tout moment de la procédure.
 
 L'organe délibérant choisit le concessionnaire, sur proposition de la personne habilitée à mener les discussions et à signer
 la convention et au vu de l'avis ou des avis émis par la commission.
@@ -52765,11 +52757,11 @@ la convention et au vu de l'avis ou des avis émis par la commission.
 
 _Cite_:
 
-  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 46 (V)
+  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 46
 
 _Modifié par_:
 
-  - Décret n°2016-86 du 1er février 2016 - art. 51
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 8
 
 _Nouveaux textes_:
 
@@ -52778,7 +52770,7 @@ _Nouveaux textes_:
 _Cité par_:
 
   - Code de l'urbanisme - art. R*300-11 (VT)
-  - Code de l'urbanisme - art. R*300-11-2 (V)
+  - Code de l'urbanisme - art. R300-11-2 (VD)
 
 _Anciens textes_:
 
@@ -52808,63 +52800,6 @@ _Cite_:
   - Code de l'urbanisme - art. R*300-4 (V)
 
 
-###### Article R*300-11-2
-
-I.-Lorsque le montant total des produits de l'opération d'aménagement faisant l'objet du contrat est égal ou supérieur au
-seuil européen applicable aux marchés publics de travaux publié au Journal officiel de la République française, la concession
-d'aménagement est passée en application des règles prévues : 
-
-1° Pour l'Etat et ses établissements publics, par l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics et
-le décret n° 2016-360 du 25 mars 2016 relatif aux marchés publics ; 
-
-2° Pour les collectivités territoriales, leurs établissements publics et leurs groupements, par les articles L. 1414-1 à L.
-1414-4 du code général des collectivités territoriales. 
-
-II.-Toutefois : 
-
-1° Les dispositions de l'article 32 de l'ordonnance du 23 juillet 2015 mentionnée ci-dessus ne sont pas applicables aux
-contrats passés en application de la présente sous-section ; 
-
-2° Les articles 59 à 64 de ladite ordonnance ne sont pas applicables ; 
-
-3° Par dérogation à l'article 33 et au II de l'article 34 du décret n° 2016-360 du 25 mars 2016 mentionné ci-dessus, l'avis
-d'appel à la concurrence fait l'objet d'une publication supplémentaire dans une publication spécialisée dans les domaines de
-l'urbanisme, des travaux publics ou de l'immobilier ; 
-
-4° Le programme fonctionnel mentionné à l'article 75 du décret n° 2016-360 du 25 mars 2016 mentionné ci-dessus indique au
-minimum les caractéristiques essentielles de la concession d'aménagement, le programme global prévisionnel des équipements et
-des constructions projetés ainsi que les conditions de mise en œuvre de l'opération ; 
-
-5° Les critères d'attribution sont définis et appréciés de manière : 
-
-a) A tenir compte du coût global de l'opération au regard de son bilan prévisionnel intégrant la totalité des recettes et des
-dépenses ; 
-
-b) A prendre en considération le respect des exigences de développement durable exprimées par la personne publique, notamment
-en matière de qualité architecturale, de performance environnementale, de mixité sociale et de diversité des fonctions
-urbaines ; 
-
-6° La commission d'appel d'offres mentionnée à l'article L. 1414-2 du code général des collectivités territoriales est
-composée conformément aux dispositions de l'article R. * 300-9 du présent code.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 59 (V)
-  - Décret n°2016-360 du 25 mars 2016 - art. 33 (V)
-  - Code général des collectivités territoriales - art. L1414-1 (V)
-  - Code de l'urbanisme - art. R*300-9 (V)
-
-_Modifié par_:
-
-  - Décret n°2016-360 du 25 mars 2016 - art. 182
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. R*300-11-3 (V)
-
-
 ###### Article R*300-11-3
 
 Lorsque le montant total des produits de l'opération d'aménagement faisant l'objet du contrat est inférieur au seuil européen
@@ -52882,6 +52817,64 @@ _Modifié par_:
 _Cite_:
 
   - Code de l'urbanisme - art. R*300-11-2 (V)
+
+
+###### Article R300-11-2
+
+I.-Lorsque le montant total des produits de l'opération d'aménagement faisant l'objet du contrat est égal ou supérieur au
+seuil européen applicable aux marchés publics de travaux publié au Journal officiel de la République française, la concession
+d'aménagement est passée en application des règles prévues :
+
+1° Pour l'Etat et ses établissements publics, par la deuxième partie du code de la commande publique ;
+
+2° Pour les collectivités territoriales, leurs établissements publics et leurs groupements, par les articles L. 1414-1 à L.
+1414-4 du code général des collectivités territoriales.
+
+II.-Toutefois :
+
+1° Les dispositions des articles L. 2113-10 et L. 2113-11 du code de la commande publique ne sont pas applicables aux
+contrats passés en application de la présente sous-section ;
+
+2° Les dispositions des chapitres Ier et III du titre IX du livre Ier et du chapitre III du titre IX du livre III de la
+deuxième partie du code de la commande publique, et les articles L. 2196-4 à L. 2196-6, L. 2396-3 et L. 2396-4 du même code
+ne sont pas applicables ;
+
+3° Par dérogation à l'article R. 2131-18 du code de la commande publique, l'avis d'appel à la concurrence fait l'objet d'une
+publication supplémentaire dans une publication spécialisée dans les domaines de l'urbanisme, des travaux publics ou de
+l'immobilier ;
+
+4° Le programme fonctionnel mentionné à l'article R. 2161-24 du code de la commande publique indique au minimum les
+caractéristiques essentielles de la concession d'aménagement, le programme global prévisionnel des équipements et des
+constructions projetés ainsi que les conditions de mise en œuvre de l'opération ;
+
+5° Les critères d'attribution sont définis et appréciés de manière :
+
+a) A tenir compte du coût global de l'opération au regard de son bilan prévisionnel intégrant la totalité des recettes et des
+dépenses ;
+
+b) A prendre en considération le respect des exigences de développement durable exprimées par la personne publique, notamment
+en matière de qualité architecturale, de performance environnementale, de mixité sociale et de diversité des fonctions
+urbaines ;
+
+6° La commission d'appel d'offres mentionnée à l'article L. 1414-2 du code général des collectivités territoriales est
+composée conformément aux dispositions de l'article R. * 300-9 du présent code.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°2015-899 du 23 juillet 2015 - art. 59
+  - Décret n°2016-360 du 25 mars 2016 - art. 33 (VT)
+  - Code général des collectivités territoriales - art. L1414-1
+  - Code de l'urbanisme - art. R300-9 (VD)
+
+_Modifié par_:
+
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 8
+
+_Cité par_:
+
+  - Code de l'urbanisme - art. R*300-11-3 (V)
 
 
 #### Sous-section 3 : Concessions d'aménagement accordées par l'Etat<a id=620></a>
@@ -55413,86 +55406,6 @@ _Modifié par_:
   - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
 
 
-###### Article R*321-5
-
-Les membres du conseil d'administration des établissements publics fonciers de l'Etat, des établissements publics
-d'aménagement et de l'établissement public Grand Paris Aménagement ne peuvent prendre ou conserver aucun intérêt directement
-lié à l'activité de l'établissement, occuper aucune fonction dans les entreprises traitant avec l'établissement pour des
-marchés de services, de travaux ou de fournitures ou assurer des prestations pour ces entreprises. Ils ne peuvent en aucun
-cas prêter leur concours à titre onéreux à l'établissement. 
-
-Ils adressent au préfet compétent, dans les quinze jours suivant leur nomination ou désignation, une déclaration
-mentionnant :
-
-- les fonctions exercées par eux-mêmes et leurs conjoints non séparés de corps ou les personnes avec lesquelles ils sont liés
-par un pacte civil de solidarité, dans les organismes ou les sociétés, ainsi que les sociétés qu'elles contrôlent ou qui les
-contrôlent au sens de l'article L. 233-3 du code de commerce, susceptibles, du fait de leur secteur d'activité, de conclure
-des conventions avec l'établissement public ;
-
-- la liste et le nombre des actions et droits sociaux représentant au moins un vingtième du capital ou des droits de vote,
-possédés par eux-mêmes, leurs conjoints et enfants mineurs non émancipés dans les mêmes sociétés ou organismes.
-
-Le préfet compétent invite l'administrateur qui n'a pas adressé cette déclaration dans le délai prescrit au premier alinéa à
-la produire dans un délai qu'il fixe. Cet administrateur ne peut siéger au conseil d'administration avant de s'être acquitté
-de cette obligation, à moins qu'il ait justifié être dans l'impossibilité temporaire de le faire.
-
-Chaque année, le préfet compétent demande aux membres du conseil d'administration de lui signaler les modifications
-intervenues dans les éléments figurant dans sa déclaration.
-
-Les informations ainsi fournies ont un caractère confidentiel.
-
-Toutefois, le préfet compétent communique à l'autorité chargée du contrôle économique et financier de l'Etat les déclarations
-remplies par les administrateurs ainsi que les modifications qui y sont apportées.
-
-Les membres du conseil d'administration ne peuvent prendre part aux délibérations ayant pour objet une affaire à laquelle ils
-ont un intérêt personnel.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret  1959-05-19 ART. 4
-
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
-_Cité par_:
-
-  - Décret n°68-376 du 26 avril 1968 - art. 6 (V)
-  - Décret n°72-770 du 17 août 1972 - art. 6 (V)
-  - Décret n°73-250 du 7 mars 1973 - art. 6 (V)
-  - Décret n°90-1154 du 19 décembre 1990 - art. 8 (V)
-  - Décret n°95-1102 du 13 octobre 1995 - art. 6 (V)
-  - Décret n°96-325 du 10 avril 1996 - art. 6 (V)
-  - Décret n°98-923 du 14 octobre 1998 - art. 9 (V)
-  - Décret n°2001-1234 du 20 décembre 2001 - art. 6 (V)
-  - Décret n°2006-1140 du 13 septembre 2006 - art. 8 (V)
-  - Décret n°2007-88 du 24 janvier 2007 - art. 6 (V)
-  - Décret n°2007-785 du 10 mai 2007 - art. 7 (VD)
-  - Décret n°2008-645 du 30 juin 2008 - art. 7 (V)
-  - Décret n°2008-670 du 2 juillet 2008 - art. 7 (V)
-  - Décret n°2008-773 du 30 juillet 2008 - art. 6 (V)
-  - Décret n°2009-636 du 8 juin 2009 - art. 8 (M)
-  - Décret n°2010-306 du 22 mars 2010 - art. 6 (V)
-  - Décret n°2010-503 du 18 mai 2010 - art. 6 (V)
-  - Décret n°2012-327  du 6 mars 2012 - art. 6 (V)
-  - Décret n°2012-764 du 9 mai 2012 - art. 7 (V)
-  - Décret n°2015-980 du 31 juillet 2015 - art. 5 (V)
-  - Décret n°2016-1865 du 23 décembre 2016 - art. 6 (VD)
-  - Décret n°2017-341 du 15 mars 2017 - art. 6 (V)
-  - Décret n°2017-1764 du 27 décembre 2017 - art. 3 (V)
-
-_Modifié par_:
-
-  - Décret n°2015-979 du 31 juillet 2015 - art. 1
-  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
-
-_Cite_:
-
-  - Code de commerce - art. L233-3
-
-
 ###### Article R*321-6
 
 Le conseil d'administration des établissements publics fonciers de l'Etat et des établissements publics d'aménagement peut
@@ -55605,7 +55518,8 @@ l'établissement public Grand Paris Aménagement sont ordonnateurs des dépenses
 
 Dans ces établissements publics, le directeur général est compétent pour :
 
-1° Préparer et passer les contrats, les marchés, les actes d'acquisition, d'aliénation, d'échange et de location ;
+1° Préparer et passer les contrats, les marchés publics et contrats de concession, les actes d'acquisition, d'aliénation,
+d'échange et de location ;
 
 2° Préparer et conclure les transactions ;
 
@@ -55658,7 +55572,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-777 du 5 mai 2017 - art. 3
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 8
 
 _Cite_:
 
@@ -56245,6 +56159,85 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+
+
+###### Article R321-5
+
+Les membres du conseil d'administration des établissements publics fonciers de l'Etat, des établissements publics
+d'aménagement et de l'établissement public Grand Paris Aménagement ne peuvent prendre ou conserver aucun intérêt directement
+lié à l'activité de l'établissement, occuper aucune fonction dans les entreprises traitant avec l'établissement pour des
+contrats de la commande publique ou assurer des prestations pour ces entreprises. Ils ne peuvent en aucun cas prêter leur
+concours à titre onéreux à l'établissement.
+
+Ils adressent au préfet compétent, dans les quinze jours suivant leur nomination ou désignation, une déclaration
+mentionnant :
+
+- les fonctions exercées par eux-mêmes et leurs conjoints non séparés de corps ou les personnes avec lesquelles ils sont liés
+par un pacte civil de solidarité, dans les organismes ou les sociétés, ainsi que les sociétés qu'elles contrôlent ou qui les
+contrôlent au sens de l'article L. 233-3 du code de commerce, susceptibles, du fait de leur secteur d'activité, de conclure
+des conventions avec l'établissement public ;
+
+- la liste et le nombre des actions et droits sociaux représentant au moins un vingtième du capital ou des droits de vote,
+possédés par eux-mêmes, leurs conjoints et enfants mineurs non émancipés dans les mêmes sociétés ou organismes.
+
+Le préfet compétent invite l'administrateur qui n'a pas adressé cette déclaration dans le délai prescrit au premier alinéa à
+la produire dans un délai qu'il fixe. Cet administrateur ne peut siéger au conseil d'administration avant de s'être acquitté
+de cette obligation, à moins qu'il ait justifié être dans l'impossibilité temporaire de le faire.
+
+Chaque année, le préfet compétent demande aux membres du conseil d'administration de lui signaler les modifications
+intervenues dans les éléments figurant dans sa déclaration.
+
+Les informations ainsi fournies ont un caractère confidentiel.
+
+Toutefois, le préfet compétent communique à l'autorité chargée du contrôle économique et financier de l'Etat les déclarations
+remplies par les administrateurs ainsi que les modifications qui y sont apportées.
+
+Les membres du conseil d'administration ne peuvent prendre part aux délibérations ayant pour objet une affaire à laquelle ils
+ont un intérêt personnel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
+
+_Cité par_:
+
+  - Décret n°68-376 du 26 avril 1968 - art. 6 (V)
+  - Décret n°72-770 du 17 août 1972 - art. 6 (V)
+  - Décret n°73-250 du 7 mars 1973 - art. 6 (V)
+  - Décret n°90-1154 du 19 décembre 1990 - art. 8 (V)
+  - Décret n°95-1102 du 13 octobre 1995 - art. 6 (V)
+  - Décret n°96-325 du 10 avril 1996 - art. 6 (V)
+  - Décret n°98-923 du 14 octobre 1998 - art. 9 (V)
+  - Décret n°2001-1234 du 20 décembre 2001 - art. 6 (V)
+  - Décret n°2006-1140 du 13 septembre 2006 - art. 8 (V)
+  - Décret n°2007-88 du 24 janvier 2007 - art. 6 (V)
+  - Décret n°2007-785 du 10 mai 2007 - art. 7 (VD)
+  - Décret n°2008-645 du 30 juin 2008 - art. 7 (V)
+  - Décret n°2008-670 du 2 juillet 2008 - art. 7 (V)
+  - Décret n°2008-773 du 30 juillet 2008 - art. 6 (V)
+  - Décret n°2009-636 du 8 juin 2009 - art. 8 (M)
+  - Décret n°2010-306 du 22 mars 2010 - art. 6 (V)
+  - Décret n°2010-503 du 18 mai 2010 - art. 6 (V)
+  - Décret n°2012-327  du 6 mars 2012 - art. 6 (V)
+  - Décret n°2012-764 du 9 mai 2012 - art. 7 (V)
+  - Décret n°2015-980 du 31 juillet 2015 - art. 5 (V)
+  - Décret n°2016-1865 du 23 décembre 2016 - art. 6 (VD)
+  - Décret n°2017-341 du 15 mars 2017 - art. 6 (V)
+  - Décret n°2017-1764 du 27 décembre 2017 - art. 3 (V)
+
+_Anciens textes_:
+
+  - Décret  1959-05-19 ART. 4
+
+_Modifié par_:
+
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 8
+
+_Cite_:
+
+  - Code de commerce - art. L233-3
 
 
 #### Chapitre II : Associations foncières urbaines<a id=648></a>
@@ -57943,8 +57936,13 @@ mois à compter de la constatation de la vacance, par de nouveaux membres désig
 remplacent pour le temps restant à courir jusqu'à la date normale d'expiration du mandat de ces derniers.
 
 Les membres du conseil d'administration ne peuvent prendre ou conserver aucun intérêt, occuper aucune fonction dans les
-entreprises traitant avec l'établissement pour des marchés de travaux ou de fournitures ou assurer des prestations pour ces
+entreprises traitant avec l'établissement pour des contrats de la commande publique ou assurer des prestations pour ces
 entreprises. Ils ne peuvent en aucun cas prêter leurs concours à titre onéreux à l'établissement.
+
+**Nota:**
+
+Conformément à l’article 14 du décret n° 2019-1190 du 18 novembre 2019, les présentes dispositions sont abrogées le 1
+  <sup>er</sup> janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -57952,9 +57950,13 @@ _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°97-130 du 12 février 1997 - art. 1 () JORF 13 février 1997
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 8
+
+_Abrogé par_:
+
+  - Décret n°2019-1190 du 18 novembre 2019 - art. 2
 
 
 ###### Article R325-3
@@ -58312,9 +58314,9 @@ _Cite_:
 ###### Article R328-3
 
 Les membres du conseil d'administration ne peuvent prendre ou conserver aucun intérêt directement lié à l'activité de
-l'établissement, occuper aucune fonction dans les entreprises traitant avec l'établissement pour des marchés de services, de
-travaux ou de fournitures ou assurer des prestations pour ces entreprises. Ils ne peuvent en aucun cas prêter leur concours à
-titre onéreux à l'établissement.
+l'établissement, occuper aucune fonction dans les entreprises traitant avec l'établissement pour des contrats de la commande
+publique ou assurer des prestations pour ces entreprises. Ils ne peuvent en aucun cas prêter leur concours à titre onéreux à
+l'établissement.
 
 Ils adressent au préfet de la région d'Ile-de-France, dans les quinze jours suivant leur nomination ou désignation, une
 déclaration mentionnant :
@@ -58349,7 +58351,7 @@ Conformément aux dispositions du I de l'article 2 du décret n° 2017-1040 du 1
 
 _Modifié par_:
 
-  - Décret n°2017-1040 du 10 mai 2017 - art. 1
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 8
 
 
 ###### Article R328-4
@@ -58588,27 +58590,28 @@ _Cité par_:
 I. – Le directeur général de l'établissement est ordonnateur des dépenses et des recettes. Il est chargé de l'instruction
 préalable des affaires qui sont de la compétence de l'établissement. Il prépare et exécute les décisions du conseil
 d'administration. Il prépare et présente le budget. Il recrute le personnel et a autorité sur lui. Il peut déléguer sa
-signature. 
+signature.
 
-Il est notamment compétent pour : 
+Il est notamment compétent pour :
 
-1° Préparer et passer les contrats, les marchés, les actes d'acquisition, d'aliénation, d'échange et de location ; 
+1° Préparer et passer les contrats, les marchés publics et contrats de concession, les actes d'acquisition, d'aliénation,
+d'échange et de location ;
 
-2° Préparer et conclure les transactions ; 
+2° Préparer et conclure les transactions ;
 
-3° Représenter l'établissement dans les actes de la vie civile et commerciale et ester en justice ; 
+3° Représenter l'établissement dans les actes de la vie civile et commerciale et ester en justice ;
 
 4° Ouvrir et organiser celles des enquêtes publiques prévues aux articles L. 123-1 et L. 123-2 du code de l'environnement qui
-sont requises pour les décisions ressortant de la compétence de l'établissement. 
+sont requises pour les décisions ressortant de la compétence de l'établissement.
 
 En cas de vacance du poste ou d'empêchement du directeur général, un directeur général par intérim peut être nommé par le
-conseil d'administration convoqué à cet effet. 
+conseil d'administration convoqué à cet effet.
 
 Les fonctions de directeur général sont incompatibles avec celles de membre du conseil d'administration ou de membres des
-assemblées délibérantes des collectivités publiques représentées au conseil d'administration. 
+assemblées délibérantes des collectivités publiques représentées au conseil d'administration.
 
 II. – Le directeur général assiste de droit aux réunions du conseil d'administration. Il prépare et présente le document
-d'engagement et le bilan annuel. 
+d'engagement et le bilan annuel.
 
 III. – Le directeur général, dans les limites des compétences qui lui ont été déléguées, peut, par délégation du conseil
 d'administration, être chargé d'exercer au nom de l'établissement les droits de préemption dont l'établissement est titulaire
@@ -58624,11 +58627,11 @@ Conformément aux dispositions du I de l'article 2 du décret n° 2017-1040 du 1
 
 _Modifié par_:
 
-  - Décret n°2017-1040 du 10 mai 2017 - art. 1
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 8
 
 _Cite_:
 
-  - Code de l'environnement - art. L123-1 (V)
+  - Code de l'environnement - art. L123-1
 
 
 ###### Article R328-10
@@ -59259,114 +59262,6 @@ _Cite_:
 
 ##### Sous-section 3 :  Exonérations<a id=679></a>
 
-###### Article R*331-4
-
-Pour l'application du 1° de l'article L. 331-7, sont exonérées de la part communale ou intercommunale de la taxe
-d'aménagement les constructions définies ci-après : 
-
-1° Les constructions édifiées par l'Etat, les collectivités territoriales et leurs groupements et exemptées de la taxe
-foncière sur les propriétés bâties en application du 1° de l'article 1382 du code général des impôts ; 
-
-2° Les constructions édifiées pour le compte de l'Etat, des collectivités territoriales ou de leurs groupements, en vertu
-d'un contrat de partenariat, d'un bail emphytéotique administratif prévu à l'article L. 1311-2 du code général des
-collectivités territoriales, à l'article L. 6148-2 du code de la santé publique ou à l'article L. 2341-1 du code général de
-la propriété des personnes publiques, d'un bail prévu à l'article L. 2122-15 du code général de la propriété des personnes
-publiques, d'un contrat mentionné à l'article 2 de la loi n° 87-432 du 22 juin 1987 relative au service public pénitentiaire
-ou à l'article 3 de la loi n° 2002-1094 du 29 août 2002 d'orientation et de programmation pour la sécurité intérieure, ou
-d'une autorisation d'occupation du domaine public assortie de droits réels, qui sont incorporées au domaine de la personne
-publique conformément aux clauses du contrat, au plus tard à l'expiration de ce contrat, et exemptées de la taxe foncière sur
-les propriétés bâties en application du 1° de l'article 1382 du code général des impôts ; 
-
-La condition relative à l'absence de production de revenus prévue au 1° de l'article 1382 du code général des impôts doit
-être appréciée au regard de la personne publique au domaine de laquelle l'immeuble doit être incorporé ; 
-
-3° Les constructions destinées à recevoir une affectation d'assistance, de bienfaisance, de santé, d'enseignement ou
-culturelle, scientifique ou sportive et édifiées par, ou, dans le cadre d'un des contrats mentionnés au 2°, pour le compte : 
-
-a) Des établissements publics n'ayant pas un caractère industriel ou commercial ; 
-
-b) Des groupements d'intérêt public exerçant une activité à caractère administratif, des fondations de coopération
-scientifique et des fondations partenariales ; 
-
-c) Des associations, des unions d'associations ou des fondations reconnues d'utilité publique ; 
-
-d) Des établissements congréganistes légalement reconnus ou autorisés ; 
-
-e) Des associations déclarées qui ont pour but exclusif l'assistance ou la bienfaisance ou dont l'objet et la gestion
-présentent un caractère désintéressé au sens du premier alinéa du 1 bis de l'article 206 du code général des impôts ; 
-
-f) Des caisses primaires, régionales et nationales d'assurance maladie et d'assurance vieillesse, des caisses générales de
-sécurité sociale des départements d'outre-mer, des caisses d'allocations familiales, des unions ou fédérations de caisses,
-des caisses départementales de mutualité sociale agricole, des caisses centrales de secours mutuels agricoles et
-d'allocations familiales mutuelles agricoles, de la Caisse nationale d'assurance vieillesse mutuelle agricole, des services
-et organismes gérant des régimes spéciaux prévus à l'article L. 711-1 du code de la sécurité sociale, des institutions de
-retraite ou de prévoyance complémentaires mentionnées respectivement aux articles L. 922-1 et L. 861-4 du même code, des
-caisses constituées pour l'application des titres II, III, IV du livre VI du même code, concernant le régime d'assurance
-vieillesse des travailleurs non salariés et de l'article L. 611-1 du même code, relatif à l'assurance maladie maternité des
-travailleurs non salariés des professions non agricoles ; 
-
-g) Des mutuelles, des unions de mutuelles ou des fédérations d'union de mutuelles, dont les statuts sont établis conformément
-aux articles L. 114-4 et suivants du code de la mutualité ; 
-
-4° Les constructions édifiées par les associations cultuelles ou unions d'associations cultuelles et, en Guyane et à Mayotte,
-par les missions religieuses ou, dans le cadre d'un des contrats mentionnés au 2°, pour le compte de ces associations, unions
-ou missions ; 
-
-5° Les constructions édifiées par des groupements autres que des associations cultuelles et des missions religieuses
-mentionnées au 4° ou, dans le cadre d'un des contrats mentionnés au 2°, pour leur compte, destinées à être exclusivement
-affectées à l'exercice public d'un culte ; 
-
-6° Les constructions édifiées dans les départements du Bas-Rhin, du Haut-Rhin ou de la Moselle par les établissements publics
-du culte et par les associations ayant pour objet exclusif l'exercice d'un culte non reconnu ou, dans le cadre d'un des
-contrats mentionnés au 2°, pour le compte de ces établissements et associations ; 
-
-7° Les constructions édifiées soit par les Etats étrangers ou, dans le cadre d'un des contrats mentionnés au 2°, pour leur
-compte, à usage de locaux diplomatiques ou consulaires ou pour la résidence d'un chef de poste consulaire de carrière, soit
-par les organisations internationales intergouvernementales ou, dans le cadre d'un des mêmes contrats, pour leur compte, pour
-la réalisation de leur objet sous réserve des accords passés entre la France et ces organisations. 
-
-Lorsque le constructeur est une société entrant dans les prévisions de l'article 1655 ter du code général des impôts, il
-n'est pas tenu compte, pour la détermination de l'imposition à la taxe d'aménagement, des locaux destinés à être attribués
-aux organismes mentionnés au présent article et qui reçoivent l'une des affectations prévues au même article. 
-
-Le bénéfice des exonérations prévues par le présent article est subordonné à la condition que l'organisme constructeur
-s'engage, pour lui et ses ayants cause, à conserver à la construction la même affectation pendant une durée minimale de cinq
-ans à compter de l'achèvement de cette construction. 
-
-Toutefois, pour qu'ils puissent bénéficier des dispositions du présent article, les organismes constructeurs doivent avoir
-une activité strictement conforme à leur objet légal ou statutaire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°57-526 1957-04-19 art. 4
-
-_Codifié par_:
-
-  - Décret n°73-1023 du 8 novembre 1973 (V)
-
-_Cite_:
-
-  - Loi n°87-432 du 22 juin 1987 - art. 2
-  - Loi n°2002-1094 du 29 août 2002 - art. 3
-  - Code général des impôts, CGI. - art. 1382
-  - Code général des impôts, CGI. - art. 1655 ter
-  - Code général des impôts, CGI. - art. 206
-  - Code général des collectivités territoriales - art. L1311-2
-  - Code de la santé publique - art. L6148-2
-  - Code de la sécurité sociale. - art. L611-1 (V)
-  - Code de la sécurité sociale. - art. L711-1
-  - Code de la sécurité sociale. - art. L861-4 (V)
-  - Code de la sécurité sociale. - art. L922-1 (V)
-  - Code de la mutualité - art. L114-4 (V)
-  - Code de l'urbanisme - art. L331-7 (V)
-
-_Modifié par_:
-
-  - Décret n°2012-87 du 25 janvier 2012 - art. 1
-
-
 ###### Article R*331-5
 
 A l'intérieur des opérations d'intérêt national, l'exonération prévue au 4° de l'article L. 331-7 s'applique lorsque les
@@ -59441,6 +59336,114 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+
+###### Article R331-4
+
+Pour l'application du 1° de l'article L. 331-7, sont exonérées de la part communale ou intercommunale de la taxe
+d'aménagement les constructions définies ci-après :
+
+1° Les constructions édifiées par l'Etat, les collectivités territoriales et leurs groupements et exemptées de la taxe
+foncière sur les propriétés bâties en application du 1° de l'article 1382 du code général des impôts ;
+
+2° Les constructions édifiées pour le compte de l'Etat, des collectivités territoriales ou de leurs groupements, en vertu
+d'un marché de partenariat, d'un bail emphytéotique administratif prévu à l'article L. 1311-2 du code général des
+collectivités territoriales, à l'article L. 6148-2 du code de la santé publique ou à l'article L. 2341-1 du code général de
+la propriété des personnes publiques, d'un bail prévu à l'article L. 2122-15 du code général de la propriété des personnes
+publiques, d'un contrat mentionné à l'article 2 de la loi n° 87-432 du 22 juin 1987 relative au service public pénitentiaire
+ou à l'article 3 de la loi n° 2002-1094 du 29 août 2002 d'orientation et de programmation pour la sécurité intérieure, ou
+d'une autorisation d'occupation du domaine public assortie de droits réels, qui sont incorporées au domaine de la personne
+publique conformément aux clauses du contrat, au plus tard à l'expiration de ce contrat, et exemptées de la taxe foncière sur
+les propriétés bâties en application du 1° de l'article 1382 du code général des impôts ;
+
+La condition relative à l'absence de production de revenus prévue au 1° de l'article 1382 du code général des impôts doit
+être appréciée au regard de la personne publique au domaine de laquelle l'immeuble doit être incorporé ;
+
+3° Les constructions destinées à recevoir une affectation d'assistance, de bienfaisance, de santé, d'enseignement ou
+culturelle, scientifique ou sportive et édifiées par, ou, dans le cadre d'un des contrats mentionnés au 2°, pour le compte :
+
+a) Des établissements publics n'ayant pas un caractère industriel ou commercial ;
+
+b) Des groupements d'intérêt public exerçant une activité à caractère administratif, des fondations de coopération
+scientifique et des fondations partenariales ;
+
+c) Des associations, des unions d'associations ou des fondations reconnues d'utilité publique ;
+
+d) Des établissements congréganistes légalement reconnus ou autorisés ;
+
+e) Des associations déclarées qui ont pour but exclusif l'assistance ou la bienfaisance ou dont l'objet et la gestion
+présentent un caractère désintéressé au sens du premier alinéa du 1 bis de l'article 206 du code général des impôts ;
+
+f) Des caisses primaires, régionales et nationales d'assurance maladie et d'assurance vieillesse, des caisses générales de
+sécurité sociale des départements d'outre-mer, des caisses d'allocations familiales, des unions ou fédérations de caisses,
+des caisses départementales de mutualité sociale agricole, des caisses centrales de secours mutuels agricoles et
+d'allocations familiales mutuelles agricoles, de la Caisse nationale d'assurance vieillesse mutuelle agricole, des services
+et organismes gérant des régimes spéciaux prévus à l'article L. 711-1 du code de la sécurité sociale, des institutions de
+retraite ou de prévoyance complémentaires mentionnées respectivement aux articles L. 922-1 et L. 861-4 du même code, des
+caisses constituées pour l'application des titres II, III, IV du livre VI du même code, concernant le régime d'assurance
+vieillesse des travailleurs non salariés et de l'article L. 611-1 du même code, relatif à l'assurance maladie maternité des
+travailleurs non salariés des professions non agricoles ;
+
+g) Des mutuelles, des unions de mutuelles ou des fédérations d'union de mutuelles, dont les statuts sont établis conformément
+aux articles L. 114-4 et suivants du code de la mutualité ;
+
+4° Les constructions édifiées par les associations cultuelles ou unions d'associations cultuelles et, en Guyane et à Mayotte,
+par les missions religieuses ou, dans le cadre d'un des contrats mentionnés au 2°, pour le compte de ces associations, unions
+ou missions ;
+
+5° Les constructions édifiées par des groupements autres que des associations cultuelles et des missions religieuses
+mentionnées au 4° ou, dans le cadre d'un des contrats mentionnés au 2°, pour leur compte, destinées à être exclusivement
+affectées à l'exercice public d'un culte ;
+
+6° Les constructions édifiées dans les départements du Bas-Rhin, du Haut-Rhin ou de la Moselle par les établissements publics
+du culte et par les associations ayant pour objet exclusif l'exercice d'un culte non reconnu ou, dans le cadre d'un des
+contrats mentionnés au 2°, pour le compte de ces établissements et associations ;
+
+7° Les constructions édifiées soit par les Etats étrangers ou, dans le cadre d'un des contrats mentionnés au 2°, pour leur
+compte, à usage de locaux diplomatiques ou consulaires ou pour la résidence d'un chef de poste consulaire de carrière, soit
+par les organisations internationales intergouvernementales ou, dans le cadre d'un des mêmes contrats, pour leur compte, pour
+la réalisation de leur objet sous réserve des accords passés entre la France et ces organisations.
+
+Lorsque le constructeur est une société entrant dans les prévisions de l'article 1655 ter du code général des impôts, il
+n'est pas tenu compte, pour la détermination de l'imposition à la taxe d'aménagement, des locaux destinés à être attribués
+aux organismes mentionnés au présent article et qui reçoivent l'une des affectations prévues au même article.
+
+Le bénéfice des exonérations prévues par le présent article est subordonné à la condition que l'organisme constructeur
+s'engage, pour lui et ses ayants cause, à conserver à la construction la même affectation pendant une durée minimale de cinq
+ans à compter de l'achèvement de cette construction.
+
+Toutefois, pour qu'ils puissent bénéficier des dispositions du présent article, les organismes constructeurs doivent avoir
+une activité strictement conforme à leur objet légal ou statutaire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°57-526 1957-04-19 art. 4
+
+_Codifié par_:
+
+  - Décret n°73-1023 du 8 novembre 1973
+
+_Cite_:
+
+  - Loi n°87-432 du 22 juin 1987 - art. 2
+  - Loi n°2002-1094 du 29 août 2002 - art. 3
+  - Code général des impôts, CGI. - art. 1382
+  - Code général des impôts, CGI. - art. 1655 ter
+  - Code général des impôts, CGI. - art. 206
+  - Code général des collectivités territoriales - art. L1311-2
+  - Code de la santé publique - art. L6148-2
+  - Code de la sécurité sociale. - art. L611-1
+  - Code de la sécurité sociale. - art. L711-1
+  - Code de la sécurité sociale. - art. L861-4
+  - Code de la sécurité sociale. - art. L922-1
+  - Code de la mutualité - art. L114-4
+  - Code de l'urbanisme - art. L331-7
+
+_Modifié par_:
+
+  - Décret n°2018-1075 du 3 décembre 2018 - art. 8
 
 
 ##### Sous-section 4 : Base d'imposition<a id=680></a>

@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2019-04-01
+Version Consolidée au 2019-04-13
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -664,7 +664,7 @@ Version Consolidée au 2019-04-01
             - [Paragraphe 1 : Associations autorisées (art. R*322-31 à R*322-32)](#661)
             - [Paragraphe 2 : Associations constituées d'office (art. R*322-33)](#662)
           - [Section 5 : Dispositions diverses (art. R322-38 à R322-40)](#663)
-        - [Chapitre IV : Etablissements publics fonciers locaux (art. R324-1 à R324-4)](#664)
+        - [Chapitre IV : Etablissements publics fonciers locaux (art. R324-1 à R324-5)](#664)
         - [Chapitre V : Etablissement public national d'aménagement et de restructuration des espaces commerciaux et artisanaux (art. R325-1 à R325-9)](#665)
           - [Section 1 : Organisation administrative (art. R325-1 à R325-7)](#666)
           - [Section 2 : Organisation financière (art. R325-8 à R325-9)](#667)
@@ -57751,6 +57751,29 @@ _Modifié par_:
   - Décret n°2011-696 du 20 juin 2011 - art. 1
 
 
+###### Article R324-5
+
+Le silence gardé par le préfet de région dans le délai d'un mois après réception des délibérations relatives à la création de
+filiales et aux acquisitions ou cessions de participations mentionnées au deuxième alinéa de l'article L. 324-10 vaut
+approbation tacite. 
+
+Pendant ce délai, le préfet peut demander au conseil d'administration de délibérer à nouveau en lui indiquant le motif de
+cette demande. Le délai est alors interrompu. 
+
+Si le périmètre de l'établissement est situé sur les territoires de plusieurs régions, les délibérations sont transmises aux
+préfets de ces régions et font l'objet d'une approbation conjointe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-304 du 10 avril 2019 - art. 1
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L324-10
+
+
 #### Chapitre V : Etablissement public national d'aménagement et de restructuration des espaces commerciaux et artisanaux<a id=665></a>
 
 ##### Section 1 : Organisation administrative<a id=666></a>
@@ -72481,16 +72504,10 @@ La notification du recours à l'auteur de la décision et, s'il y a lieu, au tit
 à la date d'envoi de la lettre recommandée avec accusé de réception. Cette date est établie par le certificat de dépôt de la
 lettre recommandée auprès des services postaux.
 
-**Nota:**
-
-Conformément à l’article 9 du décret n° 2018-617 du 17 juillet 2018, ces dispositions sont applicables aux requêtes dirigées
-contre des décisions intervenues après le 1er octobre 2018.
+Les dispositions du présent article ne sont pas applicables en cas de contestation d'un permis modificatif, d'une décision
+modificative ou d'une mesure de régularisation dans les conditions prévues par l'article L. 600-5-2.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2018-617 du 17 juillet 2018 - art. 7
 
 **Liens**:
 
@@ -72505,6 +72522,10 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+_Modifié par_:
+
+  - Décret n°2019-303 du 10 avril 2019 - art. 1
 
 
 ###### Article R*600-2
@@ -72595,6 +72616,10 @@ concernant une telle décision, les parties ne peuvent plus invoquer de moyens n
 de la communication aux parties du premier mémoire en défense. Cette communication s'effectue dans les conditions prévues au
 deuxième alinéa de l'article R. 611-3 du code de justice administrative.
 
+Lorsqu'un permis modificatif, une décision modificative ou une mesure de régularisation est contesté dans les conditions
+prévues à l'article L. 600-5-2, les parties ne peuvent plus invoquer de moyens nouveaux à son encontre passé un délai de deux
+mois à compter de la communication aux parties du premier mémoire en défense le concernant.
+
 Le président de la formation de jugement, ou le magistrat qu'il désigne à cet effet, peut, à tout moment, fixer une nouvelle
 date de cristallisation des moyens lorsque le jugement de l'affaire le justifie.
 
@@ -72607,9 +72632,9 @@ enregistrées à compter du 1er octobre 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-617 du 17 juillet 2018 - art. 7
+  - Décret n°2019-303 du 10 avril 2019 - art. 1
 
 
 ###### Article R600-6

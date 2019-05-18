@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2019-05-11
+Version Consolidée au 2019-05-19
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -27447,17 +27447,19 @@ _Cite_:
 ###### Article L327-1
 
 Les sociétés publiques locales d'aménagement et les sociétés publiques locales d'aménagement d'intérêt national revêtent la
-forme de sociétés anonymes régies par le livre II du code de commerce. 
+forme de sociétés anonymes régies par le livre II du code de commerce.
 
 Sous réserve du présent chapitre, elles sont soumises au titre II du livre V de la première partie du code général des
-collectivités territoriales. 
+collectivités territoriales.
 
 Ces sociétés exercent leurs activités exclusivement pour le compte de leurs actionnaires et sur le territoire des
-collectivités territoriales et des groupements de collectivités territoriales qui en sont membres. 
+collectivités territoriales et des groupements de collectivités territoriales qui en sont membres. La réalisation de l'objet
+de ces sociétés concourt à l'exercice d'au moins une compétence de chacune des collectivités territoriales et de chacun des
+groupements de collectivités territoriales qui en sont actionnaires.
 
 Les sociétés publiques locales d'aménagement peuvent également exercer leurs activités pour le compte d'une société publique
 locale d'aménagement d'intérêt national sur laquelle au moins un de leurs membres exerce un contrôle analogue à celui qu'il
-exerce sur ses propres services. 
+exerce sur ses propres services.
 
 Les sociétés publiques locales d'aménagement et les sociétés publiques locales d'aménagement d'intérêt national sont
 compétentes pour réaliser, outre toute opération d'aménagement prévue au dernier alinéa de l'article L. 327-2 ou à l'avant-
@@ -27488,14 +27490,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-257 du 28 février 2017 - art. 47
+  - Loi n°2019-463 du 17 mai 2019 - art. 3
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L300-1 (V)
-  - Code de l'urbanisme - art. L327-2 (V)
-  - Code de l'urbanisme - art. L327-3 (V)
-  - Code de la construction et de l'habitation. - art. L741-1 (V)
+  - Code de l'urbanisme - art. L300-1
+  - Code de l'urbanisme - art. L327-2
+  - Code de l'urbanisme - art. L327-3
+  - Code de la construction et de l'habitation. - art. L741-1
 
 
 ##### Section 2 : Règles applicables aux sociétés publiques locales d'aménagement<a id=314></a>

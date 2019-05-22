@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2019-05-22
+Version Consolidée au 2019-05-23
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -535,7 +535,7 @@ Version Consolidée au 2019-05-22
       - [Titre V : Plan local d'urbanisme (art. R151-1 à R153-22)](#532)
         - [Chapitre Ier : Contenu du plan local d'urbanisme (art. R151-1 à R151-55)](#533)
           - [Section 1 : Le rapport de présentation (art. R151-1 à R151-5)](#534)
-          - [Section 2 : Les orientations d'aménagement et de programmation (art. R151-6 à R151-8)](#535)
+          - [Section 2 : Les orientations d'aménagement et de programmation (art. R151-6 à R151-8-1)](#535)
           - [Section 3 : Le règlement (art. R151-9 à R151-50)](#536)
             - [Sous-section 1 : Contenu du règlement, des règles et des documents graphiques (art. R151-9 à R151-16)](#537)
             - [Sous-section 2 : Délimitation et réglementation des zones urbaines, à urbaniser, agricole, naturelle et forestière (art. R151-17 à R151-26)](#538)
@@ -633,7 +633,7 @@ Version Consolidée au 2019-05-22
       - [Titre Ier : Opérations d'aménagement (art. R*311-1 à R*318-22)](#630)
         - [Chapitre Ier : Zones d'aménagement concerté (art. R*311-1 à R*311-12)](#631)
           - [Section 1 : Création des zones d'aménagement concerté (art. R*311-1 à R311-5-1)](#632)
-          - [Section 2 : Réalisation des zones d'aménagement concerté (art. R*311-7 à R311-6)](#633)
+          - [Section 2 : Réalisation des zones d'aménagement concerté (art. D311-11-1 à R311-6)](#633)
           - [Section 3 : Suppression ou modification d'une zone d'aménagement concerté (art. R*311-12)](#634)
         - [Chapitre III : Plan de sauvegarde et de mise en valeur et restauration immobilière (art. R313-1 à R313-38)](#635)
           - [Section 1 : Plan de sauvegarde et de mise en valeur (art. R313-1 à R313-18)](#636)
@@ -39742,9 +39742,9 @@ _Cite_:
 
 ###### Article R111-20
 
-Les avis de la commission départementale de préservation des espaces naturels, agricoles et forestiers prévus à l'article L.
-111-5 sont réputés favorables s'il ne sont pas intervenus dans un délai d'un mois à compter de sa saisine par le préfet de
-département.
+Les avis de la commission départementale de préservation des espaces naturels, agricoles et forestiers prévus au 2° bis de
+l'article L. 111-4 et à l'article L. 111-5 sont réputés favorables s'il ne sont pas intervenus dans un délai d'un mois à
+compter de sa saisine par le préfet de département.
 
 **Liens relatifs à cet article**
 
@@ -39752,9 +39752,9 @@ _Codifié par_:
 
   - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art.
+  - Décret n°2019-481 du 21 mai 2019 - art. 2
 
 _Anciens textes_:
 
@@ -39762,7 +39762,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L111-5 (V)
+  - Code de l'urbanisme - art. L111-5
 
 
 ##### Section 2 : Densité et reconstruction des constructions<a id=442></a>
@@ -42542,59 +42542,66 @@ _Anciens textes_:
 
 ###### Article R121-5
 
-Peuvent être implantés dans les espaces et milieux mentionnés à l'article L. 121-24, dans les conditions prévues par cet
-article, les aménagements légers suivants, à condition que leur localisation et leur aspect ne dénaturent pas le caractère
-des sites, ne compromettent pas leur qualité architecturale et paysagère et ne portent pas atteinte à la préservation des
-milieux : 
+Seuls peuvent être implantés dans les espaces et milieux mentionnés à l'article L. 121-24, dans les conditions prévues par
+cet article, les aménagements légers suivants, à condition que leur localisation et leur aspect ne dénaturent pas le
+caractère des sites, ne compromettent pas leur qualité architecturale et paysagère et ne portent pas atteinte à la
+préservation des milieux :
 
-1° Lorsqu'ils sont nécessaires à la gestion ou à l'ouverture au public de ces espaces ou milieux, les cheminements
-piétonniers et cyclables et les sentes équestres ni cimentés, ni bitumés, les objets mobiliers destinés à l'accueil ou à
-l'information du public, les postes d'observation de la faune ainsi que les équipements démontables liés à l'hygiène et à la
-sécurité tels que les sanitaires et les postes de secours lorsque leur localisation dans ces espaces est rendue indispensable
-par l'importance de la fréquentation du public ; 
+1° Lorsqu'ils sont nécessaires à la gestion ou à l'ouverture au public de ces espaces ou milieux, les équipements légers et
+démontables nécessaires à leur préservation et à leur restauration, les cheminements piétonniers et cyclables et les sentes
+équestres ni cimentés, ni bitumés, les objets mobiliers destinés à l'accueil ou à l'information du public, les postes
+d'observation de la faune ainsi que les équipements démontables liés à l'hygiène et à la sécurité tels que les sanitaires et
+les postes de secours lorsque leur localisation dans ces espaces est rendue indispensable par l'importance de la
+fréquentation du public ;
 
 2° Les aires de stationnement indispensables à la maîtrise de la fréquentation automobile et à la prévention de la
 dégradation de ces espaces par la résorption du stationnement irrégulier, sans qu'il en résulte un accroissement des
 capacités effectives de stationnement, à condition que ces aires ne soient ni cimentées ni bitumées et qu'aucune autre
-implantation ne soit possible ; 
+implantation ne soit possible ;
 
 3° La réfection des bâtiments existants et l'extension limitée des bâtiments et installations nécessaires à l'exercice
-d'activités économiques ; 
+d'activités économiques ;
 
 4° A l'exclusion de toute forme d'hébergement et à condition qu'ils soient en harmonie avec le site et les constructions
 existantes : 
 
 a) Les aménagements nécessaires à l'exercice des activités agricoles, pastorales et forestières dont à la fois la surface de
-plancher et l'emprise au sol au sens de l'article R. 420-1 n'excèdent pas cinquante mètres carrés ; 
+plancher et l'emprise au sol au sens de l'article R. 420-1 n'excèdent pas cinquante mètres carrés ;
 
 b) Dans les zones de pêche, de cultures marines ou lacustres, de conchyliculture, de saliculture et d'élevage d'ovins de prés
 salés, les constructions et aménagements exigeant la proximité immédiate de l'eau liés aux activités traditionnellement
-implantées dans ces zones, à la condition que leur localisation soit rendue indispensable par des nécessités techniques ; 
+implantées dans ces zones, à la condition que leur localisation soit rendue indispensable par des nécessités techniques ;
+
+c) A la condition que leur localisation dans ces espaces corresponde à des nécessités techniques, les canalisations
+nécessaires aux services publics ou aux activités économiques, dès lors qu'elles sont enfouies et qu'elles laissent le site
+dans son état naturel après enfouissement, et que l'emprise au sol des aménagements réalisés n'excède pas cinq mètres carrés.
 
 5° Les aménagements nécessaires à la gestion et à la remise en état d'éléments de patrimoine bâti reconnus par un classement
 au titre de la loi du 31 décembre 1913 ou localisés dans un site inscrit ou classé au titre des articles L. 341-1 et L. 341-2
-du code de l'environnement. 
+du code de l'environnement.
 
-Les aménagements mentionnés aux 1°, 2° et 4° du présent article doivent être conçus de manière à permettre un retour du site
-à l'état naturel.
+6° Les équipements d'intérêt général nécessaires à la sécurité des populations et à la préservation des espaces et milieux.
+
+Les aménagements mentionnés aux 1°, 2° et 4° et les réfections et extensions prévues au 3° du présent article doivent être
+conçus de manière à permettre un retour du site à l'état naturel.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi du 31 décembre 1913 (V)
-  - Code de l'urbanisme - art. L121-24 (V)
-  - Code de l'urbanisme - art. R*420-1 (V)
-  - Code de l'environnement - art. L341-1 (M)
-  - Code de l'environnement - art. L341-2 (M)
+  - Loi du 31 décembre 1913
+  - Code de l'urbanisme - art. L121-24
+  - Code de l'urbanisme - art. R*420-1
+  - Code de l'environnement - art. L341-1
+  - Code de l'environnement - art. L341-2
 
 _Codifié par_:
 
   - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art.
+  - Décret n°2019-482 du 21 mai 2019 - art. 1er
 
 _Anciens textes_:
 
@@ -46602,38 +46609,56 @@ _Anciens textes_:
   - Code de l'urbanisme - art. R*123-2, alinéa 4, ecqc le zonage (Ab)
 
 
+###### Article R151-2-1
+
+L'approbation du plan local d'urbanisme vaut acte de création d'une zone d'aménagement concerté en application de l'article
+L. 151-7-2 lorsque le rapport de présentation comporte une description de l'existant dans le périmètre de cette zone
+d'aménagement concerté ainsi que de son environnement et qu'il énonce les raisons pour lesquelles, au regard des dispositions
+du plan local d'urbanisme et de l'insertion dans l'environnement naturel ou urbain, la création de cette zone a été retenue.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-481 du 21 mai 2019 - art. 3
+
+
 ###### Article R151-3
 
-Au titre de l'évaluation environnementale lorsqu'elle est requise, le rapport de présentation : 
+Au titre de l'évaluation environnementale lorsqu'elle est requise, le rapport de présentation :
 
 1° Décrit l'articulation du plan avec les autres documents d'urbanisme et les plans ou programmes mentionnés à l'article L.
-122-4 du code de l'environnement avec lesquels il doit être compatible ou qu'il doit prendre en compte ; 
+122-4 du code de l'environnement avec lesquels il doit être compatible ou qu'il doit prendre en compte ;
 
 2° Analyse les perspectives d'évolution de l'état initial de l'environnement en exposant, notamment, les caractéristiques des
-zones susceptibles d'être touchées de manière notable par la mise en œuvre du plan ; 
+zones susceptibles d'être touchées de manière notable par la mise en œuvre du plan ;
 
 3° Expose les conséquences éventuelles de l'adoption du plan sur la protection des zones revêtant une importance particulière
 pour l'environnement, en particulier l'évaluation des incidences Natura 2000 mentionnée à l'article L. 414-4 du code de
-l'environnement ; 
+l'environnement ;
 
 4° Explique les choix retenus mentionnés au premier alinéa de l'article L. 151-4 au regard notamment des objectifs de
 protection de l'environnement établis au niveau international, communautaire ou national, ainsi que les raisons qui
 justifient le choix opéré au regard des solutions de substitution raisonnables tenant compte des objectifs et du champ
-d'application géographique du plan ; 
+d'application géographique du plan ;
 
 5° Présente les mesures envisagées pour éviter, réduire et, si possible, compenser, s'il y a lieu, les conséquences
-dommageables de la mise en œuvre du plan sur l'environnement ; 
+dommageables de la mise en œuvre du plan sur l'environnement ;
 
 6° Définit les critères, indicateurs et modalités retenus pour l'analyse des résultats de l'application du plan mentionnée à
 l'article L. 153-27 et, le cas échéant, pour le bilan de l'application des dispositions relatives à l'habitat prévu à
 l'article L. 153-29. Ils doivent permettre notamment de suivre les effets du plan sur l'environnement afin d'identifier, le
-cas échéant, à un stade précoce, les impacts négatifs imprévus et envisager, si nécessaire, les mesures appropriées ; 
+cas échéant, à un stade précoce, les impacts négatifs imprévus et envisager, si nécessaire, les mesures appropriées ;
 
 7° Comprend un résumé non technique des éléments précédents et une description de la manière dont l'évaluation a été
-effectuée. 
+effectuée.
 
 Le rapport de présentation au titre de l'évaluation environnementale est proportionné à l'importance du plan local
 d'urbanisme, aux effets de sa mise en œuvre ainsi qu'aux enjeux environnementaux de la zone considérée.
+
+Lorsque l'approbation du plan local d'urbanisme vaut création d'une zone d'aménagement concerté, la procédure d'évaluation
+environnementale commune valant à la fois évaluation d'un plan ou d'un programme et d'un projet prévue au II de l'article R.
+122-25 du code de l'environnement est mise en œuvre.
 
 **Liens relatifs à cet article**
 
@@ -46641,17 +46666,17 @@ _Codifié par_:
 
   - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art.
+  - Décret n°2019-481 du 21 mai 2019 - art. 3
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L151-4 (V)
-  - Code de l'urbanisme - art. L153-27 (V)
-  - Code de l'urbanisme - art. L153-29 (V)
-  - Code de l'environnement - art. L122-4 (M)
-  - Code de l'environnement - art. L414-4 (M)
+  - Code de l'urbanisme - art. L151-4
+  - Code de l'urbanisme - art. L153-27
+  - Code de l'urbanisme - art. L153-29
+  - Code de l'environnement - art. L122-4
+  - Code de l'environnement - art. L414-4
 
 _Anciens textes_:
 
@@ -46803,6 +46828,25 @@ _Créé par_:
 _Cite_:
 
   - Code de l'urbanisme - art. R151-20 (V)
+
+
+###### Article R151-8-1
+
+Les orientations d'aménagement et de programmation applicables à une zone d'aménagement concerté créée par la délibération
+d'approbation du plan local d'urbanisme en application de l'article L. 151-7-2 comportent au moins :
+
+1° Le schéma d'aménagement de la zone d'aménagement concerté qui en précise les principales caractéristiques d'organisation
+spatiale ;
+
+2° Le programme global prévisionnel des constructions à édifier dans la zone d'aménagement concerté ;
+
+3° La mention du régime applicable au regard de la part communale ou intercommunale de la taxe d'aménagement dans cette zone.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-481 du 21 mai 2019 - art. 3
 
 
 ##### Section 3 : Le règlement<a id=536></a>
@@ -49442,19 +49486,10 @@ _Cite_:
 ###### Article R161-4
 
 Le ou les documents graphiques délimitent les secteurs où les constructions sont autorisées et ceux où les constructions ne
-peuvent pas être autorisées, à l'exception :
+peuvent pas être autorisées, à l'exception de celles mentionnées à l'article L. 161-4.
 
-1° De l'adaptation, du changement de destination, de la réfection ou de l'extension des constructions existantes ;
-
-2° Des constructions et installations nécessaires :
-
-a) A des équipements collectifs ou à des services publics si elles ne sont pas incompatibles avec l'exercice d'une activité
-agricole ou pastorale ou forestière dans l'unité foncière où elles sont implantées et ne portent pas atteinte à la sauvegarde
-des espaces naturels et des paysages ;
-
-b) A l'exploitation agricole ou forestière ;
-
-c) A la mise en valeur des ressources naturelles.
+L'avis prévu à l'article L. 161-4 est réputé favorable s'il n'est pas intervenu dans un délai d'un mois à compter de la
+saisine par l'autorité compétente en matière d'autorisations d'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -49462,9 +49497,9 @@ _Codifié par_:
 
   - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art.
+  - Décret n°2019-481 du 21 mai 2019 - art. 4
 
 _Anciens textes_:
 
@@ -53666,6 +53701,11 @@ _Anciens textes_:
 L'initiative de création d'une zone d'aménagement concerté peut être prise par l'Etat, une collectivité territoriale ou par
 un établissement public ayant vocation, de par la loi ou ses statuts, à réaliser ou à faire réaliser l'objet de la zone.
 
+Les dispositions de la présente section ne sont pas applicables lorsqu'une zone d'aménagement concerté est créée par la
+délibération d'approbation d'un plan local d'urbanisme contenant des orientations d'aménagement et de programmation sur le
+fondement de l'article L. 151-7-2. Les effets juridiques attachés à cette création ont pour point de départ l'accomplissement
+des formalités prévues à l'article R. 153-21.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -53681,6 +53721,10 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+_Modifié par_:
+
+  - Décret n°2019-481 du 21 mai 2019 - art. 3
 
 
 ###### Article R*311-2
@@ -53855,44 +53899,78 @@ _Modifié par_:
 
 ##### Section 2 : Réalisation des zones d'aménagement concerté<a id=633></a>
 
+###### Article D311-11-1
+
+Lorsque le cahier des charges prévu à l'article L. 311-6 a fait l'objet d'une approbation, mention de cette dernière ainsi
+que du lieu où il peut être consulté est affichée pendant un mois en mairie ou au siège de l'établissement public de
+coopération intercommunale compétent et, dans ce cas, dans les mairies des communes membres concernées.
+
+Une même mention est en outre publiée :
+
+a) Au recueil des actes administratifs mentionné à l'article R. 2121-10 du code général des collectivités territoriales,
+lorsqu'il s'agit d'une décision du maire d'une commune de 3 500 habitants et plus ;
+
+b) Au recueil des actes administratifs mentionné à l'article R. 5211-41 du code général des collectivités territoriales, s'il
+existe, lorsqu'il s'agit d'une décision du président d'un établissement public de coopération intercommunale comportant au
+moins une commune de 3 500 habitants et plus ;
+
+c) Au recueil des actes administratifs de l'Etat dans le département, lorsqu'il s'agit d'une décision du représentant de
+l'Etat dans le département.
+
+**Nota:**
+
+Conformément au III de l'article 5 du décret n° 2019-481 du 21 mai 2019, ces dispositions sont applicables aux cahiers des
+charges de cession de terrains approuvés à compter du 1er juillet 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-481 du 21 mai 2019 - art. 5
+
+
+###### Article D311-11-2
+
+Les dispositions des cahiers des charges approuvés mentionnées au premier alinéa de l'article L. 311-6 sont opposables aux
+demandes d'autorisation d'urbanisme à l'expiration du délai d'affichage d'un mois prévu par le premier alinéa de l'article D.
+311-11-1.
+
+**Nota:**
+
+Conformément au III de l'article 5 du décret n° 2019-481 du 21 mai 2019, ces dispositions sont applicables aux cahiers des
+charges de cession de terrains approuvés à compter du 1er juillet 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-481 du 21 mai 2019 - art. 5
+
+
 ###### Article R*311-7
 
 La personne publique qui a pris l'initiative de la création de la zone constitue un dossier de réalisation approuvé, sauf
-lorsqu'il s'agit de l'Etat, par son organe délibérant. Le dossier de réalisation comprend : 
+lorsqu'il s'agit de l'Etat, par son organe délibérant. Le dossier de réalisation comprend :
 
 a) Le projet de programme des équipements publics à réaliser dans la zone ; lorsque celui-ci comporte des équipements dont la
 maîtrise d'ouvrage et le financement incombent normalement à d'autres collectivités ou établissements publics, le dossier
 doit comprendre les pièces faisant état de l'accord de ces personnes publiques sur le principe de la réalisation de ces
 équipements, les modalités de leur incorporation dans leur patrimoine et, le cas échéant, sur leur participation au
-financement ; 
+financement ;
 
-b) Le projet de programme global des constructions à réaliser dans la zone ; 
+b) Le projet de programme global des constructions à réaliser dans la zone ;
 
-c) Les modalités prévisionnelles de financement de l'opération d'aménagement, échelonnées dans le temps. 
+c) Les modalités prévisionnelles de financement de l'opération d'aménagement, échelonnées dans le temps.
 
-Le dossier de réalisation complète en tant que de besoin le contenu de l'étude d'impact mentionnée à l'article R. 311-2,
-conformément au III de l'article L. 122-1-1 du code de l'environnement notamment en ce qui concerne les éléments qui ne
-pouvaient être connus au moment de la constitution du dossier de création. 
+Le dossier de réalisation complète en tant que de besoin le contenu de l'étude d'impact mentionnée à l'article R. 311-2 ou le
+cas échéant la ou les parties de l'évaluation environnementale du plan local d'urbanisme portant sur le projet de zone
+d'aménagement concerté, conformément au III de l'article L. 122-1-1 du code de l'environnement notamment en ce qui concerne
+les éléments qui ne pouvaient être connus au moment de la constitution du dossier de création.
 
-L'étude d'impact mentionnée à l'article R. 311-2 ainsi que les compléments éventuels prévus à l'alinéa précédent sont joints
-au dossier de toute enquête publique ou de toute mise à disposition du public concernant l'opération d'aménagement réalisée
-dans la zone.
-
-**Nota:**
-
-Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
-dispositions de la présente ordonnance s'appliquent : 
-
-- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
-1er janvier 2017 ; 
-
-- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
-est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
-dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
-la publication de la présente ordonnance ; 
-
-- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
-disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
+L'étude d'impact mentionnée à l'article R. 311-2 ou le cas échéant la ou les parties de l'évaluation environnementale du plan
+local d'urbanisme portant sur le projet de zone d'aménagement concerté ainsi que les compléments éventuels prévus à l'alinéa
+précédent sont joints au dossier de toute enquête publique ou de toute mise à disposition du public concernant l'opération
+d'aménagement réalisée dans la zone.
 
 **Liens relatifs à cet article**
 
@@ -53902,12 +53980,12 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2017-626 du 25 avril 2017 - art. 12
+  - Décret n°2019-481 du 21 mai 2019 - art. 3
 
 _Cite_:
 
   - Code de l'urbanisme - art. R*311-2
-  - Code de l'environnement - art. L122-1-1 (V)
+  - Code de l'environnement - art. L122-1-1
 
 _Cité par_:
 
@@ -64438,15 +64516,15 @@ _Codifié par_:
 
 ###### Article R*423-41
 
-Une demande de production de pièce manquante notifiée après la fin du délai d'un mois prévu à l'article R*423-38 n'a pas pour
-effet de modifier les délais d'instruction définis aux articles R*423-23 à R*423-37-1 et notifiés dans les conditions prévues
-par les articles R*423-42 à R*423-49.
+Une demande de production de pièce manquante notifiée après la fin du délai d'un mois prévu à l'article R*423-38  ou ne
+portant pas sur l'une des pièces énumérées par le présent code n'a pas pour effet de modifier les délais d'instruction
+définis aux articles R*423-23 à R*423-37-1 et notifiés dans les conditions prévues par les articles R*423-42 à R*423-49.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-274 du 28 février 2012 - art. 3
+  - Décret n°2019-481 du 21 mai 2019 - art. 6
 
 _Cité par_:
 
@@ -68106,26 +68184,32 @@ _Cite_:
 ###### Article R*431-23
 
 Lorsque les travaux projetés portent sur une construction à édifier dans une zone d'aménagement concerté, la demande est
-accompagnée : 
+accompagnée :
 
-a) Lorsque le terrain a fait l'objet d'une cession, location ou concession d'usage consentie par l'aménageur de la zone,
-d'une copie de celles des dispositions du cahier des charges de cession de terrain qui indiquent le nombre de mètres carrés
-de surface de plancher dont la construction est autorisée sur la parcelle cédée ainsi que, si elles existent, de celles des
-dispositions du cahier des charges qui fixent des prescriptions techniques, urbanistiques et architecturales imposées pour la
-durée de la réalisation de la zone ; 
+a) Lorsque le terrain a fait l'objet d'une cession, location ou concession d'usage consentie par l'aménageur de la zone, dès
+lors que le cahier des charges de cession de terrain a été approuvé et publié dans les conditions prévues à l'article D.
+311-11-1, d'une copie de celles des dispositions du cahier des charges de cession de terrain qui indiquent le nombre de
+mètres carrés de surface de plancher dont la construction est autorisée sur la parcelle cédée ainsi que, si elles existent,
+de celles des dispositions du cahier des charges qui fixent des prescriptions techniques, urbanistiques et architecturales
+imposées pour la durée de la réalisation de la zone ;
 
 b) Lorsque le terrain n'a pas fait l'objet d'une cession, location ou concession d'usage par l'aménageur de la zone, de la
 convention prévue par le quatrième alinéa de l'article L. 311-4.
+
+**Nota:**
+
+Conformément au III de l'article 5 du décret n° 2019-481 du 21 mai 2019, ces dispositions sont applicables aux cahiers des
+charges de cession de terrains approuvés à compter du 1er juillet 2019.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2011-2054 du 29 décembre 2011 - art. 6 (VD)
+  - Décret n°2019-481 du 21 mai 2019 - art. 5
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L311-4 (V)
+  - Code de l'urbanisme - art. L311-4
 
 _Codifié par_:
 

@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2019-05-23
+Version Consolidée au 2019-05-25
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -63132,37 +63132,35 @@ a) Les services de la commune ;
 
 b) Les services d'une collectivité territoriale ou d'un groupement de collectivités ; 
 
-c) Les services d'un syndicat mixte ne constituant pas un groupement de collectivités ;
+c) Les services d'un syndicat mixte ne constituant pas un groupement de collectivités ; 
 
 d) Une agence départementale créée en application de l'article L. 5511-1 du code général des collectivités territoriales ; 
 
 e) Les services de l'Etat, lorsque la commune ou l'établissement public de coopération intercommunale remplit les conditions
-fixées à l'article L. 422-8.
+fixées à l'article L. 422-8 ; 
 
-**Nota:**
-
-Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
-déposées à compter du 1er avril 2014.
+f) Un prestataire privé, dans les conditions prévues au septième alinéa de l'article L. 423-1.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
 _Modifié par_:
 
-  - Décret n°2014-253 du 27 février 2014 - art. 4
+  - Décret n°2019-505 du 23 mai 2019 - art. 1
 
 _Cite_:
 
   - Code général des collectivités territoriales - art. L5511-1
   - Code de l'urbanisme - art. L422-8
+  - Code de l'urbanisme - art. L423-1
 
 _Cité par_:
 
   - Code de l'urbanisme - art. R*427-3 (V)
   - Code de l'urbanisme - art. R*740-4 (Ab)
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*423-16

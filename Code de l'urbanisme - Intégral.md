@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2019-05-25
+Version Consolidée au 2019-06-09
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -63123,15 +63123,15 @@ _Cite_:
 
 ###### Article R*423-13-2
 
-Lorsque la demande de permis de construire porte sur un projet relevant de l'article L. 752-1 du code de commerce , le maire
+Lorsque la demande de permis de construire porte sur un projet relevant de l'article L. 752-1 du code de commerce, le maire
 transmet au secrétariat de la commission départementale d'aménagement commercial deux exemplaires du dossier, dont un sur
-support dématérialisé, dans le délai de sept jours francs suivant le dépôt.
+support dématérialisé, dans le délai de sept jours francs suivant le dépôt. 
+
+Lorsque la demande de permis de construire porte sur un projet relevant du deuxième alinéa de l'article L. 752-21 du code de
+commerce, le maire transmet au secrétariat de la Commission nationale d'aménagement commercial deux exemplaires du dossier,
+dont un sur support dématérialisé, dans un délai de sept jours francs suivant le dépôt.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2015-165 du 12 février 2015 - art. 2
 
 _Cité par_:
 
@@ -63139,9 +63139,14 @@ _Cité par_:
   - Code de commerce - art. R752-43-3 (V)
   - Code de commerce - art. R752-9 (V)
 
+_Modifié par_:
+
+  - Décret n°2019-563 du 7 juin 2019 - art. 6
+
 _Cite_:
 
   - Code de commerce - art. L752-1
+  - Code de commerce - art. L752-21
 
 
 ###### Article R423-12-1

@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2019-06-09
+Version Consolidée au 2019-06-23
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -63044,14 +63044,59 @@ _Codifié par_:
 
 ###### Article R*423-11
 
-Lorsque la décision est subordonnée à l'avis de l'architecte des bâtiments de France, le maire lui transmet un dossier dans
-la semaine qui suit le dépôt.
+Lorsque la décision est subordonnée à l'accord ou à l'avis de l'architecte des bâtiments de France, le maire lui transmet un
+dossier dans la semaine qui suit le dépôt.
+
+**Nota:**
+
+Conformément au II de l'article 4 du décret n° 2019-617 du 21 juin 2019, sans préjudice des dispositions du VI de l'article
+56 de la loi n° 2018-1021 du 23 novembre 2018, ces dispositions sont applicables aux demandes d'autorisation d'urbanisme et
+aux déclarations préalables déposées à compter du lendemain de la publication dudit décret.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°73-1023 1973-11-08
+
+_Modifié par_:
+
+  - Décret n°2019-617 du 21 juin 2019 - art. 2
+
+
+###### Article R*423-11-1
+
+Lorsqu'en application du quatrième alinéa du I de l'article L. 632-2 du code du patrimoine, le maire entend proposer un
+projet de décision à l'architecte des Bâtiments de France pour un projet situé dans le périmètre d'un site patrimonial
+remarquable ou en abords de monuments historiques, il transmet ce projet avec le dossier de demande d'autorisation ou de
+déclaration préalable dans la semaine qui suit le dépôt de ce dossier. 
+
+Lorsque l'autorité compétente pour délivrer le permis ou pour se prononcer sur un projet faisant l'objet d'une déclaration
+préalable n'est pas le maire et qu'elle entend proposer un projet de décision à l'architecte des Bâtiments de France, le
+délai mentionné à l'alinéa précédent ne commence à courir qu'à compter de la réception par celle-ci de la demande
+d'autorisation ou de la déclaration préalable. 
+
+L'architecte des Bâtiments de France peut proposer des modifications de ce projet de décision jusqu'à la date à laquelle il
+est réputé avoir donné son accord ou émis un avis favorable sur la demande de permis ou la déclaration préalable en
+application des délais prévus aux articles R. * 423-59 et R. * 423-67.
+
+**Nota:**
+
+Conformément au II de l'article 4 du décret n° 2019-617 du 21 juin 2019, sans préjudice des dispositions du VI de l'article
+56 de la loi n° 2018-1021 du 23 novembre 2018, ces dispositions sont applicables aux demandes d'autorisation d'urbanisme et
+aux déclarations préalables déposées à compter du lendemain de la publication dudit décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-617 du 21 juin 2019 - art. 2
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R*423-59
+  - Code de l'urbanisme - art. R*423-67
+  - Code du patrimoine - art. L632-2
 
 
 ###### Article R*423-12
@@ -64488,7 +64533,14 @@ _Codifié par_:
 ###### Article R*423-54
 
 Lorsque le projet est situé dans le périmètre d'un site patrimonial remarquable ou dans les abords des monuments historiques,
-l'autorité compétente recueille l'accord de l'architecte des Bâtiments de France.
+l'autorité compétente recueille l'accord ou, pour les projets mentionnés à l'article L. 632-2-1 du code du patrimoine, l'avis
+de l'architecte des Bâtiments de France.
+
+**Nota:**
+
+Conformément au II de l'article 4 du décret n° 2019-617 du 21 juin 2019, sans préjudice des dispositions du VI de l'article
+56 de la loi n° 2018-1021 du 23 novembre 2018, ces dispositions sont applicables aux demandes d'autorisation d'urbanisme et
+aux déclarations préalables déposées à compter du lendemain de la publication dudit décret.
 
 **Liens relatifs à cet article**
 
@@ -64502,7 +64554,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-456 du 29 mars 2017 - art. 16
+  - Décret n°2019-617 du 21 juin 2019 - art. 2
 
 
 ###### Article R*423-55
@@ -64928,31 +64980,38 @@ _Codifié par_:
 ###### Article R*423-67
 
 Par exception aux dispositions de l'article R. * 423-59, le délai à l'issue duquel l'architecte des Bâtiments de France est
-réputé avoir donné son accord est de deux mois lorsque le projet soumis à permis est situé dans le périmètre d'un site
-patrimonial remarquable ou dans les abords des monuments historiques. 
+réputé avoir donné son accord ou, dans les cas mentionnés à l'article L. 632-2-1 du code du patrimoine, émis son avis
+favorable est de deux mois lorsque le projet soumis à permis est situé dans le périmètre d'un site patrimonial remarquable ou
+dans les abords des monuments historiques.
 
 Par exception aux dispositions de l'article R. * 423-59, le délai à l'issue duquel l'architecte des Bâtiments de France est
-réputé avoir émis un avis favorable est de deux mois : 
+réputé avoir émis un avis favorable est de deux mois :
 
-a) Lorsque le projet soumis à permis de construire ou d'aménager est situé dans un site inscrit ; 
+a) Lorsque le projet soumis à permis de construire ou d'aménager est situé dans un site inscrit ;
 
 b) Lorsque le projet soumis à permis est situé dans un site classé ou en instance de classement.
 
+**Nota:**
+
+Conformément au II de l'article 4 du décret n° 2019-617 du 21 juin 2019, sans préjudice des dispositions du VI de l'article
+56 de la loi n° 2018-1021 du 23 novembre 2018, ces dispositions sont applicables aux demandes d'autorisation d'urbanisme et
+aux déclarations préalables déposées à compter du lendemain de la publication dudit décret.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2017-456 du 29 mars 2017 - art. 16
 
 _Cité par_:
 
   - Décret n°2019-248 du 27 mars 2019 - art. 5 (V)
   - Code de l'urbanisme - art. R*423-11-1 (V)
-  - Code de l'urbanisme - art. R*424-3 (M)
+  - Code de l'urbanisme - art. R*424-3 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-617 du 21 juin 2019 - art. 2
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R*423-59 (V)
+  - Code de l'urbanisme - art. R*423-59
 
 _Codifié par_:
 
@@ -64983,28 +65042,34 @@ _Cite_:
 
 ###### Article R*423-68
 
-Le délai à l'issue duquel le préfet de région est réputé avoir rejeté le projet de décision transmis par l'autorité
+Le délai à l'issue duquel le préfet de région est réputé avoir approuvé le projet de décision transmis par l'autorité
 compétente en matière d'autorisations d'urbanisme en cas de désaccord avec l'architecte des Bâtiments de France, dans le
-périmètre d'un site patrimonial remarquable ou dans les abords des monuments historiques, est de deux mois. 
+périmètre d'un site patrimonial remarquable ou dans les abords des monuments historiques, est de deux mois.
 
 Le recours doit être adressé au préfet de région par lettre recommandée avec demande d'avis de réception dans le délai de
 sept jours à compter de la réception par l'autorité compétente de l'accord, de l'accord assorti de prescriptions ou du refus
 d'accord de l'architecte des Bâtiments de France. Une copie du recours est également adressée à l'architecte des Bâtiments de
-France, au maire lorsque celui-ci n'est pas l'autorité compétente pour délivrer l'autorisation d'urbanisme et au demandeur. 
+France, au maire lorsque celui-ci n'est pas l'autorité compétente pour délivrer l'autorisation d'urbanisme et au demandeur.
 
-Le préfet de région statue après consultation de la commission régionale du patrimoine et de l'architecture. 
+Le préfet de région statue après consultation de la commission régionale du patrimoine et de l'architecture.
 
 La décision expresse du préfet de région est notifiée à l'autorité compétente, ainsi qu'au maire s'il n'est pas l'autorité
-compétente et au demandeur. 
+compétente et au demandeur.
 
-Dans la   collectivité de Corse, les attributions conférées par le présent article au préfet de région sont exercées par le
+Dans la collectivité de Corse, les attributions conférées par le présent article au préfet de région sont exercées par le
 préfet de Corse.
+
+**Nota:**
+
+Conformément au II de l'article 4 du décret n° 2019-617 du 21 juin 2019, sans préjudice des dispositions du VI de l'article
+56 de la loi n° 2018-1021 du 23 novembre 2018, ces dispositions sont applicables aux demandes d'autorisation d'urbanisme et
+aux déclarations préalables déposées à compter du lendemain de la publication dudit décret.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-1777 du 27 décembre 2017 - art. 1 (V)
+  - Décret n°2019-617 du 21 juin 2019 - art. 2
 
 _Cité par_:
 
@@ -65478,11 +65543,17 @@ _Cite_:
 
 Par exception au b de l'article R*424-1, le défaut de notification d'une décision expresse dans le délai d'instruction vaut
 décision implicite de rejet lorsque la décision est soumise à l'accord de l'architecte des Bâtiments de France et que celui-
-ci a notifié, dans les délais mentionnés aux articles R*423-59, R*423-67 et R*423-67-1, un avis défavorable ou un avis
-favorable assorti de prescriptions. 
+ci a notifié, dans les délais mentionnés aux articles R. * 423-59 et R. * 423-67, un avis défavorable ou un avis favorable
+assorti de prescriptions. 
 
 Il en est de même, en cas de recours de l'autorité compétente contre l'avis de l'architecte des Bâtiments de France, lorsque
 le préfet de région a rejeté le recours.
+
+**Nota:**
+
+Conformément au II de l'article 4 du décret n° 2019-617 du 21 juin 2019, sans préjudice des dispositions du VI de l'article
+56 de la loi n° 2018-1021 du 23 novembre 2018, ces dispositions sont applicables aux demandes d'autorisation d'urbanisme et
+aux déclarations préalables déposées à compter du lendemain de la publication dudit décret.
 
 **Liens relatifs à cet article**
 
@@ -65491,20 +65562,19 @@ _Cité par_:
   - Décret n°2014-1299 du 23 octobre 2014 - art. (VD)
   - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
 
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
 _Modifié par_:
 
-  - Décret n°2017-456 du 29 mars 2017 - art. 17
+  - Décret n°2019-617 du 21 juin 2019 - art. 2
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R*423-59 (V)
+  - Code de l'urbanisme - art. R*423-59
   - Code de l'urbanisme - art. R*423-67 (V)
-  - Code de l'urbanisme - art. R*423-67-1 (Ab)
   - Code de l'urbanisme - art. R*424-1
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*424-4
@@ -65798,16 +65868,25 @@ _Cite_:
 Lorsque le projet est situé dans le périmètre d'un site patrimonial remarquable ou dans les abords des monuments historiques,
 le demandeur peut, en cas d'opposition à une déclaration préalable ou de refus de permis fondé sur un refus d'accord de
 l'architecte des Bâtiments de France, saisir le préfet de région, par lettre recommandée avec demande d'avis de réception,
-d'un recours contre cette décision dans le délai de deux mois à compter de la notification de l'opposition ou du refus.
+d'un recours contre cette décision dans le délai de deux mois à compter de la notification de l'opposition ou du refus. Le
+demandeur précise lors de sa saisine s'il souhaite faire appel à un médiateur désigné dans les conditions prévues au III de
+l'article L. 632-2 du code du patrimoine. Dans ce cas, le préfet de région saisit le médiateur qui transmet son avis dans le
+délai d'un mois à compter de cette saisine.
 
 Le préfet de région adresse notification de la demande dont il est saisi au maire s'il n'est pas l'autorité compétente, et à
 l'autorité compétente en matière d'autorisations d'urbanisme.
 
 Le délai à l'issue duquel le préfet de région est réputé avoir confirmé la décision de l'autorité compétente en cas de
-recours du demandeur est de deux mois.
+recours du demandeur est de deux mois à compter de la réception de ce recours.
 
 Si le préfet de région infirme le refus d'accord de l'architecte des Bâtiments de France, l'autorité compétente en matière
 d'autorisations d'urbanisme statue à nouveau dans le délai d'un mois suivant la réception de la décision du préfet de région.
+
+**Nota:**
+
+Conformément au II de l'article 4 du décret n° 2019-617 du 21 juin 2019, sans préjudice des dispositions du VI de l'article
+56 de la loi n° 2018-1021 du 23 novembre 2018, ces dispositions sont applicables aux demandes d'autorisation d'urbanisme et
+aux déclarations préalables déposées à compter du lendemain de la publication dudit décret.
 
 **Liens relatifs à cet article**
 
@@ -65817,7 +65896,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-456 du 29 mars 2017 - art. 17
+  - Décret n°2019-617 du 21 juin 2019 - art. 2
 
 
 ##### Section 4 : Affichage de la décision<a id=753></a>
@@ -65835,19 +65914,26 @@ recours administratif ou tout recours contentieux à l'auteur de la décision et
 prise sur la déclaration préalable.
 
 En outre, dans les huit jours de la délivrance expresse ou tacite du permis ou de la décision de non-opposition à la
-déclaration préalable, un extrait du permis ou de la déclaration est publié par voie d'affichage à la mairie pendant deux
-mois. Lorsqu'une dérogation ou une adaptation mineure est accordée, l'affichage en mairie porte sur l'intégralité de
-l'arrêté. L'exécution de la formalité d'affichage en mairie fait l'objet d'une mention au registre chronologique des actes de
-publication et de notification des arrêtés du maire prévu à l'article R. 2122-7 du code général des collectivités
-territoriales.
+déclaration préalable, un extrait du permis ou de la déclaration, le cas échéant accompagné de la décision explicite de
+l'autorité administrative mentionnée au II de l'article L. 632-2 du code du patrimoine, est publié par voie d'affichage à la
+mairie pendant deux mois. Lorsqu'une dérogation ou une adaptation mineure est accordée, l'affichage en mairie porte sur
+l'intégralité de l'arrêté. L'exécution de la formalité d'affichage en mairie fait l'objet d'une mention au registre
+chronologique des actes de publication et de notification des arrêtés du maire prévu à l'article R. 2122-7 du code général
+des collectivités territoriales.
 
 Un arrêté du ministre chargé de l'urbanisme règle le contenu et les formes de l'affichage.
+
+**Nota:**
+
+Conformément au II de l'article 4 du décret n° 2019-617 du 21 juin 2019, sans préjudice des dispositions du VI de l'article
+56 de la loi n° 2018-1021 du 23 novembre 2018, ces dispositions sont applicables aux demandes d'autorisation d'urbanisme et
+aux déclarations préalables déposées à compter du lendemain de la publication dudit décret.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2013-891 du 3 octobre 2013 - art. 1
+  - Décret n°2019-617 du 21 juin 2019 - art. 2
 
 _Cite_:
 
@@ -66114,17 +66200,24 @@ _Anciens textes_:
 Lorsque le projet est situé dans les abords des monuments historiques, le permis de construire, le permis d'aménager, le
 permis de démolir ou la décision prise sur la déclaration préalable tient lieu de l'autorisation prévue à l'article L. 621-32
 du code du patrimoine si l'architecte des Bâtiments de France a donné son accord, le cas échéant assorti de prescriptions
-motivées.
+motivées, ou son avis pour les projets mentionnés à l'article L. 632-2-1 du code du patrimoine.
+
+**Nota:**
+
+Conformément au II de l'article 4 du décret n° 2019-617 du 21 juin 2019, sans préjudice des dispositions du VI de l'article
+56 de la loi n° 2018-1021 du 23 novembre 2018, ces dispositions sont applicables aux demandes d'autorisation d'urbanisme et
+aux déclarations préalables déposées à compter du lendemain de la publication dudit décret.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-456 du 29 mars 2017 - art. 18
+  - Décret n°2019-617 du 21 juin 2019 - art. 2
 
 _Cite_:
 
-  - Code du patrimoine - art. L621-32 (V)
+  - Code du patrimoine - art. L621-32
+  - Code du patrimoine - art. L632-2-1
 
 _Codifié par_:
 
@@ -66136,7 +66229,13 @@ _Codifié par_:
 Lorsque le projet est situé dans le périmètre d'un site patrimonial remarquable, le permis de construire, le permis
 d'aménager, le permis de démolir ou la décision prise sur la déclaration préalable tient lieu de l'autorisation prévue à
 l'article L. 632-1 du code du patrimoine si l'architecte des Bâtiments de France a donné son accord, le cas échéant assorti
-de prescriptions motivées.
+de prescriptions motivées, ou son avis pour les projets mentionnés à l'article L. 632-2-1 du code du patrimoine.
+
+**Nota:**
+
+Conformément au II de l'article 4 du décret n° 2019-617 du 21 juin 2019, sans préjudice des dispositions du VI de l'article
+56 de la loi n° 2018-1021 du 23 novembre 2018, ces dispositions sont applicables aux demandes d'autorisation d'urbanisme et
+aux déclarations préalables déposées à compter du lendemain de la publication dudit décret.
 
 **Liens relatifs à cet article**
 
@@ -66146,11 +66245,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-456 du 29 mars 2017 - art. 18
+  - Décret n°2019-617 du 21 juin 2019 - art. 2
 
 _Cite_:
 
-  - Code du patrimoine - art. L632-1 (V)
+  - Code du patrimoine - art. L632-1
+  - Code du patrimoine - art. L632-2-1
 
 
 ###### Article R*425-4
@@ -67013,13 +67113,15 @@ _Codifié par_:
 ###### Article R*431-2
 
 Pour l'application de l'article 4 de la loi n° 77-2 du 3 janvier 1977 sur l'architecture, ne sont toutefois pas tenues de
-recourir à un architecte les personnes physiques ou les exploitations agricoles qui déclarent vouloir édifier ou modifier
-pour elles-mêmes : 
+recourir à un architecte les personnes physiques, les exploitations agricoles ou les coopératives d'utilisation de matériel
+agricole agréées au titre de l'article L. 525-1 du code rural et de la pêche maritime qui déclarent vouloir édifier ou
+modifier pour elles-mêmes : 
 
 a) Une construction à usage autre qu'agricole dont la surface de plancher n'excède pas cent cinquante mètres carrés ; 
 
-b) Une construction à usage agricole dont à la fois la surface de plancher et l'emprise au sol au sens de l'article R. 420-1
-n'excèdent pas huit cents mètres carrés ; 
+b) Une construction à usage agricole ou les constructions nécessaires au stockage et à l'entretien de matériel agricole par
+les coopératives d'utilisation de matériel agricole dont à la fois la surface de plancher et l'emprise au sol au sens de
+l'article R. 420-1 n'excèdent pas huit cents mètres carrés ; 
 
 c) Des serres de production dont le pied-droit a une hauteur inférieure à quatre mètres et dont à la fois la surface de
 plancher et l'emprise au sol au sens de l'article R. 420-1 n'excèdent pas deux mille mètres carrés. 
@@ -67035,15 +67137,16 @@ le présent article.
 
 **Nota:**
 
-Aux termes de l'article 2 du décret n° 2016-1738 du 14 décembre 2016, le a du présent article s'applique aux demandes de
-permis de construire déposées à compter du 1er mars 2017.
+Conformément au III de l'article 4 du décret n° 2019-617 du 21 juin 2019, ces dispositions sont applicables aux demandes
+d'autorisation d'urbanisme déposées à compter du lendemain de la publication dudit décret.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°77-2 du 3 janvier 1977 - art. 4 (V)
-  - Code de l'urbanisme - art. R*420-1 (V)
+  - Loi n°77-2 du 3 janvier 1977 - art. 4
+  - Code rural - art. L525-1
+  - Code de l'urbanisme - art. R*420-1
   - Code de la construction et de l'habitation. - art. L111-7
 
 _Cité par_:
@@ -67051,12 +67154,12 @@ _Cité par_:
   - Décret n°2014-450 du 2 mai 2014 - art. 4 (VT)
   - Code de l'urbanisme - art. *R421-17 (V)
   - Code de l'urbanisme - art. R*421-14 (V)
-  - Code de l'urbanisme - art. R*431-5 (VD)
+  - Code de l'urbanisme - art. R*431-5 (V)
   - Code de l'urbanisme - art. R*441-6 (V)
 
 _Modifié par_:
 
-  - Décret n°2016-1738 du 14 décembre 2016 - art. 1
+  - Décret n°2019-617 du 21 juin 2019 - art. 3
 
 _Codifié par_:
 
@@ -67161,37 +67264,41 @@ j) S'il y a lieu, que les travaux portent sur un projet soumis à autorisation e
 181-1 du code de l'environnement ; 
 
 k) S'il y a lieu, que les travaux doivent faire l'objet d'une dérogation au titre du 4° de l'article L. 411-2 du code de
-l'environnement. 
+l'environnement ; 
+
+l) S'il y a lieu, que les travaux portent sur un projet relevant de l'article L. 632-2-1 du code du patrimoine. 
 
 La demande comporte également l'attestation du ou des demandeurs qu'ils remplissent les conditions définies à l'article
 R*423-1 pour déposer une demande de permis.
 
 **Nota:**
 
-Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves
-d'entrée en vigueur.
+Conformément au II de l'article 4 du décret n° 2019-617 du 21 juin 2019, sans préjudice des dispositions du VI de l'article
+56 de la loi n° 2018-1021 du 23 novembre 2018, ces dispositions sont applicables aux demandes d'autorisation d'urbanisme et
+aux déclarations préalables déposées à compter du lendemain de la publication dudit décret.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2019-617 du 21 juin 2019 - art. 2
+
 _Cité par_:
 
-  - Décret n°2014-450 du 2 mai 2014 - art. 4 (VT)
-  - Décret n°2018-512 du 26 juin 2018 - art. 5 (V)
   - Code de l'urbanisme - art. A431-4 (V)
   - Code de l'urbanisme - art. R*333-3 (V)
   - Code de l'urbanisme - art. R*431-4 (VD)
-
-_Modifié par_:
-
-  - Décret n°2017-81 du 26 janvier 2017 - art. 11
+  - Décret n°2014-450 du 2 mai 2014 - art. 4 (VT)
+  - Décret n°2018-512 du 26 juin 2018 - art. 5 (V)
 
 _Cite_:
 
   - Code de l'urbanisme - art. R*423-1
-  - Code de l'urbanisme - art. R*431-2
-  - Code de l'urbanisme - art. R151-27 (V)
-  - Code de l'environnement - art. L181-1 (VD)
-  - Code de l'environnement - art. L411-2 (V)
+  - Code de l'urbanisme - art. R*431-2 (V)
+  - Code de l'urbanisme - art. R151-27
+  - Code de l'environnement - art. L181-1
+  - Code de l'environnement - art. L411-2
+  - Code du patrimoine - art. L632-2-1
 
 _Codifié par_:
 
@@ -68550,7 +68657,9 @@ f) S'il y a lieu, que les travaux portent sur un projet soumis à autorisation e
 181-1 du code de l'environnement ;
 
 g) S'il y a lieu, que les travaux doivent faire l'objet d'une dérogation au titre du 4° de l'article L. 411-2 du code de
-l'environnement.
+l'environnement ;
+
+h) S'il y a lieu, que les travaux portent sur un projet relevant de l'article L. 632-2-1 du code du patrimoine.
 
 La demande comporte également l'attestation du ou des demandeurs qu'ils remplissent les conditions définies à l'article
 R*423-1 pour déposer une demande de permis.
@@ -68559,8 +68668,9 @@ La demande peut ne porter que sur une partie d'une unité foncière.
 
 **Nota:**
 
-Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves
-d'entrée en vigueur.
+Conformément au II de l'article 4 du décret n° 2019-617 du 21 juin 2019, sans préjudice des dispositions du VI de l'article
+56 de la loi n° 2018-1021 du 23 novembre 2018, ces dispositions sont applicables aux demandes d'autorisation d'urbanisme et
+aux déclarations préalables déposées à compter du lendemain de la publication dudit décret.
 
 **Liens relatifs à cet article**
 
@@ -68574,8 +68684,9 @@ _Cité par_:
 _Cite_:
 
   - Code de l'urbanisme - art. R*423-1
-  - Code de l'environnement - art. L181-1 (VD)
-  - Code de l'environnement - art. L411-2 (V)
+  - Code de l'environnement - art. L181-1
+  - Code de l'environnement - art. L411-2
+  - Code du patrimoine - art. L632-2-1
 
 _Codifié par_:
 
@@ -68583,7 +68694,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-81 du 26 janvier 2017 - art. 11
+  - Décret n°2019-617 du 21 juin 2019 - art. 2
 
 
 ###### Article R*441-2
@@ -68987,7 +69098,9 @@ e) S'il y a lieu, que les travaux portent sur un projet soumis à autorisation e
 181-1 du code de l'environnement ; 
 
 f) S'il y a lieu, que les travaux doivent faire l'objet d'une dérogation au titre du 4° de l'article L. 411-2 du code de
-l'environnement. 
+l'environnement ; 
+
+g) S'il y a lieu, que les travaux portent sur un projet relevant de l'article L. 632-2-1 du code du patrimoine. 
 
 La déclaration comporte également l'attestation du ou des déclarants qu'ils remplissent les conditions définies à l'article
 R*423-1 pour déposer une déclaration préalable. 
@@ -68996,20 +69109,22 @@ La demande peut ne porter que sur une partie d'une unité foncière.
 
 **Nota:**
 
-Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves
-d'entrée en vigueur.
+Conformément au II de l'article 4 du décret n° 2019-617 du 21 juin 2019, ces dispositions sont applicables aux demandes
+d'autorisation d'urbanisme et aux déclarations préalables déposées à compter du lendemain de la publication du présent
+décret.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-81 du 26 janvier 2017 - art. 11
+  - Décret n°2019-617 du 21 juin 2019 - art. 2
 
 _Cite_:
 
   - Code de l'urbanisme - art. R*423-1
-  - Code de l'environnement - art. L181-1 (VD)
-  - Code de l'environnement - art. L411-2 (V)
+  - Code de l'environnement - art. L181-1
+  - Code de l'environnement - art. L411-2
+  - Code du patrimoine - art. L632-2-1
 
 _Codifié par_:
 
@@ -70328,32 +70443,36 @@ _Codifié par_:
 
 ###### Article R451-1
 
-La demande de permis de démolir précise :
+La demande de permis de démolir précise : 
 
-a) L'identité du ou des demandeurs ;
+a) L'identité du ou des demandeurs ; 
 
 b) En cas de démolition partielle, les constructions qui subsisteront sur le terrain et, le cas échéant, les travaux qui
-seront exécutés sur cette construction ;
+seront exécutés sur cette construction ; 
 
-c) La date approximative à laquelle le ou les bâtiments dont la démolition est envisagée ont été construits ;
+c) La date approximative à laquelle le ou les bâtiments dont la démolition est envisagée ont été construits ; 
 
 d) S'il y a lieu, que la démolition est soumise à déclaration en application de la section 1 du chapitre IV du titre Ier du
-livre II du code de l'environnement ;
+livre II du code de l'environnement ; 
 
 e) S'il y a lieu, que la démolition porte sur une installation, un ouvrage, des travaux ou une activité soumis à autorisation
 environnementale en application de l'article L. 181-1 du code de l'environnement, si les travaux portent atteinte aux
-intérêts mentionnés au I de l'article L. 181-3 ;
+intérêts mentionnés au I de l'article L. 181-3 ; 
 
 f) S'il y a lieu, que la démolition doit faire l'objet d'une dérogation au titre du 4° de l'article L. 411-2 du code de
-l'environnement.
+l'environnement ; 
+
+g) S'il y a lieu, que les travaux portent sur un projet relevant du 1° ou du 2° de l'article L. 632-2-1 du code du
+patrimoine. 
 
 La demande comporte également l'attestation du ou des demandeurs qu'ils remplissent les conditions définies à l'article R.
 423-1 pour déposer une demande de permis.
 
 **Nota:**
 
-Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves
-d'entrée en vigueur.
+Conformément au II de l'article 4 du décret n° 2019-617 du 21 juin 2019, sans préjudice des dispositions du VI de l'article
+56 de la loi n° 2018-1021 du 23 novembre 2018, ces dispositions sont applicables aux demandes d'autorisation d'urbanisme et
+aux déclarations préalables déposées à compter du lendemain de la publication dudit décret.
 
 **Liens relatifs à cet article**
 
@@ -70364,14 +70483,15 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2017-81 du 26 janvier 2017 - art. 11
+  - Décret n°2019-617 du 21 juin 2019 - art. 2
 
 _Cite_:
 
   - Code de l'urbanisme - art. R*423-1
-  - Code de l'environnement - art. L181-1 (VD)
-  - Code de l'environnement - art. L181-3 (VD)
-  - Code de l'environnement - art. L411-2 (V)
+  - Code de l'environnement - art. L181-1
+  - Code de l'environnement - art. L181-3
+  - Code de l'environnement - art. L411-2
+  - Code du patrimoine - art. L632-2-1
 
 _Cité par_:
 

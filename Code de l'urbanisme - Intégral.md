@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2019-06-29
+Version Consolidée au 2019-07-08
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -59508,15 +59508,7 @@ d) Des établissements congréganistes légalement reconnus ou autorisés ;
 e) Des associations déclarées qui ont pour but exclusif l'assistance ou la bienfaisance ou dont l'objet et la gestion
 présentent un caractère désintéressé au sens du premier alinéa du 1 bis de l'article 206 du code général des impôts ;
 
-f) Des caisses primaires, régionales et nationales d'assurance maladie et d'assurance vieillesse, des caisses générales de
-sécurité sociale des départements d'outre-mer, des caisses d'allocations familiales, des unions ou fédérations de caisses,
-des caisses départementales de mutualité sociale agricole, des caisses centrales de secours mutuels agricoles et
-d'allocations familiales mutuelles agricoles, de la Caisse nationale d'assurance vieillesse mutuelle agricole, des services
-et organismes gérant des régimes spéciaux prévus à l'article L. 711-1 du code de la sécurité sociale, des institutions de
-retraite ou de prévoyance complémentaires mentionnées respectivement aux articles L. 922-1 et L. 861-4 du même code, des
-caisses constituées pour l'application des titres II, III, IV du livre VI du même code, concernant le régime d'assurance
-vieillesse des travailleurs non salariés et de l'article L. 611-1 du même code, relatif à l'assurance maladie maternité des
-travailleurs non salariés des professions non agricoles ;
+f) Des organismes mentionnés à l'article R. 111-1 du code de la sécurité sociale ;
 
 g) Des mutuelles, des unions de mutuelles ou des fédérations d'union de mutuelles, dont les statuts sont établis conformément
 aux articles L. 114-4 et suivants du code de la mutualité ;
@@ -59577,7 +59569,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art. 8
+  - Décret n°2019-718 du 5 juillet 2019 - art. 9
 
 
 ##### Sous-section 4 : Base d'imposition<a id=681></a>

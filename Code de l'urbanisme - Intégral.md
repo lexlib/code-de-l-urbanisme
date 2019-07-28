@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2019-07-08
+Version Consolidée au 2019-07-29
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -63820,10 +63820,15 @@ _Cite_:
 
 Lorsqu'en application soit du I, soit du V de l'article L. 752-17 du code de commerce, la délivrance du permis est
 subordonnée à un avis favorable de la Commission nationale d'aménagement commercial, le délai d'instruction est prolongé de
-cinq mois.
+cinq mois. 
 
 Lorsqu'en application de l'article L. 752-4 du code de commerce, la délivrance du permis est subordonnée à un avis favorable
-de la Commission nationale d'aménagement commercial, le délai d'instruction est prolongé de deux mois.
+de la Commission nationale d'aménagement commercial, le délai d'instruction est prolongé de deux mois. 
+
+Lorsque le préfet suspend l'enregistrement et l'examen d'une demande d'autorisation d'exploitation commerciale par la
+commission départementale d'aménagement commerciale en application de l'article L. 752-1-2 du code de commerce, le délai
+d'instruction mentionné au e de l'article R. 423-25 est suspendu jusqu'au terme de la durée fixée par l'arrêté de suspension
+ou, le cas échéant, par l'arrêté de prorogation de cette suspension.
 
 **Liens relatifs à cet article**
 
@@ -63833,12 +63838,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-165 du 12 février 2015 - art. 2
+  - Décret n°2019-795 du 26 juillet 2019 - art. 2
 
 _Cite_:
 
-  - Code de commerce - art. L752-17 (V)
-  - Code de commerce - art. L752-4 (V)
+  - Code de commerce - art. L752-1-2 (V)
+  - Code de commerce - art. L752-17
+  - Code de commerce - art. L752-4
+  - Code de l'urbanisme - art. R*423-25 (V)
 
 
 ###### Article R*423-34

@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2019-07-29
+Version Consolidée au 2019-08-01
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -56068,17 +56068,23 @@ Les établissements publics fonciers de l'Etat sont soumis aux dispositions des 
 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 Par dérogation aux dispositions de l'article 3 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
-comptable publique, les établissements publics d'aménagement et l'établissement public Grand Paris Aménagement  sont soumis
-aux dispositions des titres Ier et III de ce décret, à l'exception des 1° et 2° de l'article 175 et des articles 178 à 185,
-204 à 208, 220 à 228 de ce même décret, ainsi qu'aux dispositions du décret n° 55-733 du 26 mai 1955 relatif au contrôle
+comptable publique, les établissements publics d'aménagement et l'établissement public Grand Paris Aménagement sont soumis
+aux dispositions des titres Ier et III de ce décret, à l'exception des 1° et 2° de l'article 175 et des articles 178 à
+185,204 à 208,220 à 228 de ce même décret, ainsi qu'aux dispositions du décret n° 55-733 du 26 mai 1955 relatif au contrôle
 économique et financier de l'Etat. 
 
 Il peut être institué au sein de ces établissements publics des régies de recettes et des régies d'avances dans les
-conditions prévues par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances des
+conditions prévues par le décret n° 2019-798 du 26 juillet 2019 relatif aux régies de recettes et aux régies d'avances des
 organismes publics. 
 
 Ces établissements publics sont soumis aux dispositions du décret n° 53-707 du 9 août 1953 relatif au contrôle de l'Etat sur
 les entreprises publiques nationales et certains organismes ayant un objet d'ordre économique ou social.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
 
 **Liens relatifs à cet article**
 
@@ -56094,8 +56100,8 @@ _Cite_:
 
   - Décret n°53-707 du 9 août 1953
   - Décret n°55-733 du 26 mai 1955
-  - Décret n°92-681 du 20 juillet 1992
   - Décret n°2012-1246 du 7 novembre 2012
+  - Décret n°2019-798 du 26 juillet 2019
 
 _Cité par_:
 
@@ -56114,7 +56120,6 @@ _Cité par_:
   - Décret n°98-923 du 14 octobre 1998 - art. 15 (VD)
   - Décret n°2001-1234 du 20 décembre 2001 - art. 12 (VD)
   - Décret n°2002-477 du 8 avril 2002 - art. 10 (Ab)
-  - Décret n°2002-623 du 25 avril 2002 - art. 16 (Ab)
   - Décret n°2006-1140 du 13 septembre 2006 - art. 14 (VD)
   - Décret n°2007-88 du 24 janvier 2007 - art. 12 (V)
   - Décret n°2007-88 du 24 janvier 2007 - art. 9 (VD)
@@ -56137,7 +56142,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 
 ###### Article R*321-22
@@ -58671,28 +58676,28 @@ _Cite_:
 
 Paris La Défense est soumis aux dispositions du titre Ier du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion
 budgétaire et comptable publique ainsi qu'à celles prévues aux articles R. 2221-35 à R. 2221-52 du code général des
-collectivités territoriales.
+collectivités territoriales. 
 
 Il peut être institué au sein de l'établissement public des régies de recettes et des régies d'avances dans les conditions
-prévues par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes
+prévues par le décret n° 2019-798 du 26 juillet 2019 relatif aux régies de recettes et aux régies d'avances des organismes
 publics.
 
 **Nota:**
 
-Conformément aux dispositions du I de l'article 2 du décret n° 2017-1040 du 10 mai 2017, ces dispositions entrent en vigueur
-à la date de création de l'établissement public Paris La Défense prévue l'article 2 de l'ordonnance n° 2017-717 du 3 mai
-2017.
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°92-681 du 20 juillet 1992
   - Décret n°2012-1246 du 7 novembre 2012
+  - Décret n°2019-798 du 26 juillet 2019
 
 _Modifié par_:
 
-  - Décret n°2017-1040 du 10 mai 2017 - art. 1
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 
 ###### Article R328-14

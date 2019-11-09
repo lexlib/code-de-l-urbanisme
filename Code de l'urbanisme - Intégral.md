@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2019-09-01
+Version Consolidée au 2019-11-10
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -30,7 +30,7 @@ Version Consolidée au 2019-09-01
               - [Paragraphe 2 : Constructibilité interdite le long des grands axes routiers (art. L111-6 à L111-10)](#27)
             - [Sous-section 2 : Desserte (art. L111-11 à L111-13)](#28)
           - [Section 2 : Densité et reconstruction des constructions (art. L111-14 à L111-15)](#29)
-          - [Section 3 : Performances environnementales et énergétiques (art. L111-16 à L111-18)](#30)
+          - [Section 3 : Performances environnementales et énergétiques (art. L111-16 à L111-18-1)](#30)
           - [Section 4 : Réalisation d'aires de stationnement (art. L111-19 à L111-21)](#31)
           - [Section 5 : Préservation des éléments présentant un intérêt architectural, patrimonial, paysager ou écologique (art. L111-22 à L111-23)](#32)
           - [Section 6 : Mixité sociale et fonctionnelle (art. L111-24)](#33)
@@ -2383,7 +2383,11 @@ L'interdiction mentionnée à l'article L. 111-6 ne s'applique pas :
 
 3° Aux bâtiments d'exploitation agricole ;
 
-4° Aux réseaux d'intérêt public.
+4° Aux réseaux d'intérêt public ;
+
+5° Aux infrastructures de production d'énergie solaire lorsqu'elles sont installées sur des parcelles déclassées par suite
+d'un changement de tracé des voies du domaine public routier ou de l'ouverture d'une voie nouvelle ou sur les aires de repos,
+les aires de service et les aires de stationnement situées sur le réseau routier.
 
 Elle ne s'applique pas non plus à l'adaptation, au changement de destination, à la réfection ou à l'extension de
 constructions existantes.
@@ -2394,13 +2398,9 @@ _Codifié par_:
 
   - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-**Liens**:
-
-  - RECTIFICATION: Ordonnance n°2015-1174 du 23 septembre 2015 - art., v. init.
+  - Loi n°2019-1147 du 8 novembre 2019 - art. 44
 
 _Anciens textes_:
 
@@ -2408,7 +2408,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L111-6 (VD)
+  - Code de l'urbanisme - art. L111-6
 
 
 ###### Article L111-8
@@ -2663,10 +2663,10 @@ Nonobstant les règles relatives à l'aspect extérieur des constructions des pl
 des sols, des plans d'aménagement de zone et des règlements des lotissements, le permis de construire ou d'aménager ou la
 décision prise sur une déclaration préalable ne peut s'opposer à l'utilisation de matériaux renouvelables ou de matériaux ou
 procédés de construction permettant d'éviter l'émission de gaz à effet de serre, à l'installation de dispositifs favorisant
-la retenue des eaux pluviales ou la production d'énergie renouvelable correspondant aux besoins de la consommation domestique
-des occupants de l'immeuble ou de la partie d'immeuble concernés. Le permis de construire ou d'aménager ou la décision prise
-sur une déclaration préalable peut néanmoins comporter des prescriptions destinées à assurer la bonne intégration
-architecturale du projet dans le bâti existant et dans le milieu environnant.
+la retenue des eaux pluviales ou la production d'énergie renouvelable, y compris lorsque ces dispositifs sont installés sur
+les ombrières des aires de stationnement. Le permis de construire ou d'aménager ou la décision prise sur une déclaration
+préalable peut néanmoins comporter des prescriptions destinées à assurer la bonne intégration architecturale du projet dans
+le bâti existant et dans le milieu environnant.
 
 La liste des dispositifs, procédés de construction et matériaux concernés est fixée par décret.
 
@@ -2676,9 +2676,9 @@ _Codifié par_:
 
   - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+  - Loi n°2019-1147 du 8 novembre 2019 - art. 45
 
 _Cité par_:
 
@@ -2758,6 +2758,49 @@ _Anciens textes_:
   - Code de l'urbanisme - art. L111-6-2, alinéas 4 et 5 (VT)
 
 
+###### Article L111-18-1
+
+Dans le respect des objectifs généraux de performance énergétique et environnementale des bâtiments énoncés à l'article L.
+111-9 du code de la construction et de l'habitation, les constructions et installations mentionnées au II du présent article
+ne peuvent être autorisées que si elles intègrent soit un procédé de production d'énergies renouvelables, soit un système de
+végétalisation basé sur un mode cultural garantissant un haut degré d'efficacité thermique et d'isolation et favorisant la
+préservation et la reconquête de la biodiversité, soit tout autre dispositif aboutissant au même résultat et, sur les aires
+de stationnement associées lorsqu'elles sont prévues par le projet, des revêtements de surface, des aménagements hydrauliques
+ou des dispositifs végétalisés favorisant la perméabilité et l'infiltration des eaux pluviales ou leur évaporation et
+préservant les fonctions écologiques des sols.
+
+II.-Les obligations prévues au présent article s'appliquent, lorsqu'elles créent plus de 1 000 mètres carrés d'emprise au
+sol, aux nouvelles constructions soumises à une autorisation d'exploitation commerciale au titre des 1°, 2°, 4°, 5° et 7° de
+l'article L. 752-1 du code de commerce, aux nouvelles constructions de locaux à usage industriel ou artisanal, d'entrepôts,
+de hangars non ouverts au public faisant l'objet d'une exploitation commerciale ainsi qu'aux nouveaux parcs de stationnement
+couverts accessibles au public.
+
+III.-Les obligations résultant du présent article sont réalisées en toiture du bâtiment ou sur les ombrières surplombant les
+aires de stationnement sur une surface au moins égale à 30 % de la toiture du bâtiment et des ombrières créées.
+
+IV.-L'autorité compétente en matière d'autorisation d'urbanisme peut, par décision motivée, écarter tout ou partie de
+l'obligation lorsque l'ensemble des procédés, systèmes et dispositifs mentionnés sont de nature à aggraver un risque, ou
+lorsque leur installation présente une difficulté technique insurmontable ou qui ne peut être levée dans des conditions
+économiquement acceptables, ou que leur installation est prévue dans un secteur mentionné à l'article L. 111-17 du présent
+code.
+
+Un arrêté du ministre chargé des installations classées définit également les cas dans lesquels tout ou partie de
+l'obligation prévue au I du présent article est écartée ou soumise à des conditions de mise en œuvre spécifiques pour les
+installations soumises à autorisation, enregistrement ou déclaration en application du livre V du code de l'environnement dès
+lors que les obligations sont incompatibles avec les caractéristiques de l'installation.
+
+**Nota:**
+
+Conformément au II de l'article 47 de la loi n° 2019-1147 du 8 novembre 2019, les présentes dispositions s'appliquent aux
+demandes d'autorisation déposées à compter de la publication de ladite loi.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-1147 du 8 novembre 2019 - art. 47
+
+
 ##### Section 4 : Réalisation d'aires de stationnement<a id=31></a>
 
 ###### Article L111-19
@@ -2769,23 +2812,12 @@ animée, ne peut excéder un plafond correspondant aux trois quarts de la surfac
 commerce. Les espaces paysagers en pleine terre, les surfaces des aménagements relevant de l'article L. 3114-1 du code des
 transports, les surfaces réservées à l'auto-partage et les places de stationnement destinées à l'alimentation des véhicules
 électriques ou hybrides rechargeables sont déduits de l'emprise au sol des surfaces affectées au stationnement. La surface
-des places de stationnement non imperméabilisées compte pour la moitié de leur surface. 
-
-Pour les projets mentionnés à l'article L. 752-1 du code de commerce, est autorisée la construction de nouveaux bâtiments
-uniquement s'ils intègrent : 
-
-1° Sur tout ou partie de leurs toitures, et de façon non exclusive, soit des procédés de production d'énergies renouvelables,
-soit un système de végétalisation basé sur un mode cultural garantissant un haut degré d'efficacité thermique et d'isolation
-et favorisant la préservation et la reconquête de la biodiversité, soit d'autres dispositifs aboutissant au même résultat ; 
-
-2° Sur les aires de stationnement, des revêtements de surface, des aménagements hydrauliques ou des dispositifs végétalisés
-favorisant la perméabilité et l'infiltration des eaux pluviales ou leur évaporation et préservant les fonctions écologiques
-des sols.
+des places de stationnement non imperméabilisées compte pour la moitié de leur surface.
 
 **Nota:**
 
-Conformément à l'article 86 II de la loi n° 2016-1087 du 8 août 2016, les présentes dispositions s'appliquent aux permis de
-construire dont la demande a été déposée à compter du 1er mars 2017.
+Conformément au II de l'article 47 de la loi n° 2019-1147 du 8 novembre 2019, les présentes dispositions s'appliquent aux
+demandes d'autorisation déposées à compter de la publication de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -2795,13 +2827,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1087 du 8 août 2016 - art. 86 (V)
+  - Loi n°2019-1147 du 8 novembre 2019 - art. 47
 
 _Cite_:
 
-  - Code de commerce - art. L752-1 (V)
-  - Code du cinéma et de l'image animée - art. L212-7 (V)
-  - Code des transports - art. L3114-1 (V)
+  - Code de commerce - art. L752-1
+  - Code du cinéma et de l'image animée - art. L212-7
+  - Code des transports - art. L3114-1
 
 _Cité par_:
 
@@ -14763,25 +14795,28 @@ _Cité par_:
 L'autorité compétente pour délivrer le permis de construire ou le permis d'aménager et prendre la décision sur une
 déclaration préalable peut, par décision motivée, dans des limites fixées par un décret en Conseil d'Etat, déroger aux règles
 des plans locaux d'urbanisme relatives à l'emprise au sol, à la hauteur, à l'implantation et à l'aspect extérieur des
-constructions afin d'autoriser : 
+constructions afin d'autoriser :
 
-1° La mise en œuvre d'une isolation en saillie des façades des constructions existantes ; 
+1° La mise en œuvre d'une isolation en saillie des façades des constructions existantes ;
 
-2° La mise en œuvre d'une isolation par surélévation des toitures des constructions existantes ; 
+2° La mise en œuvre d'une isolation par surélévation des toitures des constructions existantes ;
 
-3° La mise en œuvre de dispositifs de protection contre le rayonnement solaire en saillie des façades. 
+3° La mise en œuvre de dispositifs de protection contre le rayonnement solaire en saillie des façades.
+
+4° L'installation d'ombrières dotées de procédés de production d'énergies renouvelables situées sur des aires de
+stationnement.
 
 La décision motivée peut comporter des prescriptions destinées à assurer la bonne intégration architecturale du projet dans
-le bâti existant et dans le milieu environnant. 
+le bâti existant et dans le milieu environnant.
 
-Le présent article n'est pas applicable : 
+Le présent article n'est pas applicable :
 
 a) Aux immeubles classés ou inscrits au titre des monuments historiques en application du titre II du livre VI du code du
-patrimoine ; 
+patrimoine ;
 
-b) Aux immeubles protégés au titre des abords en application de l'article L. 621-30 du même code ; 
+b) Aux immeubles protégés au titre des abords en application de l'article L. 621-30 du même code ;
 
-c) Aux immeubles situés dans le périmètre d'un site patrimonial remarquable mentionné à l'article L. 631-1 dudit code ; 
+c) Aux immeubles situés dans le périmètre d'un site patrimonial remarquable mentionné à l'article L. 631-1 dudit code ;
 
 d) Aux immeubles protégés en application de l'article L. 151-19 du présent code.
 
@@ -14801,7 +14836,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-925 du 7 juillet 2016 - art. 105
+  - Loi n°2019-1147 du 8 novembre 2019 - art. 48
 
 _Anciens textes_:
 
@@ -14809,9 +14844,9 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L151-19 (V)
-  - Code du patrimoine - art. L621-30 (V)
-  - Code du patrimoine - art. L631-1 (V)
+  - Code de l'urbanisme - art. L151-19
+  - Code du patrimoine - art. L621-30
+  - Code du patrimoine - art. L631-1
 
 
 ###### Article L152-6

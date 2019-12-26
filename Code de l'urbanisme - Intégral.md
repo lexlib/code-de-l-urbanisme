@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2019-11-10
+Version Consolidée au 2019-12-27
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -4162,12 +4162,47 @@ _Cite_:
 
 ###### Article L113-17
 
-Les périmètres d'intervention ne peuvent inclure des terrains situés dans une zone urbaine ou à urbaniser délimitée par un
-plan local d'urbanisme, dans un secteur constructible délimité par une carte communale ou dans un périmètre ou un périmètre
-provisoire de zone d'aménagement différé. 
+I.-Les périmètres d'intervention ne peuvent inclure des terrains situés :
+
+1° Dans une zone urbaine ou à urbaniser délimitée par un plan local d'urbanisme ;
+
+2° Dans un secteur constructible délimité par une carte communale ;
+
+3° Dans un périmètre ou un périmètre provisoire de zone d'aménagement différé ;
+
+4° En vue de la réalisation d'une infrastructure de transport de l'Etat, d'un de ses établissements publics, d'une
+collectivité territoriale ou de l'un de ses établissements publics :
+
+a) Dans un secteur faisant l'objet d'un arrêté de prise en considération au titre du 6° de l'article L. 102-13 ;
+
+b) Dans un secteur faisant l'objet d'un projet d'intérêt général au sens de l'article L. 102-1 ;
+
+c) A l'intérieur du plan général des travaux d'une opération déclarée d'utilité publique au titre du code de l'expropriation
+pour cause d'utilité publique.
 
 L'établissement public mentionné à l'article L. 143-16 ne peut définir un périmètre d'intervention que sur le territoire des
 communes qui le composent.
+
+II.-Dans le cas où des périmètres de protection et de mise en valeur des espaces agricoles et naturels périurbains ont été
+créés avant la date de publication de la loi n° 2019-1428 du 24 décembre 2019 d'orientation des mobilités, les périmètres
+d'intervention peuvent inclure, préalablement à l'instauration ou à la modification du périmètre, en vue de la réalisation
+d'une infrastructure de transport de l'Etat, d'un de ses établissements publics, d'une collectivité territoriale ou de l'un
+de ses établissements publics, des terrains situés :
+
+1° Dans un secteur faisant l'objet d'un arrêté de prise en considération au titre du 6° de l'article L. 102-13 ;
+
+2° Dans un secteur faisant l'objet d'un projet d'intérêt général au sens de l'article L. 102-1 ;
+
+3° A l'intérieur du plan général des travaux d'une opération déclarée d'utilité publique au titre du code de l'expropriation
+pour cause d'utilité publique.
+
+III.-La mise en œuvre d'infrastructures de transport de l'Etat, d'un de ses établissements publics, d'une collectivité
+territoriale ou de l'un de ses établissements publics est autorisée dès lors que le projet, situé en tout ou partie à
+l'intérieur d'un périmètre de protection et de mise en valeur des espaces agricoles et naturels périurbains créé avant la
+date de publication de la loi n° 2019-1428 du 24 décembre 2019 d'orientation des mobilités, a fait l'objet préalablement à
+l'instauration ou à la modification du périmètre, d'un arrêté de prise en considération au titre de l'article L. 102-13, d'un
+projet d'intérêt général au sens de l'article L. 102-1, d'une déclaration de projet au sens du code de l'environnement ou
+d'une déclaration d'utilité publique au titre du code de l'expropriation pour cause d'utilité publique.
 
 **Liens relatifs à cet article**
 
@@ -4175,9 +4210,9 @@ _Codifié par_:
 
   - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 179
 
 _Anciens textes_:
 
@@ -4185,7 +4220,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L143-16 (VD)
+  - Code de l'urbanisme - art. L143-16
 
 
 ###### Article L113-18
@@ -4209,11 +4244,26 @@ _Anciens textes_:
 
 ###### Article L113-19
 
-Des modifications peuvent être apportées par le département au périmètre de protection et de mise en valeur des espaces
-agricoles et naturels périurbains avec l'accord des seules communes intéressées par la modification et après avis de la
-chambre départementale d'agriculture.
+Des modifications peuvent être apportées par le département ou par l'établissement public mentionné à l'article L. 143-16 au
+périmètre de protection et de mise en valeur des espaces agricoles et naturels périurbains avec l'accord des seules communes
+intéressées par la modification et après avis de la chambre départementale d'agriculture.
 
-Toutefois, toute modification du périmètre ayant pour effet d'en retirer un ou plusieurs terrains ne peut intervenir que par
+Ces modifications, y compris par retrait d'un ou plusieurs terrains, peuvent également être mises en œuvre par l'acte de
+déclaration d'utilité publique ou la déclaration de projet d'une infrastructure de transport de l'Etat, d'un de ses
+établissements publics, d'une collectivité territoriale ou de l'un de ses établissements publics, pris après enquête publique
+conduite, suivant le cas, au titre de l'article L. 123-2 du code de l'environnement ou de l'article L. 1 du code de
+l'expropriation pour cause d'utilité publique. Le dossier présenté à l'enquête publique décrit les modifications à apporter
+au périmètre et indique les mesures prises pour éviter, réduire ou compenser l'impact du projet d'infrastructure sur le
+périmètre concerné et le programme d'action associé.
+
+Le périmètre de protection et de mise en valeur des espaces agricoles et naturels périurbains, modifié pour être mis en
+compatibilité avec un projet d'infrastructure de transport de l'Etat, d'un de ses établissements publics, d'une collectivité
+territoriale ou de l'un de ses établissements publics, est soumis à l'avis de la chambre départementale d'agriculture, du
+département ou de l'établissement public mentionné à l'article L. 143-16 du présent code et des communes intéressées ainsi
+qu'à l'accord des ministres chargés de l'urbanisme et de l'agriculture pour un projet d'infrastructure de transport de l'Etat
+ou d'un de ses établissements publics.
+
+Toute autre modification du périmètre ayant pour effet d'en retirer un ou plusieurs terrains ne peut intervenir que par
 décret.
 
 **Liens relatifs à cet article**
@@ -4222,9 +4272,9 @@ _Codifié par_:
 
   - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 179
 
 _Anciens textes_:
 
@@ -7472,9 +7522,18 @@ Il détermine notamment la destination générale de différentes parties du ter
 valeur de l'environnement, la localisation des grandes infrastructures de transport et des grands équipements.
 
 Il détermine également la localisation préférentielle des extensions urbaines, ainsi que des activités industrielles,
-artisanales, agricoles, forestières et touristiques.
+logistiques, artisanales, agricoles, forestières et touristiques.
+
+**Nota:**
+
+Conformément au VII de l'article 16 de la loi n° 2019-1428 du 24 décembre 2019, les présentes dispositions entrent en vigueur
+lors de la prochaine procédure conduisant à une évolution du schéma directeur de la région Ile-de-France.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
 _Cité par_:
 
@@ -7490,13 +7549,9 @@ _Cité par_:
   - Code forestier (nouveau) - art. R141-38-5 (V)
   - Code général des collectivités territoriales - art. L4413-3 (VD)
 
-_Codifié par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-_Créé par_:
-
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 16 (V)
 
 _Anciens textes_:
 
@@ -8599,15 +8654,15 @@ _Cite_:
 
 ###### Article L131-4
 
-Les plans locaux d'urbanisme et les documents en tenant lieu ainsi que les cartes communales sont compatibles avec : 
+Les plans locaux d'urbanisme et les documents en tenant lieu ainsi que les cartes communales sont compatibles avec :
 
-1° Les schémas de cohérence territoriale prévus à l'article L. 141-1 ; 
+1° Les schémas de cohérence territoriale prévus à l'article L. 141-1 ;
 
-2° Les schémas de mise en valeur de la mer prévus à l'article 57 de la loi n° 83-8 du 7 janvier 1983 ; 
+2° Les schémas de mise en valeur de la mer prévus à l'article 57 de la loi n° 83-8 du 7 janvier 1983 ;
 
-3° Les plans de déplacements urbains prévus à l'article L. 1214-1 du code des transports ; 
+3° Les plans de mobilité prévus à l'article L. 1214-1 du code des transports ;
 
-4° Les programmes locaux de l'habitat prévus à l'article L. 302-1 du code de la construction et de l'habitation ; 
+4° Les programmes locaux de l'habitat prévus à l'article L. 302-1 du code de la construction et de l'habitation ;
 
 5° Les dispositions particulières aux zones de bruit des aérodromes conformément à l'article L. 112-4.
 
@@ -8615,19 +8670,19 @@ Les plans locaux d'urbanisme et les documents en tenant lieu ainsi que les carte
 
 _Cite_:
 
-  - Loi n°83-8 du 7 janvier 1983 - art. 57 (M)
-  - Code de l'urbanisme - art. L112-4 (VD)
-  - Code de l'urbanisme - art. L141-1 (VD)
-  - Code de la construction et de l'habitation. - art. L302-1 (M)
-  - Code des transports - art. L1214-1 (M)
+  - Loi n°83-8 du 7 janvier 1983 - art. 57
+  - Code de l'urbanisme - art. L112-4
+  - Code de l'urbanisme - art. L141-1
+  - Code de la construction et de l'habitation. - art. L302-1
+  - Code des transports - art. L1214-1
 
 _Codifié par_:
 
   - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 16 (V)
 
 _Anciens textes_:
 
@@ -9063,6 +9118,9 @@ Il en est de même des chambres de commerce et d'industrie territoriales, des ch
 et, dans les communes littorales au sens de l'article L. 321-2 du code de l'environnement, des sections régionales de la
 conchyliculture. Ces organismes assurent les liaisons avec les organisations professionnelles intéressées.
 
+Il en est de même du gestionnaire d'infrastructure ferroviaire ayant au moins un passage à niveau ouvert au public dans
+l'emprise du schéma de cohérence territoriale ou du plan local d'urbanisme.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -9072,7 +9130,7 @@ _Codifié par_:
 _Cité par_:
 
   - Loi n°2016-925 du 7 juillet 2016 - art. 75
-  - Code de l'artisanat - art. 23 (M)
+  - Code de l'artisanat - art. 23 (V)
   - Code de l'environnement - art. R333-14 (V)
   - Code de l'urbanisme - art. L134-1 (V)
   - Code de l'urbanisme - art. L134-2 (VD)
@@ -9100,7 +9158,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-1021 du 23 novembre 2018 - art. 4
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 126
 
 _Anciens textes_:
 
@@ -13530,15 +13588,19 @@ Le règlement peut identifier et délimiter les quartiers, îlots et voies dans 
 diversité commerciale, notamment à travers les commerces de détail et de proximité, et définir, le cas échéant, les
 prescriptions de nature à assurer cet objectif.
 
+Il peut également délimiter, dans les zones urbaines ou à urbaniser, des secteurs dans lesquels la préservation ou le
+développement d'infrastructures et d'équipements logistiques est nécessaire et définir, le cas échéant, la nature de ces
+équipements ainsi que les prescriptions permettant d'assurer cet objectif.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 16 (V)
 
 _Anciens textes_:
 
@@ -14034,8 +14096,8 @@ _Cite_:
 ###### Article L151-30
 
 Lorsque le règlement prévoit des obligations en matière de stationnement des véhicules motorisés, il fixe des obligations
-minimales pour les vélos pour les immeubles d'habitation et de bureaux, dans le respect des conditions prévues au I de
-l'article L. 111-5-2 du code de la construction et de l'habitation.
+suffisantes pour les vélos pour les immeubles d'habitation et de bureaux, dans le respect des conditions prévues au I de
+l'article L. 111-3-10 du code de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
@@ -14043,9 +14105,9 @@ _Codifié par_:
 
   - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 53 (V)
 
 _Anciens textes_:
 
@@ -14058,14 +14120,14 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. L111-5-2 (M)
+  - Code de la construction et de l'habitation. - art. L111-3-10
 
 
 ###### Article L151-31
 
 Lorsque le règlement impose la réalisation d'aires de stationnement pour les véhicules motorisés, cette obligation est
 réduite de 15 % au minimum en contrepartie de la mise à disposition de véhicules électriques munis d'un dispositif de
-recharge adapté ou de véhicules propres en auto-partage, dans des conditions définies par décret.
+recharge adapté ou de véhicules propres en auto-partage.
 
 **Liens relatifs à cet article**
 
@@ -14073,9 +14135,9 @@ _Codifié par_:
 
   - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 72
 
 _Anciens textes_:
 
@@ -14140,6 +14202,18 @@ _Cite_:
 
   - Code de l'urbanisme - art. L151-30 (VD)
   - Code de l'urbanisme - art. L151-32 (V)
+
+
+###### Article L151-33-1
+
+Le règlement peut imposer la réalisation d'aires de livraisons permettant de tenir compte des besoins logistiques liés à
+l'utilisation de la construction.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 16 (V)
 
 
 ###### Article L151-34
@@ -14587,8 +14661,8 @@ _Cite_:
 
 ###### Article L151-47
 
-Le plan local d'urbanisme tenant lieu de plan de déplacements urbains poursuit les objectifs énoncés aux articles L. 1214-1
-et L. 1214-2 du code des transports.
+Le plan local d'urbanisme tenant lieu de plan de mobilité poursuit les objectifs énoncés aux articles L. 1214-1 et L. 1214-2
+du code des transports.
 
 Il comprend :
 
@@ -14601,7 +14675,7 @@ applicables sur le territoire de l'établissement public de coopération interco
 
 Le règlement fixe les obligations minimales en matière de stationnement pour les véhicules non motorisés, en tenant compte
 notamment de la desserte en transports publics réguliers et, le cas échéant, de la destination des bâtiments, dans le respect
-des conditions prévues au II de l'article L. 111-5-2 du code de la construction et de l'habitation.
+des conditions prévues au II de l'article L. 111-3-10 du code de la construction et de l'habitation.
 
 Il détermine des secteurs à l'intérieur desquels les conditions de desserte et de transports publics réguliers permettent de
 réduire ou de supprimer les obligations minimales en matière de réalisation d'aires de stationnement pour les véhicules
@@ -14613,18 +14687,19 @@ l'habitation.
 
 _Cite_:
 
-  - Loi n°2005-102 du 11 février 2005 - art. 45 (M)
-  - Code de la construction et de l'habitation. - art. L111-5-2 (M)
-  - Code des transports - art. L1214-1 (M)
-  - Code des transports - art. L1214-2 (M)
+  - Loi n°2005-102 du 11 février 2005 - art. 45
+  - Code de la construction et de l'habitation. - art. L111-3-10
+  - Code des transports - art. L1214-1
+  - Code des transports - art. L1214-2
 
 _Codifié par_:
 
   - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 16 (V)
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 53 (V)
 
 _Anciens textes_:
 
@@ -31884,6 +31959,11 @@ Sur demande du maire, un plan intérieur du projet concerné doit être joint au
 la déclaration préalable lorsque les demandes de permis de construire ou les déclarations préalables concernent la
 construction de logements collectifs.
 
+Lorsque les demandes concernent un projet qui conduirait à la construction de plus de deux cents nouveaux logements en
+habitat collectif, l'autorité compétente en matière de délivrance du permis de construire recueille l'avis de l'autorité
+organisatrice de la mobilité compétente, qui lui indique notamment si ce projet peut conduire à une saturation des
+infrastructures de transport existantes.
+
 Aucune prolongation du délai d'instruction n'est possible en dehors des cas et conditions prévus par ce décret.
 
 Pour l'instruction des dossiers d'autorisations ou de déclarations prévus au présent titre, le maire ou, s'il est compétent,
@@ -31895,7 +31975,7 @@ mentionné à l'article L. 422-3 peut confier l'instruction des demandes mention
 ou plusieurs prestataires privés, dans la mesure où l'autorité de délivrance mentionnée au même premier alinéa conserve la
 compétence de signature des actes d'instruction. Ces prestataires privés ne peuvent pas se voir confier des missions qui les
 exposeraient à un intérêt privé de nature à influencer, ou paraître influencer, l'exercice indépendant, impartial et objectif
-de leurs fonctions. Ils agissent sous la responsabilité de l'autorité mentionnée au sixième alinéa, et celle-ci garde
+de leurs fonctions. Ils agissent sous la responsabilité de l'autorité mentionnée au septième alinéa, et celle-ci garde
 l'entière liberté de ne pas suivre la proposition du ou des prestataires. Les missions confiées en application du présent
 alinéa ne doivent entraîner aucune charge financière pour les pétitionnaires.
 
@@ -31908,7 +31988,7 @@ _Cité par_:
   - Décret n°55-1350 du 14 octobre 1955 - art. 73 (V)
   - Ordonnance n°2011-1539 du 16 novembre 2011 - art. 5 (VD)
   - Loi n°2012-955 du 6 août 2012 - art. 2 (V)
-  - Loi n°2016-925 du 7 juillet 2016 - art. 88 (VT)
+  - Loi n°2016-925 du 7 juillet 2016 - art. 88 (VD)
   - Décret n°2016-1491 du 4 novembre 2016 - art. (V)
   - Décret n°2019-505 du 23 mai 2019 (V)
   - Code de l'urbanisme - art. L123-1-11-1 (Ab)
@@ -31920,12 +32000,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Loi n°77-2 du 3 janvier 1977 - art. 4 (V)
+  - Loi n°77-2 du 3 janvier 1977 - art. 4
 
 _Modifié par_:
 
-  - Loi n°2018-1021 du 23 novembre 2018 - art. 57
-  - Loi n°2018-1021 du 23 novembre 2018 - art. 62
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 17
 
 _Anciens textes_:
 

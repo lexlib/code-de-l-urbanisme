@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-01-08
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -31455,16 +31455,17 @@ _Codifié par_:
 ###### Article L421-5
 
 Un décret en Conseil d'Etat arrête la liste des constructions, aménagements, installations et travaux qui, par dérogation aux
-dispositions des articles L. 421-1 à L. 421-4, sont dispensés de toute formalité au titre du présent code en raison : 
+dispositions des articles L. 421-1 à L. 421-4, sont dispensés de toute formalité au titre du présent code en raison :
 
-a) De leur très faible importance ; 
+a) De leur très faible importance ;
 
 b) De la faible durée de leur maintien en place ou de leur caractère temporaire compte tenu de l'usage auquel ils sont
-destinés ; 
+destinés ;
 
-c) Du fait qu'ils nécessitent le secret pour des raisons de sûreté ; 
+c) Du fait qu'ils nécessitent le secret pour des raisons de sûreté ou que la préservation de leur confidentialité est
+nécessaire pour la sauvegarde des intérêts de la défense nationale ;
 
-d) Du fait que leur contrôle est exclusivement assuré par une autre autorisation ou une autre législation ; 
+d) Du fait que leur contrôle est exclusivement assuré par une autre autorisation ou une autre législation ;
 
 e) De leur nature et de leur implantation en mer, sur le domaine public maritime immergé au-delà de la laisse de la basse
 mer.
@@ -31474,10 +31475,6 @@ mer.
 
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2010-788 du 12 juillet 2010 - art. 90 (VD)
 
 _Cité par_:
 
@@ -31494,11 +31491,17 @@ _Cité par_:
   - Code de l'urbanisme - art. R*410-5 (M)
   - Code de l'urbanisme - art. R*410-8 (M)
   - Code de l'urbanisme - art. R*421-8-1 (V)
+  - Code de la défense. - art. L2313-2 (Ab)
   - Code de la défense. - art. L2391-3 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2020-7 du 6 janvier 2020 - art. 11
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L421-1 (V)
+  - Code de l'urbanisme
+  - Code de l'urbanisme - art. L421-1
 
 _Anciens textes_:
 

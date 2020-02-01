@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2020-01-08
+Version Consolidée au 2020-02-02
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -47471,30 +47471,39 @@ _Anciens textes_:
 
 ###### Article R151-28
 
-Les destinations de constructions prévues à l'article R. 151-27 comprennent les sous-destinations suivantes : 
+Les destinations de constructions prévues à l'article R. 151-27 comprennent les sous-destinations suivantes :
 
-1° Pour la destination " exploitation agricole et forestière " : exploitation agricole, exploitation forestière ; 
+1° Pour la destination " exploitation agricole et forestière " : exploitation agricole, exploitation forestière ;
 
-2° Pour la destination " habitation " : logement, hébergement ; 
+2° Pour la destination " habitation " : logement, hébergement ;
 
 3° Pour la destination " commerce et activités de service " : artisanat et commerce de détail, restauration, commerce de
-gros, activités de services où s'effectue l'accueil d'une clientèle, hébergement hôtelier et touristique, cinéma ; 
+gros, activités de services où s'effectue l'accueil d'une clientèle, cinéma, hôtels, autres hébergements touristiques ;
 
 4° Pour la destination " équipements d'intérêt collectif et services publics " : locaux et bureaux accueillant du public des
 administrations publiques et assimilés, locaux techniques et industriels des administrations publiques et assimilés,
 établissements d'enseignement, de santé et d'action sociale, salles d'art et de spectacles, équipements sportifs, autres
-équipements recevant du public ; 
+équipements recevant du public ;
 
 5° Pour la destination " autres activités des secteurs secondaire ou tertiaire " : industrie, entrepôt, bureau, centre de
 congrès et d'exposition.
 
+**Nota:**
+
+Conformément aux dispositions de l'article 2 du décret n° 2020-78 du 31 janvier 2020, l'article R. 151-28 du code de
+l'urbanisme, dans sa rédaction antérieure à l'entrée en vigueur dudit décret, demeure applicable aux plans locaux d'urbanisme
+ou aux documents en tenant lieu dont l'élaboration, la révision, la modification ou la mise en compatibilité a été engagée
+avant cette même date.
+
+Toutefois, pour les plans locaux d'urbanisme ou les documents en tenant lieu dont l'élaboration ou la révision a été
+prescrite avant l'entrée en vigueur du présent décret, l'organe délibérant de l'établissement public de coopération
+intercommunale compétent ou le conseil municipal peut décider que seront applicables au projet les dispositions de l'article
+R. 151-28, dans leur rédaction issue du décret précité, par une délibération expresse qui intervient au plus tard lorsque le
+projet est arrêté.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
-
-  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-_Créé par_:
 
   - Décret n°2015-1783 du 28 décembre 2015 - art.
 
@@ -47511,13 +47520,17 @@ _Cité par_:
   - Code de l'énergie - art. D345-1 (V)
   - Code de la construction et de l'habitation. - art. R631-26-1 (V)
 
+_Modifié par_:
+
+  - Décret n°2020-78 du 31 janvier 2020 - art. 1
+
 _Anciens textes_:
 
   - Code de l'urbanisme - art. R*123-9, alinéa 24 (Ab)
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R151-27 (V)
+  - Code de l'urbanisme - art. R151-27
 
 
 ###### Article R151-29

@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2020-02-02
+Version Consolidée au 2020-02-12
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -86,7 +86,7 @@ Version Consolidée au 2020-02-02
             - [Sous-section 3 : Dispositions communes aux servitudes de passage sur le littoral (art. L121-35 à L121-37)](#83)
           - [Section 3 : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte (art. L121-38 à L121-51)](#84)
             - [Sous-section 1 : Champ d'application (art. L121-38)](#85)
-            - [Sous-section 2 : Extension de l'urbanisation en continuité des zones urbanisées (art. L121-39)](#86)
+            - [Sous-section 2 : Extension de l'urbanisation en continuité des zones urbanisées (art. L121-39 à L121-39-1)](#86)
             - [Sous-section 3 : Extension de l'urbanisation dans les espaces proches du rivage (art. L121-40 à L121-44)](#87)
             - [Sous-section 4 : Extension de l'urbanisation dans la bande littorale dite des cinquante pas géométriques (art. L121-45 à L121-49)](#88)
               - [Paragraphe 1 : Parties non urbanisées de la bande littorale (art. L121-46)](#89)
@@ -6164,6 +6164,30 @@ _Cite_:
 _Anciens textes_:
 
   - Code de l'urbanisme - art. L156-2, alinéas 5 et 6 (VT)
+
+
+###### Article L121-39-1
+
+Par dérogation à l'article L. 121-8, en Guyane, les constructions ou installations liées aux activités de stockage, de
+traitement ou de valorisation des déchets qui sont incompatibles avec le voisinage des zones habitées peuvent être
+autorisées, avec l'accord de l'autorité administrative compétente de l'Etat, après avis de la commission départementale de la
+nature, des paysages et des sites. Cet accord est refusé si les constructions ou installations sont de nature à porter
+atteinte à l'environnement. Le changement de destination de ces constructions ou installations est interdit. 
+
+La dérogation mentionnée au premier alinéa du présent article s'applique en dehors des espaces proches du rivage et au delà
+d'une bande de trois kilomètres à compter de la limite haute du rivage ou des plus hautes eaux pour les plans d'eau
+intérieurs mentionnés à l'article L. 321-2 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2020-105 du 10 février 2020 - art. 122
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L121-8
+  - Code de l'environnement - art. L321-2
 
 
 ##### Sous-section 3 : Extension de l'urbanisation dans les espaces proches du rivage<a id=87></a>

@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2020-02-12
+Version Consolidée au 2020-02-21
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -38115,7 +38115,7 @@ _Cite_:
 Ne sont pas soumis aux dispositions de l'article L. 103-2 les travaux d'entretien et de grosses réparations quels que soient
 les ouvrages et aménagements auxquels ils se rapportent. 
 
-Il en va de même des travaux et aménagements mentionnés à l'article R. 123-44 du code de l'environnement.
+Il en va de même des travaux et aménagements mentionnés à l'article L. 123-19-8 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -38123,14 +38123,14 @@ _Codifié par_:
 
   - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art.
+  - Décret n°2020-133 du 18 février 2020 - art. 11
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L103-2 (V)
-  - Code de l'environnement - art. R123-44 (M)
+  - Code de l'urbanisme - art. L103-2
+  - Code de l'environnement - art. L123-19-8
 
 
 #### Chapitre IV : Evaluation environnementale<a id=422></a>
@@ -41405,9 +41405,9 @@ _Cite_:
 
 ###### Article R112-6
 
-Le rapport de présentation prévu à l'article L. 112-7 ne comporte pas les éléments qui seraient de nature à entraîner la
-divulgation de secrets de la défense nationale, lorsque le plan d'exposition au bruit concerne un aérodrome dont le ministère
-chargé de la défense est affectataire à titre exclusif, principal ou secondaire.
+Le rapport de présentation prévu à l'article L. 112-7 ne comporte pas les éléments         soumis à des règles de protection
+du secret de la défense nationale, lorsque le plan d'exposition au bruit concerne un aérodrome dont le ministère chargé de la
+défense est affectataire à titre exclusif, principal ou secondaire.
 
 **Liens relatifs à cet article**
 
@@ -41415,13 +41415,13 @@ _Codifié par_:
 
   - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art.
+  - Décret n°2020-133 du 18 février 2020 - art. 11
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L112-7 (V)
+  - Code de l'urbanisme - art. L112-7
 
 _Anciens textes_:
 
@@ -41662,8 +41662,8 @@ publique par le préfet et organisée dans les conditions prévues aux articles 
 l'environnement. 
 
 Lorsque le plan d'exposition au bruit concerne un aérodrome affecté à titre exclusif, principal ou secondaire au ministère
-chargé de la défense, la procédure d'enquête est conduite dans le respect des conditions posées par les articles R. 123-45 et
-R. 123-46 du code de l'environnement.
+chargé de la défense, la procédure d'enquête est conduite dans le respect des limites et des conditions posées par les
+articles L. 123-19-8, L. 123-19-9 et R. 123-46 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -41671,9 +41671,9 @@ _Codifié par_:
 
   - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art.
+  - Décret n°2020-133 du 18 février 2020 - art. 11
 
 _Anciens textes_:
 
@@ -41681,9 +41681,10 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'environnement - art. R123-45 (V)
-  - Code de l'environnement - art. R123-46 (V)
-  - Code de l'environnement - art. R571-59 (V)
+  - Code de l'environnement - art. L123-19-8
+  - Code de l'environnement - art. L123-19-9
+  - Code de l'environnement - art. R123-46
+  - Code de l'environnement - art. R571-59
 
 
 ###### Article R112-16
@@ -61681,10 +61682,10 @@ _Codifié par_:
 
 ###### Article *R421-8
 
-Sont dispensés de toute formalité au titre du présent code, en raison du fait qu'ils nécessitent le secret pour des motifs de
-sécurité :
+Sont dispensés de toute formalité au titre du présent code, pour des raisons de sûreté ou si la préservation de leur
+confidentialité est nécessaire pour la sauvegarde des intérêts de la défense nationale :
 
-a) Les constructions couvertes par le secret de la défense nationale ;
+a) Les constructions soumises à des règles de protection du secret de la défense nationale ;
 
 b) Les constructions situées à l'intérieur des arsenaux de la marine, des aérodromes militaires et des grands camps figurant
 sur une liste fixée par arrêté conjoint du ministre chargé de l'urbanisme et du ministre de la défense ;
@@ -61697,7 +61698,10 @@ d) Les constructions situées à l'intérieur de l'enceinte des établissements 
 e) Les constructions situées sur une propriété immobilière de l'Etat, soit au sein d'établissements, d'installations ou
 d'ouvrages désignés par l'autorité administrative en application de l' article L. 1332-1 du code de la défense , soit
 destinées elles-mêmes à être désignées par cette autorité, et réalisées pour le compte des services mentionnés à l' article
-R. 811-1 du code de la sécurité intérieure relevant du ministre de la défense.
+R. 811-1 du code de la sécurité intérieure relevant du ministre de la défense ;
+
+f) Les constructions réalisées dans le cadre d'une opération qualifiée d'opération sensible intéressant la défense nationale
+en application de l'article L. 2391-1 du code de la défense.
 
 **Liens relatifs à cet article**
 
@@ -61706,6 +61710,7 @@ _Cité par_:
   - Arrêté du 5 décembre 2008 (V)
   - Arrêté du 24 novembre 2009 - art. 6 (V)
   - Décret n°2018-346 du 9 mai 2018 - art. 4
+  - Code de l'environnement - art. R123-44 (Ab)
   - Code de l'urbanisme - art. *R421-13 (V)
   - Code de l'urbanisme - art. *R421-16 (V)
   - Code de l'urbanisme - art. A421-1 (V)
@@ -61715,18 +61720,19 @@ _Cité par_:
   - Code de l'urbanisme - art. R445-8 (Ab)
   - Code de la défense. - art. R2313-2 (V)
 
+_Anciens textes_:
+
+  - Décret n°70-446 1970-05-26 ART. 8
+
 _Modifié par_:
 
-  - Décret n°2018-346 du 9 mai 2018 - art. 4
+  - Décret n°2020-133 du 18 février 2020 - art. 11
 
 _Cite_:
 
   - Code de la défense. - art. L1332-1
+  - Code de la défense. - art. L2391-1
   - Code de la sécurité intérieure - art. R811-1
-
-_Anciens textes_:
-
-  - Décret n°70-446 1970-05-26 ART. 8
 
 _Codifié par_:
 
@@ -63019,7 +63025,7 @@ _Codifié par_:
 
 Sont dispensées de permis de démolir :
 
-a) Les démolitions couvertes par le secret de la défense nationale ;
+a) Les démolitions de constructions soumises à des règles de protection du secret de la défense nationale ;
 
 b) Les démolitions effectuées en application du code de la construction et de l'habitation sur un bâtiment menaçant ruine ou
 en application du code de la santé publique sur un immeuble insalubre ;
@@ -63029,9 +63035,22 @@ c) Les démolitions effectuées en application d'une décision de justice devenu
 d) Les démolitions de bâtiments frappés de servitude de reculement en exécution de plans d'alignement approuvés en
 application du chapitre Ier du titre IV du livre Ier du code de la voirie routière ;
 
-e) Les démolitions de lignes électriques et de canalisations.
+e) Les démolitions de lignes électriques et de canalisations ;
+
+f) Les démolitions de constructions réalisées dans le cadre d'une opération qualifiée d'opération sensible intéressant la
+défense nationale en application de l'article L. 2391-1 du code de la défense.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2020-133 du 18 février 2020 - art. 11
+
+_Cite_:
+
+  - Code de la défense. - art. L2391-1
+  - Code de la santé publique
+  - Code de la construction et de l'habitation.
 
 _Cité par_:
 

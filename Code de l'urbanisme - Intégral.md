@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2020-02-21
+Version Consolidée au 2020-03-01
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -6198,8 +6198,14 @@ Dans les espaces proches du rivage, sont autorisées :
 
 1° L'extension de l'urbanisation dans les secteurs déjà occupés par une urbanisation diffuse ;
 
-2° Les opérations d'aménagement préalablement prévues par le chapitre particulier du schéma régional valant schéma de mise en
-valeur de la mer.
+2° Les opérations d'aménagement préalablement prévues par le chapitre particulier valant schéma de mise en valeur de la mer
+du schéma d'aménagement régional prévu par l'article L. 4433-7 du code général des collectivités territoriales.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 7 de l’ordonnance n° 2019-1170 du 13 novembre 2019, les présentes dispositions
+entrent en vigueur le 1er mars 2020. Toutefois, elle ne s'applique pas aux procédures d'élaboration ou de révision de schémas
+d'aménagement régional en cours au 1er mars 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -6207,9 +6213,9 @@ _Codifié par_:
 
   - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+  - Ordonnance n°2019-1170 du 13 novembre 2019 - art. 6
 
 _Anciens textes_:
 
@@ -8847,12 +8853,21 @@ _Cite_:
 
 Les dispositions relatives aux transports et aux déplacements des orientations d'aménagement et de programmation et du
 programme d'orientations et d'actions du plan local d'urbanisme tenant lieu de plan de déplacements urbains sont compatibles
-avec le schéma régional du climat, de l'air et de l'énergie prévu à l'article L. 222-1 du code de l'environnement et,
-lorsqu'un plan de protection de l'atmosphère prévu à l'article L. 222-4 du même code couvre tout ou partie du périmètre de
-l'établissement public de coopération intercommunale, avec les objectifs fixés par ce plan pour chaque polluant. 
+avec le schéma régional du climat, de l'air et de l'énergie prévu à l'article L. 222-1 du code de l'environnement  ou avec
+les orientations du chapitre particulier fixant la stratégie du territoire en matière d'adaptation au changement climatique
+et d'amélioration de la qualité de l'air du schéma d'aménagement régional prévu à l'article L. 4433-7 du code général des
+collectivités territoriales et, lorsqu'un plan de protection de l'atmosphère prévu à l'article L. 222-4 du même code couvre
+tout ou partie du périmètre de l'établissement public de coopération intercommunale, avec les objectifs fixés par ce plan
+pour chaque polluant.
 
-Lorsqu'un schéma régional du climat, de l'air et de l'énergie est approuvé après l'approbation d'un plan local d'urbanisme,
-ce dernier est, si nécessaire, rendu compatible dans un délai de trois ans.
+Lorsqu'un schéma régional du climat, de l'air et de l'énergie ou un schéma d'aménagement régional est approuvé après
+l'approbation d'un plan local d'urbanisme, ce dernier est, si nécessaire, rendu compatible dans un délai de trois ans.
+
+**Nota:**
+
+Conformément à l’article 7 de l’ordonnance n° 2019-1170 du 13 novembre 2019, les présentes dispositions entrent en vigueur le
+1er mars 2020. Toutefois, elle ne s'applique pas aux procédures d'élaboration ou de révision de schémas d'aménagement
+régional en cours au 1er mars 2020.
 
 **Liens relatifs à cet article**
 
@@ -8860,9 +8875,9 @@ _Codifié par_:
 
   - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+  - Ordonnance n°2019-1170 du 13 novembre 2019 - art. 6
 
 _Anciens textes_:
 
@@ -8870,8 +8885,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'environnement - art. L222-1 (M)
-  - Code de l'environnement - art. L222-4 (V)
+  - Code de l'environnement - art. L222-1
+  - Code de l'environnement - art. L222-4
 
 
 ##### Section 4 : Documents d'urbanisme applicables aux territoires frontaliers<a id=134></a>
@@ -10908,7 +10923,15 @@ _Cité par_:
 ###### Article L141-26
 
 Lorsque le schéma de cohérence territoriale comprend un chapitre individualisé valant schéma de mise en valeur de la mer, ce
-chapitre se substitue à la partie d'un schéma de mise en valeur de la mer existant qui concerne son territoire.
+chapitre se substitue à la partie d'un schéma de mise en valeur de la mer existant qui concerne son territoire, sauf si cette
+partie est couverte par un schéma de mise en valeur de la mer compris dans un schéma d'aménagement régional prévu par
+l'article L. 4433-7 du code général des collectivités territoriales.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 7 de l’ordonnance n° 2019-1170 du 13 novembre 2019, les présentes dispositions
+entrent en vigueur le 1er mars 2020. Toutefois, elle ne s'applique pas aux procédures d'élaboration ou de révision de schémas
+d'aménagement régional en cours au 1er mars 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -10916,9 +10939,9 @@ _Codifié par_:
 
   - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+  - Ordonnance n°2019-1170 du 13 novembre 2019 - art. 6
 
 _Anciens textes_:
 
@@ -11042,46 +11065,49 @@ _Cite_:
 
 ###### Article L142-4
 
-Dans les communes où un schéma de cohérence territoriale n'est pas applicable : 
+Dans les communes où un schéma de cohérence territoriale n'est pas applicable :
 
 1° Les zones à urbaniser délimitées après le 1er juillet 2002 ainsi que les zones naturelles, agricoles ou forestières d'un
 plan local d'urbanisme ou d'un document en tenant lieu ne peuvent être ouvertes à l'urbanisation à l'occasion de
-l'élaboration ou d'une procédure d'évolution d'un document d'urbanisme ; 
+l'élaboration ou d'une procédure d'évolution d'un document d'urbanisme ;
 
 2° Les secteurs non constructibles des cartes communales ne peuvent être ouverts à l'urbanisation à l'occasion de
-l'élaboration ou d'une procédure d'évolution de la carte communale ; 
+l'élaboration ou d'une procédure d'évolution de la carte communale ;
 
 3° Les secteurs situés en dehors des parties urbanisées des communes non couvertes par un document d'urbanisme ne peuvent
-être ouverts à l'urbanisation pour autoriser les projets mentionnés aux 3° et 4° de l'article L. 111-4 ; 
+être ouverts à l'urbanisation pour autoriser les projets mentionnés aux 3° et 4° de l'article L. 111-4 ;
 
 4° A l'intérieur d'une zone ou d'un secteur rendu constructible après la date du 4 juillet 2003, il ne peut être délivré
 d'autorisation d'exploitation commerciale en application de l'article L. 752-1 du code de commerce, ou d'autorisation en
-application des articles L. 212-7 et L. 212-8 du code du cinéma et de l'image animée. 
+application des articles L. 212-7 et L. 212-8 du code du cinéma et de l'image animée.
 
-Pour l'application du présent article, les schémas d'aménagement régionaux des régions d'outre-mer mentionnés à l'article L.
-4433-7 du code général des collectivités territoriales, le schéma directeur de la région d'Ile-de-France prévu à l'article L.
-123-1, le plan d'aménagement et de développement durable de Corse prévu à l'article L. 4424-9 du code général des
-collectivités territoriales et, jusqu'à l'approbation de celui-ci, le schéma d'aménagement de la Corse maintenu en vigueur
-par l'article 13 de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse ont valeur de schéma de cohérence territoriale.
+Pour l'application du présent article, les schémas d'aménagement régional des collectivités de l'article 73 de la
+Constitution mentionnés à l'article L. 4433-7 du code général des collectivités territoriales, le schéma directeur de la
+région d'Ile-de-France prévu à l'article L. 123-1, le plan d'aménagement et de développement durable de Corse prévu à
+l'article L. 4424-9 du code général des collectivités territoriales et, jusqu'à l'approbation de celui-ci, le schéma
+d'aménagement de la Corse maintenu en vigueur par l'article 13 de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse
+ont valeur de schéma de cohérence territoriale.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 7 de l’ordonnance n° 2019-1170 du 13 novembre 2019, les présentes dispositions
+entrent en vigueur le 1er mars 2020. Toutefois, elle ne s'applique pas aux procédures d'élaboration ou de révision de schémas
+d'aménagement régional en cours au 1er mars 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°2002-92 du 22 janvier 2002 - art. 13
-  - Code de commerce - art. L752-1 (M)
-  - Code général des collectivités territoriales - art. L4424-9 (VT)
-  - Code général des collectivités territoriales - art. L4433-7 (M)
-  - Code de l'urbanisme - art. L111-4 (VD)
-  - Code de l'urbanisme - art. L123-1 (VD)
-  - Code du cinéma et de l'image animée - art. L212-7 (M)
-  - Code du cinéma et de l'image animée - art. L212-8 (M)
+  - Code de commerce - art. L752-1
+  - Code général des collectivités territoriales - art. L4424-9
+  - Code général des collectivités territoriales - art. L4433-7
+  - Code de l'urbanisme - art. L111-4
+  - Code de l'urbanisme - art. L123-1
+  - Code du cinéma et de l'image animée - art. L212-7
+  - Code du cinéma et de l'image animée - art. L212-8
 
 _Codifié par_:
-
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-_Créé par_:
 
   - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
@@ -11094,6 +11120,10 @@ _Cité par_:
   - Code de l'urbanisme - art. L143-11 (VD)
   - Code de l'urbanisme - art. L143-14 (VD)
   - Code de l'urbanisme - art. R142-3 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-1170 du 13 novembre 2019 - art. 6
 
 _Anciens textes_:
 
@@ -22222,41 +22252,44 @@ de projet, sur l'intérêt général d'une action ou d'une opération d'aménage
 d'un programme de construction. Les articles L. 143-44 à L. 143-50 et L. 153-54 à L. 153-59 sont applicables sauf si la
 déclaration de projet adoptée par l'Etat, un de ses établissements publics, un département ou une région a pour effet de
 porter atteinte à l'économie générale du projet d'aménagement et de développement durables du schéma de cohérence
-territoriale et, en l'absence de schéma de cohérence territoriale, du plan local d'urbanisme. 
+territoriale et, en l'absence de schéma de cohérence territoriale, du plan local d'urbanisme.
 
 Lorsque la déclaration de projet est adoptée par l'Etat, elle peut procéder aux adaptations nécessaires du schéma directeur
-de la région d'Ile-de-France, d'un schéma d'aménagement régional des régions d'outre-mer, du plan d'aménagement et de
-développement durables de Corse schéma régional d'aménagement, de développement durable et d'égalité des territoires,  d'une
-charte de parc naturel régional ou de parc national, du schéma directeur d'aménagement et de gestion des eaux, du schéma
-d'aménagement et de gestion des eaux, de la zone de protection du patrimoine architectural, urbain et paysager, du schéma
-régional de cohérence écologique ou du plan climat-air-énergie territorial. Ces adaptations sont effectuées dans le respect
-des dispositions législatives et réglementaires applicables au contenu de ces règlements ou de ces servitudes. 
+de la région d'Ile-de-France, d'un schéma d'aménagement régional des collectivités de l'article 73 de la Constitution, du
+plan d'aménagement et de développement durables de Corse schéma régional d'aménagement, de développement durable et d'égalité
+des territoires, d'une charte de parc naturel régional ou de parc national, du schéma directeur d'aménagement et de gestion
+des eaux, du schéma d'aménagement et de gestion des eaux, de la zone de protection du patrimoine architectural, urbain et
+paysager, du schéma régional de cohérence écologique ou du plan climat-air-énergie territorial. Ces adaptations sont
+effectuées dans le respect des dispositions législatives et réglementaires applicables au contenu de ces règlements ou de ces
+servitudes.
 
 Les adaptations proposées sont présentées dans le cadre des procédures prévues par les articles L. 143-44 à L. 143-50 et L.
 153-54 à L. 153-59, auxquelles les autorités ou services compétents pour élaborer les documents mentionnés à l'alinéa
-précédent sont invités à participer. 
+précédent sont invités à participer.
 
 Lorsque les adaptations proposées portent sur le schéma directeur de la région d'Ile-de-France, un schéma régional
-d'aménagement, de développement durable et d'égalité des territoires, un schéma d'aménagement régional des régions d'outre-
-mer ou le plan d'aménagement et de développement durables de Corse, elles sont soumises pour avis, avant l'enquête publique,
-au conseil régional ou à l'Assemblée de Corse. Leur avis est réputé favorable s'il n'est pas émis dans le délai de trois
-mois. Cet avis est joint au dossier soumis à enquête publique. En cas d'avis défavorable, la déclaration de projet ne peut
-être prise que par décret en Conseil d'Etat. 
+d'aménagement, de développement durable et d'égalité des territoires, un schéma d'aménagement régional des collectivités de
+l'article 73 de la Constitution ou le plan d'aménagement et de développement durables de Corse, elles sont soumises pour
+avis, avant l'enquête publique, à l'assemblée délibérante de la collectivité concernée. Leur avis est réputé favorable s'il
+n'est pas émis dans le délai de trois mois. Cet avis est joint au dossier soumis à enquête publique. En cas d'avis
+défavorable, la déclaration de projet ne peut être prise que par décret en Conseil d'Etat.
 
 Une déclaration de projet peut être prise par décision conjointe d'une collectivité territoriale ou d'un groupement de
-collectivités territoriales et de l'Etat. 
+collectivités territoriales et de l'Etat.
 
 Lorsque l'action, l'opération d'aménagement ou le programme de construction est susceptible d'avoir des incidences notables
 sur l'environnement, les dispositions nécessaires pour mettre en compatibilité les documents d'urbanisme ou pour adapter les
 règlements et servitudes mentionnés au deuxième alinéa font l'objet d'une évaluation environnementale, au sens de la
 directive 2001/42/CE du Parlement européen et du Conseil, du 27 juin 2001, relative à l'évaluation des incidences de certains
-plans et programmes sur l'environnement. 
+plans et programmes sur l'environnement.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
 
 **Nota:**
 
-
+<font color="black">Conformément à l’article 7 de l’ordonnance n° 2019-1170 du 13 novembre 2019, les présentes dispositions
+entrent en vigueur le 1er mars 2020. Toutefois, elle ne s'applique pas aux procédures d'élaboration ou de révision de schémas
+d'aménagement régional en cours au 1er mars 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -22289,8 +22322,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
-  - Ordonnance n°2016-1028 du 27 juillet 2016 - art. 32
+  - Ordonnance n°2019-1170 du 13 novembre 2019 - art. 6
 
 _Cite_:
 
@@ -22330,7 +22362,7 @@ L. 143-44 à L. 143-50 et L. 153-54 à L. 153-59 sont respectivement applicables
 article.
 
 Lorsque la mise en compatibilité concerne le plan d'aménagement et de développement durable de Corse ou un schéma
-d'aménagement régional, les dispositions des articles L. 4424-15-1 et L. 4433-10-1 du code général des collectivités
+d'aménagement régional, les dispositions des articles L. 4424-15-1 et L. 4433-10-6 du code général des collectivités
 territoriales sont respectivement applicables sous réserve des dispositions du présent article.
 
 Pour la mise en œuvre des dispositions mentionnées aux deux alinéas précédents, l'opération d'aménagement ou la construction
@@ -22390,7 +22422,7 @@ la sécurité des personnes et des biens ; il ne peut aggraver les risques consi
 
 Les adaptations proposées sont présentées par l'Etat dans le cadre des procédures prévues, selon le cas, aux articles L.
 123-22, L. 123-23, L. 143-44 à L. 143-50 et L. 153-54 à L. 153-59 du présent code ou aux articles L. 4424-15-1 ou L.
-4433-10-1 du code général des collectivités territoriales auxquelles les autorités ou services compétents pour élaborer les
+4433-10-6 du code général des collectivités territoriales auxquelles les autorités ou services compétents pour élaborer les
 documents mentionnés au IV du présent article ainsi que le comité régional " trame verte et bleue " lorsque l'adaptation
 porte sur le schéma régional de cohérence écologique participent.
 
@@ -22424,6 +22456,12 @@ autorités compétentes pour délivrer ces autorisations.
 Un décret en Conseil d'Etat précise dans ce cas les pièces nécessaires aux autorités compétentes et les délais dont elles
 disposent pour se prononcer sur le projet.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 7 de l’ordonnance n° 2019-1170 du 13 novembre 2019, les présentes dispositions
+entrent en vigueur le 1er mars 2020. Toutefois, elle ne s'applique pas aux procédures d'élaboration ou de révision de schémas
+d'aménagement régional en cours au 1er mars 2020.</font>
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -22439,7 +22477,7 @@ _Cité par_:
   - Code de l'environnement - art. L562-4-1 (VD)
   - Code de l'urbanisme - art. L122-16-1 (VT)
   - Code de l'urbanisme - art. L123-14-2 (VT)
-  - Code de l'urbanisme - art. L123-23 (V)
+  - Code de l'urbanisme - art. L123-23 (VD)
   - Code de l'urbanisme - art. L141-1-2 (VT)
   - Code de l'urbanisme - art. L143-46 (VD)
   - Code de l'urbanisme - art. L143-47 (VD)
@@ -22477,18 +22515,18 @@ _Cité par_:
   - Code des transports - art. L1214-24 (VD)
   - Code du patrimoine. - art. L642-8 (VD)
   - Code général des collectivités territoriales - art. L4424-15-1 (V)
+  - Code général des collectivités territoriales - art. L4433-10-1 (VD)
   - Code général des collectivités territoriales - art. R4424-7-1 (V)
   - Code général des collectivités territoriales - art. R4433-16-1 (V)
 
 _Modifié par_:
 
-  - Loi n°2018-1021 du 23 novembre 2018 - art. 4
+  - Ordonnance n°2019-1170 du 13 novembre 2019 - art. 6
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L4433-10-1
   - Code général des collectivités territoriales - art. L5210-1-1
-  - Code de l'urbanisme - art. L101-2 (V)
+  - Code de l'urbanisme - art. L101-2
   - Code de l'urbanisme - art. L123-22
   - Code de l'urbanisme - art. L143-44
   - Code de l'environnement - art. L123-6
@@ -31096,30 +31134,36 @@ _Cite_:
 
 Le contrat mentionné au présent titre peut valoir déclaration de projet des actions ou des opérations d'aménagement et des
 projets d'infrastructures mentionnés au 4° de l'article L. 350-3 pour l'application de l'article L. 300-6. Le contrat précise
-les actions, les opérations et les projets pour lesquels il vaut déclaration de l'intérêt général. 
+les actions, les opérations et les projets pour lesquels il vaut déclaration de l'intérêt général.
 
 Ces actions ou ces opérations d'aménagement ou ces projets d'infrastructures sont compatibles, s'il y a lieu, avec le schéma
-directeur de la région d'Ile-de-France, les schémas d'aménagement régional des régions d'outre-mer ou le plan d'aménagement
-et de développement durable de Corse. 
+directeur de la région d'Ile-de-France, les schémas d'aménagement régional des collectivités de l'article 73 de la
+Constitution ou le plan d'aménagement et de développement durable de Corse.
 
 Si ces actions, ces opérations d'aménagement ou ces projets d'infrastructure ne sont pas compatibles avec les schémas de
 cohérence territoriale, les schémas de secteurs et les plans locaux d'urbanisme, l'autorité administrative engage les
 procédures de mise en compatibilité prévues aux articles L. 143-44 et L. 153-54. L'enquête publique mentionnée à l'article L.
 350-2 est organisée dans les conditions prévues à ces mêmes articles.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 7 de l’ordonnance n° 2019-1170 du 13 novembre 2019, les présentes dispositions
+entrent en vigueur le 1er mars 2020. Toutefois, elle ne s'applique pas aux procédures d'élaboration ou de révision de schémas
+d'aménagement régional en cours au 1er mars 2020.</font>
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 5
+  - Ordonnance n°2019-1170 du 13 novembre 2019 - art. 6
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L143-44 (VD)
-  - Code de l'urbanisme - art. L153-54 (VD)
+  - Code de l'urbanisme - art. L143-44
+  - Code de l'urbanisme - art. L153-54
   - Code de l'urbanisme - art. L300-6 (VD)
-  - Code de l'urbanisme - art. L350-2 (V)
-  - Code de l'urbanisme - art. L350-3 (V)
+  - Code de l'urbanisme - art. L350-2
+  - Code de l'urbanisme - art. L350-3
 
 
 ###### Article L350-6

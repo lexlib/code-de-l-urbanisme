@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2020-06-01
+Version Consolidée au 2020-07-05
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -39120,27 +39120,20 @@ d'aménagement des plages ;
 plan d'aménagement et de développement durable de la Corse, les schémas de cohérence territoriale, les plans locaux
 d'urbanisme et les cartes communales. 
 
-La formation d'autorité environnementale peut, de sa propre initiative et par décision motivée au regard de la complexité et
-des enjeux environnementaux du dossier, exercer les compétences dévolues à la mission régionale d'autorité environnementale.
-Dans ce cas, la mission régionale d'autorité environnementale transmet sans délai le dossier à la formation d'autorité
-environnementale. Les délais prévus aux articles R. 104-25 et R. 104-31 courent à compter de la date de saisine de la mission
-régionale d'autorité environnementale.
+Le ministre chargé de l'environnement peut, par décision motivée au regard de la complexité et des enjeux environnementaux du
+dossier, confier à la formation d'autorité environnementale du Conseil général de l'environnement et du développement durable
+la charge de se prononcer en lieu et place de la mission régionale d'autorité environnementale territorialement compétente. 
+
+Dans ce cas, la mission régionale d'autorité environnementale transmet, sans délai, le dossier à la formation d'autorité
+environnementale du Conseil général de l'environnement et du développement durable. Les délais prévus aux articles R. 104-25
+et R. 104-32 courent à compter de la date de réception du dossier par la formation d'autorité environnementale du Conseil
+général de l'environnement et du développement durable. Celle-ci notifie à la personne publique responsable ce nouveau délai.
 
 **Nota:**
 
-Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
-dispositions de la présente ordonnance s'appliquent : 
-
-- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
-1er janvier 2017 ; 
-
-- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
-est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
-dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
-la publication de la présente ordonnance ; 
-
-- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
-disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
+Conformément à l'article 21 du décret n° 2020-844 du 3 juillet 2020, ces dispositions s'appliquent aux demandes d'avis ou
+d'examen au cas par cas et aux demandes déposées en application de l'article L. 512-7 du code de l'environnement qui sont
+enregistrées à compter du 5 juillet 2020.
 
 **Liens relatifs à cet article**
 
@@ -39156,11 +39149,11 @@ _Cité par_:
   - Décret n°2020-844 du 3 juillet 2020 - art. 16
   - Code de l'urbanisme - art. R104-19 (V)
   - Code de l'urbanisme - art. R104-22 (V)
-  - Code de l'urbanisme - art. R104-28 (V)
+  - Code de l'urbanisme - art. R104-28 (M)
 
 _Modifié par_:
 
-  - Décret n°2016-1110 du 11 août 2016 - art. 4
+  - Décret n°2020-844 du 3 juillet 2020 - art. 13
 
 _Anciens textes_:
 
@@ -39169,7 +39162,7 @@ _Anciens textes_:
 _Cite_:
 
   - Code de l'urbanisme - art. R104-25
-  - Code de l'urbanisme - art. R104-31
+  - Code de l'urbanisme - art. R104-32
 
 
 ###### Article R104-22
@@ -54265,10 +54258,16 @@ b) Un plan de situation ;
 c) Un plan de délimitation du ou des périmètres composant la zone ; 
 
 d) L'étude d'impact définie à l'article R. 122-5 du code de l'environnement lorsque celle-ci est requise en application des
-articles R. 122-2 et R. 122-3 du même code. 
+articles R. 122-2 et R. 122-3-1 du même code. 
 
 Le dossier précise également si la part communale ou intercommunale de la taxe d'aménagement sera ou non exigible dans la
 zone.
+
+**Nota:**
+
+Conformément à l'article 21 du décret n° 2020-844 du 3 juillet 2020, ces dispositions s'appliquent aux demandes d'avis ou
+d'examen au cas par cas et aux demandes déposées en application de l'article L. 512-7 du code de l'environnement qui sont
+enregistrées à compter du 5 juillet 2020.
 
 **Liens relatifs à cet article**
 
@@ -54278,12 +54277,13 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2016-1613 du 25 novembre 2016 - art. 2
+  - Décret n°2020-844 du 3 juillet 2020 - art. 19
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L103-6 (V)
+  - Code de l'urbanisme - art. L103-6
   - Code de l'environnement - art. R122-2
+  - Code de l'environnement - art. R122-3-1
   - Code de l'environnement - art. R122-5
 
 _Cité par_:
@@ -65885,6 +65885,30 @@ _Cite_:
   - Code de l'environnement - art. R414-25 (V)
 
 
+###### Article R423-69-3
+
+Par exception aux dispositions de l'article R. 423-59, le délai à l'issue duquel les collectivités territoriales et leurs
+groupements, consultés au titre du V de l'article L. 122-1 du code de l'environnement, sont réputées ne pas avoir
+d'observations est de deux mois.
+
+**Nota:**
+
+Conformément à l'article 21 du décret n° 2020-844 du 3 juillet 2020, ces dispositions s'appliquent aux demandes d'avis ou
+d'examen au cas par cas et aux demandes déposées en application de l'article L. 512-7 du code de l'environnement qui sont
+enregistrées à compter du 5 juillet 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-844 du 3 juillet 2020 - art. 14
+
+_Cite_:
+
+  - Code de l'urbanisme - art. R*423-59
+  - Code de l'environnement - art. L122-1
+
+
 ###### Article R423-70-1
 
 Par exception aux dispositions de l'article R. * 423-59, lorsque la demande de permis de construire ou la déclaration
@@ -68888,72 +68912,73 @@ _Cite_:
 
 ###### Article R431-16
 
-Le dossier joint à la demande de permis de construire comprend en outre, selon les cas : 
+Le dossier joint à la demande de permis de construire comprend en outre, selon les cas :
 
-a) L'étude d'impact ou la décision de l'autorité environnementale dispensant le projet d'évaluation environnementale lorsque
-le projet relève du tableau annexé à l'article R. 122-2 du code de l'environnement. L'autorité compétente pour délivrer
-l'autorisation d'urbanisme vérifie que le projet qui lui est soumis est conforme aux mesures et caractéristiques qui ont
-justifié la décision de l'autorité environnementale de ne pas le soumettre à évaluation environnementale ; 
+a) L'étude d'impact ou la décision de l'autorité chargée de l'examen au cas par cas dispensant le projet d'évaluation
+environnementale lorsque le projet relève du tableau annexé à l'article R. 122-2 du code de l'environnement. L'autorité
+compétente pour délivrer l'autorisation d'urbanisme vérifie que le projet qui lui est soumis est conforme aux mesures et
+caractéristiques qui ont justifié la décision de l'autorité chargée de l'examen au cas par cas de ne pas le soumettre à
+évaluation environnementale ;
 
 b) L'étude d'impact actualisée lorsque le projet relève du III de l'article L. 122-1-1 du code de l'environnement ainsi que
 les avis de l'autorité environnementale compétente et des collectivités territoriales et leurs groupements intéressés par le
-projet rendus sur l'étude d'impact actualisée ; 
+projet rendus sur l'étude d'impact actualisée ;
 
 c) Le dossier d'évaluation des incidences du projet sur un site Natura 2000 prévu à l'article R. 414-23 du code de
 l'environnement, dans le cas où le projet doit faire l'objet d'une telle évaluation en application de l'article L. 414-4 de
 ce code. Toutefois, lorsque le dossier de demande comporte une étude d'impact, cette étude tient lieu de dossier d'évaluation
 des incidences Natura 2000 si elle satisfait aux prescriptions de l'article R. 414-23 du code de l'environnement,
-conformément aux dispositions prévues à l'article R. 414-22 de ce code ; 
+conformément aux dispositions prévues à l'article R. 414-22 de ce code ;
 
 d) Le document attestant de la conformité du projet d'installation d'assainissement non collectif au regard des prescriptions
 réglementaires, prévu au 1° du III de l'article L. 2224-8 du code général des collectivités territoriales, dans le cas où le
-projet est accompagné de la réalisation ou de la réhabilitation d'une telle installation ; 
+projet est accompagné de la réalisation ou de la réhabilitation d'une telle installation ;
 
 e) Dans les cas prévus par les 4° et 5° de l'article R. 111-38 du code de la construction et de l'habitation, un document
 établi par un contrôleur technique mentionné à l'article L. 111-23 de ce code, attestant qu'il a fait connaître au maître
 d'ouvrage son avis sur la prise en compte, au stade de la conception, des règles parasismiques et paracycloniques prévues par
-l'article L. 563-1 du code de l'environnement ; 
+l'article L. 563-1 du code de l'environnement ;
 
 f) Lorsque la construction projetée est subordonnée par un plan de prévention des risques naturels prévisibles ou un plan de
 prévention des risques miniers approuvés, ou rendus immédiatement opposables en application de l'article L. 562-2 du code de
 l'environnement, ou par un plan de prévention des risques technologiques approuvé, à la réalisation d'une étude préalable
 permettant d'en déterminer les conditions de réalisation, d'utilisation ou d'exploitation, une attestation établie par
 l'architecte du projet ou par un expert certifiant la réalisation de cette étude et constatant que le projet prend en compte
-ces conditions au stade de la conception ; 
+ces conditions au stade de la conception ;
 
-g) L'agrément prévu à l'article L. 510-1, lorsqu'il est exigé ; 
+g) L'agrément prévu à l'article L. 510-1, lorsqu'il est exigé ;
 
 h) Une notice précisant l'activité économique qui doit être exercée dans le bâtiment et justifiant, s'il y a lieu, que cette
 activité répond aux critères définis par l'article R. 121-5, lorsque la demande concerne un projet de construction visé au 4°
-de cet article et situé dans un espace remarquable ou dans un milieu à préserver d'une commune littorale ; 
+de cet article et situé dans un espace remarquable ou dans un milieu à préserver d'une commune littorale ;
 
-i) L'étude de sécurité publique, lorsqu'elle est exigée en application des articles R. 114-1 et R. 114-2 ; 
+i) L'étude de sécurité publique, lorsqu'elle est exigée en application des articles R. 114-1 et R. 114-2 ;
 
 j) Lorsque le projet est tenu de respecter les dispositions mentionnées à l'article R. 111-20 du code de la construction et
 de l'habitation, un document établi par le maître d'ouvrage attestant la prise en compte de la réglementation thermique, en
 application de l'article R. 111-20-1 de ce code, et pour les projets concernés par le cinquième alinéa de l'article L. 111-9
 du même code, la réalisation de l'étude de faisabilité relative aux approvisionnements en énergie, en application de
-l'article R. 111-20-2 dudit code ; 
+l'article R. 111-20-2 dudit code ;
 
 k) Dans le cas d'un projet de construction ou extension d'un établissement recevant du public de plus de 100 personnes ou
 d'un immeuble de grande hauteur à proximité d'une canalisation de transport, dans la zone de dangers définie au premier tiret
 du b de l'article R. 555-30 du code de l'environnement, l'analyse de compatibilité du projet avec la canalisation du point de
-vue de la sécurité des personnes prévue à l'article R. 555-31 du même code ; 
+vue de la sécurité des personnes prévue à l'article R. 555-31 du même code ;
 
 l) Le récépissé de transmission du dossier à la commission départementale de la sécurité des transports de fonds, lors de la
-construction d'un bâtiment comportant un lieu sécurisé défini à l'article R. 613-28 du code de la sécurité intérieure ; 
+construction d'un bâtiment comportant un lieu sécurisé défini à l'article R. 613-28 du code de la sécurité intérieure ;
 
 m) Le bilan de la concertation réalisée en application de l'article L. 300-2 et le document établi en application de
-l'article R. 300-1 par le maître d'ouvrage pour expliquer les conséquences qu'il a tirées de ce bilan. 
+l'article R. 300-1 par le maître d'ouvrage pour expliquer les conséquences qu'il a tirées de ce bilan.
 
 n) Dans le cas prévu par l'article L. 556-1 du code de l'environnement, un document établi par un bureau d'études certifié
 dans le domaine des sites et sols pollués, ou équivalent, attestant que les mesures de gestion de la pollution au regard du
-nouvel usage du terrain projeté ont été prises en compte dans la conception du projet ; 
+nouvel usage du terrain projeté ont été prises en compte dans la conception du projet ;
 
 o) Lorsque le projet est situé dans un secteur d'information sur les sols et dans les cas et conditions prévus par l'article
 L. 556-2 du code de l'environnement, une attestation établie par un bureau d'études certifié dans le domaine des sites et
 sols pollués, ou équivalent, garantissant la réalisation d'une étude de sols et sa prise en compte dans la conception du
-projet de construction. 
+projet de construction.
 
 p) Lorsque le projet a fait l'objet d'une demande de dérogation, à titre expérimental, aux règles de la construction, prévue
 au I de l'article 88 de la loi n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au
@@ -68962,10 +68987,9 @@ expérimentation en matière de construction.
 
 **Nota:**
 
-Conformément aux dispositions de l'article 10 du décret n° 2017-1044 du 10 mai 2017, les dispositions dudit décret sont
-applicables aux projets de constructions pour lesquels il est statué sur la demande d'autorisation d'urbanisme, à compter de
-sa date d'entrée en vigueur et jusqu'au terme de la durée de sept ans mentionnée au I de l'article 88 de la loi n° 2016-925
-du 7 juillet 2016.
+Conformément à l'article 21 du décret n° 2020-844 du 3 juillet 2020, ces dispositions s'appliquent aux demandes d'avis ou
+d'examen au cas par cas et aux demandes déposées en application de l'article L. 512-7 du code de l'environnement qui sont
+enregistrées à compter du 5 juillet 2020.
 
 **Liens relatifs à cet article**
 
@@ -69000,7 +69024,7 @@ _Cite_:
   - Code de l'environnement - art. L562-2
   - Code de l'environnement - art. L563-1
   - Code de l'environnement - art. R122-2
-  - Code de l'environnement - art. R414-22
+  - Code de l'environnement - art. R414-22 (V)
   - Code de l'environnement - art. R414-23
   - Code de l'environnement - art. R555-30
   - Code de l'environnement - art. R555-31
@@ -69008,7 +69032,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-1044 du 10 mai 2017 - art. 6
+  - Décret n°2020-844 du 3 juillet 2020 - art. 15
 
 
 ###### Article R431-16-2
@@ -69662,12 +69686,13 @@ _Cite_:
 
 ###### Article R441-5
 
-Le dossier joint à la demande de permis d'aménager comprend en outre, selon les cas : 
+Le dossier joint à la demande de permis d'aménager comprend en outre, selon les cas :
 
-1° L'étude d'impact ou la décision de l'autorité environnementale dispensant le projet d'évaluation environnementale lorsque
-le projet relève du tableau annexé à l'article R. 122-2 du code de l'environnement. L'autorité compétente pour délivrer
-l'autorisation d'urbanisme vérifie que le projet qui lui est soumis est conforme aux mesures et caractéristiques qui ont
-justifié la décision de l'autorité environnementale de ne pas le soumettre à évaluation environnementale ; 
+1° L'étude d'impact ou la décision de l'autorité chargée de l'examen au cas par cas dispensant le projet d'évaluation
+environnementale lorsque le projet relève du tableau annexé à l'article R. 122-2 du code de l'environnement. L'autorité
+compétente pour délivrer l'autorisation d'urbanisme vérifie que le projet qui lui est soumis est conforme aux mesures et
+caractéristiques qui ont justifié la décision de l'autorité chargée de l'examen au cas par cas de ne pas le soumettre à
+évaluation environnementale ;
 
 2° L'étude d'impact actualisée lorsque le projet relève du III de l'article L. 122-1-1 du code de l'environnement ainsi que
 les avis de l'autorité environnementale compétente et des collectivités territoriales et leurs groupements intéressés par le
@@ -69675,25 +69700,15 @@ projet rendus sur l'étude d'impact actualisée.
 
 **Nota:**
 
-Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que  Les
-dispositions de la présente ordonnance s'appliquent : 
-
-- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
-1er janvier 2017 ; 
-
-- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
-est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
-dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
-la publication de la présente ordonnance ; 
-
-- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
-disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance.
+Conformément à l'article 21 du décret n° 2020-844 du 3 juillet 2020, ces dispositions s'appliquent aux demandes d'avis ou
+d'examen au cas par cas et aux demandes déposées en application de l'article L. 512-7 du code de l'environnement qui sont
+enregistrées à compter du 5 juillet 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-1110 du 11 août 2016 - art. 9
+  - Décret n°2020-844 du 3 juillet 2020 - art. 15
 
 _Nouveaux textes_:
 
@@ -69701,8 +69716,8 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code de l'environnement - art. L122-1-1 (V)
-  - Code de l'environnement - art. R122-2 (V)
+  - Code de l'environnement - art. L122-1-1
+  - Code de l'environnement - art. R122-2
 
 _Codifié par_:
 
@@ -70688,12 +70703,13 @@ _Codifié par_:
 
 ###### Article R443-5
 
-Le dossier de demande comporte également, selon les cas : 
+Le dossier de demande comporte également, selon les cas :
 
-1° L'étude d'impact ou la décision de l'autorité environnementale dispensant le projet d'évaluation environnementale lorsque
-le projet relève du tableau annexé à l'article R. 122-2 du code de l'environnement. L'autorité compétente pour délivrer
-l'autorisation d'urbanisme vérifie que le projet qui lui est soumis est conforme aux mesures et caractéristiques qui ont
-justifié la décision de l'autorité environnementale de ne pas le soumettre à évaluation environnementale ; 
+1° L'étude d'impact ou la décision de l'autorité chargée de l'examen au cas par cas dispensant le projet d'évaluation
+environnementale lorsque le projet relève du tableau annexé à l'article R. 122-2 du code de l'environnement. L'autorité
+compétente pour délivrer l'autorisation d'urbanisme vérifie que le projet qui lui est soumis est conforme aux mesures et
+caractéristiques qui ont justifié la décision de l'autorité chargée de l'examen au cas par cas de ne pas le soumettre à
+évaluation environnementale ;
 
 2° L'étude d'impact actualisée lorsque le projet relève du III de l'article L. 122-1-1 du code de l'environnement ainsi que
 les avis de l'autorité environnementale compétente et des collectivités territoriales et de leurs groupements intéressés,
@@ -70701,25 +70717,15 @@ rendus sur l'étude d'impact actualisée.
 
 **Nota:**
 
-Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
-dispositions de la présente ordonnance s'appliquent : 
-
-- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
-1er janvier 2017 ; 
-
-- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
-est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
-dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
-la publication de la présente ordonnance ; 
-
-- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
-disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
+Conformément à l'article 21 du décret n° 2020-844 du 3 juillet 2020, ces dispositions s'appliquent aux demandes d'avis ou
+d'examen au cas par cas et aux demandes déposées en application de l'article L. 512-7 du code de l'environnement qui sont
+enregistrées à compter du 5 juillet 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-1110 du 11 août 2016 - art. 9
+  - Décret n°2020-844 du 3 juillet 2020 - art. 15
 
 _Anciens textes_:
 
@@ -70728,7 +70734,7 @@ _Anciens textes_:
 _Cite_:
 
   - Code de l'environnement - art. L122-1-1
-  - Code de l'environnement - art. R122-2 (V)
+  - Code de l'environnement - art. R122-2
 
 _Codifié par_:
 
@@ -71895,27 +71901,34 @@ programme des essais à effectuer en vue de corroborer les hypothèses retenues 
 face ; 
 
 10° L'étude d'impact définie à l'article R. 122-5 du code de l'environnement, lorsque celle-ci est requise en application des
-articles R. 122-2 et R. 122-3 du même code.
+articles R. 122-2 et R. 122-3-1 du même code.
+
+**Nota:**
+
+Conformément à l'article 21 du décret n° 2020-844 du 3 juillet 2020, ces dispositions s'appliquent aux demandes d'avis ou
+d'examen au cas par cas et aux demandes déposées en application de l'article L. 512-7 du code de l'environnement qui sont
+enregistrées à compter du 5 juillet 2020.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°73-1023 1973-11-08
-
 _Cite_:
 
-  - Décret n°2017-440 du 30 mars 2017 - art. 4 (V)
+  - Décret n°2017-440 du 30 mars 2017 - art. 4
   - Code de l'environnement - art. R122-2
+  - Code de l'environnement - art. R122-3-1
   - Code de l'environnement - art. R122-5
 
 _Modifié par_:
 
-  - Décret n°2017-440 du 30 mars 2017 - art. 101
+  - Décret n°2020-844 du 3 juillet 2020 - art. 19
 
 _Cité par_:
 
   - Décret n°2020-844 du 3 juillet 2020 - art. 19
+
+_Codifié par_:
+
+  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R472-4
@@ -72403,27 +72416,33 @@ _Codifié par_:
 
 La demande comporte un plan de situation du projet dans le domaine skiable, la délimitation sur le plan cadastral des travaux
 faisant l'objet de la demande et les références cadastrales des parcelles concernées. Elle indique l'identité des
-propriétaires apparents.
+propriétaires apparents. 
 
 Elle comprend une note descriptive des travaux envisagés indiquant leur nature, les aménagements complémentaires de remise en
-état ou de réhabilitation et leurs délais de réalisation. Cette note est accompagnée d'un plan d'exécution coté.
+état ou de réhabilitation et leurs délais de réalisation. Cette note est accompagnée d'un plan d'exécution coté. 
 
 Elle comporte l'étude d'impact définie à l'article R. 122-5 du code de l'environnement, lorsque celle-ci est requise en
-application des articles R. 122-2 et R. 122-3 du même code, qui précise les mesures de remise en état ou de réhabilitation
-mentionnées à l'alinéa précédent.
+application des articles R. 122-2 et R. 122-3-1 du même code, qui précise les mesures de remise en état ou de réhabilitation
+mentionnées à l'alinéa précédent. 
 
 Lorsque le projet nécessite la coupe ou l'abattage d'arbres soumis à déclaration préalable en application de l'article L.
 421-4 du présent code ou à l'autorisation de défricher en application des articles L. 311-1 ou L. 312-1 du code forestier,
 une attestation selon laquelle la déclaration préalable ou, le cas échéant, une copie de la lettre par laquelle le préfet
 fait connaître au demandeur que le dossier de demande d'autorisation de défrichement est complet sont jointes à la demande.
 
+**Nota:**
+
+Conformément à l'article 21 du décret n° 2020-844 du 3 juillet 2020, ces dispositions s'appliquent aux demandes d'avis ou
+d'examen au cas par cas et aux demandes déposées en application de l'article L. 512-7 du code de l'environnement qui sont
+enregistrées à compter du 5 juillet 2020.
+
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2016-1613 du 25 novembre 2016 - art. 3
-
 _Cité par_:
+
+  - Décret n°2020-844 du 3 juillet 2020 - art. 19
+
+_Modifié par_:
 
   - Décret n°2020-844 du 3 juillet 2020 - art. 19
 
@@ -72432,6 +72451,7 @@ _Cite_:
   - Code forestier - art. L311-1
   - Code de l'urbanisme - art. L421-4
   - Code de l'environnement - art. R122-2
+  - Code de l'environnement - art. R122-3-1
   - Code de l'environnement - art. R122-5
 
 _Codifié par_:

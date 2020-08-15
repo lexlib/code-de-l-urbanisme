@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2020-07-05
+Version Consolidée au 2020-08-16
 ## Contenu: 
   - [Partie législative (art. L101-1 à L610-4)](#1)
     - [Livre Ier : Réglementation de l'urbanisme (art. L101-1 à L175-1)](#2)
@@ -38409,16 +38409,16 @@ _Anciens textes_:
 
 ###### Article R104-5
 
-Les schémas d'aménagement régionaux des régions d'outre-mer, prévus à l'article L. 4433-7 du code général des collectivités
-territoriales, et le plan d'aménagement et de développement durable de Corse, prévu à l'article L. 4424-9 du même code, font
-l'objet d'une évaluation environnementale à l'occasion : 
+Le schéma d'aménagement régional prévu à l'article L. 4433-7 du code général des collectivités territoriales, et le plan
+d'aménagement et de développement durable de Corse, prévu à l'article L. 4424-9 du même code, font l'objet d'une évaluation
+environnementale à l'occasion :
 
-1° De leur élaboration ; 
+1° De leur élaboration ;
 
-2° De leur révision ; 
+2° De leur révision ;
 
 3° De leur modification lorsque celle-ci permet la réalisation de travaux, aménagements, ouvrages ou installations
-susceptibles d'affecter de manière significative un site Natura 2000 ; 
+susceptibles d'affecter de manière significative un site Natura 2000 ;
 
 4° De leur mise en compatibilité, dans le cadre d'une procédure intégrée en application de l'article L. 300-6-1, si l'étude
 d'impact du projet n'a pas inclus l'analyse de l'incidence de ces dispositions sur l'environnement.
@@ -38438,19 +38438,15 @@ _Codifié par_:
 
   - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-_Annulé par_:
-
-  - Décision n°400420 du 19 juillet 2017 - art., v. init.
+  - Décret n°2020-1060 du 14 août 2020 - art. 4
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L4424-9 (V)
-  - Code général des collectivités territoriales - art. L4433-7 (M)
-  - Code de l'urbanisme - art. L300-6-1 (V)
+  - Code général des collectivités territoriales - art. L4424-9
+  - Code général des collectivités territoriales - art. L4433-7
+  - Code de l'urbanisme - art. L300-6-1
 
 _Anciens textes_:
 
@@ -60911,11 +60907,10 @@ les modalités d'instruction des demandes d'aide. Il se réunit au moins une foi
 d'intervention définies contractuellement entre les contributeurs, le comité de gestion et d'engagement :
 
 - détermine les orientations générales du fonds. Il s'appuie pour ce faire, d'une part, sur les objectifs des schémas
-d'aménagement régionaux prévus aux articles L. 4433-7 et suivants du code général des collectivités territoriales, des
-contrats établis par le décret n° 83-32 du 21 janvier 1983 relatif aux contrats de plan entre l'Etat et les collectivités
-territoriales ou des personnes morales autres que les entreprises publiques et privées et des contrats établis dans le cadre
-de la programmation des aides européennes et, d'autre part, sur les programmes départementaux et locaux de l'habitat
-lorsqu'ils existent ;
+d'aménagement régional prévus à l'article L. 4433-7 du code général des collectivités territoriales, des contrats établis par
+le décret n° 83-32 du 21 janvier 1983 relatif aux contrats de plan entre l'Etat et les collectivités territoriales ou des
+personnes morales autres que les entreprises publiques et privées et des contrats établis dans le cadre de la programmation
+des aides européennes et, d'autre part, sur les programmes départementaux et locaux de l'habitat lorsqu'ils existent ;
 
 - arrête une programmation financière et physique prévisionnelle pour trois ans des projets éligibles aux aides accordées par
 le fonds régional d'aménagement foncier et urbain ;
@@ -60943,13 +60938,14 @@ d'intervention du fonds.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2016-1071 du 3 août 2016 - art. 4
-
 _Cite_:
 
+  - Décret n°83-32 du 21 janvier 1983
   - Code général des collectivités territoriales - art. L4433-7
+
+_Modifié par_:
+
+  - Décret n°2020-1060 du 14 août 2020 - art. 4
 
 _Cité par_:
 
